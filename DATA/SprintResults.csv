@@ -1,0 +1,76 @@
+﻿resultId,D_number,Driver_code,Driver_name,Constructor_name,GP_year,GrandPrix_name,Circuit_name,statusId,D_number,Grid_Pos,Finish_Pos,points,laps,fastestLap,fastestLapTime,fastestLapTime_Milli
+1,33,VER,Max Verstappen,Red Bull,2009,British Grand Prix,Silverstone Circuit,Finished,1,2,1,3,17,14,01:30.013,90013
+2,44,HAM,Lewis Hamilton,Mercedes,2009,British Grand Prix,Silverstone Circuit,Finished,44,1,2,2,17,17,01:29.937,89937
+3,77,BOT,Valtteri Bottas,Mercedes,2009,British Grand Prix,Silverstone Circuit,Finished,77,3,3,1,17,17,01:29.958,89958
+4,16,LEC,Charles Leclerc,Ferrari,2009,British Grand Prix,Silverstone Circuit,Finished,16,4,4,0,17,16,01:30.163,90163
+5,4,NOR,Lando Norris,McLaren,2009,British Grand Prix,Silverstone Circuit,Finished,4,6,5,0,17,16,01:30.566,90566
+6,14,ALO,Fernando Alonso,Alpine F1 Team,2009,British Grand Prix,Silverstone Circuit,Finished,14,11,7,0,17,17,01:31.773,91773
+7,63,RUS,George Russell,Williams,2009,British Grand Prix,Silverstone Circuit,Finished,63,8,9,0,17,17,01:32.208,92208
+8,31,OCO,Esteban Ocon,Alpine F1 Team,2009,British Grand Prix,Silverstone Circuit,Finished,31,13,10,0,17,16,01:32.183,92183
+9,55,SAI,Carlos Sainz,Ferrari,2009,British Grand Prix,Silverstone Circuit,Finished,55,9,11,0,17,10,01:31.991,91991
+10,18,STR,Lance Stroll,Aston Martin,2009,British Grand Prix,Silverstone Circuit,Finished,18,15,14,0,17,12,01:32.210,92210
+11,22,TSU,Yuki Tsunoda,AlphaTauri,2009,British Grand Prix,Silverstone Circuit,Finished,22,16,16,0,17,14,01:32.270,92270
+12,77,BOT,Valtteri Bottas,Mercedes,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,77,1,1,3,18,9,01:23.540,83540
+13,33,VER,Max Verstappen,Red Bull,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,3,2,2,18,9,01:23.502,83502
+14,4,NOR,Lando Norris,McLaren,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,4,4,4,0,18,9,01:24.554,84554
+15,44,HAM,Lewis Hamilton,Mercedes,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,44,2,5,0,18,9,01:24.253,84253
+16,16,LEC,Charles Leclerc,Ferrari,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,16,8,6,0,18,18,01:24.677,84677
+17,55,SAI,Carlos Sainz,Ferrari,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,55,7,7,0,18,8,01:24.918,84918
+18,11,PER,Sergio Pérez,Red Bull,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,11,9,9,0,18,12,01:24.211,84211
+19,18,STR,Lance Stroll,Aston Martin,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,18,12,10,0,18,8,01:25.349,85349
+20,14,ALO,Fernando Alonso,Alpine F1 Team,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,14,13,11,0,18,8,01:25.225,85225
+21,31,OCO,Esteban Ocon,Alpine F1 Team,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,31,14,13,0,18,8,01:25.613,85613
+22,63,RUS,George Russell,Williams,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,63,15,15,0,18,15,01:25.835,85835
+23,22,TSU,Yuki Tsunoda,AlphaTauri,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,22,17,16,0,18,18,01:25.847,85847
+24,77,BOT,Valtteri Bottas,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,77,2,1,3,24,8,01:12.300,72300
+25,33,VER,Max Verstappen,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,1,2,2,24,9,01:12.114,72114
+26,55,SAI,Carlos Sainz,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,55,5,3,1,24,13,01:13.167,73167
+27,11,PER,Sergio Pérez,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,11,3,4,0,24,13,01:13.110,73110
+28,44,HAM,Lewis Hamilton,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,44,20,5,0,24,5,01:12.357,72357
+29,4,NOR,Lando Norris,McLaren,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,7,6,0,24,8,01:12.994,72994
+30,16,LEC,Charles Leclerc,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,16,6,7,0,24,4,01:13.140,73140
+31,31,OCO,Esteban Ocon,Alpine F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,31,10,9,0,24,11,01:13.615,73615
+32,14,ALO,Fernando Alonso,Alpine F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,14,9,12,0,24,4,01:13.397,73397
+33,18,STR,Lance Stroll,Aston Martin,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,18,15,14,0,24,9,01:13.666,73666
+34,22,TSU,Yuki Tsunoda,AlphaTauri,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,22,12,15,0,24,11,01:13.747,73747
+35,63,RUS,George Russell,Williams,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,63,17,17,0,24,14,01:14.056,74056
+36,33,VER,Max Verstappen,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,1,1,1,8,21,14,01:19.154,79154
+37,16,LEC,Charles Leclerc,Ferrari,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,16,2,2,7,21,11,01:19.044,79044
+38,11,PER,Sergio Pérez,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,11,7,3,6,21,14,01:19.012,79012
+39,55,SAI,Carlos Sainz,Ferrari,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,55,10,4,5,21,14,01:19.251,79251
+40,4,NOR,Lando Norris,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,4,3,5,4,21,9,01:20.030,80030
+41,77,BOT,Valtteri Bottas,Alfa Romeo,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,77,8,7,2,21,9,01:20.219,80219
+42,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,20,4,8,1,21,6,01:20.557,80557
+43,14,ALO,Fernando Alonso,Alpine F1 Team,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,14,5,9,0,21,10,01:20.639,80639
+44,63,RUS,George Russell,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,63,11,11,0,21,19,01:20.756,80756
+45,22,TSU,Yuki Tsunoda,AlphaTauri,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,22,16,12,0,21,20,01:20.909,80909
+46,44,HAM,Lewis Hamilton,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,44,13,14,0,21,9,01:20.663,80663
+47,18,STR,Lance Stroll,Aston Martin,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,18,15,15,0,21,14,01:20.948,80948
+48,31,OCO,Esteban Ocon,Alpine F1 Team,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,31,19,16,0,21,14,01:20.995,80995
+49,23,ALB,Alexander Albon,Williams,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,23,20,18,0,21,14,01:21.020,81020
+50,33,VER,Max Verstappen,Red Bull,2003,Austrian Grand Prix,Red Bull Ring,Finished,1,1,1,8,23,5,01:08.455,68455
+51,16,LEC,Charles Leclerc,Ferrari,2003,Austrian Grand Prix,Red Bull Ring,Finished,16,2,2,7,23,4,01:08.321,68321
+52,55,SAI,Carlos Sainz,Ferrari,2003,Austrian Grand Prix,Red Bull Ring,Finished,55,3,3,6,23,4,01:08.409,68409
+53,63,RUS,George Russell,Mercedes,2003,Austrian Grand Prix,Red Bull Ring,Finished,63,4,4,5,23,4,01:08.979,68979
+54,11,PER,Sergio Pérez,Red Bull,2003,Austrian Grand Prix,Red Bull Ring,Finished,11,13,5,4,23,14,01:09.137,69137
+55,31,OCO,Esteban Ocon,Alpine F1 Team,2003,Austrian Grand Prix,Red Bull Ring,Finished,31,5,6,3,23,4,01:09.384,69384
+56,20,MAG,Kevin Magnussen,Haas F1 Team,2003,Austrian Grand Prix,Red Bull Ring,Finished,20,6,7,2,23,4,01:09.232,69232
+57,44,HAM,Lewis Hamilton,Mercedes,2003,Austrian Grand Prix,Red Bull Ring,Finished,44,9,8,1,23,7,01:09.516,69516
+58,77,BOT,Valtteri Bottas,Alfa Romeo,2003,Austrian Grand Prix,Red Bull Ring,Finished,77,12,10,0,23,4,01:09.674,69674
+59,4,NOR,Lando Norris,McLaren,2003,Austrian Grand Prix,Red Bull Ring,Finished,4,15,11,0,23,8,01:09.909,69909
+60,18,STR,Lance Stroll,Aston Martin,2003,Austrian Grand Prix,Red Bull Ring,Finished,18,17,13,0,23,4,01:10.295,70295
+61,23,ALB,Alexander Albon,Williams,2003,Austrian Grand Prix,Red Bull Ring,Finished,23,11,16,0,23,5,01:10.367,70367
+62,22,TSU,Yuki Tsunoda,AlphaTauri,2003,Austrian Grand Prix,Red Bull Ring,Finished,22,14,17,0,23,4,01:10.267,70267
+63,63,RUS,George Russell,Mercedes,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,63,3,1,8,24,4,01:14.233,74233
+64,55,SAI,Carlos Sainz,Ferrari,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,55,5,2,7,24,2,01:14.522,74522
+65,44,HAM,Lewis Hamilton,Mercedes,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,44,8,3,6,24,3,01:14.317,74317
+66,33,VER,Max Verstappen,Red Bull,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,2,4,5,24,5,01:14.507,74507
+67,11,PER,Sergio Pérez,Red Bull,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,11,9,5,4,24,5,01:14.699,74699
+68,16,LEC,Charles Leclerc,Ferrari,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,16,10,6,3,24,4,01:15.236,75236
+69,4,NOR,Lando Norris,McLaren,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,4,7,2,24,4,01:15.380,75380
+70,20,MAG,Kevin Magnussen,Haas F1 Team,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,20,1,8,1,24,2,01:15.110,75110
+71,77,BOT,Valtteri Bottas,Alfa Romeo,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,77,18,14,0,24,8,01:15.980,75980
+72,22,TSU,Yuki Tsunoda,AlphaTauri,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,22,19,15,0,24,4,01:16.413,76413
+73,18,STR,Lance Stroll,Aston Martin,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,18,15,16,0,24,4,01:15.425,75425
+74,31,OCO,Esteban Ocon,Alpine F1 Team,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,31,6,17,0,24,5,01:16.097,76097
+75,14,ALO,Fernando Alonso,Alpine F1 Team,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,14,7,18,0,24,5,01:14.764,74764

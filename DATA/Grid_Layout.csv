@@ -1,0 +1,154 @@
+﻿,GrandPrix_name,Driver_name,Grid_Position,Avg_time
+5,Abu Dhabi Grand Prix,Max Verstappen,1,84400
+6,Abu Dhabi Grand Prix,Sergio Pérez,2,84430
+1,Abu Dhabi Grand Prix,Charles Leclerc,3,84607
+0,Abu Dhabi Grand Prix,Carlos Sainz,4,84618
+4,Abu Dhabi Grand Prix,Lewis Hamilton,5,84959
+2,Abu Dhabi Grand Prix,George Russell,6,84999
+3,Abu Dhabi Grand Prix,Lando Norris,7,85020
+12,Australian Grand Prix,Max Verstappen,1,78448
+8,Australian Grand Prix,Charles Leclerc,2,78452
+13,Australian Grand Prix,Sergio Pérez,3,78471
+7,Australian Grand Prix,Carlos Sainz,4,78953
+10,Australian Grand Prix,Lando Norris,5,79016
+11,Australian Grand Prix,Lewis Hamilton,6,79111
+9,Australian Grand Prix,George Russell,7,79138
+15,Austrian Grand Prix,Charles Leclerc,1,65240
+19,Austrian Grand Prix,Max Verstappen,2,65403
+14,Austrian Grand Prix,Carlos Sainz,3,65434
+16,Austrian Grand Prix,George Russell,4,65788
+17,Austrian Grand Prix,Kevin Magnussen,5,66046
+18,Austrian Grand Prix,Lewis Hamilton,6,68235
+21,Azerbaijan Grand Prix,Charles Leclerc,1,102090
+25,Azerbaijan Grand Prix,Sergio Pérez,2,102110
+24,Azerbaijan Grand Prix,Max Verstappen,3,102218
+20,Azerbaijan Grand Prix,Carlos Sainz,4,102286
+22,Azerbaijan Grand Prix,George Russell,5,103249
+26,Azerbaijan Grand Prix,Yuki Tsunoda,6,103342
+23,Azerbaijan Grand Prix,Lewis Hamilton,7,103348
+28,Bahrain Grand Prix,Charles Leclerc,1,90987
+27,Bahrain Grand Prix,Carlos Sainz,2,91014
+32,Bahrain Grand Prix,Max Verstappen,3,91074
+33,Bahrain Grand Prix,Sergio Pérez,4,91413
+31,Bahrain Grand Prix,Lewis Hamilton,5,91524
+34,Bahrain Grand Prix,Valtteri Bottas,6,91732
+30,Bahrain Grand Prix,Kevin Magnussen,7,91741
+29,Bahrain Grand Prix,George Russell,8,91912
+41,Belgian Grand Prix,Max Verstappen,1,104323
+42,Belgian Grand Prix,Sergio Pérez,2,104878
+37,Belgian Grand Prix,Charles Leclerc,3,104892
+36,Belgian Grand Prix,Carlos Sainz,4,104922
+40,Belgian Grand Prix,Lewis Hamilton,5,105553
+38,Belgian Grand Prix,George Russell,6,105629
+35,Belgian Grand Prix,Alexander Albon,7,105728
+39,Belgian Grand Prix,Lando Norris,8,105842
+48,British Grand Prix,Max Verstappen,1,100280
+44,British Grand Prix,Charles Leclerc,2,100797
+43,British Grand Prix,Carlos Sainz,3,100925
+47,British Grand Prix,Lewis Hamilton,4,101162
+45,British Grand Prix,George Russell,5,101305
+49,British Grand Prix,Sergio Pérez,6,101550
+46,British Grand Prix,Lando Norris,7,101807
+54,Canadian Grand Prix,Max Verstappen,1,85755
+50,Canadian Grand Prix,Carlos Sainz,2,86691
+51,Canadian Grand Prix,George Russell,3,87222
+52,Canadian Grand Prix,Kevin Magnussen,4,87390
+53,Canadian Grand Prix,Lewis Hamilton,5,87425
+60,Dutch Grand Prix,Max Verstappen,1,70862
+56,Dutch Grand Prix,Charles Leclerc,2,70931
+55,Dutch Grand Prix,Carlos Sainz,3,71005
+59,Dutch Grand Prix,Lewis Hamilton,4,71018
+57,Dutch Grand Prix,George Russell,5,71177
+58,Dutch Grand Prix,Lando Norris,6,71282
+61,Dutch Grand Prix,Sergio Pérez,7,71344
+62,Dutch Grand Prix,Yuki Tsunoda,8,71804
+66,Emilia Romagna Grand Prix,Max Verstappen,1,82029
+63,Emilia Romagna Grand Prix,Charles Leclerc,2,82386
+65,Emilia Romagna Grand Prix,Lando Norris,3,82864
+67,Emilia Romagna Grand Prix,Sergio Pérez,4,82959
+64,Emilia Romagna Grand Prix,Kevin Magnussen,5,83071
+68,Emilia Romagna Grand Prix,Valtteri Bottas,6,83683
+69,Hungarian Grand Prix,Carlos Sainz,1,77934
+71,Hungarian Grand Prix,George Russell,2,77979
+70,Hungarian Grand Prix,Charles Leclerc,3,78047
+72,Hungarian Grand Prix,Lando Norris,4,78181
+73,Hungarian Grand Prix,Lewis Hamilton,5,78184
+74,Hungarian Grand Prix,Max Verstappen,6,78345
+75,Hungarian Grand Prix,Valtteri Bottas,7,78512
+81,Italian Grand Prix,Max Verstappen,1,80831
+77,Italian Grand Prix,Charles Leclerc,2,80883
+76,Italian Grand Prix,Carlos Sainz,3,80885
+82,Italian Grand Prix,Sergio Pérez,4,81353
+78,Italian Grand Prix,George Russell,5,81691
+80,Italian Grand Prix,Lewis Hamilton,6,81760
+79,Italian Grand Prix,Lando Norris,7,81848
+88,Japanese Grand Prix,Max Verstappen,1,89958
+83,Japanese Grand Prix,Carlos Sainz,2,90047
+84,Japanese Grand Prix,Charles Leclerc,3,90067
+89,Japanese Grand Prix,Sergio Pérez,4,90085
+87,Japanese Grand Prix,Lewis Hamilton,5,90537
+85,Japanese Grand Prix,George Russell,6,90573
+86,Japanese Grand Prix,Lando Norris,7,90786
+95,Mexico City Grand Prix,Max Verstappen,1,78521
+94,Mexico City Grand Prix,Lewis Hamilton,2,78602
+92,Mexico City Grand Prix,George Russell,3,78742
+96,Mexico City Grand Prix,Sergio Pérez,4,78816
+90,Mexico City Grand Prix,Carlos Sainz,5,78826
+97,Mexico City Grand Prix,Valtteri Bottas,6,78895
+91,Mexico City Grand Prix,Charles Leclerc,7,79056
+93,Mexico City Grand Prix,Lando Norris,8,79232
+99,Miami Grand Prix,Charles Leclerc,1,89133
+103,Miami Grand Prix,Max Verstappen,2,89343
+104,Miami Grand Prix,Sergio Pérez,3,89588
+98,Miami Grand Prix,Carlos Sainz,4,89598
+102,Miami Grand Prix,Lewis Hamilton,5,89937
+105,Miami Grand Prix,Valtteri Bottas,6,90024
+101,Miami Grand Prix,Lando Norris,7,90048
+106,Miami Grand Prix,Yuki Tsunoda,8,90149
+100,Miami Grand Prix,Lance Stroll,9,90371
+108,Monaco Grand Prix,Charles Leclerc,1,71936
+107,Monaco Grand Prix,Carlos Sainz,2,72097
+113,Monaco Grand Prix,Sergio Pérez,3,72196
+112,Monaco Grand Prix,Max Verstappen,4,72259
+110,Monaco Grand Prix,Lando Norris,5,72347
+109,Monaco Grand Prix,George Russell,6,72505
+111,Monaco Grand Prix,Lewis Hamilton,7,72866
+114,Saudi Arabian Grand Prix,Carlos Sainz,1,88648
+115,Saudi Arabian Grand Prix,Charles Leclerc,2,88681
+118,Saudi Arabian Grand Prix,Max Verstappen,3,88778
+119,Saudi Arabian Grand Prix,Sergio Pérez,4,88943
+120,Saudi Arabian Grand Prix,Valtteri Bottas,5,89423
+116,Saudi Arabian Grand Prix,George Russell,6,89467
+117,Saudi Arabian Grand Prix,Kevin Magnussen,7,89655
+125,Singapore Grand Prix,Lewis Hamilton,1,111773
+122,Singapore Grand Prix,Charles Leclerc,2,111961
+127,Singapore Grand Prix,Sergio Pérez,3,112219
+126,Singapore Grand Prix,Max Verstappen,4,112392
+121,Singapore Grand Prix,Carlos Sainz,5,112454
+124,Singapore Grand Prix,Lando Norris,6,113480
+123,Singapore Grand Prix,Kevin Magnussen,7,113561
+128,Singapore Grand Prix,Yuki Tsunoda,8,113715
+134,Spanish Grand Prix,Max Verstappen,1,79461
+129,Spanish Grand Prix,Carlos Sainz,2,79504
+130,Spanish Grand Prix,Charles Leclerc,3,79527
+131,Spanish Grand Prix,George Russell,4,79694
+133,Spanish Grand Prix,Lewis Hamilton,5,79853
+135,Spanish Grand Prix,Sergio Pérez,6,79899
+132,Spanish Grand Prix,Kevin Magnussen,7,79906
+136,Spanish Grand Prix,Valtteri Bottas,8,80005
+142,São Paulo Grand Prix,Max Verstappen,1,72128
+140,São Paulo Grand Prix,Lando Norris,2,72249
+139,São Paulo Grand Prix,Kevin Magnussen,3,72346
+141,São Paulo Grand Prix,Lewis Hamilton,4,72518
+138,São Paulo Grand Prix,George Russell,5,72601
+137,São Paulo Grand Prix,Carlos Sainz,6,72642
+143,São Paulo Grand Prix,Sergio Pérez,7,73557
+144,United States Grand Prix,Carlos Sainz,1,95081
+145,United States Grand Prix,Charles Leclerc,2,95154
+150,United States Grand Prix,Max Verstappen,3,95202
+151,United States Grand Prix,Sergio Pérez,4,95557
+149,United States Grand Prix,Lewis Hamilton,5,95609
+146,United States Grand Prix,George Russell,6,95625
+147,United States Grand Prix,Lance Stroll,7,96163
+148,United States Grand Prix,Lando Norris,8,96165
+152,United States Grand Prix,Valtteri Bottas,9,96462

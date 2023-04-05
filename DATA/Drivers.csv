@@ -1,0 +1,25 @@
+﻿DriverId,Driver_code,D_number,forename,surname,dob,nationality,url
+1,HAM,44,Lewis,Hamilton,07/01/85,British,http://en.wikipedia.org/wiki/Lewis_Hamilton
+2,ALO,14,Fernando,Alonso,29/07/81,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
+3,GAS,10,Pierre,Gasly,07/02/96,French,http://en.wikipedia.org/wiki/Pierre_Gasly
+4,HUL,27,Nico,Hülkenberg,19/08/87,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+5,PER,11,Sergio,Pérez,26/01/90,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+6,BOT,77,Valtteri,Bottas,28/08/89,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
+7,MAG,20,Kevin,Magnussen,05/10/92,Danish,http://en.wikipedia.org/wiki/Kevin_Magnussen
+8,VER,33,Max,Verstappen,30/09/97,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+9,SAI,55,Carlos,Sainz,01/09/94,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
+10,OCO,31,Esteban,Ocon,17/09/96,French,http://en.wikipedia.org/wiki/Esteban_Ocon
+11,STR,18,Lance,Stroll,29/10/98,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
+12,LEC,16,Charles,Leclerc,16/10/97,Monegasque,http://en.wikipedia.org/wiki/Charles_Leclerc
+13,NOR,4,Lando,Norris,13/11/99,British,http://en.wikipedia.org/wiki/Lando_Norris
+14,RUS,63,George,Russell,15/02/98,British,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29
+15,ALB,23,Alexander,Albon,23/03/96,Thai,http://en.wikipedia.org/wiki/Alexander_Albon
+16,TSU,22,Yuki,Tsunoda,11/05/00,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda
+17,DEV,45,Nyck,de Vries,06/02/95,Dutch,http://en.wikipedia.org/wiki/Nyck_de_Vries
+18,PIA,81,Oscar,Piastri,06/04/01,Australian,http://en.wikipedia.org/wiki/Oscar_Piastri
+19,SAR,2,Logan,Sargeant,31/12/00,American,http://en.wikipedia.org/wiki/Logan_Sargeant
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,, ,,,,,

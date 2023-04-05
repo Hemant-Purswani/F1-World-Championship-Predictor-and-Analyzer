@@ -1,0 +1,1326 @@
+﻿resultId,D_number,Driver_code,Driver_name,Constructor_name,GP_year,GrandPrix_name,Circuit_name,statusId,Grid_Pos,Finish_Pos,FastestLap_rank,points,Lap,fastestLap,fastestLapTime,fastestLapTime_Milli,fastestLapSpeed
+1,14,ALO,Fernando Alonso,McLaren,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,2,2,2,8,58,20,01:26.3,86314,221.178
+2,44,HAM,Lewis Hamilton,McLaren,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,4,3,3,6,58,20,01:26.4,86351,221.083
+3,44,HAM,Lewis Hamilton,McLaren,2007,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,2,2,8,57,18,01:34.3,94270,206.674
+4,14,ALO,Fernando Alonso,McLaren,2007,Bahrain Grand Prix,Bahrain International Circuit,Finished,4,5,4,4,57,46,01:34.4,94420,206.346
+5,44,HAM,Lewis Hamilton,McLaren,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,2,2,8,65,20,01:22.9,82876,202.205
+6,14,ALO,Fernando Alonso,McLaren,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,3,3,6,65,17,01:23.0,82966,201.986
+7,14,ALO,Fernando Alonso,McLaren,2007,Monaco Grand Prix,Circuit de Monaco,Finished,1,1,1,10,78,44,01:15.3,75284,159.715
+8,44,HAM,Lewis Hamilton,McLaren,2007,Monaco Grand Prix,Circuit de Monaco,Finished,2,2,2,8,78,28,01:15.4,75372,159.528
+9,44,HAM,Lewis Hamilton,McLaren,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,2,10,70,37,01:16.5,76494,205.239
+10,14,ALO,Fernando Alonso,McLaren,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,7,1,2,70,46,01:16.4,76367,205.58
+11,14,ALO,Fernando Alonso,McLaren,2007,British Grand Prix,Silverstone Circuit,Finished,3,2,3,8,59,35,01:21.1,81117,228.159
+12,44,HAM,Lewis Hamilton,McLaren,2007,British Grand Prix,Silverstone Circuit,Finished,1,3,4,6,59,11,01:21.7,81675,226.6
+13,44,HAM,Lewis Hamilton,McLaren,2007,Hungarian Grand Prix,Hungaroring,Finished,1,1,2,10,70,13,01:20.2,80171,196.724
+14,14,ALO,Fernando Alonso,McLaren,2007,Hungarian Grand Prix,Hungaroring,Finished,6,4,3,5,70,49,01:20.3,80324,196.349
+15,14,ALO,Fernando Alonso,McLaren,2007,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,1,10,53,15,01:22.9,82871,251.653
+16,44,HAM,Lewis Hamilton,McLaren,2007,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,2,2,8,53,17,01:22.9,82936,251.456
+17,14,ALO,Fernando Alonso,McLaren,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,3,3,3,6,44,44,01:48.2,108182,233.073
+18,44,HAM,Lewis Hamilton,McLaren,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,4,4,4,5,44,41,01:48.2,108215,233.002
+19,14,ALO,Fernando Alonso,McLaren,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,3,6,6,71,59,01:13.2,73150,212.062
+20,44,HAM,Lewis Hamilton,McLaren,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,2,7,2,2,70,58,01:12.5,72506,213.946
+21,44,HAM,Lewis Hamilton,McLaren,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,1,2,10,58,39,01:27.5,87452,218.3
+22,44,HAM,Lewis Hamilton,McLaren,2008,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,3,13,19,0,56,25,01:35.5,95520,203.969
+23,44,HAM,Lewis Hamilton,McLaren,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,5,3,3,6,66,20,01:22.0,82017,204.323
+24,44,HAM,Lewis Hamilton,McLaren,2008,Monaco Grand Prix,Circuit de Monaco,Finished,3,1,6,10,76,71,01:18.5,78510,153.152
+25,44,HAM,Lewis Hamilton,McLaren,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,Collision,1,19,3,0,19,4,01:17.5,77506,202.559
+26,44,HAM,Lewis Hamilton,McLaren,2008,British Grand Prix,Silverstone Circuit,Finished,4,1,3,10,60,16,01:32.8,92817,199.398
+27,44,HAM,Lewis Hamilton,McLaren,2008,Hungarian Grand Prix,Hungaroring,Finished,1,5,3,4,70,15,01:21.5,81493,193.533
+28,44,HAM,Lewis Hamilton,McLaren,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,3,2,6,44,20,01:48.1,108135,233.175
+29,44,HAM,Lewis Hamilton,McLaren,2008,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,15,7,5,2,53,52,01:29.7,89721,232.44
+30,44,HAM,Lewis Hamilton,McLaren,2008,Singapore Grand Prix,Marina Bay Street Circuit,Finished,2,3,4,6,61,14,01:46.1,106072,171.969
+31,44,HAM,Lewis Hamilton,McLaren,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,5,4,4,71,31,01:14.2,74159,209.177
+32,44,HAM,Lewis Hamilton,McLaren,2009,Australian Grand Prix,Albert Park Grand Prix Circuit,Disqualified,18,20,13,0,58,39,01:29.0,89020,214.455
+33,44,HAM,Lewis Hamilton,McLaren,2009,Bahrain Grand Prix,Bahrain International Circuit,Finished,5,4,6,5,57,13,01:34.9,94915,205.269
+34,44,HAM,Lewis Hamilton,McLaren,2009,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,14,9,9,0,65,29,01:23.8,83839,199.883
+35,44,HAM,Lewis Hamilton,McLaren,2009,Monaco Grand Prix,Circuit de Monaco,+1 Lap,19,12,8,0,77,65,01:15.7,75706,158.824
+36,44,HAM,Lewis Hamilton,McLaren,2009,British Grand Prix,Silverstone Circuit,+1 Lap,18,16,18,0,59,24,01:22.6,82576,224.128
+37,44,HAM,Lewis Hamilton,McLaren,2009,Hungarian Grand Prix,Hungaroring,Finished,4,1,4,10,70,16,01:22.5,82479,191.219
+38,44,HAM,Lewis Hamilton,McLaren,2009,Italian Grand Prix,Autodromo Nazionale di Monza,Accident,1,12,3,0,52,52,01:24.8,84802,245.923
+39,44,HAM,Lewis Hamilton,McLaren,2009,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,1,2,10,61,36,01:48.3,108345,168.561
+40,44,HAM,Lewis Hamilton,McLaren,2009,Japanese Grand Prix,Suzuka Circuit,Finished,3,3,6,6,53,13,01:33.3,93259,224.162
+41,44,HAM,Lewis Hamilton,McLaren,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,17,3,6,6,71,59,01:14.3,74345,208.654
+42,44,HAM,Lewis Hamilton,McLaren,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,Brakes,1,19,3,0,20,16,01:40.4,100367,199.212
+43,14,ALO,Fernando Alonso,Ferrari,2010,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,1,1,25,49,45,01:58.3,118287,191.706
+44,44,HAM,Lewis Hamilton,McLaren,2010,Bahrain Grand Prix,Bahrain International Circuit,Finished,4,3,4,15,49,42,01:59.6,119560,189.665
+45,27,HUL,Nico Hülkenberg,Williams,2010,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,13,14,15,0,48,34,02:01.4,121401,186.789
+46,14,ALO,Fernando Alonso,Ferrari,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,3,4,10,12,58,47,01:29.7,89707,212.812
+47,44,HAM,Lewis Hamilton,McLaren,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,11,6,3,8,58,47,01:28.5,88506,215.7
+48,14,ALO,Fernando Alonso,Ferrari,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,2,3,18,66,57,01:24.8,84846,197.51
+49,44,HAM,Lewis Hamilton,McLaren,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Puncture,3,14,1,0,64,59,01:24.4,84357,198.655
+50,27,HUL,Nico Hülkenberg,Williams,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,13,16,17,0,64,63,01:26.9,86863,192.924
+51,44,HAM,Lewis Hamilton,McLaren,2010,Monaco Grand Prix,Circuit de Monaco,Finished,5,5,10,10,78,68,01:16.2,76219,157.755
+52,14,ALO,Fernando Alonso,Ferrari,2010,Monaco Grand Prix,Circuit de Monaco,Finished,24,6,6,8,78,73,01:15.9,75905,158.408
+53,44,HAM,Lewis Hamilton,McLaren,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,2,25,70,62,01:17.8,77806,201.778
+54,14,ALO,Fernando Alonso,Ferrari,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,3,6,15,70,44,01:18.2,78207,200.744
+55,27,HUL,Nico Hülkenberg,Williams,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,12,13,9,0,69,64,01:18.9,78912,198.95
+56,44,HAM,Lewis Hamilton,McLaren,2010,British Grand Prix,Silverstone Circuit,Finished,4,2,6,18,52,43,01:32.8,92758,228.633
+57,27,HUL,Nico Hülkenberg,Williams,2010,British Grand Prix,Silverstone Circuit,Finished,13,10,13,1,52,48,01:34.0,93989,225.639
+58,14,ALO,Fernando Alonso,Ferrari,2010,British Grand Prix,Silverstone Circuit,Finished,3,14,1,0,52,52,01:30.9,90874,233.373
+59,14,ALO,Fernando Alonso,Ferrari,2010,Hungarian Grand Prix,Hungaroring,Finished,3,2,4,18,70,67,01:23.2,83195,189.573
+60,27,HUL,Nico Hülkenberg,Williams,2010,Hungarian Grand Prix,Hungaroring,Finished,10,6,7,8,70,66,01:24.2,84204,187.302
+61,44,HAM,Lewis Hamilton,McLaren,2010,Hungarian Grand Prix,Hungaroring,Gearbox,5,20,14,0,23,22,01:26.3,86258,182.842
+62,44,HAM,Lewis Hamilton,McLaren,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,2,1,1,25,44,32,01:49.1,109069,231.178
+63,27,HUL,Nico Hülkenberg,Williams,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,9,14,12,0,43,28,01:51.9,111864,225.402
+64,14,ALO,Fernando Alonso,Ferrari,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,Accident,10,21,8,0,37,29,01:51.4,111374,226.393
+65,14,ALO,Fernando Alonso,Ferrari,2010,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,1,25,53,52,01:24.1,84139,247.861
+66,27,HUL,Nico Hülkenberg,Williams,2010,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,8,7,7,6,53,52,01:24.6,84576,246.58
+67,14,ALO,Fernando Alonso,Ferrari,2010,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,1,1,25,61,58,01:48.0,107976,169.137
+68,27,HUL,Nico Hülkenberg,Williams,2010,Singapore Grand Prix,Marina Bay Street Circuit,Finished,17,10,13,1,61,45,01:52.2,112213,162.751
+69,44,HAM,Lewis Hamilton,McLaren,2010,Singapore Grand Prix,Marina Bay Street Circuit,Collision,3,19,10,0,35,31,01:50.7,110750,164.901
+70,14,ALO,Fernando Alonso,Ferrari,2010,Japanese Grand Prix,Suzuka Circuit,Finished,4,3,4,15,53,53,01:33.8,93823,222.815
+71,44,HAM,Lewis Hamilton,McLaren,2010,Japanese Grand Prix,Suzuka Circuit,Finished,8,5,9,10,53,35,01:35.2,95182,219.633
+72,14,ALO,Fernando Alonso,Ferrari,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,3,2,15,71,67,01:13.9,73855,210.038
+73,44,HAM,Lewis Hamilton,McLaren,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,4,1,12,71,66,01:13.9,73851,210.049
+74,27,HUL,Nico Hülkenberg,Williams,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,1,8,8,4,70,70,01:15.0,74985,206.873
+75,44,HAM,Lewis Hamilton,McLaren,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,1,18,55,47,01:41.3,101274,197.428
+76,14,ALO,Fernando Alonso,Ferrari,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,7,7,6,55,52,01:42.2,102227,195.588
+77,27,HUL,Nico Hülkenberg,Williams,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,15,16,9,0,55,51,01:42.4,102397,195.263
+78,44,HAM,Lewis Hamilton,McLaren,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,2,2,8,18,58,41,01:30.3,90314,211.382
+79,14,ALO,Fernando Alonso,Ferrari,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,4,2,12,58,49,01:29.5,89487,213.336
+80,44,HAM,Lewis Hamilton,McLaren,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,3,2,1,18,66,52,01:26.7,86727,193.227
+81,14,ALO,Fernando Alonso,Ferrari,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,4,5,9,10,65,22,01:28.7,88737,188.85
+82,14,ALO,Fernando Alonso,Ferrari,2011,Monaco Grand Prix,Circuit de Monaco,Finished,4,2,4,18,78,77,01:16.5,76471,157.236
+83,44,HAM,Lewis Hamilton,McLaren,2011,Monaco Grand Prix,Circuit de Monaco,Finished,9,6,5,8,78,54,01:17.8,77847,154.456
+84,14,ALO,Fernando Alonso,Ferrari,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,Collision,2,22,22,0,36,14,01:34.2,94223,166.621
+85,44,HAM,Lewis Hamilton,McLaren,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,Collision,5,24,23,0,7,7,01:37.8,97761,160.591
+86,14,ALO,Fernando Alonso,Ferrari,2011,British Grand Prix,Silverstone Circuit,Finished,3,1,1,25,52,41,01:34.9,94908,223.454
+87,44,HAM,Lewis Hamilton,McLaren,2011,British Grand Prix,Silverstone Circuit,Finished,10,4,5,12,52,39,01:36.2,96180,220.499
+88,14,ALO,Fernando Alonso,Ferrari,2011,Hungarian Grand Prix,Hungaroring,Finished,5,3,3,15,70,62,01:23.7,83711,188.405
+89,44,HAM,Lewis Hamilton,McLaren,2011,Hungarian Grand Prix,Hungaroring,Finished,2,4,2,12,70,61,01:23.7,83661,188.517
+90,14,ALO,Fernando Alonso,Ferrari,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,8,4,5,12,44,41,01:51.1,111107,226.937
+91,44,HAM,Lewis Hamilton,McLaren,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,Collision,2,22,18,0,12,8,01:55.6,115647,218.029
+92,14,ALO,Fernando Alonso,Ferrari,2011,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,4,3,6,15,53,50,01:27.2,87191,239.185
+93,44,HAM,Lewis Hamilton,McLaren,2011,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,4,1,12,53,52,01:26.2,86187,241.971
+94,14,ALO,Fernando Alonso,Ferrari,2011,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,4,5,12,61,58,01:50.9,110891,164.691
+95,44,HAM,Lewis Hamilton,McLaren,2011,Singapore Grand Prix,Marina Bay Street Circuit,Finished,4,5,4,10,61,54,01:50.8,110832,164.779
+96,14,ALO,Fernando Alonso,Ferrari,2011,Japanese Grand Prix,Suzuka Circuit,Finished,5,2,4,18,53,50,01:36.7,96682,216.226
+97,44,HAM,Lewis Hamilton,McLaren,2011,Japanese Grand Prix,Suzuka Circuit,Finished,3,5,9,10,53,49,01:37.6,97645,214.093
+98,44,HAM,Lewis Hamilton,McLaren,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,1,3,25,55,51,01:43.5,103461,193.255
+99,14,ALO,Fernando Alonso,Ferrari,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,5,2,6,18,55,41,01:43.9,103914,192.412
+100,14,ALO,Fernando Alonso,Ferrari,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,4,4,12,71,65,01:16.2,76181,203.625
+101,44,HAM,Lewis Hamilton,McLaren,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,Gearbox,4,22,11,0,46,35,01:17.2,77209,200.914
+102,44,HAM,Lewis Hamilton,McLaren,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,3,4,15,58,57,01:29.5,89538,213.214
+103,14,ALO,Fernando Alonso,Ferrari,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,12,5,7,10,58,52,01:30.3,90277,211.469
+104,14,ALO,Fernando Alonso,Ferrari,2012,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,7,15,6,57,44,01:38.2,98203,198.397
+105,44,HAM,Lewis Hamilton,McLaren,2012,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,8,7,4,57,38,01:37.7,97733,199.351
+106,14,ALO,Fernando Alonso,Ferrari,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,2,3,18,66,46,01:27.4,87390,191.761
+107,44,HAM,Lewis Hamilton,McLaren,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,24,8,18,4,66,50,01:28.9,88918,188.465
+108,14,ALO,Fernando Alonso,Ferrari,2012,Monaco Grand Prix,Circuit de Monaco,Finished,5,3,5,15,78,45,01:18.9,78857,152.478
+109,44,HAM,Lewis Hamilton,McLaren,2012,Monaco Grand Prix,Circuit de Monaco,Finished,3,5,4,10,78,46,01:18.8,78806,152.577
+110,44,HAM,Lewis Hamilton,McLaren,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,1,6,25,70,59,01:17.0,77020,203.837
+111,14,ALO,Fernando Alonso,Ferrari,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,5,15,10,70,42,01:17.8,77820,201.742
+112,14,ALO,Fernando Alonso,Ferrari,2012,British Grand Prix,Silverstone Circuit,Finished,1,2,7,18,52,49,01:35.4,95385,222.336
+113,44,HAM,Lewis Hamilton,McLaren,2012,British Grand Prix,Silverstone Circuit,Finished,8,8,15,4,52,44,01:36.2,96173,220.515
+114,44,HAM,Lewis Hamilton,McLaren,2012,Hungarian Grand Prix,Hungaroring,Finished,1,1,4,25,69,65,01:25.7,85677,184.082
+115,14,ALO,Fernando Alonso,Ferrari,2012,Hungarian Grand Prix,Hungaroring,Finished,6,5,7,10,69,65,01:25.7,85738,183.951
+116,44,HAM,Lewis Hamilton,McLaren,2012,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,5,25,53,52,01:28.4,88427,235.841
+117,14,ALO,Fernando Alonso,Ferrari,2012,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,10,3,11,15,53,44,01:28.8,88835,234.758
+118,14,ALO,Fernando Alonso,Ferrari,2012,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,3,5,15,59,53,01:52.7,112709,162.034
+119,44,HAM,Lewis Hamilton,McLaren,2012,Singapore Grand Prix,Marina Bay Street Circuit,Gearbox,1,24,19,0,22,14,01:55.5,115541,158.063
+120,44,HAM,Lewis Hamilton,McLaren,2012,Japanese Grand Prix,Suzuka Circuit,Finished,9,5,11,10,53,45,01:37.8,97760,213.842
+121,14,ALO,Fernando Alonso,Ferrari,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,2,2,18,55,53,01:44.1,104090,192.087
+122,44,HAM,Lewis Hamilton,McLaren,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,Electrical,1,21,16,0,19,19,01:47.3,107266,186.4
+123,44,HAM,Lewis Hamilton,McLaren,2012,United States Grand Prix,Circuit of the Americas,Finished,2,1,5,25,56,55,01:39.7,99709,199.047
+124,14,ALO,Fernando Alonso,Ferrari,2012,United States Grand Prix,Circuit of the Americas,Finished,7,3,4,15,56,56,01:39.7,99672,199.121
+125,14,ALO,Fernando Alonso,Ferrari,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,7,2,4,18,71,36,01:18.6,78623,197.301
+126,44,HAM,Lewis Hamilton,McLaren,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,Collision,1,20,1,0,54,38,01:18.1,78069,198.701
+127,14,ALO,Fernando Alonso,Ferrari,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,2,3,18,58,53,01:29.6,89560,213.162
+128,44,HAM,Lewis Hamilton,Mercedes,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,3,5,5,10,58,45,01:29.8,89759,212.689
+129,11,PER,Sergio Pérez,McLaren,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,15,11,6,0,58,46,01:29.9,89926,212.294
+130,77,BOT,Valtteri Bottas,Williams,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,16,14,12,0,57,42,01:30.7,90652,210.594
+131,44,HAM,Lewis Hamilton,Mercedes,2013,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,5,11,10,57,48,01:38.2,98204,198.395
+132,11,PER,Sergio Pérez,McLaren,2013,Bahrain Grand Prix,Bahrain International Circuit,Finished,12,6,7,8,57,41,01:37.9,97913,198.984
+133,14,ALO,Fernando Alonso,Ferrari,2013,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,8,3,4,57,41,01:37.2,97204,200.436
+134,77,BOT,Valtteri Bottas,Williams,2013,Bahrain Grand Prix,Bahrain International Circuit,Finished,15,14,9,0,57,57,01:38.2,98192,198.419
+135,14,ALO,Fernando Alonso,Ferrari,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,5,1,5,25,66,53,01:26.7,86681,193.329
+136,11,PER,Sergio Pérez,McLaren,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,8,9,10,2,66,55,01:27.3,87251,192.066
+137,44,HAM,Lewis Hamilton,Mercedes,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,2,12,13,0,65,53,01:27.9,87895,190.659
+138,77,BOT,Valtteri Bottas,Williams,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,16,16,20,0,65,27,01:29.7,89747,186.724
+139,44,HAM,Lewis Hamilton,Mercedes,2013,Monaco Grand Prix,Circuit de Monaco,Finished,2,4,3,12,78,76,01:18.1,78133,153.891
+140,14,ALO,Fernando Alonso,Ferrari,2013,Monaco Grand Prix,Circuit de Monaco,Finished,6,7,12,6,78,77,01:19.3,79340,151.55
+141,77,BOT,Valtteri Bottas,Williams,2013,Monaco Grand Prix,Circuit de Monaco,Finished,14,12,20,0,78,68,01:20.9,80921,148.589
+142,11,PER,Sergio Pérez,McLaren,2013,Monaco Grand Prix,Circuit de Monaco,Suspension,7,16,14,0,72,27,01:19.5,79530,151.188
+143,14,ALO,Fernando Alonso,Ferrari,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,6,2,2,18,70,69,01:16.2,76203,206.023
+144,44,HAM,Lewis Hamilton,Mercedes,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,3,3,15,70,69,01:16.4,76354,205.615
+145,11,PER,Sergio Pérez,McLaren,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,12,11,7,0,69,69,01:17.4,77369,202.918
+146,77,BOT,Valtteri Bottas,Williams,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,3,14,14,0,69,63,01:18.0,78004,201.266
+147,14,ALO,Fernando Alonso,Ferrari,2013,British Grand Prix,Silverstone Circuit,Finished,9,3,3,15,52,50,01:34.1,94090,225.396
+148,44,HAM,Lewis Hamilton,Mercedes,2013,British Grand Prix,Silverstone Circuit,Finished,1,4,4,12,52,51,01:34.2,94159,225.231
+149,77,BOT,Valtteri Bottas,Williams,2013,British Grand Prix,Silverstone Circuit,Finished,16,12,15,0,52,52,01:36.3,96312,220.196
+150,11,PER,Sergio Pérez,McLaren,2013,British Grand Prix,Silverstone Circuit,Wheel,13,20,14,0,46,37,01:36.1,96131,220.611
+151,44,HAM,Lewis Hamilton,Mercedes,2013,Hungarian Grand Prix,Hungaroring,Finished,1,1,3,25,70,69,01:24.6,84647,186.322
+152,14,ALO,Fernando Alonso,Ferrari,2013,Hungarian Grand Prix,Hungaroring,Finished,5,5,8,10,70,56,01:25.4,85394,184.692
+153,11,PER,Sergio Pérez,McLaren,2013,Hungarian Grand Prix,Hungaroring,+1 Lap,9,9,10,2,69,59,01:26.1,86143,183.086
+154,77,BOT,Valtteri Bottas,Williams,2013,Hungarian Grand Prix,Hungaroring,Hydraulics,16,20,16,0,42,41,01:27.1,87127,181.018
+155,14,ALO,Fernando Alonso,Ferrari,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,9,2,4,18,44,36,01:51.4,111383,226.375
+156,44,HAM,Lewis Hamilton,Mercedes,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,3,7,15,44,39,01:51.6,111596,225.943
+157,11,PER,Sergio Pérez,McLaren,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,13,11,16,0,44,34,01:53.5,113472,222.208
+158,77,BOT,Valtteri Bottas,Williams,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,20,15,13,0,44,31,01:52.7,112688,223.754
+159,14,ALO,Fernando Alonso,Ferrari,2013,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,2,5,18,53,52,01:26.8,86797,240.27
+160,44,HAM,Lewis Hamilton,Mercedes,2013,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,12,9,1,2,53,51,01:25.8,85849,242.924
+161,11,PER,Sergio Pérez,McLaren,2013,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,8,12,15,0,53,44,01:27.6,87607,238.049
+162,77,BOT,Valtteri Bottas,Williams,2013,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,18,15,11,0,53,53,01:27.2,87166,239.253
+163,14,ALO,Fernando Alonso,Ferrari,2013,Singapore Grand Prix,Marina Bay Street Circuit,Finished,7,2,11,18,61,44,01:51.1,111082,164.149
+164,44,HAM,Lewis Hamilton,Mercedes,2013,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,5,4,10,61,59,01:49.9,109916,165.89
+165,11,PER,Sergio Pérez,McLaren,2013,Singapore Grand Prix,Marina Bay Street Circuit,Finished,14,8,16,4,61,46,01:51.9,111926,162.911
+166,77,BOT,Valtteri Bottas,Williams,2013,Singapore Grand Prix,Marina Bay Street Circuit,Finished,16,13,14,0,61,53,01:51.7,111706,163.232
+167,14,ALO,Fernando Alonso,Ferrari,2013,Japanese Grand Prix,Suzuka Circuit,Finished,8,4,8,12,53,39,01:35.9,95877,218.041
+168,11,PER,Sergio Pérez,McLaren,2013,Japanese Grand Prix,Suzuka Circuit,+1 Lap,11,15,7,0,52,46,01:35.8,95845,218.114
+169,77,BOT,Valtteri Bottas,Williams,2013,Japanese Grand Prix,Suzuka Circuit,+1 Lap,13,17,18,0,52,43,01:37.9,97856,213.632
+170,44,HAM,Lewis Hamilton,Mercedes,2013,Japanese Grand Prix,Suzuka Circuit,Puncture,3,20,20,0,7,3,01:41.2,101202,206.569
+171,14,ALO,Fernando Alonso,Ferrari,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,10,5,1,10,55,55,01:43.4,103434,193.305
+172,44,HAM,Lewis Hamilton,Mercedes,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,4,7,10,6,55,47,01:45.5,105463,189.586
+173,11,PER,Sergio Pérez,McLaren,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,8,9,8,2,55,51,01:45.4,105435,189.637
+174,77,BOT,Valtteri Bottas,Williams,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,15,15,4,0,54,54,01:44.4,104351,191.607
+175,44,HAM,Lewis Hamilton,Mercedes,2013,United States Grand Prix,Circuit of the Americas,Finished,5,4,5,12,56,50,01:40.8,100818,196.857
+176,14,ALO,Fernando Alonso,Ferrari,2013,United States Grand Prix,Circuit of the Americas,Finished,6,5,10,10,56,52,01:41.2,101186,196.141
+177,11,PER,Sergio Pérez,McLaren,2013,United States Grand Prix,Circuit of the Americas,Finished,7,7,15,6,56,47,01:41.8,101830,194.901
+178,77,BOT,Valtteri Bottas,Williams,2013,United States Grand Prix,Circuit of the Americas,Finished,9,8,3,4,56,54,01:40.5,100492,197.496
+179,14,ALO,Fernando Alonso,Ferrari,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,3,3,2,15,71,50,01:15.5,75496,205.473
+180,11,PER,Sergio Pérez,McLaren,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,19,6,5,8,71,50,01:16.2,76246,203.451
+181,44,HAM,Lewis Hamilton,Mercedes,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,9,10,2,71,51,01:16.7,76692,202.268
+182,77,BOT,Valtteri Bottas,Williams,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,Accident,13,21,13,0,45,43,01:16.8,76840,201.879
+183,20,MAG,Kevin Magnussen,McLaren,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,4,2,6,18,57,49,01:33.1,93066,205.131
+184,14,ALO,Fernando Alonso,Ferrari,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,4,7,12,57,57,01:33.2,93186,204.867
+185,77,BOT,Valtteri Bottas,Williams,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,15,5,3,10,57,56,01:32.6,92616,206.128
+186,44,HAM,Lewis Hamilton,Mercedes,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,Engine,1,19,20,0,2,2,01:49.9,109947,173.636
+187,44,HAM,Lewis Hamilton,Mercedes,2014,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,1,2,25,57,49,01:37.1,97108,200.634
+188,77,BOT,Valtteri Bottas,Williams,2014,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,8,13,4,57,50,01:39.8,99762,195.296
+189,14,ALO,Fernando Alonso,Ferrari,2014,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,9,12,2,57,53,01:39.7,99732,195.355
+190,20,MAG,Kevin Magnussen,McLaren,2014,Bahrain Grand Prix,Bahrain International Circuit,Clutch,8,18,14,0,40,40,01:40.1,100108,194.621
+191,44,HAM,Lewis Hamilton,Mercedes,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,1,3,25,66,54,01:29.5,89483,187.275
+192,77,BOT,Valtteri Bottas,Williams,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,5,8,10,66,47,01:30.4,90424,185.326
+193,14,ALO,Fernando Alonso,Ferrari,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,7,6,4,8,66,55,01:29.9,89898,186.411
+194,20,MAG,Kevin Magnussen,McLaren,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,14,12,7,0,65,43,01:30.3,90318,185.544
+195,44,HAM,Lewis Hamilton,Mercedes,2014,Monaco Grand Prix,Circuit de Monaco,Finished,2,2,3,18,78,34,01:19.4,79361,151.51
+196,14,ALO,Fernando Alonso,Ferrari,2014,Monaco Grand Prix,Circuit de Monaco,Finished,5,4,5,12,78,54,01:19.7,79727,150.814
+197,20,MAG,Kevin Magnussen,McLaren,2014,Monaco Grand Prix,Circuit de Monaco,+1 Lap,8,10,8,1,77,75,01:20.7,80657,149.075
+198,77,BOT,Valtteri Bottas,Williams,2014,Monaco Grand Prix,Circuit de Monaco,Engine,13,16,14,0,55,50,01:21.1,81105,148.252
+199,14,ALO,Fernando Alonso,Ferrari,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,7,6,3,8,70,64,01:18.6,78614,199.704
+200,77,BOT,Valtteri Bottas,Williams,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,4,7,11,6,70,52,01:19.3,79321,197.924
+201,20,MAG,Kevin Magnussen,McLaren,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,12,9,6,2,70,56,01:18.8,78819,199.185
+202,44,HAM,Lewis Hamilton,Mercedes,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,Brakes,2,17,9,0,46,24,01:18.9,78942,198.875
+203,44,HAM,Lewis Hamilton,Mercedes,2014,Austrian Grand Prix,Red Bull Ring,Finished,9,2,2,18,71,41,01:12.2,72217,215.65
+204,77,BOT,Valtteri Bottas,Williams,2014,Austrian Grand Prix,Red Bull Ring,Finished,2,3,3,15,71,63,01:12.6,72581,214.568
+205,14,ALO,Fernando Alonso,Ferrari,2014,Austrian Grand Prix,Red Bull Ring,Finished,4,5,5,10,71,58,01:12.6,72595,214.527
+206,20,MAG,Kevin Magnussen,McLaren,2014,Austrian Grand Prix,Red Bull Ring,Finished,6,7,7,6,71,53,01:12.7,72746,214.081
+207,44,HAM,Lewis Hamilton,Mercedes,2014,British Grand Prix,Silverstone Circuit,Finished,6,1,1,25,52,26,01:37.2,97176,218.239
+208,77,BOT,Valtteri Bottas,Williams,2014,British Grand Prix,Silverstone Circuit,Finished,14,2,4,18,52,34,01:38.3,98264,215.822
+209,14,ALO,Fernando Alonso,Ferrari,2014,British Grand Prix,Silverstone Circuit,Finished,16,6,8,8,52,52,01:38.6,98587,215.115
+210,20,MAG,Kevin Magnussen,McLaren,2014,British Grand Prix,Silverstone Circuit,Finished,5,7,10,6,52,32,01:38.7,98677,214.919
+211,14,ALO,Fernando Alonso,Ferrari,2014,Hungarian Grand Prix,Hungaroring,Finished,5,2,5,18,70,40,01:27.4,87419,180.413
+212,44,HAM,Lewis Hamilton,Mercedes,2014,Hungarian Grand Prix,Hungaroring,Finished,22,3,4,15,70,36,01:27.4,87380,180.494
+213,77,BOT,Valtteri Bottas,Williams,2014,Hungarian Grand Prix,Hungaroring,Finished,3,8,3,4,70,63,01:26.9,86850,181.595
+214,20,MAG,Kevin Magnussen,McLaren,2014,Hungarian Grand Prix,Hungaroring,Finished,21,12,10,0,70,41,01:28.9,88883,177.442
+215,77,BOT,Valtteri Bottas,Williams,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,6,3,4,15,44,40,01:52.7,112716,223.698
+216,14,ALO,Fernando Alonso,Ferrari,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,4,7,11,6,44,29,01:53.9,113879,221.413
+217,20,MAG,Kevin Magnussen,McLaren,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,7,12,15,0,44,28,01:54.2,114203,220.785
+218,44,HAM,Lewis Hamilton,Mercedes,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,Retired,2,19,10,0,38,33,01:53.7,113707,221.748
+219,44,HAM,Lewis Hamilton,Mercedes,2014,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,1,25,53,29,01:28.0,88004,236.975
+220,77,BOT,Valtteri Bottas,Williams,2014,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,4,5,12,53,50,01:28.6,88559,235.49
+221,20,MAG,Kevin Magnussen,McLaren,2014,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,10,12,1,53,34,01:29.3,89283,233.58
+222,14,ALO,Fernando Alonso,Ferrari,2014,Italian Grand Prix,Autodromo Nazionale di Monza,Engine,7,21,16,0,28,23,01:29.7,89680,232.546
+223,44,HAM,Lewis Hamilton,Mercedes,2014,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,1,1,25,60,39,01:50.4,110417,165.137
+224,14,ALO,Fernando Alonso,Ferrari,2014,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,4,6,12,60,27,01:52.1,112115,162.636
+225,20,MAG,Kevin Magnussen,McLaren,2014,Singapore Grand Prix,Marina Bay Street Circuit,Finished,9,10,2,1,60,48,01:51.6,111639,163.33
+226,77,BOT,Valtteri Bottas,Williams,2014,Singapore Grand Prix,Marina Bay Street Circuit,Finished,8,11,7,0,60,25,01:52.5,112515,162.058
+227,44,HAM,Lewis Hamilton,Mercedes,2014,Japanese Grand Prix,Suzuka Circuit,Finished,2,1,1,25,44,39,01:51.6,111600,187.322
+228,77,BOT,Valtteri Bottas,Williams,2014,Japanese Grand Prix,Suzuka Circuit,Finished,3,6,13,8,44,41,01:54.1,114103,183.213
+229,20,MAG,Kevin Magnussen,McLaren,2014,Japanese Grand Prix,Suzuka Circuit,+1 Lap,7,14,9,0,43,38,01:53.5,113510,184.17
+230,44,HAM,Lewis Hamilton,Mercedes,2014,United States Grand Prix,Circuit of the Americas,Finished,2,1,4,25,56,49,01:41.9,101929,194.712
+231,77,BOT,Valtteri Bottas,Williams,2014,United States Grand Prix,Circuit of the Americas,Finished,3,5,6,10,56,55,01:42.5,102505,193.617
+232,14,ALO,Fernando Alonso,Ferrari,2014,United States Grand Prix,Circuit of the Americas,Finished,6,6,2,8,56,47,01:41.5,101474,195.585
+233,20,MAG,Kevin Magnussen,McLaren,2014,United States Grand Prix,Circuit of the Americas,Finished,7,8,14,4,56,29,01:44.3,104287,190.309
+234,44,HAM,Lewis Hamilton,Mercedes,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,2,2,1,18,71,62,01:13.6,73555,210.895
+235,14,ALO,Fernando Alonso,Ferrari,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,8,6,10,8,71,55,01:14.3,74313,208.744
+236,20,MAG,Kevin Magnussen,McLaren,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,7,9,11,2,71,62,01:14.5,74544,208.097
+237,77,BOT,Valtteri Bottas,Williams,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,4,10,9,1,70,64,01:14.2,74229,208.98
+238,44,HAM,Lewis Hamilton,Mercedes,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,1,4,50,55,49,01:45.6,105599,189.342
+239,77,BOT,Valtteri Bottas,Williams,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,3,6,30,55,54,01:45.7,105727,189.113
+240,14,ALO,Fernando Alonso,Ferrari,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,8,9,12,4,55,45,01:47.4,107424,186.126
+241,20,MAG,Kevin Magnussen,McLaren,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,9,11,10,0,55,37,01:46.8,106824,187.171
+242,44,HAM,Lewis Hamilton,Mercedes,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,1,1,25,58,50,01:30.9,90945,209.915
+243,44,HAM,Lewis Hamilton,Mercedes,2015,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,1,5,25,57,38,01:37.9,97857,199.098
+244,77,BOT,Valtteri Bottas,Williams,2015,Bahrain Grand Prix,Bahrain International Circuit,Finished,5,4,6,12,57,16,01:38.1,98095,198.615
+245,14,ALO,Fernando Alonso,McLaren,2015,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,14,11,13,0,56,38,01:39.0,98992,196.815
+246,44,HAM,Lewis Hamilton,Mercedes,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,2,1,18,66,54,01:28.3,88270,189.849
+247,77,BOT,Valtteri Bottas,Williams,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,4,5,12,66,44,01:30.7,90711,184.74
+248,14,ALO,Fernando Alonso,McLaren,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Brakes,13,20,18,0,26,23,01:33.4,93387,179.446
+249,44,HAM,Lewis Hamilton,Mercedes,2015,Monaco Grand Prix,Circuit de Monaco,Finished,1,3,3,15,78,42,01:18.7,78676,152.692
+250,77,BOT,Valtteri Bottas,Williams,2015,Monaco Grand Prix,Circuit de Monaco,Finished,16,14,6,0,78,74,01:18.9,78944,152.173
+251,14,ALO,Fernando Alonso,McLaren,2015,Monaco Grand Prix,Circuit de Monaco,Gearbox,13,19,16,0,41,36,01:20.5,80459,149.308
+252,44,HAM,Lewis Hamilton,Mercedes,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,3,25,70,64,01:17.5,77472,202.648
+253,77,BOT,Valtteri Bottas,Williams,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,4,3,6,15,70,67,01:17.9,77922,201.478
+254,14,ALO,Fernando Alonso,McLaren,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,Engine,13,20,18,0,44,41,01:19.6,79580,197.28
+255,44,HAM,Lewis Hamilton,Mercedes,2015,Austrian Grand Prix,Red Bull Ring,Finished,1,2,2,18,71,60,01:11.5,71475,217.888
+256,77,BOT,Valtteri Bottas,Williams,2015,Austrian Grand Prix,Red Bull Ring,Finished,6,5,7,10,71,52,01:12.2,72248,215.557
+257,44,HAM,Lewis Hamilton,Mercedes,2015,British Grand Prix,Silverstone Circuit,Finished,1,1,1,25,52,29,01:37.1,97093,218.425
+258,77,BOT,Valtteri Bottas,Williams,2015,British Grand Prix,Silverstone Circuit,Finished,4,5,5,10,52,32,01:37.5,97513,217.484
+259,14,ALO,Fernando Alonso,McLaren,2015,British Grand Prix,Silverstone Circuit,+1 Lap,17,10,12,1,51,30,01:38.9,98883,214.471
+260,14,ALO,Fernando Alonso,McLaren,2015,Hungarian Grand Prix,Hungaroring,Finished,15,5,10,10,69,67,01:27.3,87311,180.637
+261,44,HAM,Lewis Hamilton,Mercedes,2015,Hungarian Grand Prix,Hungaroring,Finished,1,6,3,8,69,68,01:25.7,85727,183.974
+262,77,BOT,Valtteri Bottas,Williams,2015,Hungarian Grand Prix,Hungaroring,Finished,6,13,8,0,69,51,01:27.1,87058,181.161
+263,44,HAM,Lewis Hamilton,Mercedes,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,1,2,25,43,34,01:52.5,112504,224.12
+264,77,BOT,Valtteri Bottas,Williams,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,Power Unit,3,9,10,2,43,23,01:54.6,114646,219.932
+265,14,ALO,Fernando Alonso,McLaren,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,20,13,5,0,42,34,01:53.7,113692,221.778
+266,44,HAM,Lewis Hamilton,Mercedes,2015,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,1,25,53,48,01:26.7,86672,240.617
+267,77,BOT,Valtteri Bottas,Williams,2015,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,6,4,6,12,53,49,01:27.5,87525,238.272
+268,14,ALO,Fernando Alonso,McLaren,2015,Italian Grand Prix,Autodromo Nazionale di Monza,+6 Laps,16,18,15,0,47,42,01:29.3,89285,233.575
+269,77,BOT,Valtteri Bottas,Williams,2015,Singapore Grand Prix,Marina Bay Street Circuit,Finished,7,5,10,10,61,49,01:51.3,111342,163.765
+270,14,ALO,Fernando Alonso,McLaren,2015,Singapore Grand Prix,Marina Bay Street Circuit,Gearbox,12,17,16,0,33,27,01:53.3,113325,160.9
+271,44,HAM,Lewis Hamilton,Mercedes,2015,Singapore Grand Prix,Marina Bay Street Circuit,Throttle,5,18,14,0,32,24,01:52.5,112505,162.072
+272,44,HAM,Lewis Hamilton,Mercedes,2015,Japanese Grand Prix,Suzuka Circuit,Finished,2,1,1,25,53,33,01:36.1,96145,217.434
+273,77,BOT,Valtteri Bottas,Williams,2015,Japanese Grand Prix,Suzuka Circuit,Finished,3,5,8,10,53,41,01:38.2,98241,212.795
+274,14,ALO,Fernando Alonso,McLaren,2015,Japanese Grand Prix,Suzuka Circuit,+1 Lap,12,11,16,0,52,45,01:39.6,99614,209.862
+275,44,HAM,Lewis Hamilton,Mercedes,2015,United States Grand Prix,Circuit of the Americas,Finished,2,1,2,25,56,48,01:40.7,100738,197.014
+276,14,ALO,Fernando Alonso,McLaren,2015,United States Grand Prix,Circuit of the Americas,Finished,9,11,11,0,56,55,01:44.3,104323,190.243
+277,77,BOT,Valtteri Bottas,Williams,2015,United States Grand Prix,Circuit of the Americas,Retired,16,19,19,0,5,3,02:31.9,151939,130.623
+278,44,HAM,Lewis Hamilton,Mercedes,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,2,2,2,18,71,67,01:20.7,80723,191.945
+279,77,BOT,Valtteri Bottas,Williams,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,6,3,4,15,71,68,01:21.6,81585,189.917
+280,44,HAM,Lewis Hamilton,Mercedes,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,2,2,1,18,71,51,01:14.8,74832,207.296
+281,77,BOT,Valtteri Bottas,Williams,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,7,5,10,10,70,61,01:16.0,76039,204.005
+282,14,ALO,Fernando Alonso,McLaren,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,20,15,15,0,70,54,01:16.5,76519,202.726
+283,44,HAM,Lewis Hamilton,Mercedes,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,1,18,55,44,01:44.5,104517,191.302
+284,77,BOT,Valtteri Bottas,Williams,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,6,13,11,0,54,45,01:46.5,106464,187.804
+285,14,ALO,Fernando Alonso,McLaren,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,+2 Laps,16,17,3,0,53,52,01:44.8,104796,190.793
+286,44,HAM,Lewis Hamilton,Mercedes,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,2,4,18,57,48,01:30.6,90646,210.608
+287,77,BOT,Valtteri Bottas,Williams,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,16,8,14,4,57,51,01:32.7,92725,205.886
+288,14,ALO,Fernando Alonso,McLaren,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,Collision,11,21,11,0,16,14,01:32.6,92553,206.268
+289,44,HAM,Lewis Hamilton,Mercedes,2016,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,3,2,15,57,43,01:34.7,94677,205.785
+290,77,BOT,Valtteri Bottas,Williams,2016,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,6,9,15,2,56,37,01:37.1,97077,200.698
+291,1,VER,Max Verstappen,Red Bull,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,1,6,25,66,36,01:28.8,88816,188.682
+292,77,BOT,Valtteri Bottas,Williams,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,7,5,8,10,66,60,01:29.1,89081,188.12
+293,14,ALO,Fernando Alonso,McLaren,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Engine,10,19,13,0,45,41,01:29.8,89750,186.718
+294,44,HAM,Lewis Hamilton,Mercedes,2016,Monaco Grand Prix,Circuit de Monaco,Finished,3,1,1,25,78,71,01:17.9,77939,154.135
+295,14,ALO,Fernando Alonso,McLaren,2016,Monaco Grand Prix,Circuit de Monaco,Finished,9,5,8,10,78,72,01:19.2,79170,151.739
+296,77,BOT,Valtteri Bottas,Williams,2016,Monaco Grand Prix,Circuit de Monaco,+1 Lap,10,12,10,0,77,66,01:19.2,79223,151.637
+297,1,VER,Max Verstappen,Red Bull,2016,Monaco Grand Prix,Circuit de Monaco,Accident,0,18,18,0,34,34,01:26.6,86563,138.779
+298,44,HAM,Lewis Hamilton,Mercedes,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,2,25,70,68,01:16.0,75981,206.625
+299,77,BOT,Valtteri Bottas,Williams,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,7,3,10,15,70,68,01:16.9,76938,204.055
+300,1,VER,Max Verstappen,Red Bull,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,5,4,4,12,70,49,01:16.3,76319,205.71
+301,14,ALO,Fernando Alonso,McLaren,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,10,11,13,0,69,67,01:17.3,77307,203.081
+302,44,HAM,Lewis Hamilton,Mercedes,2016,Azerbaijan Grand Prix,Baku City Circuit,Finished,10,5,2,10,51,42,01:46.8,106822,202.306
+303,77,BOT,Valtteri Bottas,Williams,2016,Azerbaijan Grand Prix,Baku City Circuit,Finished,8,6,9,8,51,50,01:47.6,107604,200.836
+304,1,VER,Max Verstappen,Red Bull,2016,Azerbaijan Grand Prix,Baku City Circuit,Finished,9,8,3,4,51,50,01:47.0,106973,202.021
+305,14,ALO,Fernando Alonso,McLaren,2016,Azerbaijan Grand Prix,Baku City Circuit,Gearbox,13,19,18,0,42,27,01:49.1,109101,198.08
+306,44,HAM,Lewis Hamilton,Mercedes,2016,Austrian Grand Prix,Red Bull Ring,Finished,1,1,1,25,71,67,01:08.4,68411,227.647
+307,1,VER,Max Verstappen,Red Bull,2016,Austrian Grand Prix,Red Bull Ring,Finished,8,2,5,18,71,69,01:09.6,69618,223.7
+308,77,BOT,Valtteri Bottas,Williams,2016,Austrian Grand Prix,Red Bull Ring,+1 Lap,7,9,12,2,70,55,01:10.2,70210,221.814
+309,14,ALO,Fernando Alonso,McLaren,2016,Austrian Grand Prix,Red Bull Ring,Injury,14,18,20,0,64,44,01:11.0,71020,219.284
+310,44,HAM,Lewis Hamilton,Mercedes,2016,British Grand Prix,Silverstone Circuit,Finished,1,1,3,25,52,45,01:35.8,95771,221.44
+311,1,VER,Max Verstappen,Red Bull,2016,British Grand Prix,Silverstone Circuit,Finished,3,2,6,18,52,41,01:36.4,96407,219.979
+312,14,ALO,Fernando Alonso,McLaren,2016,British Grand Prix,Silverstone Circuit,+1 Lap,9,13,2,0,51,43,01:35.7,95669,221.676
+313,77,BOT,Valtteri Bottas,Williams,2016,British Grand Prix,Silverstone Circuit,+1 Lap,6,14,9,0,51,45,01:37.4,97383,217.775
+314,44,HAM,Lewis Hamilton,Mercedes,2016,Hungarian Grand Prix,Hungaroring,Finished,2,1,3,25,70,69,01:23.8,83849,188.095
+315,1,VER,Max Verstappen,Red Bull,2016,Hungarian Grand Prix,Hungaroring,Finished,4,5,7,10,70,40,01:24.7,84687,186.234
+316,14,ALO,Fernando Alonso,McLaren,2016,Hungarian Grand Prix,Hungaroring,+1 Lap,7,7,8,6,69,62,01:25.0,84958,185.639
+317,77,BOT,Valtteri Bottas,Williams,2016,Hungarian Grand Prix,Hungaroring,+1 Lap,10,9,11,2,69,59,01:25.3,85273,184.954
+318,44,HAM,Lewis Hamilton,Mercedes,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,21,3,1,15,44,40,01:51.6,111583,225.969
+319,14,ALO,Fernando Alonso,McLaren,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,22,7,15,6,44,43,01:54.5,114484,220.243
+320,77,BOT,Valtteri Bottas,Williams,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,8,8,12,4,44,31,01:54.1,114120,220.946
+321,1,VER,Max Verstappen,Red Bull,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,2,11,7,0,44,32,01:53.3,113281,222.582
+322,44,HAM,Lewis Hamilton,Mercedes,2016,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,2,4,18,53,27,01:26.3,86303,241.646
+323,77,BOT,Valtteri Bottas,Williams,2016,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,6,10,8,53,46,01:26.7,86708,240.517
+324,1,VER,Max Verstappen,Red Bull,2016,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,7,7,8,6,53,50,01:26.4,86405,241.361
+325,14,ALO,Fernando Alonso,McLaren,2016,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,12,14,1,0,52,51,01:25.3,85340,244.373
+326,44,HAM,Lewis Hamilton,Mercedes,2016,Singapore Grand Prix,Marina Bay Street Circuit,Finished,3,3,3,15,61,52,01:47.8,107752,169.221
+327,1,VER,Max Verstappen,Red Bull,2016,Singapore Grand Prix,Marina Bay Street Circuit,Finished,4,6,5,8,61,46,01:49.1,109050,167.207
+328,14,ALO,Fernando Alonso,McLaren,2016,Singapore Grand Prix,Marina Bay Street Circuit,Finished,9,7,12,6,61,49,01:51.2,111249,163.902
+329,77,BOT,Valtteri Bottas,Williams,2016,Singapore Grand Prix,Marina Bay Street Circuit,Overheating,10,20,13,0,35,17,01:51.4,111368,163.727
+330,1,VER,Max Verstappen,Red Bull,2016,Japanese Grand Prix,Suzuka Circuit,Finished,3,2,6,18,53,43,01:36.4,96386,216.89
+331,44,HAM,Lewis Hamilton,Mercedes,2016,Japanese Grand Prix,Suzuka Circuit,Finished,2,3,2,15,53,36,01:35.2,95152,219.703
+332,77,BOT,Valtteri Bottas,Williams,2016,Japanese Grand Prix,Suzuka Circuit,Finished,11,10,15,1,53,33,01:37.8,97844,213.658
+333,14,ALO,Fernando Alonso,McLaren,2016,Japanese Grand Prix,Suzuka Circuit,+1 Lap,15,16,19,0,52,29,01:38.2,98208,212.866
+334,44,HAM,Lewis Hamilton,Mercedes,2016,United States Grand Prix,Circuit of the Americas,Finished,1,1,4,25,56,45,01:42.4,102386,193.842
+335,14,ALO,Fernando Alonso,McLaren,2016,United States Grand Prix,Circuit of the Americas,Finished,12,5,10,10,56,36,01:43.5,103502,191.752
+336,77,BOT,Valtteri Bottas,Williams,2016,United States Grand Prix,Circuit of the Americas,+1 Lap,8,16,18,0,55,34,01:45.0,104977,189.058
+337,1,VER,Max Verstappen,Red Bull,2016,United States Grand Prix,Circuit of the Americas,Gearbox,4,20,5,0,28,28,01:42.4,102424,193.77
+338,44,HAM,Lewis Hamilton,Mercedes,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,1,1,4,25,71,66,01:22.6,82596,187.592
+339,1,VER,Max Verstappen,Red Bull,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,3,4,6,12,71,66,01:22.9,82887,186.934
+340,77,BOT,Valtteri Bottas,Williams,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,8,8,11,4,71,65,01:23.5,83540,185.472
+341,14,ALO,Fernando Alonso,McLaren,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,11,13,16,0,70,69,01:23.7,83668,185.189
+342,44,HAM,Lewis Hamilton,Mercedes,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,1,3,25,71,44,01:25.6,85639,181.137
+343,1,VER,Max Verstappen,Red Bull,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,3,1,15,71,67,01:25.3,85305,181.846
+344,14,ALO,Fernando Alonso,McLaren,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,10,10,12,1,71,70,01:27.1,87104,178.09
+345,77,BOT,Valtteri Bottas,Williams,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,11,11,4,0,71,70,01:26.1,86062,180.246
+346,44,HAM,Lewis Hamilton,Mercedes,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,5,25,55,37,01:45.1,105137,190.174
+347,1,VER,Max Verstappen,Red Bull,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,4,7,12,55,36,01:45.2,105187,190.084
+348,14,ALO,Fernando Alonso,McLaren,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,9,10,2,1,55,50,01:44.5,104495,191.343
+349,77,BOT,Valtteri Bottas,Williams,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,Suspension,11,21,19,0,6,4,01:47.8,107837,185.413
+350,44,HAM,Lewis Hamilton,Mercedes,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,2,6,18,57,44,01:27.0,87033,219.351
+351,77,BOT,Valtteri Bottas,Mercedes,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,3,3,2,15,57,56,01:26.6,86593,220.465
+352,1,VER,Max Verstappen,Red Bull,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,5,5,10,57,43,01:27.0,86964,219.525
+353,14,ALO,Fernando Alonso,McLaren,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Fuel,12,14,17,0,50,48,01:30.1,90077,211.938
+354,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Suspension,17,15,7,0,46,46,01:27.6,87568,218.011
+355,18,STR,Lance Stroll,Williams,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Brakes,20,16,14,0,40,38,01:29.4,89389,213.569
+356,44,HAM,Lewis Hamilton,Mercedes,2017,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,2,1,18,57,46,01:32.8,92798,209.952
+357,77,BOT,Valtteri Bottas,Mercedes,2017,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,3,5,15,57,33,01:34.1,94087,207.076
+358,14,ALO,Fernando Alonso,McLaren,2017,Bahrain Grand Prix,Bahrain International Circuit,Power Unit,15,14,14,0,54,47,01:35.6,95595,203.809
+359,18,STR,Lance Stroll,Williams,2017,Bahrain Grand Prix,Bahrain International Circuit,Collision,12,17,15,0,12,10,01:36.3,96303,202.311
+360,1,VER,Max Verstappen,Red Bull,2017,Bahrain Grand Prix,Bahrain International Circuit,Brakes,6,18,16,0,11,4,01:36.7,96681,201.52
+361,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Bahrain Grand Prix,Bahrain International Circuit,Electrical,20,19,19,0,8,6,01:38.7,98718,197.362
+362,44,HAM,Lewis Hamilton,Mercedes,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,1,1,25,66,64,01:23.6,83593,200.471
+363,14,ALO,Fernando Alonso,McLaren,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,7,12,4,0,64,64,01:23.9,83894,199.752
+364,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,11,14,12,0,64,15,01:26.4,86371,194.023
+365,18,STR,Lance Stroll,Williams,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,18,16,16,0,64,50,01:26.8,86838,192.98
+366,77,BOT,Valtteri Bottas,Mercedes,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Power Unit,3,17,5,0,38,28,01:24.7,84696,197.86
+367,77,BOT,Valtteri Bottas,Mercedes,2017,Monaco Grand Prix,Circuit de Monaco,Finished,3,4,9,12,78,22,01:16.4,76439,157.16
+368,1,VER,Max Verstappen,Red Bull,2017,Monaco Grand Prix,Circuit de Monaco,Finished,4,5,8,10,78,56,01:16.3,76329,157.387
+369,44,HAM,Lewis Hamilton,Mercedes,2017,Monaco Grand Prix,Circuit de Monaco,Finished,13,7,5,6,78,54,01:15.8,75825,158.433
+370,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Monaco Grand Prix,Circuit de Monaco,Finished,11,10,7,1,78,44,01:16.3,76313,157.42
+371,18,STR,Lance Stroll,Williams,2017,Monaco Grand Prix,Circuit de Monaco,Brakes,17,15,6,0,71,71,01:16.1,76075,157.912
+372,44,HAM,Lewis Hamilton,Mercedes,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,1,25,70,64,01:14.6,74551,210.588
+373,77,BOT,Valtteri Bottas,Mercedes,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,2,5,18,70,65,01:15.9,75894,206.862
+374,18,STR,Lance Stroll,Williams,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,17,9,6,2,69,64,01:16.0,75979,206.63
+375,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,18,12,10,0,69,65,01:16.3,76341,205.65
+376,14,ALO,Fernando Alonso,McLaren,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,Power Unit,12,16,4,0,66,63,01:15.9,75853,206.974
+377,1,VER,Max Verstappen,Red Bull,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,Electrical,5,18,18,0,10,9,01:17.2,77187,203.396
+378,77,BOT,Valtteri Bottas,Mercedes,2017,Azerbaijan Grand Prix,Baku City Circuit,Finished,2,2,3,18,51,51,01:43.9,103925,207.946
+379,18,STR,Lance Stroll,Williams,2017,Azerbaijan Grand Prix,Baku City Circuit,Finished,8,3,5,15,51,44,01:45.1,105108,205.605
+380,44,HAM,Lewis Hamilton,Mercedes,2017,Azerbaijan Grand Prix,Baku City Circuit,Finished,1,5,2,10,51,46,01:43.5,103469,208.862
+381,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Azerbaijan Grand Prix,Baku City Circuit,Finished,12,7,11,6,51,45,01:46.3,106312,203.277
+382,14,ALO,Fernando Alonso,McLaren,2017,Azerbaijan Grand Prix,Baku City Circuit,Finished,19,9,6,2,51,49,01:45.2,105168,205.488
+383,1,VER,Max Verstappen,Red Bull,2017,Azerbaijan Grand Prix,Baku City Circuit,Oil pressure,5,18,12,0,12,10,01:46.4,106398,203.112
+384,77,BOT,Valtteri Bottas,Mercedes,2017,Austrian Grand Prix,Red Bull Ring,Finished,1,1,5,25,71,51,01:07.8,67847,229.115
+385,44,HAM,Lewis Hamilton,Mercedes,2017,Austrian Grand Prix,Red Bull Ring,Finished,8,4,1,12,71,69,01:07.4,67411,230.597
+386,18,STR,Lance Stroll,Williams,2017,Austrian Grand Prix,Red Bull Ring,+1 Lap,18,10,13,1,70,67,01:08.8,68777,226.017
+387,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Austrian Grand Prix,Red Bull Ring,Hydraulics,15,18,18,0,29,23,01:10.4,70402,220.8
+388,44,HAM,Lewis Hamilton,Mercedes,2017,British Grand Prix,Silverstone Circuit,Finished,1,1,1,25,51,48,01:30.6,90621,234.025
+389,77,BOT,Valtteri Bottas,Mercedes,2017,British Grand Prix,Silverstone Circuit,Finished,9,2,3,18,51,46,01:30.9,90905,233.294
+390,1,VER,Max Verstappen,Red Bull,2017,British Grand Prix,Silverstone Circuit,Finished,4,4,2,12,51,51,01:30.7,90678,233.878
+391,20,MAG,Kevin Magnussen,Haas F1 Team,2017,British Grand Prix,Silverstone Circuit,+1 Lap,16,12,9,0,50,41,01:32.7,92683,228.818
+392,18,STR,Lance Stroll,Williams,2017,British Grand Prix,Silverstone Circuit,+1 Lap,15,16,12,0,50,44,01:33.4,93400,227.062
+393,14,ALO,Fernando Alonso,McLaren,2017,British Grand Prix,Silverstone Circuit,Power Unit,20,18,18,0,32,22,01:34.3,94263,224.983
+394,77,BOT,Valtteri Bottas,Mercedes,2017,Hungarian Grand Prix,Hungaroring,Finished,3,3,6,15,70,68,01:21.2,81214,194.198
+395,44,HAM,Lewis Hamilton,Mercedes,2017,Hungarian Grand Prix,Hungaroring,Finished,4,4,5,12,70,66,01:20.8,80818,195.149
+396,1,VER,Max Verstappen,Red Bull,2017,Hungarian Grand Prix,Hungaroring,Finished,5,5,3,10,70,44,01:20.5,80490,195.944
+397,14,ALO,Fernando Alonso,McLaren,2017,Hungarian Grand Prix,Hungaroring,Finished,7,6,1,8,70,69,01:20.2,80182,196.697
+398,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Hungarian Grand Prix,Hungaroring,+1 Lap,15,13,13,0,69,67,01:22.1,82100,192.102
+399,18,STR,Lance Stroll,Williams,2017,Hungarian Grand Prix,Hungaroring,+1 Lap,17,14,16,0,69,53,01:22.8,82830,190.409
+400,44,HAM,Lewis Hamilton,Mercedes,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,1,2,25,44,35,01:46.6,106603,236.526
+401,77,BOT,Valtteri Bottas,Mercedes,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,3,5,4,10,44,37,01:47.7,107721,234.071
+402,18,STR,Lance Stroll,Williams,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,15,11,16,0,44,41,01:50.5,110543,228.095
+403,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,12,15,9,0,44,36,01:49.1,109126,231.057
+404,14,ALO,Fernando Alonso,McLaren,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Engine,10,18,19,0,25,12,01:51.7,111720,225.692
+405,1,VER,Max Verstappen,Red Bull,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,Engine,5,19,18,0,7,5,01:51.0,111022,227.111
+406,44,HAM,Lewis Hamilton,Mercedes,2017,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,2,25,53,50,01:23.5,83488,249.793
+407,77,BOT,Valtteri Bottas,Mercedes,2017,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,4,2,3,18,53,53,01:23.5,83488,249.095
+408,18,STR,Lance Stroll,Williams,2017,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,7,10,6,53,51,01:25.6,85625,243.559
+409,1,VER,Max Verstappen,Red Bull,2017,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,13,10,5,1,52,48,01:24.4,84351,247.238
+410,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,9,11,15,0,52,48,01:26.0,86037,242.393
+411,14,ALO,Fernando Alonso,McLaren,2017,Italian Grand Prix,Autodromo Nazionale di Monza,Gearbox,19,17,13,0,50,44,01:25.9,85871,242.861
+412,44,HAM,Lewis Hamilton,Mercedes,2017,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,1,1,25,58,55,01:45.0,105008,173.643
+413,77,BOT,Valtteri Bottas,Mercedes,2017,Singapore Grand Prix,Marina Bay Street Circuit,Finished,6,3,3,15,58,54,01:45.4,105405,172.989
+414,18,STR,Lance Stroll,Williams,2017,Singapore Grand Prix,Marina Bay Street Circuit,Finished,18,8,9,4,58,55,01:47.5,107512,169.599
+415,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Singapore Grand Prix,Marina Bay Street Circuit,Engine,16,13,10,0,50,44,01:47.6,107585,169.484
+416,14,ALO,Fernando Alonso,McLaren,2017,Singapore Grand Prix,Marina Bay Street Circuit,Collision damage,8,17,17,0,8,6,02:13.6,133579,136.503
+417,44,HAM,Lewis Hamilton,Mercedes,2017,Japanese Grand Prix,Suzuka Circuit,Finished,1,1,6,25,53,43,01:33.8,93780,222.917
+418,1,VER,Max Verstappen,Red Bull,2017,Japanese Grand Prix,Suzuka Circuit,Finished,4,2,5,18,53,51,01:33.7,93730,223.036
+419,77,BOT,Valtteri Bottas,Mercedes,2017,Japanese Grand Prix,Suzuka Circuit,Finished,6,4,1,12,53,50,01:33.1,93144,224.439
+420,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Japanese Grand Prix,Suzuka Circuit,Finished,12,8,13,4,53,50,01:35.3,95338,219.274
+421,14,ALO,Fernando Alonso,McLaren,2017,Japanese Grand Prix,Suzuka Circuit,+1 Lap,20,11,12,0,52,45,01:35.1,95111,219.797
+422,18,STR,Lance Stroll,Williams,2017,Japanese Grand Prix,Suzuka Circuit,Wheel,15,16,9,0,45,37,01:34.5,94548,221.106
+423,44,HAM,Lewis Hamilton,Mercedes,2017,United States Grand Prix,Circuit of the Americas,Finished,1,1,5,25,56,48,01:38.8,98776,200.927
+424,1,VER,Max Verstappen,Red Bull,2017,United States Grand Prix,Circuit of the Americas,Finished,16,4,4,12,56,39,01:38.1,98060,202.394
+425,77,BOT,Valtteri Bottas,Mercedes,2017,United States Grand Prix,Circuit of the Americas,Finished,3,5,2,10,56,54,01:37.8,97767,203.001
+426,18,STR,Lance Stroll,Williams,2017,United States Grand Prix,Circuit of the Americas,+1 Lap,15,11,7,0,55,38,01:39.7,99666,199.133
+427,20,MAG,Kevin Magnussen,Haas F1 Team,2017,United States Grand Prix,Circuit of the Americas,+1 Lap,17,16,3,0,55,51,01:37.9,97893,202.739
+428,14,ALO,Fernando Alonso,McLaren,2017,United States Grand Prix,Circuit of the Americas,Engine,8,17,18,0,24,21,01:41.5,101537,195.463
+429,1,VER,Max Verstappen,Red Bull,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,2,1,2,25,71,65,01:18.9,78892,196.4
+430,77,BOT,Valtteri Bottas,Mercedes,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,4,2,3,18,71,70,01:19.4,79374,195.207
+431,18,STR,Lance Stroll,Williams,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,11,6,12,8,70,53,01:21.1,81062,191.142
+432,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,14,8,14,4,70,68,01:21.2,81214,190.784
+433,44,HAM,Lewis Hamilton,Mercedes,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,3,9,5,2,70,69,01:19.9,79945,193.813
+434,14,ALO,Fernando Alonso,McLaren,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,18,10,11,1,70,50,01:21.0,81014,191.255
+435,77,BOT,Valtteri Bottas,Mercedes,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,2,5,18,71,58,01:12.5,72466,214.064
+436,44,HAM,Lewis Hamilton,Mercedes,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,20,4,2,12,71,63,01:11.8,71845,215.914
+437,1,VER,Max Verstappen,Red Bull,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,5,1,10,71,64,01:11.0,71044,218.349
+438,14,ALO,Fernando Alonso,McLaren,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,6,8,10,4,71,57,01:13.5,73451,211.193
+439,18,STR,Lance Stroll,Williams,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,+2 Laps,16,16,3,0,69,69,01:11.9,71862,215.863
+440,77,BOT,Valtteri Bottas,Mercedes,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,1,25,55,52,01:40.7,100650,198.652
+441,44,HAM,Lewis Hamilton,Mercedes,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,3,18,55,51,01:41.5,101473,197.041
+442,1,VER,Max Verstappen,Red Bull,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,5,5,10,55,43,01:42.0,102028,195.969
+443,14,ALO,Fernando Alonso,McLaren,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,11,9,4,2,54,26,01:43.4,103378,193.41
+444,20,MAG,Kevin Magnussen,Haas F1 Team,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,14,13,19,0,54,50,01:43.9,103928,192.387
+445,18,STR,Lance Stroll,Williams,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,15,18,6,0,54,52,01:42.3,102324,195.402
+446,44,HAM,Lewis Hamilton,Mercedes,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,2,3,18,58,50,01:26.4,86444,220.845
+447,14,ALO,Fernando Alonso,McLaren,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,10,5,7,10,58,57,01:27.0,86978,219.489
+448,1,VER,Max Verstappen,Red Bull,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,4,6,5,8,58,54,01:26.9,86880,219.737
+449,77,BOT,Valtteri Bottas,Mercedes,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,15,8,8,4,58,54,01:27.0,87019,219.386
+450,18,STR,Lance Stroll,Williams,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,13,14,14,0,58,55,01:28.5,88511,215.688
+451,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Wheel,5,17,17,0,22,21,01:29.5,89534,213.224
+452,77,BOT,Valtteri Bottas,Mercedes,2018,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,2,1,18,57,22,01:33.7,93740,207.842
+453,44,HAM,Lewis Hamilton,Mercedes,2018,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,3,2,15,57,51,01:34.0,93953,207.371
+454,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Bahrain Grand Prix,Bahrain International Circuit,Finished,6,5,5,10,57,29,01:34.3,94327,206.549
+455,14,ALO,Fernando Alonso,McLaren,2018,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,13,7,4,6,56,47,01:34.2,94168,206.898
+456,18,STR,Lance Stroll,Williams,2018,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,20,14,13,0,56,40,01:35.1,95058,204.961
+457,44,HAM,Lewis Hamilton,Mercedes,2018,Azerbaijan Grand Prix,Baku City Circuit,Finished,2,1,2,25,51,35,01:45.4,105412,205.012
+458,14,ALO,Fernando Alonso,McLaren,2018,Azerbaijan Grand Prix,Baku City Circuit,Finished,12,7,12,6,51,32,01:47.4,107449,201.126
+459,18,STR,Lance Stroll,Williams,2018,Azerbaijan Grand Prix,Baku City Circuit,Finished,10,8,8,4,51,50,01:46.8,106815,202.319
+460,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Azerbaijan Grand Prix,Baku City Circuit,Finished,15,13,16,0,51,35,01:48.2,108155,199.813
+461,77,BOT,Valtteri Bottas,Mercedes,2018,Azerbaijan Grand Prix,Baku City Circuit,Puncture,3,14,1,0,48,37,01:45.1,105149,205.525
+462,1,VER,Max Verstappen,Red Bull,2018,Azerbaijan Grand Prix,Baku City Circuit,Collision,5,16,5,0,39,31,01:45.8,105771,204.316
+463,44,HAM,Lewis Hamilton,Mercedes,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,1,3,25,66,64,01:19.1,79133,211.77
+464,77,BOT,Valtteri Bottas,Mercedes,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,2,5,18,66,56,01:19.5,79478,210.85
+465,1,VER,Max Verstappen,Red Bull,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,5,3,4,15,66,62,01:19.4,79422,210.999
+466,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,7,6,6,8,65,64,01:20.2,80246,208.832
+467,14,ALO,Fernando Alonso,McLaren,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,8,8,7,4,65,64,01:20.7,80727,207.588
+468,18,STR,Lance Stroll,Williams,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,18,11,12,0,64,60,01:22.1,82095,204.129
+469,44,HAM,Lewis Hamilton,Mercedes,2018,Monaco Grand Prix,Circuit de Monaco,Finished,3,3,8,15,78,15,01:16.3,76270,157.508
+470,77,BOT,Valtteri Bottas,Mercedes,2018,Monaco Grand Prix,Circuit de Monaco,Finished,5,5,9,10,78,21,01:16.3,76312,157.422
+471,1,VER,Max Verstappen,Red Bull,2018,Monaco Grand Prix,Circuit de Monaco,Finished,20,9,1,2,78,60,01:14.3,74260,161.772
+472,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Monaco Grand Prix,Circuit de Monaco,Finished,19,13,17,0,78,20,01:17.5,77476,155.057
+473,18,STR,Lance Stroll,Williams,2018,Monaco Grand Prix,Circuit de Monaco,+2 Laps,17,17,3,0,76,61,01:14.9,74944,160.295
+474,14,ALO,Fernando Alonso,McLaren,2018,Monaco Grand Prix,Circuit de Monaco,Gearbox,7,20,13,0,52,23,01:17.0,77018,155.979
+475,77,BOT,Valtteri Bottas,Mercedes,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,2,3,18,68,51,01:14.0,73992,212.179
+476,1,VER,Max Verstappen,Red Bull,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,3,1,15,68,65,01:13.9,73864,212.547
+477,44,HAM,Lewis Hamilton,Mercedes,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,4,5,6,10,68,66,01:14.2,74183,211.633
+478,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,11,13,8,0,67,65,01:15.4,75401,208.214
+479,14,ALO,Fernando Alonso,McLaren,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,Exhaust,14,18,17,0,40,33,01:16.2,76180,206.085
+480,1,VER,Max Verstappen,Red Bull,2018,Austrian Grand Prix,Red Bull Ring,Finished,4,1,4,25,71,70,01:07.4,67442,230.491
+481,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Austrian Grand Prix,Red Bull Ring,+1 Lap,8,5,7,10,70,70,01:08.5,68476,227.01
+482,14,ALO,Fernando Alonso,McLaren,2018,Austrian Grand Prix,Red Bull Ring,+1 Lap,13,8,9,4,70,69,01:08.7,68661,226.399
+483,18,STR,Lance Stroll,Williams,2018,Austrian Grand Prix,Red Bull Ring,+2 Laps,14,14,18,0,69,68,01:09.2,69203,224.626
+484,44,HAM,Lewis Hamilton,Mercedes,2018,Austrian Grand Prix,Red Bull Ring,Fuel pressure,2,16,3,0,62,58,01:07.2,67241,231.18
+485,77,BOT,Valtteri Bottas,Mercedes,2018,Austrian Grand Prix,Red Bull Ring,Hydraulics,1,19,15,0,13,12,01:09.0,69044,225.143
+486,44,HAM,Lewis Hamilton,Mercedes,2018,British Grand Prix,Silverstone Circuit,Finished,1,2,3,18,52,52,01:31.2,91245,232.424
+487,77,BOT,Valtteri Bottas,Mercedes,2018,British Grand Prix,Silverstone Circuit,Finished,4,4,4,12,52,43,01:31.4,91377,232.089
+488,14,ALO,Fernando Alonso,McLaren,2018,British Grand Prix,Silverstone Circuit,Finished,13,8,10,4,52,52,01:33.5,93482,226.862
+489,20,MAG,Kevin Magnussen,Haas F1 Team,2018,British Grand Prix,Silverstone Circuit,Finished,7,9,12,2,52,48,01:33.6,93604,226.567
+490,18,STR,Lance Stroll,Williams,2018,British Grand Prix,Silverstone Circuit,Finished,19,12,15,0,52,48,01:33.9,93869,225.927
+491,1,VER,Max Verstappen,Red Bull,2018,British Grand Prix,Silverstone Circuit,Brakes,5,15,6,0,46,42,01:32.0,92007,230.499
+492,44,HAM,Lewis Hamilton,Mercedes,2018,Hungarian Grand Prix,Hungaroring,Finished,1,1,4,25,70,63,01:21.1,81107,194.454
+493,77,BOT,Valtteri Bottas,Mercedes,2018,Hungarian Grand Prix,Hungaroring,Finished,2,5,8,10,70,39,01:21.7,81736,192.957
+494,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Hungarian Grand Prix,Hungaroring,+1 Lap,9,7,6,6,69,60,01:21.3,81302,193.987
+495,14,ALO,Fernando Alonso,McLaren,2018,Hungarian Grand Prix,Hungaroring,+1 Lap,11,8,9,4,69,68,01:22.1,82090,192.125
+496,18,STR,Lance Stroll,Williams,2018,Hungarian Grand Prix,Hungaroring,+2 Laps,15,17,12,0,68,51,01:22.7,82660,190.8
+497,1,VER,Max Verstappen,Red Bull,2018,Hungarian Grand Prix,Hungaroring,Injured,7,19,19,0,5,5,01:24.0,83985,187.79
+498,44,HAM,Lewis Hamilton,Mercedes,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,2,3,18,44,23,01:46.7,106721,236.264
+499,1,VER,Max Verstappen,Red Bull,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,7,3,4,15,44,36,01:46.9,106946,235.767
+500,77,BOT,Valtteri Bottas,Mercedes,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,19,4,1,12,44,32,01:46.3,106286,237.231
+501,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,9,8,5,4,44,36,01:47.9,107937,233.602
+502,18,STR,Lance Stroll,Williams,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,17,13,16,0,43,39,01:49.3,109287,230.717
+503,44,HAM,Lewis Hamilton,Mercedes,2018,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,1,1,25,53,30,01:22.5,82497,252.794
+504,77,BOT,Valtteri Bottas,Mercedes,2018,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,4,3,3,15,53,39,01:22.9,82907,251.544
+505,1,VER,Max Verstappen,Red Bull,2018,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,5,6,10,53,41,01:23.6,83609,249.432
+506,18,STR,Lance Stroll,Williams,2018,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,10,9,9,2,52,52,01:24.1,84056,248.106
+507,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,11,16,7,0,52,44,01:23.8,83768,248.959
+508,14,ALO,Fernando Alonso,McLaren,2018,Italian Grand Prix,Autodromo Nazionale di Monza,Engine,13,18,17,0,9,18,01:25.2,85229,244.691
+509,44,HAM,Lewis Hamilton,Mercedes,2018,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,1,2,25,61,56,01:42.9,102913,177.108
+510,1,VER,Max Verstappen,Red Bull,2018,Singapore Grand Prix,Marina Bay Street Circuit,Finished,2,2,5,18,61,54,01:43.3,103345,176.368
+511,77,BOT,Valtteri Bottas,Mercedes,2018,Singapore Grand Prix,Marina Bay Street Circuit,Finished,4,4,8,12,61,42,01:44.7,104720,174.052
+512,14,ALO,Fernando Alonso,McLaren,2018,Singapore Grand Prix,Marina Bay Street Circuit,Finished,11,7,4,6,61,57,01:43.2,103164,176.677
+513,18,STR,Lance Stroll,Williams,2018,Singapore Grand Prix,Marina Bay Street Circuit,+1 Lap,20,14,17,0,60,53,01:46.0,106033,171.897
+514,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Singapore Grand Prix,Marina Bay Street Circuit,+2 Laps,16,18,1,0,59,50,01:41.9,101905,178.86
+515,44,HAM,Lewis Hamilton,Mercedes,2018,Japanese Grand Prix,Suzuka Circuit,Finished,1,1,2,25,53,51,01:32.8,92785,225.307
+516,77,BOT,Valtteri Bottas,Mercedes,2018,Japanese Grand Prix,Suzuka Circuit,Finished,2,2,3,18,53,46,01:33.1,93110,224.521
+517,1,VER,Max Verstappen,Red Bull,2018,Japanese Grand Prix,Suzuka Circuit,Finished,3,3,6,15,53,50,01:33.4,93367,223.903
+518,14,ALO,Fernando Alonso,McLaren,2018,Japanese Grand Prix,Suzuka Circuit,+1 Lap,18,14,7,0,52,28,01:33.9,93943,222.53
+519,18,STR,Lance Stroll,Williams,2018,Japanese Grand Prix,Suzuka Circuit,+1 Lap,14,17,5,0,52,41,01:33.4,93354,223.934
+520,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Japanese Grand Prix,Suzuka Circuit,Collision damage,12,20,20,0,8,6,01:39.9,99908,209.244
+521,1,VER,Max Verstappen,Red Bull,2018,United States Grand Prix,Circuit of the Americas,Finished,18,2,2,18,56,45,01:38.2,98246,202.011
+522,44,HAM,Lewis Hamilton,Mercedes,2018,United States Grand Prix,Circuit of the Americas,Finished,1,3,1,15,56,40,01:37.4,97392,203.782
+523,77,BOT,Valtteri Bottas,Mercedes,2018,United States Grand Prix,Circuit of the Americas,Finished,3,5,4,10,56,46,01:38.5,98470,201.551
+524,18,STR,Lance Stroll,Williams,2018,United States Grand Prix,Circuit of the Americas,+2 Laps,15,14,10,0,54,38,01:39.6,99646,199.173
+525,14,ALO,Fernando Alonso,McLaren,2018,United States Grand Prix,Circuit of the Americas,Collision,13,18,17,0,1,5,01:40.9,100933,196.633
+526,1,VER,Max Verstappen,Red Bull,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,2,1,2,25,71,66,01:19.2,79186,195.67
+527,44,HAM,Lewis Hamilton,Mercedes,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,3,4,8,12,71,49,01:20.7,80728,191.933
+528,77,BOT,Valtteri Bottas,Mercedes,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,5,5,1,10,70,65,01:18.7,78741,196.776
+529,18,STR,Lance Stroll,Williams,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,17,12,18,0,69,27,01:23.0,82983,186.717
+530,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,16,15,10,0,69,45,01:21.9,81874,189.246
+531,14,ALO,Fernando Alonso,McLaren,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Engine,12,20,20,0,3,3,01:24.2,84197,184.025
+532,44,HAM,Lewis Hamilton,Mercedes,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,1,7,25,71,70,01:11.8,71795,216.065
+533,1,VER,Max Verstappen,Red Bull,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,2,4,18,71,61,01:11.6,71578,216.72
+534,77,BOT,Valtteri Bottas,Mercedes,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,3,5,1,10,71,65,01:10.5,70540,219.909
+535,20,MAG,Kevin Magnussen,Haas F1 Team,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,10,9,10,2,71,67,01:12.2,72206,214.835
+536,14,ALO,Fernando Alonso,McLaren,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,+2 Laps,17,17,14,0,69,57,01:12.6,72643,213.542
+537,18,STR,Lance Stroll,Williams,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,+2 Laps,19,18,5,0,69,68,01:11.8,71751,216.197
+538,44,HAM,Lewis Hamilton,Mercedes,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,5,25,55,53,01:41.4,101357,197.267
+539,1,VER,Max Verstappen,Red Bull,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,3,6,15,55,51,01:41.9,101909,196.198
+540,77,BOT,Valtteri Bottas,Mercedes,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,5,2,10,55,42,01:41.0,100953,198.056
+541,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,13,10,9,1,54,53,01:42.8,102822,194.456
+542,14,ALO,Fernando Alonso,McLaren,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,15,11,7,0,54,53,01:42.4,102393,195.271
+543,18,STR,Lance Stroll,Williams,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,20,13,16,0,54,53,01:44.0,104033,192.192
+544,77,BOT,Valtteri Bottas,Mercedes,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,2,1,1,26,58,57,01:25.6,85580,223.075
+545,44,HAM,Lewis Hamilton,Mercedes,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,2,2,18,58,57,01:26.1,86057,221.839
+546,1,VER,Max Verstappen,Red Bull,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,4,3,3,15,58,57,01:26.3,86256,221.327
+547,16,LEC,Charles Leclerc,Ferrari,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,5,4,10,58,58,01:26.9,86926,219.621
+548,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,7,6,9,8,58,56,01:28.2,88182,216.493
+549,10,GAS,Pierre Gasly,Red Bull,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,17,11,5,0,57,39,01:27.2,87229,218.858
+550,4,NOR,Lando Norris,McLaren,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,8,12,16,0,57,17,01:28.6,88555,215.581
+551,63,RUS,George Russell,Williams,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,+2 Laps,19,16,17,0,56,55,01:28.7,88713,215.197
+552,55,SAI,Carlos Sainz,McLaren,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,Engine,18,20,20,0,9,9,01:30.9,90899,210.022
+553,44,HAM,Lewis Hamilton,Mercedes,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,1,2,25,57,36,01:33.5,93528,208.314
+554,77,BOT,Valtteri Bottas,Mercedes,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,4,2,3,18,57,42,01:34.2,94209,206.808
+555,16,LEC,Charles Leclerc,Ferrari,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,3,1,16,57,38,01:33.4,93411,208.575
+556,1,VER,Max Verstappen,Red Bull,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,5,4,9,12,57,47,01:35.3,95311,204.417
+557,4,NOR,Lando Norris,McLaren,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,6,12,8,57,14,01:35.8,95777,203.422
+558,10,GAS,Pierre Gasly,Red Bull,2019,Bahrain Grand Prix,Bahrain International Circuit,Finished,13,8,8,4,57,42,01:35.3,95291,204.46
+559,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,6,13,13,0,56,41,01:35.9,95892,203.178
+560,63,RUS,George Russell,Williams,2019,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,19,15,19,0,56,14,01:37.3,97313,200.211
+561,55,SAI,Carlos Sainz,McLaren,2019,Bahrain Grand Prix,Bahrain International Circuit,Collision damage,7,19,10,0,53,42,01:35.6,95586,203.829
+562,77,BOT,Valtteri Bottas,Mercedes,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,1,1,2,25,51,50,01:44.0,104024,207.748
+563,44,HAM,Lewis Hamilton,Mercedes,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,2,2,3,18,51,48,01:44.2,104166,207.465
+564,1,VER,Max Verstappen,Red Bull,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,4,4,5,12,51,39,01:44.8,104794,206.221
+565,16,LEC,Charles Leclerc,Ferrari,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,8,5,1,11,51,50,01:43.0,103009,209.795
+566,55,SAI,Carlos Sainz,McLaren,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,9,7,10,6,51,43,01:45.8,105807,204.247
+567,4,NOR,Lando Norris,McLaren,2019,Azerbaijan Grand Prix,Baku City Circuit,Finished,7,8,6,4,51,43,01:45.4,105394,205.047
+568,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Azerbaijan Grand Prix,Baku City Circuit,+1 Lap,12,13,14,0,50,42,01:46.7,106682,202.572
+569,63,RUS,George Russell,Williams,2019,Azerbaijan Grand Prix,Baku City Circuit,+2 Laps,16,15,16,0,49,42,01:47.3,107251,201.497
+570,10,GAS,Pierre Gasly,Red Bull,2019,Azerbaijan Grand Prix,Baku City Circuit,Transmission,0,17,8,0,38,34,01:45.7,105712,204.43
+571,44,HAM,Lewis Hamilton,Mercedes,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,1,1,26,66,54,01:18.5,78492,213.499
+572,77,BOT,Valtteri Bottas,Mercedes,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,2,2,18,66,55,01:18.7,78737,212.835
+573,1,VER,Max Verstappen,Red Bull,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,3,3,15,66,57,01:19.8,79769,210.081
+574,16,LEC,Charles Leclerc,Ferrari,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,5,5,5,10,66,57,01:20.0,80002,209.469
+575,10,GAS,Pierre Gasly,Red Bull,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,6,6,6,8,66,57,01:20.5,80536,208.08
+576,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,8,7,9,6,66,66,01:20.8,80770,207.478
+577,55,SAI,Carlos Sainz,McLaren,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,12,8,10,4,66,59,01:20.9,80859,207.249
+578,63,RUS,George Russell,Williams,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,19,17,17,0,65,64,01:22.4,82382,203.418
+579,4,NOR,Lando Norris,McLaren,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Collision,10,20,18,0,44,28,01:22.6,82561,202.977
+580,44,HAM,Lewis Hamilton,Mercedes,2019,Monaco Grand Prix,Circuit de Monaco,Finished,1,1,6,25,78,9,01:16.2,76167,157.721
+581,77,BOT,Valtteri Bottas,Mercedes,2019,Monaco Grand Prix,Circuit de Monaco,Finished,2,3,2,15,78,65,01:15.2,75163,159.828
+582,1,VER,Max Verstappen,Red Bull,2019,Monaco Grand Prix,Circuit de Monaco,Finished,3,4,7,12,78,9,01:16.2,76229,157.593
+583,10,GAS,Pierre Gasly,Red Bull,2019,Monaco Grand Prix,Circuit de Monaco,Finished,8,5,1,11,78,72,01:14.3,74279,161.73
+584,55,SAI,Carlos Sainz,McLaren,2019,Monaco Grand Prix,Circuit de Monaco,Finished,9,6,5,8,78,32,01:15.9,75891,158.295
+585,4,NOR,Lando Norris,McLaren,2019,Monaco Grand Prix,Circuit de Monaco,Finished,12,11,13,0,78,61,01:16.4,76413,157.214
+586,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Monaco Grand Prix,Circuit de Monaco,+1 Lap,5,14,17,0,77,61,01:17.0,76992,156.031
+587,63,RUS,George Russell,Williams,2019,Monaco Grand Prix,Circuit de Monaco,+1 Lap,19,15,18,0,77,76,01:17.0,77038,155.938
+588,16,LEC,Charles Leclerc,Ferrari,2019,Monaco Grand Prix,Circuit de Monaco,Collision,15,20,20,0,16,6,01:19.2,79151,151.775
+589,44,HAM,Lewis Hamilton,Mercedes,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,1,4,25,70,62,01:14.8,74813,209.851
+590,16,LEC,Charles Leclerc,Ferrari,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,3,2,15,70,63,01:14.4,74356,211.14
+591,77,BOT,Valtteri Bottas,Mercedes,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,6,4,1,13,70,69,01:13.1,73078,214.833
+592,1,VER,Max Verstappen,Red Bull,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,9,5,3,10,70,67,01:14.8,74767,209.98
+593,10,GAS,Pierre Gasly,Red Bull,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,5,8,10,4,69,51,01:16.2,76157,206.147
+594,55,SAI,Carlos Sainz,McLaren,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,+1 Lap,11,11,15,0,69,37,01:16.5,76471,205.301
+595,63,RUS,George Russell,Williams,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,+2 Laps,18,16,17,0,68,58,01:17.2,77241,203.254
+596,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,+2 Laps,0,17,19,0,68,41,01:17.3,77309,203.075
+597,4,NOR,Lando Norris,McLaren,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,Suspension,8,20,20,0,8,4,01:18.0,78023,201.217
+598,1,VER,Max Verstappen,Red Bull,2019,Austrian Grand Prix,Red Bull Ring,Finished,2,1,1,26,71,60,01:07.5,67475,230.378
+599,16,LEC,Charles Leclerc,Ferrari,2019,Austrian Grand Prix,Red Bull Ring,Finished,1,2,3,18,71,58,01:08.0,67994,228.62
+600,77,BOT,Valtteri Bottas,Mercedes,2019,Austrian Grand Prix,Red Bull Ring,Finished,3,3,7,15,71,53,01:08.6,68565,226.716
+601,44,HAM,Lewis Hamilton,Mercedes,2019,Austrian Grand Prix,Red Bull Ring,Finished,4,5,5,10,71,69,01:08.0,68050,228.432
+602,4,NOR,Lando Norris,McLaren,2019,Austrian Grand Prix,Red Bull Ring,+1 Lap,5,6,8,8,70,69,01:08.7,68699,226.274
+603,10,GAS,Pierre Gasly,Red Bull,2019,Austrian Grand Prix,Red Bull Ring,+1 Lap,8,7,9,6,70,63,01:08.8,68790,225.974
+604,55,SAI,Carlos Sainz,McLaren,2019,Austrian Grand Prix,Red Bull Ring,+1 Lap,19,8,6,4,70,53,01:08.1,68117,228.207
+605,63,RUS,George Russell,Williams,2019,Austrian Grand Prix,Red Bull Ring,+2 Laps,0,18,19,0,69,52,01:09.9,69926,222.303
+606,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Austrian Grand Prix,Red Bull Ring,+2 Laps,10,19,10,0,69,69,01:08.9,68903,225.604
+607,44,HAM,Lewis Hamilton,Mercedes,2019,British Grand Prix,Silverstone Circuit,Finished,2,1,1,26,52,52,01:27.4,87369,242.735
+608,77,BOT,Valtteri Bottas,Mercedes,2019,British Grand Prix,Silverstone Circuit,Finished,1,2,2,18,52,47,01:27.4,87406,242.633
+609,16,LEC,Charles Leclerc,Ferrari,2019,British Grand Prix,Silverstone Circuit,Finished,3,3,5,15,52,47,01:29.3,89313,237.452
+610,10,GAS,Pierre Gasly,Red Bull,2019,British Grand Prix,Silverstone Circuit,Finished,5,4,8,12,52,48,01:29.5,89544,236.839
+611,1,VER,Max Verstappen,Red Bull,2019,British Grand Prix,Silverstone Circuit,Finished,4,5,4,10,52,45,01:29.3,89272,237.561
+612,55,SAI,Carlos Sainz,McLaren,2019,British Grand Prix,Silverstone Circuit,Finished,13,6,11,8,52,50,01:29.8,89757,236.277
+613,4,NOR,Lando Norris,McLaren,2019,British Grand Prix,Silverstone Circuit,Finished,8,11,10,0,52,50,01:29.6,89636,236.596
+614,63,RUS,George Russell,Williams,2019,British Grand Prix,Silverstone Circuit,+1 Lap,19,14,16,0,51,50,01:31.0,91013,233.017
+615,20,MAG,Kevin Magnussen,Haas F1 Team,2019,British Grand Prix,Silverstone Circuit,Collision,16,20,19,0,6,5,01:33.4,93425,227.001
+616,44,HAM,Lewis Hamilton,Mercedes,2019,Hungarian Grand Prix,Hungaroring,Finished,3,1,2,25,70,60,01:18.5,78528,200.84
+617,1,VER,Max Verstappen,Red Bull,2019,Hungarian Grand Prix,Hungaroring,Finished,1,2,1,19,70,69,01:17.1,77103,204.552
+618,16,LEC,Charles Leclerc,Ferrari,2019,Hungarian Grand Prix,Hungaroring,Finished,4,4,5,12,70,49,01:20.5,80493,195.937
+619,55,SAI,Carlos Sainz,McLaren,2019,Hungarian Grand Prix,Hungaroring,+1 Lap,8,5,10,10,69,66,01:21.0,81002,194.706
+620,10,GAS,Pierre Gasly,Red Bull,2019,Hungarian Grand Prix,Hungaroring,+1 Lap,6,6,12,8,69,65,01:21.0,81045,194.602
+621,77,BOT,Valtteri Bottas,Mercedes,2019,Hungarian Grand Prix,Hungaroring,+1 Lap,2,8,3,4,69,59,01:19.3,79331,198.807
+622,4,NOR,Lando Norris,McLaren,2019,Hungarian Grand Prix,Hungaroring,+1 Lap,7,9,13,2,69,65,01:21.2,81188,194.26
+623,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Hungarian Grand Prix,Hungaroring,+1 Lap,14,13,11,0,69,67,01:21.0,81008,194.691
+624,63,RUS,George Russell,Williams,2019,Hungarian Grand Prix,Hungaroring,+2 Laps,15,16,17,0,68,66,01:22.4,82386,191.435
+625,16,LEC,Charles Leclerc,Ferrari,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,1,4,25,44,23,01:46.7,106664,236.39
+626,44,HAM,Lewis Hamilton,Mercedes,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,3,2,3,18,44,24,01:46.6,106580,236.577
+627,77,BOT,Valtteri Bottas,Mercedes,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,4,3,2,15,44,27,01:46.5,106465,236.832
+628,23,ALB,Alexander Albon,Red Bull,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,17,5,5,10,44,41,01:47.5,107507,234.537
+629,4,NOR,Lando Norris,McLaren,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,Engine,11,11,8,0,43,21,01:48.3,108321,232.774
+630,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,8,12,11,0,43,33,01:48.7,108677,232.012
+631,63,RUS,George Russell,Williams,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,14,15,14,0,43,34,01:48.9,108860,231.622
+632,16,LEC,Charles Leclerc,Ferrari,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,1,4,25,53,47,01:23.0,83009,251.235
+633,77,BOT,Valtteri Bottas,Mercedes,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,2,3,18,53,47,01:22.9,82859,251.69
+634,44,HAM,Lewis Hamilton,Mercedes,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,3,1,16,53,51,01:21.8,81779,255.014
+635,23,ALB,Alexander Albon,Red Bull,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,8,6,6,8,53,45,01:23.4,83364,250.165
+636,1,VER,Max Verstappen,Red Bull,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,19,8,5,4,53,41,01:23.1,83143,250.83
+637,4,NOR,Lando Norris,McLaren,2019,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,16,10,11,1,52,52,01:24.0,84044,248.141
+638,63,RUS,George Russell,Williams,2019,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,14,14,16,0,52,51,01:24.8,84842,245.807
+639,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Hydraulics,11,18,14,0,43,38,01:24.4,84443,246.968
+640,55,SAI,Carlos Sainz,McLaren,2019,Italian Grand Prix,Autodromo Nazionale di Monza,Wheel,7,20,19,0,27,10,01:25.6,85637,243.525
+641,16,LEC,Charles Leclerc,Ferrari,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,2,4,18,61,59,01:44.7,104723,174.047
+642,1,VER,Max Verstappen,Red Bull,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,4,3,8,15,61,56,01:45.2,105176,173.298
+643,44,HAM,Lewis Hamilton,Mercedes,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,2,4,7,12,61,58,01:44.9,104914,173.73
+644,77,BOT,Valtteri Bottas,Mercedes,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,5,5,2,10,61,58,01:43.5,103534,176.046
+645,23,ALB,Alexander Albon,Red Bull,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,6,6,9,8,61,59,01:45.3,105260,173.159
+646,4,NOR,Lando Norris,McLaren,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,9,7,11,6,61,58,01:45.7,105716,172.412
+647,55,SAI,Carlos Sainz,McLaren,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,7,12,15,0,61,41,01:46.0,105969,172.001
+648,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Singapore Grand Prix,Marina Bay Street Circuit,Finished,13,17,1,0,61,58,01:42.3,102301,178.168
+649,63,RUS,George Russell,Williams,2019,Singapore Grand Prix,Marina Bay Street Circuit,Collision,18,20,20,0,34,29,01:48.3,108285,168.322
+650,77,BOT,Valtteri Bottas,Mercedes,2019,Japanese Grand Prix,Suzuka Circuit,Finished,3,1,4,25,52,49,01:31.9,91862,227.571
+651,44,HAM,Lewis Hamilton,Mercedes,2019,Japanese Grand Prix,Suzuka Circuit,Finished,4,3,1,16,52,45,01:31.0,90983,229.77
+652,23,ALB,Alexander Albon,Red Bull,2019,Japanese Grand Prix,Suzuka Circuit,Finished,6,4,8,12,52,36,01:32.8,92775,225.332
+653,55,SAI,Carlos Sainz,McLaren,2019,Japanese Grand Prix,Suzuka Circuit,Finished,7,5,12,10,52,46,01:33.6,93563,223.434
+654,16,LEC,Charles Leclerc,Ferrari,2019,Japanese Grand Prix,Suzuka Circuit,+1 Lap,2,6,2,8,51,48,01:31.6,91611,228.195
+655,4,NOR,Lando Norris,McLaren,2019,Japanese Grand Prix,Suzuka Circuit,+1 Lap,8,11,13,0,51,31,01:34.1,94116,222.121
+656,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Japanese Grand Prix,Suzuka Circuit,+1 Lap,19,15,3,0,51,49,01:31.7,91732,227.894
+657,63,RUS,George Russell,Williams,2019,Japanese Grand Prix,Suzuka Circuit,+2 Laps,18,16,18,0,50,27,01:35.5,95458,218.998
+658,1,VER,Max Verstappen,Red Bull,2019,Japanese Grand Prix,Suzuka Circuit,Brakes,5,18,20,0,14,10,01:37.2,97249,214.965
+659,44,HAM,Lewis Hamilton,Mercedes,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,3,1,4,25,71,66,01:19.5,79461,194.993
+660,77,BOT,Valtteri Bottas,Mercedes,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,6,3,5,15,71,66,01:19.5,79494,194.912
+661,16,LEC,Charles Leclerc,Ferrari,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,1,4,1,13,71,53,01:19.2,79232,195.557
+662,23,ALB,Alexander Albon,Red Bull,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,5,5,2,10,71,48,01:19.3,79325,195.328
+663,1,VER,Max Verstappen,Red Bull,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,4,6,11,8,71,65,01:20.4,80406,192.702
+664,55,SAI,Carlos Sainz,McLaren,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,7,13,10,0,70,66,01:20.3,80311,192.929
+665,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,17,15,20,0,69,53,01:21.7,81682,189.691
+666,63,RUS,George Russell,Williams,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,19,16,17,0,69,69,01:21.3,81286,190.615
+667,4,NOR,Lando Norris,McLaren,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+13 Laps,8,20,19,0,48,46,01:21.6,81643,189.782
+668,77,BOT,Valtteri Bottas,Mercedes,2019,United States Grand Prix,Circuit of the Americas,Finished,1,1,2,25,56,37,01:37.0,96957,204.696
+669,44,HAM,Lewis Hamilton,Mercedes,2019,United States Grand Prix,Circuit of the Americas,Finished,5,2,7,18,56,26,01:38.4,98446,201.6
+670,1,VER,Max Verstappen,Red Bull,2019,United States Grand Prix,Circuit of the Americas,Finished,3,3,5,15,56,42,01:38.2,98214,202.077
+671,16,LEC,Charles Leclerc,Ferrari,2019,United States Grand Prix,Circuit of the Americas,Finished,4,4,1,13,56,44,01:36.2,96169,206.374
+672,23,ALB,Alexander Albon,Red Bull,2019,United States Grand Prix,Circuit of the Americas,Finished,6,5,3,10,56,42,01:38.0,98029,202.458
+673,4,NOR,Lando Norris,McLaren,2019,United States Grand Prix,Circuit of the Americas,Finished,8,7,4,6,56,44,01:38.1,98074,202.365
+674,55,SAI,Carlos Sainz,McLaren,2019,United States Grand Prix,Circuit of the Americas,+1 Lap,7,8,15,4,55,44,01:40.8,100844,196.806
+675,63,RUS,George Russell,Williams,2019,United States Grand Prix,Circuit of the Americas,+2 Laps,18,17,17,0,54,54,01:41.2,101239,196.039
+676,20,MAG,Kevin Magnussen,Haas F1 Team,2019,United States Grand Prix,Circuit of the Americas,Brakes,12,18,12,0,52,42,01:40.3,100347,197.781
+677,1,VER,Max Verstappen,Red Bull,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,1,2,25,71,61,01:10.9,70862,218.909
+678,55,SAI,Carlos Sainz,McLaren,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,20,3,16,15,71,63,01:13.2,73158,212.039
+679,44,HAM,Lewis Hamilton,Mercedes,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,3,7,3,6,71,46,01:11.1,71082,218.232
+680,4,NOR,Lando Norris,McLaren,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,10,8,7,4,71,63,01:12.3,72328,214.472
+681,20,MAG,Kevin Magnussen,Haas F1 Team,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,9,11,17,0,71,65,01:13.3,73262,211.738
+682,63,RUS,George Russell,Williams,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,18,12,19,0,71,57,01:13.8,73752,210.331
+683,23,ALB,Alexander Albon,Red Bull,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,14,4,0,71,52,01:11.1,71087,218.217
+684,16,LEC,Charles Leclerc,Ferrari,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Collision,14,18,6,0,65,63,01:11.4,71423,217.19
+685,77,BOT,Valtteri Bottas,Mercedes,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,Power Unit,4,20,1,0,51,43,01:10.7,70698,219.417
+686,44,HAM,Lewis Hamilton,Mercedes,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,1,26,55,53,01:39.3,99283,201.387
+687,1,VER,Max Verstappen,Red Bull,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,5,18,55,55,01:41.1,101119,197.731
+688,16,LEC,Charles Leclerc,Ferrari,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,3,4,15,55,44,01:40.4,100442,199.064
+689,77,BOT,Valtteri Bottas,Mercedes,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,20,4,2,12,55,31,01:39.7,99715,200.515
+690,23,ALB,Alexander Albon,Red Bull,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,5,6,8,8,55,49,01:42.2,102219,195.603
+691,4,NOR,Lando Norris,McLaren,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,6,8,12,4,54,50,01:43.0,103026,194.071
+692,55,SAI,Carlos Sainz,McLaren,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,8,10,7,1,54,43,01:41.3,101294,197.389
+693,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,14,14,19,0,54,22,01:43.8,103790,192.642
+694,63,RUS,George Russell,Williams,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,18,17,13,0,54,50,01:43.1,103074,193.981
+695,77,BOT,Valtteri Bottas,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,Finished,1,1,2,25,71,68,01:07.7,67657,229.758
+696,16,LEC,Charles Leclerc,Ferrari,2020,Austrian Grand Prix,Red Bull Ring,Finished,7,2,4,18,71,64,01:07.9,67901,228.933
+697,4,NOR,Lando Norris,McLaren,2020,Austrian Grand Prix,Red Bull Ring,Finished,3,3,1,16,71,71,01:07.5,67475,230.378
+698,44,HAM,Lewis Hamilton,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,Finished,5,4,3,12,71,67,01:07.7,67712,229.572
+699,55,SAI,Carlos Sainz,McLaren,2020,Austrian Grand Prix,Red Bull Ring,Finished,8,5,5,10,71,63,01:08.0,67974,228.687
+700,10,GAS,Pierre Gasly,AlphaTauri,2020,Austrian Grand Prix,Red Bull Ring,Finished,12,7,11,6,71,64,01:09.0,69025,225.205
+701,23,ALB,Alexander Albon,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,Electronics,4,13,7,0,67,50,01:08.4,68432,227.156
+702,63,RUS,George Russell,Williams,2020,Austrian Grand Prix,Red Bull Ring,Fuel pressure,17,15,14,0,49,49,01:09.3,69317,224.256
+703,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Austrian Grand Prix,Red Bull Ring,Brakes,16,17,20,0,24,23,01:10.7,70720,219.807
+704,1,VER,Max Verstappen,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,Electronics,2,20,15,0,11,5,01:09.4,69351,224.146
+705,44,HAM,Lewis Hamilton,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,Finished,1,1,3,25,71,68,01:06.7,66719,232.989
+706,77,BOT,Valtteri Bottas,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,Finished,4,2,7,18,71,62,01:07.5,67534,230.177
+707,1,VER,Max Verstappen,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,Finished,2,3,2,15,71,70,01:06.1,66145,235.01
+708,23,ALB,Alexander Albon,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,Finished,6,4,6,12,71,67,01:07.3,67299,230.981
+709,4,NOR,Lando Norris,McLaren,2020,Austrian Grand Prix,Red Bull Ring,Finished,9,5,5,10,71,66,01:07.2,67193,231.345
+710,55,SAI,Carlos Sainz,McLaren,2020,Austrian Grand Prix,Red Bull Ring,+1 Lap,3,9,1,3,70,68,01:05.6,65619,236.894
+711,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Austrian Grand Prix,Red Bull Ring,+1 Lap,15,12,11,0,70,69,01:08.0,68009,228.569
+712,10,GAS,Pierre Gasly,AlphaTauri,2020,Austrian Grand Prix,Red Bull Ring,+1 Lap,7,15,8,0,70,69,01:07.8,67827,229.183
+713,63,RUS,George Russell,Williams,2020,Austrian Grand Prix,Red Bull Ring,+2 Laps,11,16,16,0,69,36,01:08.6,68601,226.597
+714,16,LEC,Charles Leclerc,Ferrari,2020,Austrian Grand Prix,Red Bull Ring,Collision damage,14,19,19,0,4,3,01:35.4,95379,162.979
+715,44,HAM,Lewis Hamilton,Mercedes,2020,Hungarian Grand Prix,Hungaroring,Finished,1,1,1,26,70,70,01:16.6,76627,205.823
+716,1,VER,Max Verstappen,Red Bull,2020,Hungarian Grand Prix,Hungaroring,Finished,7,2,4,18,70,60,01:19.2,79184,199.176
+717,77,BOT,Valtteri Bottas,Mercedes,2020,Hungarian Grand Prix,Hungaroring,Finished,2,3,2,15,70,66,01:17.7,77665,203.072
+718,23,ALB,Alexander Albon,Red Bull,2020,Hungarian Grand Prix,Hungaroring,Finished,13,5,5,10,70,68,01:19.4,79440,198.534
+719,55,SAI,Carlos Sainz,McLaren,2020,Hungarian Grand Prix,Hungaroring,+1 Lap,9,9,15,2,69,68,01:20.5,80477,195.976
+720,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Hungarian Grand Prix,Hungaroring,+1 Lap,0,10,6,1,69,67,01:19.5,79457,198.492
+721,16,LEC,Charles Leclerc,Ferrari,2020,Hungarian Grand Prix,Hungaroring,+1 Lap,6,11,16,0,69,64,01:20.8,80821,195.142
+722,4,NOR,Lando Norris,McLaren,2020,Hungarian Grand Prix,Hungaroring,+1 Lap,8,13,8,0,69,42,01:19.9,79945,197.28
+723,63,RUS,George Russell,Williams,2020,Hungarian Grand Prix,Hungaroring,+1 Lap,12,18,9,0,69,67,01:20.0,79984,197.184
+724,10,GAS,Pierre Gasly,AlphaTauri,2020,Hungarian Grand Prix,Hungaroring,Engine,10,20,20,0,15,10,01:23.9,83939,187.893
+725,44,HAM,Lewis Hamilton,Mercedes,2020,British Grand Prix,Silverstone Circuit,Finished,1,1,3,25,52,45,01:29.2,89238,237.652
+726,1,VER,Max Verstappen,Red Bull,2020,British Grand Prix,Silverstone Circuit,Finished,3,2,1,19,52,52,01:27.1,87097,243.494
+727,16,LEC,Charles Leclerc,Ferrari,2020,British Grand Prix,Silverstone Circuit,Finished,4,3,9,15,52,49,01:29.8,89813,236.13
+728,4,NOR,Lando Norris,McLaren,2020,British Grand Prix,Silverstone Circuit,Finished,5,5,12,10,52,41,01:30.1,90058,235.488
+729,10,GAS,Pierre Gasly,AlphaTauri,2020,British Grand Prix,Silverstone Circuit,Finished,11,7,7,6,52,52,01:29.6,89603,236.684
+730,23,ALB,Alexander Albon,Red Bull,2020,British Grand Prix,Silverstone Circuit,Finished,12,8,2,4,52,52,01:28.7,88689,239.123
+731,77,BOT,Valtteri Bottas,Mercedes,2020,British Grand Prix,Silverstone Circuit,Finished,2,11,4,0,52,41,01:29.3,89265,237.58
+732,63,RUS,George Russell,Williams,2020,British Grand Prix,Silverstone Circuit,Finished,20,12,16,0,52,41,01:30.9,90862,233.404
+733,55,SAI,Carlos Sainz,McLaren,2020,British Grand Prix,Silverstone Circuit,Finished,7,13,10,0,52,47,01:29.9,89948,235.776
+734,1,VER,Max Verstappen,Red Bull,2020,British Grand Prix,Silverstone Circuit,Finished,4,1,2,25,52,46,01:29.5,89465,237.049
+735,44,HAM,Lewis Hamilton,Mercedes,2020,British Grand Prix,Silverstone Circuit,Finished,2,2,1,19,52,43,01:28.5,88451,239.766
+736,77,BOT,Valtteri Bottas,Mercedes,2020,British Grand Prix,Silverstone Circuit,Finished,1,3,4,15,52,44,01:29.8,89765,236.256
+737,16,LEC,Charles Leclerc,Ferrari,2020,British Grand Prix,Silverstone Circuit,Finished,8,4,8,12,52,39,01:30.6,90552,234.203
+738,23,ALB,Alexander Albon,Red Bull,2020,British Grand Prix,Silverstone Circuit,Finished,9,5,3,10,52,46,01:29.5,89477,237.017
+739,4,NOR,Lando Norris,McLaren,2020,British Grand Prix,Silverstone Circuit,Finished,10,9,11,2,52,49,01:30.7,90698,233.826
+740,10,GAS,Pierre Gasly,AlphaTauri,2020,British Grand Prix,Silverstone Circuit,Finished,7,11,7,0,52,52,01:30.1,90092,235.399
+741,55,SAI,Carlos Sainz,McLaren,2020,British Grand Prix,Silverstone Circuit,Finished,12,13,9,0,52,49,01:30.6,90556,234.193
+742,63,RUS,George Russell,Williams,2020,British Grand Prix,Silverstone Circuit,+1 Lap,15,18,17,0,51,50,01:31.4,91408,232.01
+743,20,MAG,Kevin Magnussen,Haas F1 Team,2020,British Grand Prix,Silverstone Circuit,Retired,17,20,20,0,43,39,01:31.8,91830,230.944
+744,44,HAM,Lewis Hamilton,Mercedes,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,1,2,25,66,63,01:19.8,79822,209.942
+745,1,VER,Max Verstappen,Red Bull,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,3,2,4,18,66,53,01:21.5,81477,205.677
+746,77,BOT,Valtteri Bottas,Mercedes,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,3,1,16,66,66,01:18.2,78183,214.343
+747,55,SAI,Carlos Sainz,McLaren,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,7,6,5,8,65,59,01:21.8,81771,204.938
+748,23,ALB,Alexander Albon,Red Bull,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,6,8,11,4,65,41,01:22.2,82194,203.883
+749,10,GAS,Pierre Gasly,AlphaTauri,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,10,9,17,2,65,44,01:22.5,82543,203.021
+750,4,NOR,Lando Norris,McLaren,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,8,10,13,1,65,56,01:22.4,82392,203.393
+751,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,16,15,19,0,65,64,01:23.5,83474,200.757
+752,63,RUS,George Russell,Williams,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,18,17,15,0,65,37,01:22.5,82503,203.119
+753,16,LEC,Charles Leclerc,Ferrari,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Electronics,9,20,20,0,38,35,01:24.0,83968,199.576
+754,44,HAM,Lewis Hamilton,Mercedes,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,1,2,25,44,28,01:47.8,107758,233.99
+755,77,BOT,Valtteri Bottas,Mercedes,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,2,2,5,18,44,27,01:48.0,107983,233.503
+756,1,VER,Max Verstappen,Red Bull,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,3,3,8,15,44,27,01:48.3,108305,232.809
+757,23,ALB,Alexander Albon,Red Bull,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,5,6,12,8,44,27,01:48.7,108736,231.886
+758,4,NOR,Lando Norris,McLaren,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,10,7,11,6,44,39,01:48.6,108552,232.279
+759,10,GAS,Pierre Gasly,AlphaTauri,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,12,8,3,4,44,29,01:47.8,107839,233.815
+760,16,LEC,Charles Leclerc,Ferrari,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,13,14,4,0,44,26,01:47.8,107840,233.813
+761,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,20,17,7,0,44,37,01:48.1,108083,233.287
+762,63,RUS,George Russell,Williams,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,Debris,15,19,18,0,9,5,01:51.8,111754,225.624
+763,10,GAS,Pierre Gasly,AlphaTauri,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,10,1,6,25,53,34,01:24.0,84037,248.162
+764,55,SAI,Carlos Sainz,McLaren,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,2,2,18,53,40,01:23.9,83882,248.62
+765,4,NOR,Lando Norris,McLaren,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,6,4,7,12,53,50,01:24.2,84232,247.587
+766,77,BOT,Valtteri Bottas,Mercedes,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,5,5,10,53,51,01:24.0,83961,248.386
+767,44,HAM,Lewis Hamilton,Mercedes,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,7,1,7,53,34,01:22.7,82746,252.033
+768,63,RUS,George Russell,Williams,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,19,14,9,0,53,39,01:24.4,84421,247.033
+769,23,ALB,Alexander Albon,Red Bull,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,9,15,15,0,53,48,01:24.9,84926,245.564
+770,1,VER,Max Verstappen,Red Bull,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Power Unit,5,17,17,0,30,10,01:25.5,85539,243.804
+771,16,LEC,Charles Leclerc,Ferrari,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Accident,13,18,19,0,23,19,01:26.0,86026,242.424
+772,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Italian Grand Prix,Autodromo Nazionale di Monza,Power Unit,15,19,18,0,17,10,01:25.8,85787,243.099
+773,44,HAM,Lewis Hamilton,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,2,1,1,26,63,63,01:15.5,75484,234.121
+774,77,BOT,Valtteri Bottas,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,1,2,2,18,63,63,01:15.9,75902,232.831
+775,16,LEC,Charles Leclerc,Ferrari,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,7,5,12,10,63,62,01:18.2,78173,226.067
+776,55,SAI,Carlos Sainz,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,10,7,11,6,63,62,01:18.1,78118,226.226
+777,4,NOR,Lando Norris,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,9,8,8,4,63,63,01:18.1,78069,226.368
+778,23,ALB,Alexander Albon,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,6,15,3,0,63,63,01:16.2,76177,231.991
+779,63,RUS,George Russell,Williams,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Accident,13,16,16,0,51,43,01:18.8,78811,224.237
+780,1,VER,Max Verstappen,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Puncture,3,17,5,0,50,44,01:17.6,77637,227.628
+781,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Illness,17,18,18,0,47,45,01:19.3,79273,222.93
+782,10,GAS,Pierre Gasly,AlphaTauri,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Water pressure,4,20,20,0,8,5,01:20.4,80403,219.797
+783,44,HAM,Lewis Hamilton,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,1,3,25,57,38,01:32.9,92864,209.803
+784,1,VER,Max Verstappen,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,2,1,19,57,48,01:32.0,92014,211.741
+785,23,ALB,Alexander Albon,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,4,3,10,15,57,41,01:33.7,93684,207.967
+786,4,NOR,Lando Norris,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,4,7,12,57,53,01:33.6,93588,208.18
+787,55,SAI,Carlos Sainz,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,15,5,5,10,57,46,01:33.4,93411,208.575
+788,10,GAS,Pierre Gasly,AlphaTauri,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,8,6,16,8,57,48,01:34.8,94817,205.482
+789,77,BOT,Valtteri Bottas,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,8,4,4,57,28,01:33.4,93352,208.706
+790,16,LEC,Charles Leclerc,Ferrari,2020,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,12,10,8,1,56,44,01:33.6,93625,208.098
+791,63,RUS,George Russell,Williams,2020,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,14,12,17,0,56,47,01:35.0,95042,204.995
+792,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,18,17,18,0,56,29,01:35.2,95241,204.567
+793,55,SAI,Carlos Sainz,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,8,4,9,12,87,80,00:57.2,57165,223.122
+794,23,ALB,Alexander Albon,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,12,6,8,8,87,52,00:57.1,57056,223.548
+795,77,BOT,Valtteri Bottas,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,8,2,4,87,60,00:56.6,56563,225.497
+796,63,RUS,George Russell,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,9,1,3,87,80,00:55.4,55404,230.214
+797,4,NOR,Lando Norris,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,19,10,11,1,87,85,00:57.3,57270,222.713
+798,10,GAS,Pierre Gasly,AlphaTauri,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,11,10,0,87,53,00:57.2,57220,222.908
+799,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Bahrain Grand Prix,Bahrain International Circuit,Finished,15,15,16,0,87,57,00:57.5,57516,221.76
+800,1,VER,Max Verstappen,Red Bull,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,2,25,55,14,01:41.0,100958,198.046
+801,77,BOT,Valtteri Bottas,Mercedes,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,3,18,55,40,01:41.1,101131,197.707
+802,44,HAM,Lewis Hamilton,Mercedes,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,3,5,15,55,37,01:41.4,101420,197.144
+803,23,ALB,Alexander Albon,Red Bull,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,5,4,4,12,55,42,01:41.2,101227,197.52
+804,4,NOR,Lando Norris,McLaren,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,4,5,12,10,55,53,01:42.0,101964,196.092
+805,55,SAI,Carlos Sainz,McLaren,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,6,11,8,55,48,01:41.9,101947,196.125
+806,10,GAS,Pierre Gasly,AlphaTauri,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,9,8,15,4,55,53,01:42.5,102474,195.116
+807,16,LEC,Charles Leclerc,Ferrari,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,12,13,10,0,54,24,01:41.9,101908,196.2
+808,63,RUS,George Russell,Williams,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,16,15,20,0,54,54,01:43.3,103328,193.504
+809,20,MAG,Kevin Magnussen,Haas F1 Team,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,20,18,13,0,54,50,01:42.0,101999,196.025
+810,44,HAM,Lewis Hamilton,Mercedes,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,2,1,4,25,56,44,01:34.0,94015,207.235
+811,1,VER,Max Verstappen,Red Bull,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,2,2,18,56,41,01:33.2,93228,208.984
+812,77,BOT,Valtteri Bottas,Mercedes,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,3,1,16,56,56,01:32.1,92090,211.566
+813,4,NOR,Lando Norris,McLaren,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,7,4,6,12,56,38,01:34.4,94396,206.398
+814,11,PER,Sergio Pérez,Red Bull,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,0,5,3,10,56,44,01:34.0,93970,207.334
+815,16,LEC,Charles Leclerc,Ferrari,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,4,6,11,8,56,39,01:35.0,94988,205.112
+816,55,SAI,Carlos Sainz,Ferrari,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,8,8,7,4,56,48,01:34.5,94509,206.151
+817,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,13,9,8,2,56,38,01:34.8,94761,205.603
+818,18,STR,Lance Stroll,Aston Martin,2021,Bahrain Grand Prix,Bahrain International Circuit,Finished,10,10,9,1,56,31,01:34.9,94865,205.378
+819,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,16,13,15,0,55,33,01:35.3,95250,204.548
+820,63,RUS,George Russell,Williams,2021,Bahrain Grand Prix,Bahrain International Circuit,+1 Lap,15,14,12,0,55,40,01:35.0,95036,205.008
+821,10,GAS,Pierre Gasly,AlphaTauri,2021,Bahrain Grand Prix,Bahrain International Circuit,Retired,5,17,5,0,52,48,01:34.1,94090,207.069
+822,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Bahrain Grand Prix,Bahrain International Circuit,Brakes,9,19,17,0,32,31,01:36.1,96063,202.816
+823,1,VER,Max Verstappen,Red Bull,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,3,1,2,25,63,60,01:17.5,77524,227.96
+824,44,HAM,Lewis Hamilton,Mercedes,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,1,2,1,19,63,60,01:16.7,76702,230.403
+825,4,NOR,Lando Norris,McLaren,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,7,3,3,15,63,63,01:18.3,78259,225.819
+826,16,LEC,Charles Leclerc,Ferrari,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,4,4,6,12,63,60,01:18.4,78379,225.473
+827,55,SAI,Carlos Sainz,Ferrari,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,11,5,7,10,63,60,01:18.5,78490,225.154
+828,10,GAS,Pierre Gasly,AlphaTauri,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,5,7,9,6,63,52,01:19.0,78994,223.718
+829,18,STR,Lance Stroll,Aston Martin,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,10,8,8,4,63,59,01:18.8,78782,224.32
+830,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,9,9,15,2,63,62,01:19.4,79422,222.512
+831,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,15,10,14,1,63,62,01:19.4,79417,222.526
+832,11,PER,Sergio Pérez,Red Bull,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,2,11,13,0,63,62,01:19.4,79396,222.585
+833,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,20,12,4,0,63,49,01:18.3,78334,225.603
+834,77,BOT,Valtteri Bottas,Mercedes,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Collision,8,18,19,0,30,30,01:28.5,88485,199.721
+835,63,RUS,George Russell,Williams,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Collision,12,19,18,0,30,28,01:26.5,86543,204.203
+836,44,HAM,Lewis Hamilton,Mercedes,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,1,1,5,25,66,54,01:20.7,80665,208.64
+837,1,VER,Max Verstappen,Red Bull,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,2,1,19,66,62,01:18.1,78149,215.357
+838,77,BOT,Valtteri Bottas,Mercedes,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,3,3,2,15,66,65,01:19.4,79430,211.884
+839,16,LEC,Charles Leclerc,Ferrari,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,4,4,12,66,64,01:20.5,80459,209.174
+840,11,PER,Sergio Pérez,Red Bull,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,8,5,3,10,66,60,01:19.5,79483,211.743
+841,55,SAI,Carlos Sainz,Ferrari,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,6,7,9,6,66,53,01:21.6,81568,206.33
+842,4,NOR,Lando Norris,McLaren,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,9,8,7,4,65,56,01:21.3,81279,207.064
+843,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,5,9,18,2,65,46,01:23.3,83311,202.014
+844,10,GAS,Pierre Gasly,AlphaTauri,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,12,10,8,1,65,64,01:21.4,81375,206.82
+845,18,STR,Lance Stroll,Aston Martin,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,11,11,11,0,65,47,01:22.6,82607,203.735
+846,63,RUS,George Russell,Williams,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,15,14,17,0,65,30,01:23.2,83208,202.264
+847,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,10,17,6,0,65,63,01:21.2,81182,207.311
+848,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Electrical,16,20,20,0,6,5,01:24.8,84825,198.408
+849,1,VER,Max Verstappen,Red Bull,2021,Monaco Grand Prix,Circuit de Monaco,Finished,2,1,6,25,78,58,01:14.6,74649,160.929
+850,55,SAI,Carlos Sainz,Ferrari,2021,Monaco Grand Prix,Circuit de Monaco,Finished,4,2,5,18,78,35,01:14.6,74621,160.989
+851,4,NOR,Lando Norris,McLaren,2021,Monaco Grand Prix,Circuit de Monaco,Finished,5,3,7,15,78,76,01:14.7,74670,160.883
+852,11,PER,Sergio Pérez,Red Bull,2021,Monaco Grand Prix,Circuit de Monaco,Finished,9,4,3,12,78,32,01:14.6,74552,161.138
+853,10,GAS,Pierre Gasly,AlphaTauri,2021,Monaco Grand Prix,Circuit de Monaco,Finished,6,6,14,8,78,71,01:15.4,75412,159.3
+854,44,HAM,Lewis Hamilton,Mercedes,2021,Monaco Grand Prix,Circuit de Monaco,Finished,7,7,1,7,78,69,01:12.9,72909,164.769
+855,18,STR,Lance Stroll,Aston Martin,2021,Monaco Grand Prix,Circuit de Monaco,+1 Lap,13,8,8,4,77,74,01:14.7,74674,160.875
+856,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Monaco Grand Prix,Circuit de Monaco,+1 Lap,11,9,12,2,77,41,01:15.3,75316,159.503
+857,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Monaco Grand Prix,Circuit de Monaco,+1 Lap,17,13,10,0,77,70,01:15.0,75026,160.12
+858,63,RUS,George Russell,Williams,2021,Monaco Grand Prix,Circuit de Monaco,+1 Lap,15,14,15,0,77,59,01:15.5,75539,159.033
+859,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Monaco Grand Prix,Circuit de Monaco,+1 Lap,16,16,2,0,77,66,01:14.0,74037,162.259
+860,77,BOT,Valtteri Bottas,Mercedes,2021,Monaco Grand Prix,Circuit de Monaco,Tyre puncture,3,19,17,0,29,18,01:15.7,75706,158.682
+861,11,PER,Sergio Pérez,Red Bull,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,6,1,2,25,51,45,01:44.7,104687,206.432
+862,10,GAS,Pierre Gasly,AlphaTauri,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,4,3,6,15,51,44,01:45.2,105220,205.386
+863,16,LEC,Charles Leclerc,Ferrari,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,1,4,8,12,51,46,01:45.4,105382,205.071
+864,4,NOR,Lando Norris,McLaren,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,9,5,7,10,51,41,01:45.3,105326,205.18
+865,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,8,6,11,8,51,42,01:45.6,105624,204.601
+866,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,7,7,5,6,51,46,01:44.9,104939,205.936
+867,55,SAI,Carlos Sainz,Ferrari,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,5,8,13,4,51,42,01:45.7,105700,204.454
+868,77,BOT,Valtteri Bottas,Mercedes,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,10,12,12,0,51,43,01:45.7,105665,204.521
+869,44,HAM,Lewis Hamilton,Mercedes,2021,Azerbaijan Grand Prix,Baku City Circuit,Finished,2,15,3,0,51,43,01:44.8,104769,206.27
+870,63,RUS,George Russell,Williams,2021,Azerbaijan Grand Prix,Baku City Circuit,Gearbox,15,17,15,0,48,43,01:46.0,105959,203.954
+871,1,VER,Max Verstappen,Red Bull,2021,Azerbaijan Grand Prix,Baku City Circuit,Accident,3,18,1,0,45,44,01:44.5,104481,206.839
+872,18,STR,Lance Stroll,Aston Martin,2021,Azerbaijan Grand Prix,Baku City Circuit,Accident,19,19,16,0,29,28,01:46.2,106207,203.478
+873,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Azerbaijan Grand Prix,Baku City Circuit,Distributor,12,20,20,0,3,2,01:50.9,110850,194.955
+874,1,VER,Max Verstappen,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,Finished,1,1,3,25,71,68,01:08.0,68017,228.542
+875,44,HAM,Lewis Hamilton,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,Finished,2,2,1,19,71,71,01:07.1,67058,231.811
+876,77,BOT,Valtteri Bottas,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,Finished,5,3,5,15,71,43,01:08.6,68619,226.537
+877,11,PER,Sergio Pérez,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,Finished,4,4,2,12,71,57,01:07.9,67894,228.956
+878,4,NOR,Lando Norris,McLaren,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,3,5,7,10,70,65,01:08.9,68903,225.604
+879,55,SAI,Carlos Sainz,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,12,6,4,8,70,64,01:08.6,68609,226.57
+880,16,LEC,Charles Leclerc,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,7,7,6,6,70,64,01:08.7,68738,226.145
+881,18,STR,Lance Stroll,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,9,8,14,4,70,32,01:09.8,69787,222.746
+882,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,8,9,13,2,70,61,01:09.7,69749,222.867
+883,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,11,10,11,1,70,41,01:09.7,69650,223.184
+884,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,17,14,10,0,70,70,01:09.6,69576,223.421
+885,63,RUS,George Russell,Williams,2021,Austrian Grand Prix,Red Bull Ring,Engine,10,19,18,0,36,28,01:10.5,70499,220.496
+886,1,VER,Max Verstappen,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,Finished,1,1,1,26,71,62,01:06.2,66200,234.815
+887,77,BOT,Valtteri Bottas,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,Finished,5,2,6,18,71,52,01:08.4,68374,227.349
+888,4,NOR,Lando Norris,McLaren,2021,Austrian Grand Prix,Red Bull Ring,Finished,2,3,10,15,71,62,01:08.5,68471,227.027
+889,44,HAM,Lewis Hamilton,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,Finished,4,4,3,12,71,55,01:08.1,68126,228.177
+890,55,SAI,Carlos Sainz,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,Finished,10,5,2,10,71,70,01:07.8,67762,229.402
+891,11,PER,Sergio Pérez,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,Finished,3,6,5,8,71,55,01:08.2,68192,227.956
+892,16,LEC,Charles Leclerc,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,Finished,12,8,13,4,71,55,01:08.7,68698,226.277
+893,10,GAS,Pierre Gasly,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,Finished,6,9,4,2,71,54,01:08.1,68146,228.11
+894,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,14,10,7,1,70,70,01:08.4,68405,227.246
+895,63,RUS,George Russell,Williams,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,8,11,16,0,70,56,01:08.9,68900,225.613
+896,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,7,12,9,0,70,54,01:08.5,68455,227.08
+897,18,STR,Lance Stroll,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,+1 Lap,9,13,12,0,70,54,01:08.7,68659,226.405
+898,44,HAM,Lewis Hamilton,Mercedes,2021,British Grand Prix,Silverstone Circuit,Finished,2,1,2,25,52,45,01:29.7,89699,236.43
+899,16,LEC,Charles Leclerc,Ferrari,2021,British Grand Prix,Silverstone Circuit,Finished,4,2,5,18,52,45,01:30.6,90569,234.159
+900,77,BOT,Valtteri Bottas,Mercedes,2021,British Grand Prix,Silverstone Circuit,Finished,3,3,4,15,52,45,01:30.5,90524,234.275
+901,4,NOR,Lando Norris,McLaren,2021,British Grand Prix,Silverstone Circuit,Finished,5,4,9,12,52,44,01:31.4,91420,231.979
+902,55,SAI,Carlos Sainz,Ferrari,2021,British Grand Prix,Silverstone Circuit,Finished,10,6,7,8,52,51,01:31.2,91223,232.48
+903,14,ALO,Fernando Alonso,Alpine F1 Team,2021,British Grand Prix,Silverstone Circuit,Finished,7,7,10,6,52,48,01:31.7,91698,231.276
+904,18,STR,Lance Stroll,Aston Martin,2021,British Grand Prix,Silverstone Circuit,Finished,14,8,12,4,52,48,01:32.0,91992,230.537
+905,31,OCO,Esteban Ocon,Alpine F1 Team,2021,British Grand Prix,Silverstone Circuit,Finished,9,9,14,2,52,48,01:32.2,92210,229.992
+906,22,TSU,Yuki Tsunoda,AlphaTauri,2021,British Grand Prix,Silverstone Circuit,Finished,16,10,6,1,52,51,01:30.8,90826,233.497
+907,10,GAS,Pierre Gasly,AlphaTauri,2021,British Grand Prix,Silverstone Circuit,Finished,11,11,3,0,52,52,01:30.3,90266,234.945
+908,63,RUS,George Russell,Williams,2021,British Grand Prix,Silverstone Circuit,+1 Lap,12,12,13,0,51,49,01:32.0,92049,230.394
+909,11,PER,Sergio Pérez,Red Bull,2021,British Grand Prix,Silverstone Circuit,+1 Lap,0,16,1,0,51,50,01:28.6,88617,239.317
+910,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Hungarian Grand Prix,Hungaroring,Finished,8,1,5,25,70,54,01:21.4,81421,193.704
+911,44,HAM,Lewis Hamilton,Mercedes,2021,Hungarian Grand Prix,Hungaroring,Finished,1,2,2,18,70,49,01:18.7,78715,200.363
+912,55,SAI,Carlos Sainz,Ferrari,2021,Hungarian Grand Prix,Hungaroring,Finished,15,3,6,15,70,54,01:21.4,81423,193.699
+913,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Hungarian Grand Prix,Hungaroring,Finished,9,4,3,12,70,41,01:20.4,80359,196.264
+914,10,GAS,Pierre Gasly,AlphaTauri,2021,Hungarian Grand Prix,Hungaroring,Finished,5,5,1,11,70,70,01:18.4,78394,201.183
+915,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Hungarian Grand Prix,Hungaroring,Finished,16,6,10,8,70,43,01:22.4,82450,191.286
+916,63,RUS,George Russell,Williams,2021,Hungarian Grand Prix,Hungaroring,Finished,17,8,9,4,70,62,01:22.1,82112,192.074
+917,1,VER,Max Verstappen,Red Bull,2021,Hungarian Grand Prix,Hungaroring,Finished,3,9,4,2,70,43,01:20.9,80945,194.843
+918,1,VER,Max Verstappen,Red Bull,2021,Dutch Grand Prix,Circuit Park Zandvoort,Finished,1,1,3,25,72,60,01:13.3,73275,209.244
+919,44,HAM,Lewis Hamilton,Mercedes,2021,Dutch Grand Prix,Circuit Park Zandvoort,Finished,2,2,1,19,72,72,01:11.1,71097,215.654
+920,77,BOT,Valtteri Bottas,Mercedes,2021,Dutch Grand Prix,Circuit Park Zandvoort,Finished,3,3,2,15,72,69,01:12.5,72549,211.338
+921,10,GAS,Pierre Gasly,AlphaTauri,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,4,4,10,12,71,57,01:14.8,74818,204.929
+922,16,LEC,Charles Leclerc,Ferrari,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,5,5,9,10,71,58,01:14.8,74780,205.033
+923,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,9,6,7,8,71,60,01:14.3,74323,206.294
+924,55,SAI,Carlos Sainz,Ferrari,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,6,7,13,6,71,45,01:15.3,75260,203.725
+925,11,PER,Sergio Pérez,Red Bull,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,0,8,4,4,71,59,01:13.5,73461,208.714
+926,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,8,9,8,2,71,54,01:14.7,74675,205.321
+927,4,NOR,Lando Norris,McLaren,2021,Dutch Grand Prix,Circuit Park Zandvoort,+1 Lap,13,10,6,1,71,48,01:14.2,74236,206.535
+928,18,STR,Lance Stroll,Aston Martin,2021,Dutch Grand Prix,Circuit Park Zandvoort,+2 Laps,12,12,15,0,70,57,01:15.6,75611,202.78
+929,63,RUS,George Russell,Williams,2021,Dutch Grand Prix,Circuit Park Zandvoort,Gearbox,11,17,16,0,69,57,01:15.6,75628,202.734
+930,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Dutch Grand Prix,Circuit Park Zandvoort,Power Unit,14,19,17,0,48,44,01:15.8,75783,202.319
+931,4,NOR,Lando Norris,McLaren,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,2,3,18,53,53,01:25.0,84971,245.434
+932,77,BOT,Valtteri Bottas,Mercedes,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,19,3,2,15,53,34,01:24.8,84827,245.85
+933,16,LEC,Charles Leclerc,Ferrari,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,4,6,12,53,53,01:25.3,85319,244.433
+934,11,PER,Sergio Pérez,Red Bull,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,8,5,4,10,53,53,01:25.2,85156,244.901
+935,55,SAI,Carlos Sainz,Ferrari,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,6,6,8,8,53,53,01:25.6,85559,243.747
+936,18,STR,Lance Stroll,Aston Martin,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,9,7,13,6,53,52,01:25.9,85853,242.912
+937,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,10,8,7,4,53,52,01:25.5,85472,243.995
+938,63,RUS,George Russell,Williams,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,14,9,11,2,53,53,01:25.8,85835,242.963
+939,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,12,10,9,1,53,53,01:25.6,85566,243.727
+940,44,HAM,Lewis Hamilton,Mercedes,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Collision,4,17,14,0,25,3,01:25.9,85870,242.864
+941,1,VER,Max Verstappen,Red Bull,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Collision,1,18,5,0,25,25,01:25.2,85173,244.852
+942,10,GAS,Pierre Gasly,AlphaTauri,2021,Italian Grand Prix,Autodromo Nazionale di Monza,Suspension,0,19,19,0,3,2,01:29.0,89005,234.31
+943,1,VER,Max Verstappen,Red Bull,2021,United States Grand Prix,Circuit of the Americas,Finished,1,1,2,25,56,52,01:39.1,99096,200.278
+944,44,HAM,Lewis Hamilton,Mercedes,2021,United States Grand Prix,Circuit of the Americas,Finished,2,2,1,19,56,41,01:38.5,98485,201.521
+945,11,PER,Sergio Pérez,Red Bull,2021,United States Grand Prix,Circuit of the Americas,Finished,3,3,4,15,56,32,01:39.6,99566,199.333
+946,16,LEC,Charles Leclerc,Ferrari,2021,United States Grand Prix,Circuit of the Americas,Finished,4,4,3,12,56,41,01:39.3,99303,199.861
+947,77,BOT,Valtteri Bottas,Mercedes,2021,United States Grand Prix,Circuit of the Americas,Finished,9,6,6,8,56,41,01:40.1,100147,198.176
+948,55,SAI,Carlos Sainz,Ferrari,2021,United States Grand Prix,Circuit of the Americas,Finished,5,7,9,6,56,40,01:40.4,100377,197.722
+949,4,NOR,Lando Norris,McLaren,2021,United States Grand Prix,Circuit of the Americas,Finished,7,8,7,4,56,41,01:40.2,100228,198.016
+950,22,TSU,Yuki Tsunoda,AlphaTauri,2021,United States Grand Prix,Circuit of the Americas,+1 Lap,10,9,13,2,55,47,01:41.2,101151,196.209
+951,18,STR,Lance Stroll,Aston Martin,2021,United States Grand Prix,Circuit of the Americas,+1 Lap,13,12,14,0,55,36,01:41.2,101189,196.135
+952,63,RUS,George Russell,Williams,2021,United States Grand Prix,Circuit of the Americas,+1 Lap,20,14,11,0,55,36,01:41.1,101120,196.269
+953,14,ALO,Fernando Alonso,Alpine F1 Team,2021,United States Grand Prix,Circuit of the Americas,Pneumatics,19,18,5,0,49,46,01:40.1,100067,198.335
+954,31,OCO,Esteban Ocon,Alpine F1 Team,2021,United States Grand Prix,Circuit of the Americas,Mechanical,11,19,19,0,40,28,01:42.2,102194,194.207
+955,10,GAS,Pierre Gasly,AlphaTauri,2021,United States Grand Prix,Circuit of the Americas,Suspension,8,20,18,0,14,12,01:42.0,102015,194.547
+956,1,VER,Max Verstappen,Red Bull,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,3,1,2,25,71,52,01:19.0,78999,196.134
+957,44,HAM,Lewis Hamilton,Mercedes,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,2,2,4,18,71,66,01:19.8,79820,194.116
+958,11,PER,Sergio Pérez,Red Bull,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,4,3,3,15,71,49,01:19.5,79468,194.976
+959,10,GAS,Pierre Gasly,AlphaTauri,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,5,4,7,12,71,66,01:20.5,80510,192.453
+960,16,LEC,Charles Leclerc,Ferrari,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,8,5,9,10,71,63,01:20.7,80665,192.083
+961,55,SAI,Carlos Sainz,Ferrari,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,6,6,5,8,70,63,01:20.1,80081,193.484
+962,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,12,9,10,2,70,54,01:20.7,80711,191.973
+963,4,NOR,Lando Norris,McLaren,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,18,10,8,1,70,67,01:20.6,80617,192.197
+964,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,19,13,14,0,70,67,01:21.3,81348,190.47
+965,18,STR,Lance Stroll,Aston Martin,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,20,14,12,0,69,61,01:20.9,80930,191.454
+966,77,BOT,Valtteri Bottas,Mercedes,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,1,15,1,0,69,69,01:17.8,77774,199.223
+967,63,RUS,George Russell,Williams,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+2 Laps,16,16,18,0,69,61,01:22.0,82016,188.919
+968,44,HAM,Lewis Hamilton,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,10,1,2,25,71,46,01:12.0,71982,215.503
+969,1,VER,Max Verstappen,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,2,2,3,18,71,47,01:12.5,72486,214.005
+970,77,BOT,Valtteri Bottas,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,3,4,15,71,49,01:12.5,72526,213.887
+971,11,PER,Sergio Pérez,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,4,1,13,71,71,01:11.0,71010,218.453
+972,16,LEC,Charles Leclerc,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,6,5,7,10,71,61,01:12.8,72822,213.018
+973,55,SAI,Carlos Sainz,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,3,6,6,8,71,63,01:12.7,72710,213.346
+974,10,GAS,Pierre Gasly,AlphaTauri,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,7,7,8,6,70,53,01:13.2,73227,211.839
+975,31,OCO,Esteban Ocon,Alpine F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,8,8,16,4,70,48,01:14.4,74430,208.415
+976,14,ALO,Fernando Alonso,Alpine F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,12,9,12,2,70,37,01:13.9,73922,209.848
+977,4,NOR,Lando Norris,McLaren,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,5,10,10,1,70,53,01:13.8,73761,210.306
+978,63,RUS,George Russell,Williams,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,17,13,15,0,70,45,01:14.4,74355,208.626
+979,22,TSU,Yuki Tsunoda,AlphaTauri,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,15,15,13,0,70,62,01:14.2,74204,209.05
+980,18,STR,Lance Stroll,Aston Martin,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,Collision damage,14,20,20,0,47,25,01:15.3,75344,205.887
+981,44,HAM,Lewis Hamilton,Mercedes,2021,Qatar Grand Prix,Losail International Circuit,Finished,1,1,2,25,57,50,01:25.1,85084,227.633
+982,1,VER,Max Verstappen,Red Bull,2021,Qatar Grand Prix,Losail International Circuit,Finished,7,2,1,19,57,57,01:23.2,83196,232.799
+983,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Qatar Grand Prix,Losail International Circuit,Finished,3,3,10,15,57,48,01:26.7,86682,223.437
+984,11,PER,Sergio Pérez,Red Bull,2021,Qatar Grand Prix,Losail International Circuit,Finished,11,4,3,12,57,49,01:25.6,85613,226.227
+985,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Qatar Grand Prix,Losail International Circuit,Finished,9,5,13,10,57,46,01:27.1,87061,222.464
+986,18,STR,Lance Stroll,Aston Martin,2021,Qatar Grand Prix,Losail International Circuit,Finished,12,6,17,8,57,44,01:27.4,87356,221.713
+987,55,SAI,Carlos Sainz,Ferrari,2021,Qatar Grand Prix,Losail International Circuit,Finished,5,7,9,6,57,46,01:26.6,86570,223.726
+988,16,LEC,Charles Leclerc,Ferrari,2021,Qatar Grand Prix,Losail International Circuit,Finished,13,8,8,4,57,46,01:26.6,86555,223.765
+989,4,NOR,Lando Norris,McLaren,2021,Qatar Grand Prix,Losail International Circuit,+1 Lap,4,9,4,2,56,51,01:25.7,85746,225.876
+990,10,GAS,Pierre Gasly,AlphaTauri,2021,Qatar Grand Prix,Losail International Circuit,+1 Lap,2,11,11,0,56,46,01:27.0,87019,222.572
+991,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Qatar Grand Prix,Losail International Circuit,+1 Lap,8,13,12,0,56,50,01:27.0,87043,222.51
+992,63,RUS,George Russell,Williams,2021,Qatar Grand Prix,Losail International Circuit,+2 Laps,15,17,5,0,55,55,01:25.8,85768,225.818
+993,77,BOT,Valtteri Bottas,Mercedes,2021,Qatar Grand Prix,Losail International Circuit,Damage,6,20,15,0,48,39,01:27.2,87246,221.992
+994,44,HAM,Lewis Hamilton,Mercedes,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,1,1,1,26,50,47,01:30.7,90734,244.962
+995,1,VER,Max Verstappen,Red Bull,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,3,2,3,18,50,35,01:31.5,91488,242.943
+996,77,BOT,Valtteri Bottas,Mercedes,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,2,3,2,15,50,47,01:31.4,91408,243.155
+997,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,9,4,6,12,50,47,01:31.8,91797,242.125
+998,10,GAS,Pierre Gasly,AlphaTauri,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,6,6,9,8,50,46,01:32.3,92297,240.813
+999,16,LEC,Charles Leclerc,Ferrari,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,4,7,4,6,50,46,01:31.6,91601,242.643
+1000,55,SAI,Carlos Sainz,Ferrari,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,15,8,7,4,50,37,01:31.9,91851,241.983
+1001,4,NOR,Lando Norris,McLaren,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,7,10,8,1,50,49,01:31.9,91914,241.817
+1002,18,STR,Lance Stroll,Aston Martin,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,18,11,14,0,50,45,01:32.8,92804,239.498
+1003,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,+1 Lap,13,13,5,0,49,46,01:31.6,91633,242.558
+1004,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,+1 Lap,8,14,10,0,49,44,01:32.5,92506,240.269
+1005,11,PER,Sergio Pérez,Red Bull,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Collision,5,17,17,0,14,9,01:34.1,94138,236.104
+1006,63,RUS,George Russell,Williams,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Collision,14,19,19,0,14,7,01:36.1,96130,231.211
+1007,1,VER,Max Verstappen,Red Bull,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,1,26,58,39,01:26.1,86103,220.8
+1008,44,HAM,Lewis Hamilton,Mercedes,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,2,3,18,58,43,01:26.6,86615,219.495
+1009,55,SAI,Carlos Sainz,Ferrari,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,5,3,9,15,58,51,01:27.6,87618,216.982
+1010,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,8,4,7,12,58,50,01:27.5,87496,217.285
+1011,10,GAS,Pierre Gasly,AlphaTauri,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,12,5,6,10,58,49,01:27.3,87342,217.668
+1012,77,BOT,Valtteri Bottas,Mercedes,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,6,5,8,58,51,01:26.9,86862,218.871
+1013,4,NOR,Lando Norris,McLaren,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,7,4,6,58,58,01:26.8,86762,219.123
+1014,14,ALO,Fernando Alonso,Alpine F1 Team,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,11,8,8,4,58,58,01:27.6,87607,217.01
+1015,31,OCO,Esteban Ocon,Alpine F1 Team,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,9,9,10,2,58,58,01:28.2,88249,215.431
+1016,16,LEC,Charles Leclerc,Ferrari,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,7,10,12,1,58,40,01:28.4,88433,214.983
+1017,18,STR,Lance Stroll,Aston Martin,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,13,13,13,0,57,48,01:28.6,88567,214.657
+1018,11,PER,Sergio Pérez,Red Bull,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Engine,4,15,2,0,55,51,01:26.4,86419,219.993
+1019,63,RUS,George Russell,Williams,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,Gearbox,17,18,19,0,26,23,01:30.6,90647,209.732
+1020,16,LEC,Charles Leclerc,Ferrari,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,1,1,1,26,57,51,01:34.6,94570,206.018
+1021,55,SAI,Carlos Sainz,Ferrari,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,3,2,3,18,57,52,01:35.7,95740,203.501
+1022,44,HAM,Lewis Hamilton,Mercedes,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,5,3,5,15,57,53,01:36.2,96228,202.469
+1023,63,RUS,George Russell,Mercedes,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,9,4,6,12,57,56,01:36.3,96302,202.313
+1024,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,7,5,8,10,57,53,01:36.6,96623,201.641
+1025,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,6,6,7,8,57,53,01:36.6,96599,201.691
+1026,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,11,7,14,6,57,53,01:37.1,97110,200.63
+1027,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,16,8,13,4,57,53,01:37.1,97104,200.642
+1028,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,8,9,10,2,57,44,01:36.7,96733,201.412
+1029,18,STR,Lance Stroll,Aston Martin,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,19,12,15,0,57,49,01:37.1,97146,200.555
+1030,23,ALB,Alexander Albon,Williams,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,14,13,18,0,57,50,01:37.4,97355,200.125
+1031,4,NOR,Lando Norris,McLaren,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,13,15,12,0,57,51,01:37.0,96988,200.882
+1032,27,HUL,Nico Hülkenberg,Aston Martin,2022,Bahrain Grand Prix,Bahrain International Circuit,Finished,17,17,19,0,57,49,01:38.2,98201,198.401
+1033,11,PER,Sergio Pérez,Red Bull,2022,Bahrain Grand Prix,Bahrain International Circuit,Fuel pressure,4,18,4,0,56,52,01:36.1,96089,202.762
+1034,1,VER,Max Verstappen,Red Bull,2022,Bahrain Grand Prix,Bahrain International Circuit,Fuel pressure,2,19,2,0,54,51,01:35.4,95440,204.14
+1035,10,GAS,Pierre Gasly,AlphaTauri,2022,Bahrain Grand Prix,Bahrain International Circuit,Power Unit,10,20,17,0,44,34,01:37.3,97324,200.189
+1036,1,VER,Max Verstappen,Red Bull,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,4,1,2,25,50,50,01:31.8,91772,242.191
+1037,16,LEC,Charles Leclerc,Ferrari,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,2,2,1,19,50,48,01:31.6,91634,242.556
+1038,55,SAI,Carlos Sainz,Ferrari,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,3,3,3,15,50,48,01:31.9,91905,241.841
+1039,11,PER,Sergio Pérez,Red Bull,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,1,4,4,12,50,46,01:32.0,92042,241.481
+1040,63,RUS,George Russell,Mercedes,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,6,5,7,10,50,43,01:32.8,92821,239.454
+1041,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,5,6,9,8,50,46,01:33.1,93103,238.729
+1042,4,NOR,Lando Norris,McLaren,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,11,7,5,6,50,46,01:32.8,92753,239.629
+1043,10,GAS,Pierre Gasly,AlphaTauri,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,9,8,10,4,50,42,01:33.5,93468,237.796
+1044,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,10,9,6,2,50,48,01:32.8,92779,239.562
+1045,44,HAM,Lewis Hamilton,Mercedes,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,15,10,8,1,50,47,01:33.0,92997,239.001
+1046,27,HUL,Nico Hülkenberg,Aston Martin,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Finished,17,12,11,0,50,47,01:33.7,93651,237.332
+1047,18,STR,Lance Stroll,Aston Martin,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,+1 Lap,13,13,16,0,49,46,01:34.4,94446,235.334
+1048,23,ALB,Alexander Albon,Williams,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Collision damage,16,14,15,0,47,46,01:34.4,94368,235.528
+1049,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Cooling system,8,15,14,0,36,31,01:34.0,93979,236.503
+1050,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Turbo,7,16,12,0,35,33,01:33.8,93831,236.876
+1051,16,LEC,Charles Leclerc,Ferrari,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,1,1,1,26,58,58,01:20.3,80260,236.74
+1052,11,PER,Sergio Pérez,Red Bull,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,3,2,3,18,58,58,01:21.1,81094,234.305
+1053,63,RUS,George Russell,Mercedes,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,6,3,4,15,58,53,01:21.5,81495,233.152
+1054,44,HAM,Lewis Hamilton,Mercedes,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,5,4,7,12,58,51,01:21.9,81886,232.039
+1055,4,NOR,Lando Norris,McLaren,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,4,5,8,10,58,55,01:22.2,82248,231.018
+1056,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,8,7,10,6,58,58,01:22.5,82469,230.399
+1057,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,12,8,5,4,58,54,01:21.7,81651,232.707
+1058,10,GAS,Pierre Gasly,AlphaTauri,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,11,9,13,2,58,52,01:22.7,82731,229.669
+1059,23,ALB,Alexander Albon,Williams,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,20,10,12,1,58,54,01:22.6,82589,230.064
+1060,18,STR,Lance Stroll,Aston Martin,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Finished,19,12,17,0,58,48,01:23.6,83592,227.304
+1061,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,16,14,15,0,57,44,01:23.1,83071,228.729
+1062,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,13,15,16,0,57,56,01:23.3,83342,227.985
+1063,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,+1 Lap,10,17,2,0,57,57,01:20.8,80846,235.024
+1064,1,VER,Max Verstappen,Red Bull,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Safety belt,2,18,6,0,38,37,01:21.7,81677,232.633
+1065,1,VER,Max Verstappen,Red Bull,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,1,1,1,26,63,55,01:18.4,78446,225.281
+1066,11,PER,Sergio Pérez,Red Bull,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,3,2,3,18,63,52,01:18.9,78949,223.845
+1067,4,NOR,Lando Norris,McLaren,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,5,3,7,15,63,61,01:20.9,80903,218.439
+1068,63,RUS,George Russell,Mercedes,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,11,4,8,12,63,57,01:21.0,80962,218.28
+1069,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,7,5,6,10,63,43,01:20.8,80758,218.831
+1070,16,LEC,Charles Leclerc,Ferrari,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,2,6,2,8,63,63,01:18.6,78574,224.914
+1071,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,12,7,5,6,63,61,01:20.5,80544,219.412
+1072,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Finished,8,9,10,2,63,61,01:21.2,81238,217.538
+1073,18,STR,Lance Stroll,Aston Martin,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,+1 Lap,15,10,16,1,62,46,01:21.8,81750,216.176
+1074,23,ALB,Alexander Albon,Williams,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,+1 Lap,18,11,17,0,62,61,01:21.8,81757,216.157
+1075,10,GAS,Pierre Gasly,AlphaTauri,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,+1 Lap,17,12,15,0,62,34,01:21.7,81713,216.274
+1076,44,HAM,Lewis Hamilton,Mercedes,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,+1 Lap,14,13,13,0,62,50,01:21.4,81419,217.054
+1077,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,+1 Lap,16,14,18,0,62,37,01:21.9,81887,215.814
+1078,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Collision damage,9,19,19,0,6,5,01:39.7,99685,177.282
+1079,1,VER,Max Verstappen,Red Bull,2022,Miami Grand Prix,Miami International Autodrome,Finished,3,1,1,26,57,54,01:31.4,91361,213.255
+1080,16,LEC,Charles Leclerc,Ferrari,2022,Miami Grand Prix,Miami International Autodrome,Finished,1,2,2,18,57,53,01:31.5,91488,212.959
+1081,55,SAI,Carlos Sainz,Ferrari,2022,Miami Grand Prix,Miami International Autodrome,Finished,2,3,3,15,57,56,01:31.8,91790,212.258
+1082,11,PER,Sergio Pérez,Red Bull,2022,Miami Grand Prix,Miami International Autodrome,Finished,4,4,4,12,57,54,01:31.8,91819,212.191
+1083,63,RUS,George Russell,Mercedes,2022,Miami Grand Prix,Miami International Autodrome,Finished,12,5,5,10,57,56,01:32.2,92195,211.325
+1084,44,HAM,Lewis Hamilton,Mercedes,2022,Miami Grand Prix,Miami International Autodrome,Finished,6,6,7,8,57,55,01:32.9,92941,209.629
+1085,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Miami Grand Prix,Miami International Autodrome,Finished,5,7,10,6,57,56,01:33.2,93184,209.083
+1086,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Miami Grand Prix,Miami International Autodrome,Finished,20,8,9,4,57,56,01:33.2,93163,209.13
+1087,23,ALB,Alexander Albon,Williams,2022,Miami Grand Prix,Miami International Autodrome,Finished,18,9,15,2,57,57,01:33.4,93447,208.494
+1088,18,STR,Lance Stroll,Aston Martin,2022,Miami Grand Prix,Miami International Autodrome,Finished,0,10,12,1,57,52,01:33.3,93312,208.796
+1089,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Miami Grand Prix,Miami International Autodrome,Finished,11,11,13,0,57,53,01:33.3,93331,208.753
+1090,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Miami Grand Prix,Miami International Autodrome,Finished,9,12,8,0,57,55,01:33.0,93035,209.417
+1091,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Miami Grand Prix,Miami International Autodrome,Front wing,16,16,17,0,56,52,01:33.5,93511,208.351
+1092,10,GAS,Pierre Gasly,AlphaTauri,2022,Miami Grand Prix,Miami International Autodrome,Suspension,7,18,19,0,45,38,01:34.5,94487,206.199
+1093,4,NOR,Lando Norris,McLaren,2022,Miami Grand Prix,Miami International Autodrome,Collision,8,19,14,0,39,37,01:33.4,93411,208.575
+1094,1,VER,Max Verstappen,Red Bull,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,2,1,4,25,66,46,01:25.5,85456,196.943
+1095,11,PER,Sergio Pérez,Red Bull,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,5,2,1,19,66,55,01:24.1,84108,200.099
+1096,63,RUS,George Russell,Mercedes,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,4,3,3,15,66,53,01:24.6,84636,198.851
+1097,55,SAI,Carlos Sainz,Ferrari,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,3,4,7,12,66,49,01:26.0,85985,195.731
+1098,44,HAM,Lewis Hamilton,Mercedes,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,6,5,2,10,66,51,01:24.3,84253,199.755
+1099,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,7,6,8,8,66,36,01:26.4,86395,194.802
+1100,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,12,7,6,6,66,54,01:25.9,85935,195.845
+1101,4,NOR,Lando Norris,McLaren,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Finished,11,8,5,4,66,53,01:25.6,85619,196.568
+1102,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,20,9,9,2,65,56,01:26.6,86599,194.344
+1103,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,13,10,10,1,65,59,01:26.8,86828,193.831
+1104,10,GAS,Pierre Gasly,AlphaTauri,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,14,13,12,0,65,51,01:27.0,86987,193.477
+1105,18,STR,Lance Stroll,Aston Martin,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+1 Lap,17,15,11,0,65,54,01:26.9,86876,193.724
+1106,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,8,17,17,0,64,3,01:27.5,87537,192.261
+1107,23,ALB,Alexander Albon,Williams,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,+2 Laps,18,18,19,0,64,56,01:28.3,88281,190.641
+1108,16,LEC,Charles Leclerc,Ferrari,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Distributor,1,20,13,0,27,25,01:27.0,87030,193.381
+1109,11,PER,Sergio Pérez,Red Bull,2022,Monaco Grand Prix,Circuit de Monaco,Finished,3,1,4,25,64,46,01:16.0,76028,158.01
+1110,55,SAI,Carlos Sainz,Ferrari,2022,Monaco Grand Prix,Circuit de Monaco,Finished,2,2,7,18,64,47,01:16.4,76421,157.197
+1111,1,VER,Max Verstappen,Red Bull,2022,Monaco Grand Prix,Circuit de Monaco,Finished,4,3,5,15,64,47,01:16.1,76052,157.96
+1112,16,LEC,Charles Leclerc,Ferrari,2022,Monaco Grand Prix,Circuit de Monaco,Finished,1,4,6,12,64,46,01:16.2,76249,157.552
+1113,63,RUS,George Russell,Mercedes,2022,Monaco Grand Prix,Circuit de Monaco,Finished,6,5,8,10,64,42,01:16.8,76830,156.36
+1114,4,NOR,Lando Norris,McLaren,2022,Monaco Grand Prix,Circuit de Monaco,Finished,5,6,1,9,64,55,01:14.7,74693,160.834
+1115,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Monaco Grand Prix,Circuit de Monaco,Finished,7,7,3,6,64,50,01:15.9,75882,158.314
+1116,44,HAM,Lewis Hamilton,Mercedes,2022,Monaco Grand Prix,Circuit de Monaco,Finished,8,8,9,4,64,51,01:17.2,77203,155.605
+1117,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Monaco Grand Prix,Circuit de Monaco,Finished,12,9,14,2,64,57,01:17.6,77600,154.809
+1118,10,GAS,Pierre Gasly,AlphaTauri,2022,Monaco Grand Prix,Circuit de Monaco,Finished,17,11,10,0,64,61,01:17.3,77344,155.321
+1119,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Monaco Grand Prix,Circuit de Monaco,Finished,10,12,13,0,64,50,01:17.6,77571,154.867
+1120,18,STR,Lance Stroll,Aston Martin,2022,Monaco Grand Prix,Circuit de Monaco,Finished,18,14,15,0,64,56,01:17.7,77672,154.665
+1121,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Monaco Grand Prix,Circuit de Monaco,+1 Lap,11,17,2,0,63,61,01:15.3,75334,159.465
+1122,23,ALB,Alexander Albon,Williams,2022,Monaco Grand Prix,Circuit de Monaco,Mechanical,16,18,16,0,48,40,01:18.0,78023,153.969
+1123,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Monaco Grand Prix,Circuit de Monaco,Water pressure,13,20,20,0,19,18,01:33.8,93754,128.135
+1124,1,VER,Max Verstappen,Red Bull,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,3,1,2,25,51,50,01:46.1,106050,203.779
+1125,11,PER,Sergio Pérez,Red Bull,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,2,2,1,19,51,36,01:46.0,106046,203.787
+1126,63,RUS,George Russell,Mercedes,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,5,3,4,15,51,42,01:47.2,107177,201.636
+1127,44,HAM,Lewis Hamilton,Mercedes,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,7,4,3,12,51,39,01:47.0,107044,201.887
+1128,10,GAS,Pierre Gasly,AlphaTauri,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,6,5,16,10,51,39,01:48.5,108519,199.143
+1129,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,10,7,8,6,51,49,01:48.0,107989,200.12
+1130,4,NOR,Lando Norris,McLaren,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,11,9,9,2,51,37,01:48.0,107997,200.105
+1131,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Azerbaijan Grand Prix,Baku City Circuit,Finished,13,10,14,1,51,36,01:48.3,108297,199.551
+1132,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Azerbaijan Grand Prix,Baku City Circuit,+1 Lap,15,11,11,0,50,42,01:48.2,108179,199.768
+1133,23,ALB,Alexander Albon,Williams,2022,Azerbaijan Grand Prix,Baku City Circuit,+1 Lap,17,12,7,0,50,48,01:48.0,107966,200.163
+1134,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Azerbaijan Grand Prix,Baku City Circuit,+1 Lap,8,13,5,0,50,42,01:47.5,107523,200.987
+1135,18,STR,Lance Stroll,Aston Martin,2022,Azerbaijan Grand Prix,Baku City Circuit,Fuel,19,16,10,0,46,38,01:48.0,108038,200.029
+1136,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Azerbaijan Grand Prix,Baku City Circuit,Power Unit,16,17,18,0,31,12,01:48.8,108789,198.648
+1137,16,LEC,Charles Leclerc,Ferrari,2022,Azerbaijan Grand Prix,Baku City Circuit,Power Unit,1,19,6,0,21,13,01:47.5,107531,200.972
+1138,55,SAI,Carlos Sainz,Ferrari,2022,Azerbaijan Grand Prix,Baku City Circuit,Hydraulics,4,20,19,0,8,3,01:49.0,108978,198.304
+1139,1,VER,Max Verstappen,Red Bull,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,1,1,2,25,70,64,01:15.8,75839,207.012
+1140,55,SAI,Carlos Sainz,Ferrari,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,3,2,1,19,70,63,01:15.7,75749,207.258
+1141,44,HAM,Lewis Hamilton,Mercedes,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,4,3,4,15,70,69,01:16.2,76167,206.12
+1142,63,RUS,George Russell,Mercedes,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,8,4,5,12,70,63,01:16.4,76418,205.443
+1143,16,LEC,Charles Leclerc,Ferrari,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,19,5,3,10,70,62,01:15.9,75901,206.843
+1144,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,7,6,9,8,70,62,01:17.1,77110,203.6
+1145,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,11,7,8,6,70,64,01:17.0,77010,203.864
+1146,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,2,9,6,2,70,63,01:16.6,76578,205.014
+1147,18,STR,Lance Stroll,Aston Martin,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,17,10,10,1,70,64,01:17.4,77421,202.782
+1148,23,ALB,Alexander Albon,Williams,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,12,13,14,0,70,59,01:18.0,77951,201.403
+1149,10,GAS,Pierre Gasly,AlphaTauri,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,15,14,12,0,70,60,01:17.8,77810,201.768
+1150,4,NOR,Lando Norris,McLaren,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,14,15,11,0,70,63,01:17.5,77495,202.588
+1151,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Finished,5,17,16,0,70,11,01:18.0,78046,201.158
+1152,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Accident,20,18,17,0,47,15,01:18.3,78309,200.482
+1153,11,PER,Sergio Pérez,Red Bull,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,Gearbox,13,20,19,0,7,7,01:18.8,78844,199.122
+1154,55,SAI,Carlos Sainz,Ferrari,2022,British Grand Prix,Silverstone Circuit,Finished,1,1,2,25,52,44,01:30.8,90813,233.53
+1155,11,PER,Sergio Pérez,Red Bull,2022,British Grand Prix,Silverstone Circuit,Finished,4,2,3,18,52,47,01:30.9,90937,233.212
+1156,44,HAM,Lewis Hamilton,Mercedes,2022,British Grand Prix,Silverstone Circuit,Finished,5,3,1,16,52,52,01:30.5,90510,234.312
+1157,16,LEC,Charles Leclerc,Ferrari,2022,British Grand Prix,Silverstone Circuit,Finished,3,4,4,12,52,52,01:31.3,91282,232.33
+1158,14,ALO,Fernando Alonso,Alpine F1 Team,2022,British Grand Prix,Silverstone Circuit,Finished,7,5,5,10,52,47,01:31.6,91609,231.501
+1159,4,NOR,Lando Norris,McLaren,2022,British Grand Prix,Silverstone Circuit,Finished,6,6,6,8,52,47,01:31.6,91645,231.41
+1160,1,VER,Max Verstappen,Red Bull,2022,British Grand Prix,Silverstone Circuit,Finished,2,7,8,6,52,44,01:32.4,92354,229.633
+1161,20,MAG,Kevin Magnussen,Haas F1 Team,2022,British Grand Prix,Silverstone Circuit,Finished,17,10,12,1,52,52,01:32.7,92661,228.872
+1162,18,STR,Lance Stroll,Aston Martin,2022,British Grand Prix,Silverstone Circuit,Finished,20,11,9,0,52,52,01:32.4,92379,229.571
+1163,22,TSU,Yuki Tsunoda,AlphaTauri,2022,British Grand Prix,Silverstone Circuit,Finished,13,14,15,0,52,51,01:33.8,93832,226.016
+1164,31,OCO,Esteban Ocon,Alpine F1 Team,2022,British Grand Prix,Silverstone Circuit,Fuel pump,15,15,14,0,37,37,01:33.5,93537,226.729
+1165,10,GAS,Pierre Gasly,AlphaTauri,2022,British Grand Prix,Silverstone Circuit,Collision damage,11,16,16,0,26,18,01:34.6,94614,224.148
+1166,77,BOT,Valtteri Bottas,Alfa Romeo,2022,British Grand Prix,Silverstone Circuit,Gearbox,12,17,17,0,20,19,01:35.1,95103,222.996
+1167,16,LEC,Charles Leclerc,Ferrari,2022,Austrian Grand Prix,Red Bull Ring,Finished,2,1,2,25,71,62,01:07.6,67583,230.01
+1168,1,VER,Max Verstappen,Red Bull,2022,Austrian Grand Prix,Red Bull Ring,Finished,1,2,1,19,71,62,01:07.3,67275,231.063
+1169,44,HAM,Lewis Hamilton,Mercedes,2022,Austrian Grand Prix,Red Bull Ring,Finished,8,3,5,15,71,63,01:09.0,69000,225.286
+1170,63,RUS,George Russell,Mercedes,2022,Austrian Grand Prix,Red Bull Ring,Finished,4,4,6,12,71,61,01:09.1,69075,225.042
+1171,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Austrian Grand Prix,Red Bull Ring,Finished,6,5,10,10,71,62,01:09.6,69559,223.476
+1172,4,NOR,Lando Norris,McLaren,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,10,7,8,6,70,62,01:09.3,69304,224.298
+1173,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,7,8,14,4,70,61,01:09.9,69938,222.265
+1174,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,19,10,3,1,70,62,01:08.6,68558,226.739
+1175,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,0,11,7,0,70,61,01:09.3,69266,224.421
+1176,23,ALB,Alexander Albon,Williams,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,15,12,12,0,70,60,01:09.7,69669,223.123
+1177,18,STR,Lance Stroll,Aston Martin,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,12,13,17,0,70,64,01:10.0,70048,221.916
+1178,10,GAS,Pierre Gasly,AlphaTauri,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,14,15,18,0,70,61,01:10.1,70104,221.739
+1179,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Austrian Grand Prix,Red Bull Ring,+1 Lap,16,16,16,0,70,62,01:10.0,70023,221.995
+1180,55,SAI,Carlos Sainz,Ferrari,2022,Austrian Grand Prix,Red Bull Ring,Power Unit,3,18,4,0,56,55,01:08.6,68649,226.438
+1181,11,PER,Sergio Pérez,Red Bull,2022,Austrian Grand Prix,Red Bull Ring,Collision damage,5,20,20,0,24,5,01:11.8,71843,216.371
+1182,1,VER,Max Verstappen,Red Bull,2022,Hungarian Grand Prix,Hungaroring,Finished,10,1,6,25,70,45,01:22.1,82126,192.041
+1183,44,HAM,Lewis Hamilton,Mercedes,2022,Hungarian Grand Prix,Hungaroring,Finished,7,2,1,19,70,57,01:21.4,81386,193.787
+1184,63,RUS,George Russell,Mercedes,2022,Hungarian Grand Prix,Hungaroring,Finished,1,3,9,15,70,57,01:22.8,82766,190.556
+1185,55,SAI,Carlos Sainz,Ferrari,2022,Hungarian Grand Prix,Hungaroring,Finished,2,4,4,12,70,51,01:22.0,82000,192.336
+1186,11,PER,Sergio Pérez,Red Bull,2022,Hungarian Grand Prix,Hungaroring,Finished,11,5,3,10,70,44,01:21.9,81940,192.477
+1187,16,LEC,Charles Leclerc,Ferrari,2022,Hungarian Grand Prix,Hungaroring,Finished,3,6,2,8,70,57,01:21.6,81622,193.227
+1188,4,NOR,Lando Norris,McLaren,2022,Hungarian Grand Prix,Hungaroring,Finished,4,7,11,6,70,47,01:23.0,83043,189.92
+1189,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,6,8,18,4,69,47,01:24.0,83979,187.804
+1190,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,5,9,20,2,69,60,01:24.1,84149,187.424
+1191,18,STR,Lance Stroll,Aston Martin,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,14,11,7,0,69,51,01:22.4,82437,191.317
+1192,10,GAS,Pierre Gasly,AlphaTauri,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,0,12,14,0,69,58,01:23.2,83199,189.564
+1193,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,13,16,15,0,69,37,01:23.5,83511,188.856
+1194,23,ALB,Alexander Albon,Williams,2022,Hungarian Grand Prix,Hungaroring,+1 Lap,17,17,12,0,69,43,01:23.0,83047,189.911
+1195,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Hungarian Grand Prix,Hungaroring,+2 Laps,16,19,16,0,68,58,01:23.5,83538,188.795
+1196,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Hungarian Grand Prix,Hungaroring,Power Unit,8,20,19,0,65,60,01:24.0,84002,187.752
+1197,1,VER,Max Verstappen,Red Bull,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,14,1,1,26,44,32,01:49.4,109354,230.575
+1198,11,PER,Sergio Pérez,Red Bull,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,2,2,3,18,44,29,01:50.8,110764,227.64
+1199,55,SAI,Carlos Sainz,Ferrari,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,1,3,7,15,44,32,01:52.0,111977,225.174
+1200,63,RUS,George Russell,Mercedes,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,5,4,4,12,44,31,01:50.8,110793,227.581
+1201,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,3,5,13,10,44,35,01:52.9,112868,223.397
+1202,16,LEC,Charles Leclerc,Ferrari,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,15,6,2,8,44,44,01:50.0,109984,229.255
+1203,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,16,7,6,6,44,36,01:51.7,111717,225.698
+1204,10,GAS,Pierre Gasly,AlphaTauri,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,0,9,15,2,44,24,01:53.0,113002,223.132
+1205,23,ALB,Alexander Albon,Williams,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,6,10,16,1,44,28,01:53.1,113055,223.027
+1206,18,STR,Lance Stroll,Aston Martin,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,9,11,14,0,44,29,01:52.9,112880,223.373
+1207,4,NOR,Lando Norris,McLaren,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,17,12,5,0,44,31,01:51.7,111678,225.777
+1208,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,Finished,0,13,10,0,44,32,01:52.4,112436,224.255
+1209,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,+1 Lap,12,16,18,0,43,29,01:53.3,113332,222.482
+1210,1,VER,Max Verstappen,Red Bull,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,1,1,1,26,72,62,01:13.7,73652,208.173
+1211,63,RUS,George Russell,Mercedes,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,6,2,2,18,72,72,01:13.7,73671,208.119
+1212,16,LEC,Charles Leclerc,Ferrari,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,2,3,6,15,72,62,01:14.4,74413,206.044
+1213,44,HAM,Lewis Hamilton,Mercedes,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,4,4,3,12,72,54,01:13.9,73854,207.604
+1214,11,PER,Sergio Pérez,Red Bull,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,5,5,5,10,72,63,01:14.4,74404,206.069
+1215,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,13,6,4,8,72,51,01:14.1,74144,206.792
+1216,4,NOR,Lando Norris,McLaren,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,7,7,8,6,72,63,01:14.7,74706,205.236
+1217,55,SAI,Carlos Sainz,Ferrari,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,3,8,7,4,72,63,01:14.6,74643,205.409
+1218,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,12,9,11,2,72,64,01:15.1,75084,204.203
+1219,18,STR,Lance Stroll,Aston Martin,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,10,10,10,1,72,65,01:15.0,75043,204.314
+1220,10,GAS,Pierre Gasly,AlphaTauri,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,11,11,12,0,72,65,01:15.2,75165,203.983
+1221,23,ALB,Alexander Albon,Williams,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,15,12,15,0,72,65,01:15.5,75534,202.986
+1222,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Dutch Grand Prix,Circuit Park Zandvoort,Finished,18,15,14,0,72,53,01:15.4,75369,203.431
+1223,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Dutch Grand Prix,Circuit Park Zandvoort,Engine,16,19,19,0,53,51,01:16.8,76844,199.526
+1224,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Dutch Grand Prix,Circuit Park Zandvoort,Differential,9,20,20,0,43,16,01:17.1,77138,198.765
+1225,1,VER,Max Verstappen,Red Bull,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,7,1,6,25,53,38,01:24.7,84745,246.088
+1226,16,LEC,Charles Leclerc,Ferrari,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,1,2,2,18,53,38,01:24.3,84336,247.282
+1227,63,RUS,George Russell,Mercedes,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,2,3,7,15,53,40,01:25.3,85288,244.522
+1228,55,SAI,Carlos Sainz,Ferrari,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,18,4,4,12,53,41,01:24.4,84446,246.96
+1229,44,HAM,Lewis Hamilton,Mercedes,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,19,5,3,10,53,43,01:24.4,84434,246.995
+1230,11,PER,Sergio Pérez,Red Bull,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,13,6,1,9,53,46,01:24.0,84030,248.182
+1231,4,NOR,Lando Norris,McLaren,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,3,7,5,6,53,43,01:24.7,84718,246.167
+1232,10,GAS,Pierre Gasly,AlphaTauri,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,5,8,14,4,53,30,01:26.7,86718,240.489
+1233,45,DEV,Nyck de Vries,Williams,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,8,9,13,2,53,41,01:26.6,86624,240.75
+1234,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Finished,14,11,11,0,53,37,01:26.6,86593,240.837
+1235,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,15,13,9,0,52,45,01:25.7,85706,243.329
+1236,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,20,14,17,0,52,43,01:26.9,86857,240.105
+1237,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Italian Grand Prix,Autodromo Nazionale di Monza,+1 Lap,16,16,16,0,52,37,01:26.8,86798,240.268
+1238,18,STR,Lance Stroll,Aston Martin,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Engine,12,18,19,0,39,34,01:27.5,87467,238.43
+1239,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Italian Grand Prix,Autodromo Nazionale di Monza,Water pressure,6,19,18,0,31,7,01:27.2,87203,239.152
+1240,11,PER,Sergio Pérez,Red Bull,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,2,1,2,25,59,57,01:48.2,108165,168.509
+1241,16,LEC,Charles Leclerc,Ferrari,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,1,2,4,18,59,54,01:48.8,108753,167.598
+1242,55,SAI,Carlos Sainz,Ferrari,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,4,3,3,15,59,59,01:48.4,108414,168.122
+1243,4,NOR,Lando Norris,McLaren,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,6,4,6,12,59,56,01:49.2,109212,166.893
+1244,18,STR,Lance Stroll,Aston Martin,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,11,6,7,8,59,58,01:50.3,110283,165.272
+1245,1,VER,Max Verstappen,Red Bull,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,8,7,5,6,59,52,01:49.1,109142,167
+1246,44,HAM,Lewis Hamilton,Mercedes,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,3,9,10,2,59,58,01:50.6,110622,164.766
+1247,10,GAS,Pierre Gasly,AlphaTauri,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,7,10,9,1,59,56,01:50.6,110569,164.845
+1248,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,15,11,13,0,59,52,01:51.9,111864,162.937
+1249,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,Finished,9,12,14,0,59,59,01:52.1,112067,162.641
+1250,63,RUS,George Russell,Mercedes,2022,Singapore Grand Prix,Marina Bay Street Circuit,+2 Laps,0,14,1,0,57,54,01:46.5,106458,171.211
+1251,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Singapore Grand Prix,Marina Bay Street Circuit,Accident,10,15,15,0,34,32,01:58.7,118716,153.532
+1252,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,Engine,17,16,17,0,26,24,02:01.1,121105,150.504
+1253,23,ALB,Alexander Albon,Williams,2022,Singapore Grand Prix,Marina Bay Street Circuit,Collision damage,18,17,18,0,25,24,02:02.1,122121,149.251
+1254,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,Engine,5,18,16,0,20,19,02:00.5,120463,151.306
+1255,1,VER,Max Verstappen,Red Bull,2022,Japanese Grand Prix,Suzuka Circuit,Finished,1,1,4,25,28,10,01:44.9,104911,199.266
+1256,11,PER,Sergio Pérez,Red Bull,2022,Japanese Grand Prix,Suzuka Circuit,Finished,4,2,9,18,28,11,01:46.1,106120,196.995
+1257,16,LEC,Charles Leclerc,Ferrari,2022,Japanese Grand Prix,Suzuka Circuit,Finished,2,3,3,15,28,10,01:44.5,104489,200.07
+1258,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Japanese Grand Prix,Suzuka Circuit,Finished,5,4,11,12,28,11,01:46.6,106559,196.184
+1259,44,HAM,Lewis Hamilton,Mercedes,2022,Japanese Grand Prix,Suzuka Circuit,Finished,6,5,7,10,28,11,01:45.5,105530,198.097
+1260,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Japanese Grand Prix,Suzuka Circuit,Finished,7,7,2,6,28,25,01:44.4,104412,200.218
+1261,63,RUS,George Russell,Mercedes,2022,Japanese Grand Prix,Suzuka Circuit,Finished,8,8,13,4,28,21,01:47.0,107004,195.368
+1262,4,NOR,Lando Norris,McLaren,2022,Japanese Grand Prix,Suzuka Circuit,Finished,10,10,17,1,28,8,01:48.2,108175,193.253
+1263,18,STR,Lance Stroll,Aston Martin,2022,Japanese Grand Prix,Suzuka Circuit,Finished,19,12,5,0,28,21,01:45.2,105205,198.709
+1264,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Japanese Grand Prix,Suzuka Circuit,Finished,13,13,8,0,28,22,01:45.9,105893,197.418
+1265,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Japanese Grand Prix,Suzuka Circuit,Finished,18,14,16,0,28,10,01:48.1,108072,193.437
+1266,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Japanese Grand Prix,Suzuka Circuit,Finished,12,15,14,0,28,11,01:47.8,107820,193.889
+1267,10,GAS,Pierre Gasly,AlphaTauri,2022,Japanese Grand Prix,Suzuka Circuit,Finished,17,18,10,0,28,13,01:46.5,106545,196.21
+1268,1,VER,Max Verstappen,Red Bull,2022,United States Grand Prix,Circuit of the Americas,Finished,2,1,2,25,56,37,01:39.5,99541,199.383
+1269,44,HAM,Lewis Hamilton,Mercedes,2022,United States Grand Prix,Circuit of the Americas,Finished,3,2,5,18,56,45,01:39.8,99830,198.805
+1270,16,LEC,Charles Leclerc,Ferrari,2022,United States Grand Prix,Circuit of the Americas,Finished,12,3,4,15,56,37,01:39.7,99731,199.003
+1271,11,PER,Sergio Pérez,Red Bull,2022,United States Grand Prix,Circuit of the Americas,Finished,9,4,3,12,56,44,01:39.6,99563,199.339
+1272,63,RUS,George Russell,Mercedes,2022,United States Grand Prix,Circuit of the Americas,Finished,4,5,1,11,56,56,01:38.8,98788,200.902
+1273,4,NOR,Lando Norris,McLaren,2022,United States Grand Prix,Circuit of the Americas,Finished,6,6,7,8,56,49,01:41.3,101322,195.878
+1274,14,ALO,Fernando Alonso,Alpine F1 Team,2022,United States Grand Prix,Circuit of the Americas,Finished,14,7,8,6,56,39,01:41.5,101538,195.461
+1275,20,MAG,Kevin Magnussen,Haas F1 Team,2022,United States Grand Prix,Circuit of the Americas,Finished,13,9,11,2,56,36,01:42.2,102206,194.184
+1276,22,TSU,Yuki Tsunoda,AlphaTauri,2022,United States Grand Prix,Circuit of the Americas,Finished,19,10,6,1,56,49,01:41.2,101243,196.031
+1277,31,OCO,Esteban Ocon,Alpine F1 Team,2022,United States Grand Prix,Circuit of the Americas,Finished,0,11,13,0,56,39,01:42.4,102394,193.827
+1278,23,ALB,Alexander Albon,Williams,2022,United States Grand Prix,Circuit of the Americas,Finished,8,13,9,0,56,55,01:41.7,101674,195.2
+1279,10,GAS,Pierre Gasly,AlphaTauri,2022,United States Grand Prix,Circuit of the Americas,Finished,11,14,12,0,56,55,01:42.3,102320,193.967
+1280,18,STR,Lance Stroll,Aston Martin,2022,United States Grand Prix,Circuit of the Americas,Collision,5,18,17,0,21,3,01:43.1,103080,192.537
+1281,77,BOT,Valtteri Bottas,Alfa Romeo,2022,United States Grand Prix,Circuit of the Americas,Spun off,7,19,18,0,16,4,01:43.4,103391,191.958
+1282,1,VER,Max Verstappen,Red Bull,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,1,1,4,25,71,36,01:22.0,82046,188.85
+1283,44,HAM,Lewis Hamilton,Mercedes,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,3,2,5,18,71,32,01:22.1,82062,188.813
+1284,11,PER,Sergio Pérez,Red Bull,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,4,3,2,15,71,30,01:21.8,81775,189.476
+1285,63,RUS,George Russell,Mercedes,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,2,4,1,13,71,71,01:20.2,80153,193.31
+1286,55,SAI,Carlos Sainz,Ferrari,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,5,5,6,10,71,32,01:22.2,82199,188.498
+1287,16,LEC,Charles Leclerc,Ferrari,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Finished,7,6,10,8,71,48,01:22.6,82603,187.576
+1288,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,10,8,14,4,70,48,01:23.3,83279,186.054
+1289,4,NOR,Lando Norris,McLaren,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,8,9,17,2,70,48,01:23.4,83402,185.779
+1290,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,6,10,16,1,70,43,01:23.4,83363,185.866
+1291,10,GAS,Pierre Gasly,AlphaTauri,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,14,11,8,0,70,42,01:22.3,82277,188.319
+1292,23,ALB,Alexander Albon,Williams,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,17,12,12,0,70,48,01:22.9,82914,186.873
+1293,18,STR,Lance Stroll,Aston Martin,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,20,15,9,0,70,42,01:22.5,82463,187.895
+1294,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,+1 Lap,19,17,15,0,70,49,01:23.3,83300,186.007
+1295,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Engine,9,19,11,0,63,48,01:22.9,82866,186.981
+1296,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Collision damage,13,20,18,0,50,48,01:23.4,83403,185.777
+1297,63,RUS,George Russell,Mercedes,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,1,1,1,26,71,61,01:13.8,73785,210.237
+1298,44,HAM,Lewis Hamilton,Mercedes,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,2,2,2,18,71,63,01:13.9,73942,209.791
+1299,55,SAI,Carlos Sainz,Ferrari,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,7,3,3,15,71,65,01:14.0,73953,209.76
+1300,16,LEC,Charles Leclerc,Ferrari,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,5,4,6,12,71,63,01:14.3,74253,208.912
+1301,14,ALO,Fernando Alonso,Alpine F1 Team,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,17,5,4,10,71,62,01:14.2,74164,209.163
+1302,1,VER,Max Verstappen,Red Bull,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,3,6,5,8,71,64,01:14.2,74195,209.076
+1303,11,PER,Sergio Pérez,Red Bull,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,4,7,7,6,71,62,01:14.3,74283,208.828
+1304,31,OCO,Esteban Ocon,Alpine F1 Team,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,16,8,9,4,71,65,01:15.1,75093,206.575
+1305,77,BOT,Valtteri Bottas,Alfa Romeo,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,14,9,14,2,71,62,01:15.5,75511,205.432
+1306,18,STR,Lance Stroll,Aston Martin,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,15,10,8,1,71,50,01:14.8,74831,207.299
+1307,10,GAS,Pierre Gasly,AlphaTauri,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,10,14,12,0,71,64,01:15.3,75327,205.934
+1308,23,ALB,Alexander Albon,Williams,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Finished,19,15,16,0,71,49,01:15.6,75613,205.155
+1309,22,TSU,Yuki Tsunoda,AlphaTauri,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,+1 Lap,0,17,13,0,70,63,01:15.5,75508,205.44
+1310,4,NOR,Lando Norris,McLaren,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,Gearbox,6,18,18,0,50,48,01:15.9,75855,204.5
+1311,1,VER,Max Verstappen,Red Bull,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,1,1,6,25,58,54,01:29.4,89392,212.676
+1312,16,LEC,Charles Leclerc,Ferrari,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,3,2,10,18,58,48,01:29.7,89719,211.901
+1313,11,PER,Sergio Pérez,Red Bull,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,2,3,4,15,58,52,01:29.0,88972,213.68
+1314,55,SAI,Carlos Sainz,Ferrari,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,4,4,3,12,58,50,01:28.9,88879,213.904
+1315,63,RUS,George Russell,Mercedes,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,6,5,2,10,58,48,01:28.8,88836,214.007
+1316,4,NOR,Lando Norris,McLaren,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,7,6,1,9,58,44,01:28.4,88391,215.085
+1317,31,OCO,Esteban Ocon,Alpine F1 Team,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,8,7,5,6,58,45,01:29.3,89333,212.817
+1318,18,STR,Lance Stroll,Aston Martin,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,14,8,9,4,58,42,01:29.6,89620,212.135
+1319,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Finished,11,11,7,0,58,40,01:29.5,89489,212.446
+1320,23,ALB,Alexander Albon,Williams,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,19,13,13,0,57,40,01:29.9,89939,211.383
+1321,10,GAS,Pierre Gasly,AlphaTauri,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,17,14,19,0,57,16,01:31.1,91081,208.732
+1322,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,18,15,16,0,57,47,01:30.4,90352,210.417
+1323,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,+1 Lap,16,17,20,0,57,40,01:31.2,91158,208.556
+1324,44,HAM,Lewis Hamilton,Mercedes,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Hydraulics,5,18,11,0,55,42,01:29.8,89788,211.738
+1325,14,ALO,Fernando Alonso,Alpine F1 Team,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,Water leak,10,20,17,0,27,24,01:30.6,90579,209.889

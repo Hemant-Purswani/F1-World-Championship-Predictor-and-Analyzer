@@ -1,0 +1,2543 @@
+﻿constructorStandingsId,Constructor_name,GP_year,Round,GrandPrix_name,points,position,wins,GP_Id
+1,Ferrari,1958,10,Italian Grand Prix,40,2,2,774
+2,Ferrari,1958,7,British Grand Prix,36,1,2,771
+3,Ferrari,1958,5,Belgian Grand Prix,20,1,0,769
+4,Ferrari,1958,2,Monaco Grand Prix,12,2,0,766
+5,Ferrari,1958,3,Dutch Grand Prix,14,2,0,767
+6,Aston Martin,1959,8,Italian Grand Prix,0,5,0,763
+7,Aston Martin,1959,3,Dutch Grand Prix,0,7,0,758
+8,Ferrari,1959,3,Dutch Grand Prix,8,3,0,758
+9,Ferrari,1959,1,Monaco Grand Prix,6,2,0,756
+10,Ferrari,1959,8,Italian Grand Prix,32,2,2,763
+11,Aston Martin,1960,9,Italian Grand Prix,0,9,0,754
+12,Ferrari,1960,9,Italian Grand Prix,26,3,1,754
+13,Ferrari,1960,7,British Grand Prix,16,3,0,752
+14,Aston Martin,1960,7,British Grand Prix,0,6,0,752
+15,Ferrari,1960,5,Belgian Grand Prix,15,3,0,750
+16,Aston Martin,1960,5,Belgian Grand Prix,0,9,0,750
+17,Ferrari,1960,4,Dutch Grand Prix,12,3,0,749
+18,Aston Martin,1960,4,Dutch Grand Prix,0,8,0,749
+19,Ferrari,1960,2,Monaco Grand Prix,10,2,0,747
+20,Ferrari,1961,1,Monaco Grand Prix,6,2,0,738
+21,Ferrari,1961,3,Belgian Grand Prix,24,1,2,740
+22,Ferrari,1961,7,Italian Grand Prix,45,1,5,744
+23,Ferrari,1961,2,Dutch Grand Prix,15,1,1,739
+24,Ferrari,1962,1,Dutch Grand Prix,4,3,0,729
+25,Ferrari,1962,2,Monaco Grand Prix,10,3,0,730
+26,Ferrari,1962,3,Belgian Grand Prix,14,3,0,731
+27,Ferrari,1962,7,Italian Grand Prix,18,5,0,735
+28,Ferrari,1963,1,Monaco Grand Prix,3,3,0,719
+29,Ferrari,1963,2,Belgian Grand Prix,3,5,0,720
+30,Ferrari,1963,5,British Grand Prix,13,5,0,723
+31,Ferrari,1963,9,Mexico City Grand Prix,24,3,1,727
+32,Ferrari,1963,7,Italian Grand Prix,22,3,1,725
+33,Ferrari,1963,3,Dutch Grand Prix,7,5,0,721
+34,Ferrari,1964,2,Dutch Grand Prix,6,3,0,710
+35,Ferrari,1964,1,Monaco Grand Prix,0,6,0,709
+36,Ferrari,1964,10,Mexico City Grand Prix,45,1,3,718
+37,Ferrari,1964,8,Italian Grand Prix,37,1,3,716
+38,Ferrari,1964,3,Belgian Grand Prix,6,4,0,711
+39,Alfa Romeo,1965,2,Monaco Grand Prix,0,8,0,700
+40,Ferrari,1965,2,Monaco Grand Prix,12,2,0,700
+41,Alfa Romeo,1965,3,Belgian Grand Prix,0,9,0,701
+42,Alfa Romeo,1965,5,British Grand Prix,0,9,0,703
+43,Ferrari,1965,5,British Grand Prix,20,3,0,703
+44,Alfa Romeo,1965,6,Dutch Grand Prix,0,10,0,704
+45,Alfa Romeo,1965,8,Italian Grand Prix,0,10,0,706
+46,Ferrari,1965,8,Italian Grand Prix,24,3,0,706
+47,Alfa Romeo,1965,10,Mexico City Grand Prix,0,10,0,708
+48,Ferrari,1965,10,Mexico City Grand Prix,26,4,0,708
+49,Ferrari,1965,6,Dutch Grand Prix,20,3,0,704
+50,Ferrari,1965,3,Belgian Grand Prix,12,3,0,701
+51,Ferrari,1966,1,Monaco Grand Prix,6,2,0,690
+52,Ferrari,1966,2,Belgian Grand Prix,15,1,1,691
+53,Ferrari,1966,5,Dutch Grand Prix,22,2,1,694
+54,Ferrari,1966,7,Italian Grand Prix,31,2,2,696
+55,Ferrari,1966,9,Mexico City Grand Prix,31,2,2,698
+56,Ferrari,1967,2,Monaco Grand Prix,4,5,0,680
+57,Ferrari,1967,3,Dutch Grand Prix,7,4,0,681
+58,Ferrari,1967,4,Belgian Grand Prix,11,3,0,682
+59,Ferrari,1967,6,British Grand Prix,15,4,0,684
+60,Ferrari,1967,9,Italian Grand Prix,20,4,0,687
+61,Ferrari,1967,11,Mexico City Grand Prix,20,5,0,689
+62,Ferrari,1968,3,Monaco Grand Prix,3,6,0,669
+63,Ferrari,1968,4,Belgian Grand Prix,7,5,0,670
+64,Ferrari,1968,5,Dutch Grand Prix,10,5,0,671
+65,Ferrari,1968,9,Italian Grand Prix,32,3,1,675
+66,Ferrari,1968,12,Mexico City Grand Prix,32,4,1,678
+67,McLaren,1968,12,Mexico City Grand Prix,0,14,0,678
+68,McLaren,1968,9,Italian Grand Prix,0,14,0,675
+69,Ferrari,1969,4,Dutch Grand Prix,4,5,0,659
+70,Ferrari,1969,11,Mexico City Grand Prix,7,6,0,666
+71,Ferrari,1969,8,Italian Grand Prix,5,5,0,663
+72,Ferrari,1969,6,British Grand Prix,4,5,0,661
+73,Ferrari,1969,3,Monaco Grand Prix,0,8,0,658
+74,Ferrari,1970,13,Mexico City Grand Prix,52,2,4,655
+75,Ferrari,1970,10,Italian Grand Prix,34,4,2,652
+76,Ferrari,1970,9,Austrian Grand Prix,25,5,1,651
+77,Ferrari,1970,5,Dutch Grand Prix,7,7,0,647
+78,Ferrari,1970,4,Belgian Grand Prix,3,7,0,646
+79,Ferrari,1970,3,Monaco Grand Prix,0,8,0,645
+80,Ferrari,1971,3,Monaco Grand Prix,19,2,1,634
+81,McLaren,1971,3,Monaco Grand Prix,6,5,0,634
+82,McLaren,1971,4,Dutch Grand Prix,6,6,0,635
+83,Ferrari,1971,4,Dutch Grand Prix,28,1,2,635
+84,Ferrari,1971,6,British Grand Prix,28,2,2,637
+85,McLaren,1971,6,British Grand Prix,6,7,0,637
+86,McLaren,1971,8,Austrian Grand Prix,6,7,0,639
+87,Ferrari,1971,8,Austrian Grand Prix,32,2,2,639
+88,McLaren,1971,9,Italian Grand Prix,6,8,0,640
+89,Ferrari,1971,9,Italian Grand Prix,32,2,2,640
+90,Ferrari,1972,4,Monaco Grand Prix,19,3,0,623
+91,McLaren,1972,9,Austrian Grand Prix,35,2,1,628
+92,Ferrari,1972,9,Austrian Grand Prix,29,4,1,628
+93,McLaren,1972,10,Italian Grand Prix,39,2,1,629
+94,Ferrari,1972,10,Italian Grand Prix,29,4,1,629
+95,McLaren,1972,4,Monaco Grand Prix,19,1,1,623
+96,Ferrari,1973,2,São Paulo Grand Prix,6,4,0,606
+97,McLaren,1973,2,São Paulo Grand Prix,6,3,0,606
+98,Ferrari,1973,6,Monaco Grand Prix,9,4,0,610
+99,McLaren,1973,6,Monaco Grand Prix,17,3,0,610
+100,Ferrari,1973,10,Dutch Grand Prix,12,5,0,614
+101,McLaren,1973,10,Dutch Grand Prix,38,3,2,614
+102,Ferrari,1973,12,Austrian Grand Prix,12,5,0,616
+103,McLaren,1973,12,Austrian Grand Prix,42,3,2,616
+104,Ferrari,1973,13,Italian Grand Prix,12,5,0,617
+105,McLaren,1973,13,Italian Grand Prix,46,3,2,617
+106,McLaren,1973,9,British Grand Prix,35,3,2,613
+107,Ferrari,1973,9,British Grand Prix,12,5,0,613
+108,McLaren,1974,2,São Paulo Grand Prix,18,1,2,591
+109,Ferrari,1974,2,São Paulo Grand Prix,12,2,0,591
+110,McLaren,1974,6,Monaco Grand Prix,37,1,3,595
+111,Ferrari,1974,6,Monaco Grand Prix,30,2,1,595
+112,McLaren,1974,8,Dutch Grand Prix,42,1,3,597
+113,Ferrari,1974,8,Dutch Grand Prix,39,2,2,597
+114,McLaren,1974,12,Austrian Grand Prix,55,2,3,601
+115,Ferrari,1974,12,Austrian Grand Prix,59,1,3,601
+116,McLaren,1974,13,Italian Grand Prix,61,1,3,602
+117,Ferrari,1974,13,Italian Grand Prix,59,2,3,602
+118,Williams,1975,2,São Paulo Grand Prix,0,12,0,577
+119,McLaren,1975,2,São Paulo Grand Prix,15,1,1,577
+120,Ferrari,1975,2,São Paulo Grand Prix,6,4,0,577
+121,Williams,1975,5,Monaco Grand Prix,0,10,0,580
+122,McLaren,1975,5,Monaco Grand Prix,26.5,1,2,580
+123,Ferrari,1975,5,Monaco Grand Prix,17,3,1,580
+124,Williams,1975,8,Dutch Grand Prix,0,12,0,583
+125,McLaren,1975,8,Dutch Grand Prix,26.5,3,2,583
+126,Williams,1975,10,British Grand Prix,0,12,0,585
+127,McLaren,1975,10,British Grand Prix,39.5,3,3,585
+128,Williams,1975,12,Austrian Grand Prix,6,9,0,587
+129,McLaren,1975,12,Austrian Grand Prix,41,3,3,587
+130,Ferrari,1975,12,Austrian Grand Prix,54.5,1,4,587
+131,Williams,1975,13,Italian Grand Prix,6,9,0,588
+132,McLaren,1975,13,Italian Grand Prix,47,3,3,588
+133,Ferrari,1975,13,Italian Grand Prix,63.5,1,5,588
+134,Ferrari,1975,8,Dutch Grand Prix,41,1,3,583
+135,Ferrari,1975,10,British Grand Prix,50,1,4,585
+136,Williams,1976,1,São Paulo Grand Prix,0,7,0,560
+137,McLaren,1976,1,São Paulo Grand Prix,1,5,0,560
+138,Ferrari,1976,1,São Paulo Grand Prix,9,1,1,560
+139,Ferrari,1976,6,Monaco Grand Prix,51,1,5,565
+140,McLaren,1976,6,Monaco Grand Prix,21,3,1,565
+141,Williams,1976,6,Monaco Grand Prix,0,16,0,565
+142,Ferrari,1976,11,Austrian Grand Prix,64,1,6,570
+143,McLaren,1976,11,Austrian Grand Prix,43,3,3,570
+144,Williams,1976,11,Austrian Grand Prix,0,17,0,570
+145,Ferrari,1976,12,Dutch Grand Prix,70,1,6,571
+146,McLaren,1976,12,Dutch Grand Prix,52,2,4,571
+147,Williams,1976,12,Dutch Grand Prix,0,17,0,571
+148,Ferrari,1976,13,Italian Grand Prix,76,1,6,572
+149,McLaren,1976,13,Italian Grand Prix,52,3,4,572
+150,Williams,1976,13,Italian Grand Prix,0,17,0,572
+151,McLaren,1977,2,São Paulo Grand Prix,6,4,0,544
+152,Ferrari,1977,2,São Paulo Grand Prix,13,1,1,544
+153,McLaren,1977,6,Monaco Grand Prix,15,4,0,548
+154,Ferrari,1977,6,Monaco Grand Prix,40,1,2,548
+155,McLaren,1977,10,British Grand Prix,34,3,1,552
+156,Ferrari,1977,10,British Grand Prix,56,1,2,552
+157,McLaren,1977,12,Austrian Grand Prix,35,4,1,554
+158,Ferrari,1977,12,Austrian Grand Prix,71,1,3,554
+159,McLaren,1977,13,Dutch Grand Prix,35,4,1,555
+160,Ferrari,1977,13,Dutch Grand Prix,80,1,4,555
+161,McLaren,1977,14,Italian Grand Prix,38,4,1,556
+162,Ferrari,1977,14,Italian Grand Prix,86,1,4,556
+163,McLaren,1978,5,Monaco Grand Prix,3,8,0,531
+164,Ferrari,1978,5,Monaco Grand Prix,18,4,2,531
+165,Williams,1978,5,Monaco Grand Prix,3,9,0,531
+166,McLaren,1978,12,Austrian Grand Prix,12,8,0,538
+167,Ferrari,1978,12,Austrian Grand Prix,35,4,3,538
+168,Williams,1978,12,Austrian Grand Prix,5,11,0,538
+169,McLaren,1978,13,Dutch Grand Prix,12,8,0,539
+170,Ferrari,1978,13,Dutch Grand Prix,36,3,3,539
+171,Williams,1978,13,Dutch Grand Prix,5,11,0,539
+172,McLaren,1978,14,Italian Grand Prix,14,8,0,540
+173,Ferrari,1978,14,Italian Grand Prix,40,3,3,540
+174,Williams,1978,14,Italian Grand Prix,5,11,0,540
+175,McLaren,1978,16,Canadian Grand Prix,15,8,0,542
+176,Ferrari,1978,16,Canadian Grand Prix,58,2,5,542
+177,Williams,1978,16,Canadian Grand Prix,11,9,0,542
+178,Williams,1979,2,São Paulo Grand Prix,0,9,0,513
+179,Ferrari,1979,2,São Paulo Grand Prix,3,5,0,513
+180,Alfa Romeo,1979,7,Monaco Grand Prix,0,15,0,518
+181,McLaren,1979,7,Monaco Grand Prix,8,6,0,518
+182,Williams,1979,7,Monaco Grand Prix,10,5,0,518
+183,Ferrari,1979,7,Monaco Grand Prix,54,1,4,518
+184,Alfa Romeo,1979,9,British Grand Prix,0,15,0,520
+185,McLaren,1979,9,British Grand Prix,11,7,0,520
+186,Ferrari,1979,9,British Grand Prix,62,1,4,520
+187,Alfa Romeo,1979,11,Austrian Grand Prix,0,15,0,522
+188,Ferrari,1979,11,Austrian Grand Prix,74,1,4,522
+189,Williams,1979,11,Austrian Grand Prix,49,3,3,522
+190,McLaren,1979,11,Austrian Grand Prix,13,7,0,522
+191,Alfa Romeo,1979,12,Dutch Grand Prix,0,15,0,523
+192,Ferrari,1979,12,Dutch Grand Prix,80,1,4,523
+193,Williams,1979,12,Dutch Grand Prix,58,3,4,523
+194,Alfa Romeo,1979,13,Italian Grand Prix,0,15,0,524
+195,Ferrari,1979,13,Italian Grand Prix,95,1,5,524
+196,Williams,1979,13,Italian Grand Prix,62,2,4,524
+197,McLaren,1979,13,Italian Grand Prix,13,7,0,524
+198,Alfa Romeo,1979,14,Canadian Grand Prix,0,16,0,525
+199,Ferrari,1979,14,Canadian Grand Prix,104,1,5,525
+200,Williams,1979,14,Canadian Grand Prix,75,2,5,525
+201,McLaren,1979,2,São Paulo Grand Prix,4,3,0,513
+202,Williams,1979,9,British Grand Prix,23,4,1,520
+203,McLaren,1979,12,Dutch Grand Prix,13,7,0,523
+204,McLaren,1979,14,Canadian Grand Prix,14,7,0,525
+205,Williams,1980,2,São Paulo Grand Prix,13,1,1,499
+206,Alfa Romeo,1980,2,São Paulo Grand Prix,2,9,0,499
+207,McLaren,1980,2,São Paulo Grand Prix,3,8,0,499
+208,Ferrari,1980,2,São Paulo Grand Prix,0,12,0,499
+209,Williams,1980,6,Monaco Grand Prix,34,1,2,503
+210,Alfa Romeo,1980,6,Monaco Grand Prix,2,11,0,503
+211,McLaren,1980,6,Monaco Grand Prix,6,8,0,503
+212,Ferrari,1980,6,Monaco Grand Prix,5,10,0,503
+213,Williams,1980,10,Austrian Grand Prix,77,1,4,507
+214,Alfa Romeo,1980,10,Austrian Grand Prix,4,11,0,507
+215,McLaren,1980,10,Austrian Grand Prix,7,9,0,507
+216,Ferrari,1980,10,Austrian Grand Prix,6,10,0,507
+217,Williams,1980,11,Dutch Grand Prix,80,1,4,508
+218,Alfa Romeo,1980,11,Dutch Grand Prix,4,11,0,508
+219,McLaren,1980,11,Dutch Grand Prix,8,8,0,508
+220,Ferrari,1980,11,Dutch Grand Prix,6,10,0,508
+221,Williams,1980,12,Italian Grand Prix,90,1,4,509
+222,Alfa Romeo,1980,12,Italian Grand Prix,4,11,0,509
+223,McLaren,1980,12,Italian Grand Prix,8,9,0,509
+224,Ferrari,1980,12,Italian Grand Prix,6,10,0,509
+225,Williams,1980,13,Canadian Grand Prix,105,1,5,510
+226,Alfa Romeo,1980,13,Canadian Grand Prix,4,11,0,510
+227,McLaren,1980,13,Canadian Grand Prix,11,8,0,510
+228,Ferrari,1980,13,Canadian Grand Prix,8,10,0,510
+229,Williams,1981,4,Emilia Romagna Grand Prix,43,1,2,486
+230,Alfa Romeo,1981,4,Emilia Romagna Grand Prix,3,5,0,486
+231,Ferrari,1981,4,Emilia Romagna Grand Prix,2,8,0,486
+232,McLaren,1981,4,Emilia Romagna Grand Prix,1,11,0,486
+233,Williams,1981,6,Monaco Grand Prix,58,1,3,488
+234,Alfa Romeo,1981,6,Monaco Grand Prix,3,10,0,488
+235,Ferrari,1981,6,Monaco Grand Prix,17,3,1,488
+236,McLaren,1981,6,Monaco Grand Prix,1,11,0,488
+237,Williams,1981,9,British Grand Prix,67,1,3,491
+238,Alfa Romeo,1981,9,British Grand Prix,3,11,0,491
+239,Ferrari,1981,9,British Grand Prix,28,3,2,491
+240,McLaren,1981,9,British Grand Prix,20,5,1,491
+241,Williams,1981,11,Austrian Grand Prix,72,1,3,493
+242,Alfa Romeo,1981,11,Austrian Grand Prix,3,11,0,493
+243,Ferrari,1981,11,Austrian Grand Prix,28,5,2,493
+244,McLaren,1981,11,Austrian Grand Prix,22,6,1,493
+245,Williams,1981,12,Dutch Grand Prix,76,1,3,494
+246,Alfa Romeo,1981,12,Dutch Grand Prix,3,11,0,494
+247,Ferrari,1981,12,Dutch Grand Prix,28,5,2,494
+248,McLaren,1981,12,Dutch Grand Prix,22,6,1,494
+249,Williams,1981,13,Italian Grand Prix,86,1,3,495
+250,Alfa Romeo,1981,13,Italian Grand Prix,3,11,0,495
+251,Ferrari,1981,13,Italian Grand Prix,30,5,2,495
+252,McLaren,1981,13,Italian Grand Prix,22,6,1,495
+253,Williams,1981,14,Canadian Grand Prix,86,1,3,496
+254,Alfa Romeo,1981,14,Canadian Grand Prix,6,10,0,496
+255,Ferrari,1981,14,Canadian Grand Prix,34,5,2,496
+256,McLaren,1981,14,Canadian Grand Prix,28,6,1,496
+257,Williams,1981,15,Caesars Palace Grand Prix,95,1,4,497
+258,Alfa Romeo,1981,15,Caesars Palace Grand Prix,10,9,0,497
+259,Ferrari,1981,15,Caesars Palace Grand Prix,34,5,2,497
+260,McLaren,1981,15,Caesars Palace Grand Prix,28,6,1,497
+261,Williams,1982,4,Emilia Romagna Grand Prix,14,4,0,470
+262,McLaren,1982,4,Emilia Romagna Grand Prix,20,2,1,470
+263,Alfa Romeo,1982,4,Emilia Romagna Grand Prix,0,12,0,470
+264,Ferrari,1982,4,Emilia Romagna Grand Prix,16,3,1,470
+265,Williams,1982,6,Monaco Grand Prix,21,4,0,472
+266,McLaren,1982,6,Monaco Grand Prix,29,1,2,472
+267,Alfa Romeo,1982,6,Monaco Grand Prix,4,9,0,472
+268,Ferrari,1982,6,Monaco Grand Prix,22,3,1,472
+269,Williams,1982,8,Canadian Grand Prix,26,4,0,474
+270,McLaren,1982,8,Canadian Grand Prix,42,1,3,474
+271,Alfa Romeo,1982,8,Canadian Grand Prix,5,9,0,474
+272,Ferrari,1982,8,Canadian Grand Prix,26,3,1,474
+273,Williams,1982,9,Dutch Grand Prix,32,4,0,475
+274,McLaren,1982,9,Dutch Grand Prix,45,1,3,475
+275,Alfa Romeo,1982,9,Dutch Grand Prix,5,9,0,475
+276,Ferrari,1982,9,Dutch Grand Prix,35,3,2,475
+277,Williams,1982,13,Austrian Grand Prix,46,3,0,479
+278,McLaren,1982,13,Austrian Grand Prix,56,2,4,479
+279,Alfa Romeo,1982,13,Austrian Grand Prix,7,9,0,479
+280,Ferrari,1982,13,Austrian Grand Prix,64,1,3,479
+281,Williams,1982,15,Italian Grand Prix,55,4,1,481
+282,McLaren,1982,15,Italian Grand Prix,63,2,4,481
+283,Alfa Romeo,1982,15,Italian Grand Prix,7,9,0,481
+284,Ferrari,1982,15,Italian Grand Prix,74,1,3,481
+285,Ferrari,1982,16,Caesars Palace Grand Prix,74,1,3,482
+286,Alfa Romeo,1982,16,Caesars Palace Grand Prix,7,9,0,482
+287,Williams,1982,16,Caesars Palace Grand Prix,58,4,1,482
+288,McLaren,1982,16,Caesars Palace Grand Prix,69,2,4,482
+289,McLaren,1983,4,Emilia Romagna Grand Prix,21,2,1,455
+290,Williams,1983,4,Emilia Romagna Grand Prix,12,5,0,455
+291,Ferrari,1983,4,Emilia Romagna Grand Prix,22,1,1,455
+292,Alfa Romeo,1983,4,Emilia Romagna Grand Prix,0,11,0,455
+293,McLaren,1983,5,Monaco Grand Prix,21,4,1,456
+294,Williams,1983,5,Monaco Grand Prix,21,5,1,456
+295,Ferrari,1983,5,Monaco Grand Prix,25,1,1,456
+296,Alfa Romeo,1983,5,Monaco Grand Prix,1,8,0,456
+297,McLaren,1983,6,Belgian Grand Prix,21,5,1,457
+298,Williams,1983,6,Belgian Grand Prix,24,4,1,457
+299,Ferrari,1983,6,Belgian Grand Prix,31,2,1,457
+300,Alfa Romeo,1983,6,Belgian Grand Prix,1,9,0,457
+301,McLaren,1983,8,Canadian Grand Prix,26,5,1,459
+302,Williams,1983,8,Canadian Grand Prix,35,3,1,459
+303,Ferrari,1983,8,Canadian Grand Prix,44,2,2,459
+304,Alfa Romeo,1983,8,Canadian Grand Prix,1,9,0,459
+305,McLaren,1983,9,British Grand Prix,27,5,1,460
+306,Williams,1983,9,British Grand Prix,35,3,1,460
+307,Ferrari,1983,9,British Grand Prix,50,2,2,460
+308,Alfa Romeo,1983,9,British Grand Prix,1,9,0,460
+309,McLaren,1983,11,Austrian Grand Prix,30,5,1,462
+310,Williams,1983,11,Austrian Grand Prix,36,4,1,462
+311,Ferrari,1983,11,Austrian Grand Prix,65,2,3,462
+312,Alfa Romeo,1983,11,Austrian Grand Prix,7,7,0,462
+313,McLaren,1983,12,Dutch Grand Prix,34,5,1,463
+314,Williams,1983,12,Dutch Grand Prix,36,4,1,463
+315,Ferrari,1983,12,Dutch Grand Prix,80,1,4,463
+316,Alfa Romeo,1983,12,Dutch Grand Prix,9,7,0,463
+317,McLaren,1983,13,Italian Grand Prix,34,5,1,464
+318,Williams,1983,13,Italian Grand Prix,36,4,1,464
+319,Ferrari,1983,13,Italian Grand Prix,89,1,4,464
+320,Alfa Romeo,1983,13,Italian Grand Prix,9,7,0,464
+321,Williams,1984,4,Emilia Romagna Grand Prix,9,5,0,439
+322,Ferrari,1984,4,Emilia Romagna Grand Prix,19,2,1,439
+323,Alfa Romeo,1984,4,Emilia Romagna Grand Prix,6,6,0,439
+324,McLaren,1984,4,Emilia Romagna Grand Prix,33,1,3,439
+325,McLaren,1984,6,Monaco Grand Prix,46.5,1,5,441
+326,Williams,1984,6,Monaco Grand Prix,11.5,5,0,441
+327,Alfa Romeo,1984,6,Monaco Grand Prix,6,6,0,441
+328,Ferrari,1984,6,Monaco Grand Prix,24.5,2,1,441
+329,McLaren,1984,7,Canadian Grand Prix,56.5,1,5,442
+330,Williams,1984,7,Canadian Grand Prix,11.5,5,0,442
+331,Alfa Romeo,1984,7,Canadian Grand Prix,6,7,0,442
+332,Ferrari,1984,7,Canadian Grand Prix,26.5,2,1,442
+333,McLaren,1984,12,Austrian Grand Prix,92.5,1,8,447
+334,Williams,1984,12,Austrian Grand Prix,25.5,6,1,447
+335,Alfa Romeo,1984,12,Austrian Grand Prix,6,8,0,447
+336,Ferrari,1984,12,Austrian Grand Prix,40.5,2,1,447
+337,McLaren,1984,13,Dutch Grand Prix,107.5,1,9,448
+338,Williams,1984,13,Dutch Grand Prix,25.5,6,1,448
+339,Alfa Romeo,1984,13,Dutch Grand Prix,6,8,0,448
+340,Ferrari,1984,13,Dutch Grand Prix,40.5,3,1,448
+341,Ferrari,1984,14,Italian Grand Prix,46.5,2,1,449
+342,Alfa Romeo,1984,14,Italian Grand Prix,10,8,0,449
+343,Williams,1984,14,Italian Grand Prix,25.5,6,1,449
+344,McLaren,1984,14,Italian Grand Prix,116.5,1,10,449
+345,McLaren,1985,3,Emilia Romagna Grand Prix,12,3,1,422
+346,Ferrari,1985,3,Emilia Romagna Grand Prix,16,2,0,422
+347,Alfa Romeo,1985,3,Emilia Romagna Grand Prix,0,12,0,422
+348,Williams,1985,3,Emilia Romagna Grand Prix,4,6,0,422
+349,McLaren,1985,4,Monaco Grand Prix,21,3,2,423
+350,Ferrari,1985,4,Monaco Grand Prix,22,2,0,423
+351,Alfa Romeo,1985,4,Monaco Grand Prix,0,13,0,423
+352,Williams,1985,4,Monaco Grand Prix,4,7,0,423
+353,McLaren,1985,5,Canadian Grand Prix,25,3,2,424
+354,Ferrari,1985,5,Canadian Grand Prix,37,1,1,424
+355,Alfa Romeo,1985,5,Canadian Grand Prix,0,12,0,424
+356,Williams,1985,5,Canadian Grand Prix,8,5,0,424
+357,McLaren,1985,8,British Grand Prix,38,2,3,427
+358,Ferrari,1985,8,British Grand Prix,56,1,1,427
+359,Alfa Romeo,1985,8,British Grand Prix,0,10,0,427
+360,Williams,1985,8,British Grand Prix,23,4,1,427
+361,McLaren,1985,10,Austrian Grand Prix,55,2,4,429
+362,Ferrari,1985,10,Austrian Grand Prix,72,1,2,429
+363,Alfa Romeo,1985,10,Austrian Grand Prix,0,10,0,429
+364,Williams,1985,10,Austrian Grand Prix,24,4,1,429
+365,McLaren,1985,11,Dutch Grand Prix,70,2,5,430
+366,Ferrari,1985,11,Dutch Grand Prix,75,1,2,430
+367,Alfa Romeo,1985,11,Dutch Grand Prix,0,10,0,430
+368,Williams,1985,11,Dutch Grand Prix,25,4,1,430
+369,McLaren,1985,12,Italian Grand Prix,79,1,6,431
+370,Ferrari,1985,12,Italian Grand Prix,77,2,2,431
+371,Alfa Romeo,1985,12,Italian Grand Prix,0,10,0,431
+372,Williams,1985,12,Italian Grand Prix,25,4,1,431
+373,McLaren,1985,13,Belgian Grand Prix,83,1,6,432
+374,Ferrari,1985,13,Belgian Grand Prix,77,2,2,432
+375,Alfa Romeo,1985,13,Belgian Grand Prix,0,10,0,432
+376,Williams,1985,13,Belgian Grand Prix,34,4,1,432
+377,Williams,1986,3,Emilia Romagna Grand Prix,21,1,1,406
+378,Ferrari,1986,3,Emilia Romagna Grand Prix,3,6,0,406
+379,McLaren,1986,3,Emilia Romagna Grand Prix,18,2,1,406
+380,Williams,1986,4,Monaco Grand Prix,24,2,1,407
+381,Ferrari,1986,4,Monaco Grand Prix,3,6,0,407
+382,McLaren,1986,4,Monaco Grand Prix,33,1,2,407
+383,Williams,1986,5,Belgian Grand Prix,33,2,2,408
+384,Ferrari,1986,5,Belgian Grand Prix,10,5,0,408
+385,McLaren,1986,5,Belgian Grand Prix,34,1,2,408
+386,Williams,1986,6,Canadian Grand Prix,46,1,3,409
+387,Ferrari,1986,6,Canadian Grand Prix,10,5,0,409
+388,McLaren,1986,6,Canadian Grand Prix,43,2,2,409
+389,Williams,1986,11,Hungarian Grand Prix,102,1,7,414
+390,Ferrari,1986,11,Hungarian Grand Prix,16,5,0,414
+391,McLaren,1986,11,Hungarian Grand Prix,63,2,2,414
+392,Williams,1986,12,Austrian Grand Prix,102,1,7,415
+393,Ferrari,1986,12,Austrian Grand Prix,26,5,0,415
+394,McLaren,1986,12,Austrian Grand Prix,72,2,3,415
+395,Williams,1986,13,Italian Grand Prix,117,1,8,416
+396,Ferrari,1986,13,Italian Grand Prix,30,4,0,416
+397,McLaren,1986,13,Italian Grand Prix,75,2,3,416
+398,Williams,1986,15,Mexico City Grand Prix,135,1,9,418
+399,Ferrari,1986,15,Mexico City Grand Prix,33,4,0,418
+400,McLaren,1986,15,Mexico City Grand Prix,87,2,3,418
+401,McLaren,1987,2,Emilia Romagna Grand Prix,16,2,1,389
+402,Williams,1987,2,Emilia Romagna Grand Prix,16,1,1,389
+403,Ferrari,1987,2,Emilia Romagna Grand Prix,7,4,0,389
+404,McLaren,1987,3,Belgian Grand Prix,31,1,2,390
+405,Williams,1987,3,Belgian Grand Prix,16,2,1,390
+406,Ferrari,1987,3,Belgian Grand Prix,7,4,0,390
+407,McLaren,1987,4,Monaco Grand Prix,31,1,2,391
+408,Williams,1987,4,Monaco Grand Prix,22,2,1,391
+409,Ferrari,1987,4,Monaco Grand Prix,14,4,0,391
+410,McLaren,1987,7,British Grand Prix,39,2,2,394
+411,Williams,1987,7,British Grand Prix,60,1,3,394
+412,Ferrari,1987,7,British Grand Prix,17,4,0,394
+413,McLaren,1987,9,Hungarian Grand Prix,49,2,2,396
+414,Williams,1987,9,Hungarian Grand Prix,78,1,5,396
+415,Ferrari,1987,9,Hungarian Grand Prix,17,4,0,396
+416,McLaren,1987,10,Austrian Grand Prix,50,2,2,397
+417,Williams,1987,10,Austrian Grand Prix,93,1,6,397
+418,Ferrari,1987,10,Austrian Grand Prix,17,4,0,397
+419,McLaren,1987,11,Italian Grand Prix,51,3,2,398
+420,Williams,1987,11,Italian Grand Prix,106,1,7,398
+421,Ferrari,1987,11,Italian Grand Prix,20,4,0,398
+422,McLaren,1987,14,Mexico City Grand Prix,72,2,3,401
+423,Williams,1987,14,Mexico City Grand Prix,137,1,9,401
+424,Ferrari,1987,14,Mexico City Grand Prix,26,4,0,401
+425,McLaren,1987,15,Japanese Grand Prix,76,2,3,402
+426,Williams,1987,15,Japanese Grand Prix,137,1,9,402
+427,Ferrari,1987,15,Japanese Grand Prix,38,4,1,402
+428,McLaren,1988,2,Emilia Romagna Grand Prix,24,1,2,373
+429,Ferrari,1988,2,Emilia Romagna Grand Prix,10,2,0,373
+430,Williams,1988,2,Emilia Romagna Grand Prix,0,10,0,373
+431,McLaren,1988,3,Monaco Grand Prix,33,1,3,374
+432,Ferrari,1988,3,Monaco Grand Prix,20,2,0,374
+433,Williams,1988,3,Monaco Grand Prix,1,7,0,374
+434,McLaren,1988,4,Mexico City Grand Prix,48,1,4,375
+435,Ferrari,1988,4,Mexico City Grand Prix,27,2,0,375
+436,Williams,1988,4,Mexico City Grand Prix,1,7,0,375
+437,McLaren,1988,5,Canadian Grand Prix,63,1,5,376
+438,Ferrari,1988,5,Canadian Grand Prix,27,2,0,376
+439,Williams,1988,5,Canadian Grand Prix,1,8,0,376
+440,McLaren,1988,8,British Grand Prix,102,1,8,379
+441,Ferrari,1988,8,British Grand Prix,34,2,0,379
+442,Williams,1988,8,British Grand Prix,7,6,0,379
+443,McLaren,1988,10,Hungarian Grand Prix,132,1,10,381
+444,Ferrari,1988,10,Hungarian Grand Prix,44,2,0,381
+445,Williams,1988,10,Hungarian Grand Prix,8,7,0,381
+446,McLaren,1988,11,Belgian Grand Prix,147,1,11,382
+447,Ferrari,1988,11,Belgian Grand Prix,44,2,0,382
+448,Williams,1988,11,Belgian Grand Prix,8,7,0,382
+449,McLaren,1988,12,Italian Grand Prix,147,1,11,383
+450,Ferrari,1988,12,Italian Grand Prix,59,2,1,383
+451,Williams,1988,12,Italian Grand Prix,8,7,0,383
+452,McLaren,1988,15,Japanese Grand Prix,184,1,14,386
+453,Ferrari,1988,15,Japanese Grand Prix,65,2,1,386
+454,Williams,1988,15,Japanese Grand Prix,17,7,0,386
+455,Ferrari,1989,2,Emilia Romagna Grand Prix,9,2,1,357
+456,McLaren,1989,2,Emilia Romagna Grand Prix,21,1,1,357
+457,Williams,1989,2,Emilia Romagna Grand Prix,3,6,0,357
+458,Ferrari,1989,3,Monaco Grand Prix,9,2,1,358
+459,McLaren,1989,3,Monaco Grand Prix,36,1,2,358
+460,Williams,1989,3,Monaco Grand Prix,3,8,0,358
+461,Ferrari,1989,4,Mexico City Grand Prix,9,3,1,359
+462,McLaren,1989,4,Mexico City Grand Prix,47,1,3,359
+463,Williams,1989,4,Mexico City Grand Prix,9,4,0,359
+464,Ferrari,1989,6,Canadian Grand Prix,9,4,1,361
+465,McLaren,1989,6,Canadian Grand Prix,56,1,4,361
+466,Williams,1989,6,Canadian Grand Prix,31,2,1,361
+467,Ferrari,1989,8,British Grand Prix,21,3,1,363
+468,McLaren,1989,8,British Grand Prix,74,1,6,363
+469,Williams,1989,8,British Grand Prix,35,2,1,363
+470,Ferrari,1989,10,Hungarian Grand Prix,34,3,2,365
+471,McLaren,1989,10,Hungarian Grand Prix,98,1,7,365
+472,Williams,1989,10,Hungarian Grand Prix,42,2,1,365
+473,Ferrari,1989,11,Belgian Grand Prix,38,3,2,366
+474,McLaren,1989,11,Belgian Grand Prix,113,1,8,366
+475,Williams,1989,11,Belgian Grand Prix,45,2,1,366
+476,Ferrari,1989,12,Italian Grand Prix,44,3,2,367
+477,McLaren,1989,12,Italian Grand Prix,122,1,9,367
+478,Williams,1989,12,Italian Grand Prix,52,2,1,367
+479,Williams,1989,15,Japanese Grand Prix,64,2,1,370
+480,Ferrari,1989,15,Japanese Grand Prix,59,3,3,370
+481,McLaren,1989,15,Japanese Grand Prix,141,1,10,370
+482,Ferrari,1990,2,São Paulo Grand Prix,12,2,1,322
+483,Williams,1990,2,São Paulo Grand Prix,6,4,0,322
+484,McLaren,1990,2,São Paulo Grand Prix,19,1,1,322
+485,Ferrari,1990,3,Emilia Romagna Grand Prix,15,3,1,323
+486,Williams,1990,3,Emilia Romagna Grand Prix,15,2,1,323
+487,McLaren,1990,3,Emilia Romagna Grand Prix,25,1,1,323
+488,Ferrari,1990,4,Monaco Grand Prix,15,3,1,324
+489,Williams,1990,4,Monaco Grand Prix,18,2,1,324
+490,McLaren,1990,4,Monaco Grand Prix,38,1,2,324
+491,Ferrari,1990,5,Canadian Grand Prix,21,2,1,325
+492,Williams,1990,5,Canadian Grand Prix,18,3,1,325
+493,McLaren,1990,5,Canadian Grand Prix,50,1,3,325
+494,Ferrari,1990,6,Mexico City Grand Prix,36,2,2,326
+495,Williams,1990,6,Mexico City Grand Prix,20,3,1,326
+496,McLaren,1990,6,Mexico City Grand Prix,54,1,3,326
+497,Ferrari,1990,8,British Grand Prix,54,2,4,328
+498,Williams,1990,8,British Grand Prix,27,3,1,328
+499,McLaren,1990,8,British Grand Prix,64,1,3,328
+500,Ferrari,1990,10,Hungarian Grand Prix,57,2,4,330
+501,Williams,1990,10,Hungarian Grand Prix,42,3,2,330
+502,McLaren,1990,10,Hungarian Grand Prix,83,1,4,330
+503,Ferrari,1990,11,Belgian Grand Prix,63,2,4,331
+504,Williams,1990,11,Belgian Grand Prix,42,3,2,331
+505,McLaren,1990,11,Belgian Grand Prix,96,1,5,331
+506,Ferrari,1990,12,Italian Grand Prix,72,2,4,332
+507,Williams,1990,12,Italian Grand Prix,44,3,2,332
+508,McLaren,1990,12,Italian Grand Prix,109,1,6,332
+509,Ferrari,1990,15,Japanese Grand Prix,100,2,6,335
+510,Williams,1990,15,Japanese Grand Prix,54,4,2,335
+511,McLaren,1990,15,Japanese Grand Prix,118,1,6,335
+512,Williams,1991,2,São Paulo Grand Prix,6,3,0,306
+513,Williams,1991,3,Emilia Romagna Grand Prix,6,3,0,307
+514,Williams,1991,4,Monaco Grand Prix,12,3,0,308
+515,Williams,1991,5,Canadian Grand Prix,17,3,0,309
+516,Williams,1991,6,Mexico City Grand Prix,33,2,1,310
+517,Williams,1991,8,British Grand Prix,55,2,3,312
+518,Williams,1991,10,Hungarian Grand Prix,81,2,4,314
+519,Williams,1991,11,Belgian Grand Prix,83,2,4,315
+520,Williams,1991,12,Italian Grand Prix,93,2,5,316
+521,Williams,1991,14,Spanish Grand Prix,117,1,7,318
+522,Ferrari,1991,14,Spanish Grand Prix,52,3,0,318
+523,Williams,1991,15,Japanese Grand Prix,121,2,7,319
+524,Ferrari,1991,15,Japanese Grand Prix,55,3,0,319
+525,Ferrari,1991,2,São Paulo Grand Prix,10,2,0,306
+526,McLaren,1991,2,São Paulo Grand Prix,24,1,2,306
+527,Ferrari,1991,3,Emilia Romagna Grand Prix,10,2,0,307
+528,McLaren,1991,3,Emilia Romagna Grand Prix,40,1,3,307
+529,Ferrari,1991,4,Monaco Grand Prix,16,2,0,308
+530,McLaren,1991,4,Monaco Grand Prix,50,1,4,308
+531,Ferrari,1991,5,Canadian Grand Prix,16,4,0,309
+532,McLaren,1991,5,Canadian Grand Prix,50,1,4,309
+533,McLaren,1991,6,Mexico City Grand Prix,54,1,4,310
+534,Ferrari,1991,6,Mexico City Grand Prix,16,4,0,310
+535,McLaren,1991,8,British Grand Prix,67,1,4,312
+536,Ferrari,1991,8,British Grand Prix,29,3,0,312
+537,McLaren,1991,10,Hungarian Grand Prix,83,1,5,314
+538,Ferrari,1991,10,Hungarian Grand Prix,35,3,0,314
+539,Ferrari,1991,11,Belgian Grand Prix,35,3,0,315
+540,McLaren,1991,11,Belgian Grand Prix,99,1,6,315
+541,Ferrari,1991,12,Italian Grand Prix,39,3,0,316
+542,McLaren,1991,12,Italian Grand Prix,108,1,6,316
+543,McLaren,1991,14,Spanish Grand Prix,116,2,6,318
+544,McLaren,1991,15,Japanese Grand Prix,132,1,7,319
+545,Williams,1992,2,Mexico City Grand Prix,32,1,2,290
+546,McLaren,1992,2,Mexico City Grand Prix,9,2,0,290
+547,Williams,1992,3,São Paulo Grand Prix,48,1,3,291
+548,McLaren,1992,3,São Paulo Grand Prix,9,3,0,291
+549,Ferrari,1992,3,São Paulo Grand Prix,5,4,0,291
+550,Williams,1992,5,Emilia Romagna Grand Prix,74,1,5,293
+551,Ferrari,1992,4,Spanish Grand Prix,9,4,0,292
+552,McLaren,1992,4,Spanish Grand Prix,12,3,0,292
+553,Williams,1992,4,Spanish Grand Prix,58,1,4,292
+554,McLaren,1992,5,Emilia Romagna Grand Prix,16,3,0,293
+555,Ferrari,1992,5,Emilia Romagna Grand Prix,9,4,0,293
+556,Williams,1992,6,Monaco Grand Prix,84,1,5,294
+557,McLaren,1992,6,Monaco Grand Prix,26,2,1,294
+558,Ferrari,1992,6,Monaco Grand Prix,9,4,0,294
+559,Williams,1992,7,Canadian Grand Prix,84,1,5,295
+560,McLaren,1992,7,Canadian Grand Prix,36,2,2,295
+561,Ferrari,1992,7,Canadian Grand Prix,13,4,0,295
+562,Williams,1992,9,British Grand Prix,116,1,7,297
+563,McLaren,1992,9,British Grand Prix,38,3,2,297
+564,Ferrari,1992,9,British Grand Prix,13,4,0,297
+565,Williams,1992,11,Hungarian Grand Prix,132,1,8,299
+566,McLaren,1992,11,Hungarian Grand Prix,58,2,3,299
+567,Ferrari,1992,11,Hungarian Grand Prix,16,4,0,299
+568,Williams,1992,12,Belgian Grand Prix,142,1,8,300
+569,McLaren,1992,12,Belgian Grand Prix,60,3,3,300
+570,Ferrari,1992,12,Belgian Grand Prix,16,4,0,300
+571,Williams,1992,13,Italian Grand Prix,144,1,8,301
+572,McLaren,1992,13,Italian Grand Prix,73,3,4,301
+573,Ferrari,1992,13,Italian Grand Prix,16,4,0,301
+574,Williams,1992,15,Japanese Grand Prix,164,1,10,303
+575,McLaren,1992,15,Japanese Grand Prix,89,2,4,303
+576,Ferrari,1992,15,Japanese Grand Prix,18,4,0,303
+577,Ferrari,1993,2,São Paulo Grand Prix,1,8,0,274
+578,McLaren,1993,2,São Paulo Grand Prix,16,1,1,274
+579,Williams,1993,2,São Paulo Grand Prix,16,2,1,274
+580,Ferrari,1993,4,Emilia Romagna Grand Prix,1,9,0,276
+581,McLaren,1993,4,Emilia Romagna Grand Prix,26,2,2,276
+582,Williams,1993,4,Emilia Romagna Grand Prix,36,1,2,276
+583,Ferrari,1993,5,Spanish Grand Prix,2,9,0,277
+584,McLaren,1993,5,Spanish Grand Prix,34,2,2,277
+585,Williams,1993,5,Spanish Grand Prix,46,1,3,277
+586,Ferrari,1993,6,Monaco Grand Prix,6,7,0,278
+587,McLaren,1993,6,Monaco Grand Prix,44,2,3,278
+588,Williams,1993,6,Monaco Grand Prix,55,1,3,278
+589,Ferrari,1993,7,Canadian Grand Prix,9,5,0,279
+590,McLaren,1993,7,Canadian Grand Prix,44,2,3,279
+591,Williams,1993,7,Canadian Grand Prix,69,1,4,279
+592,Ferrari,1993,9,British Grand Prix,9,6,0,281
+593,McLaren,1993,9,British Grand Prix,50,2,3,281
+594,Williams,1993,9,British Grand Prix,95,1,6,281
+595,Ferrari,1993,11,Hungarian Grand Prix,14,5,0,283
+596,McLaren,1993,11,Hungarian Grand Prix,53,2,3,283
+597,Williams,1993,11,Hungarian Grand Prix,115,1,8,283
+598,Ferrari,1993,12,Belgian Grand Prix,14,5,0,284
+599,McLaren,1993,12,Belgian Grand Prix,56,3,3,284
+600,Williams,1993,12,Belgian Grand Prix,129,1,9,284
+601,Ferrari,1993,13,Italian Grand Prix,20,5,0,285
+602,McLaren,1993,13,Italian Grand Prix,60,3,3,285
+603,Williams,1993,13,Italian Grand Prix,139,1,10,285
+604,Ferrari,1993,15,Japanese Grand Prix,23,4,0,287
+605,McLaren,1993,15,Japanese Grand Prix,74,2,4,287
+606,Williams,1993,15,Japanese Grand Prix,158,1,10,287
+607,Ferrari,1994,1,São Paulo Grand Prix,4,3,0,257
+608,Williams,1994,1,São Paulo Grand Prix,6,2,0,257
+609,McLaren,1994,3,Emilia Romagna Grand Prix,4,6,0,259
+610,Ferrari,1994,3,Emilia Romagna Grand Prix,16,2,0,259
+611,Williams,1994,3,Emilia Romagna Grand Prix,7,3,0,259
+612,McLaren,1994,4,Monaco Grand Prix,10,3,0,260
+613,Ferrari,1994,4,Monaco Grand Prix,22,2,0,260
+614,Williams,1994,4,Monaco Grand Prix,7,5,0,260
+615,McLaren,1994,5,Spanish Grand Prix,10,5,0,261
+616,Ferrari,1994,5,Spanish Grand Prix,25,2,0,261
+617,Williams,1994,5,Spanish Grand Prix,17,3,1,261
+618,McLaren,1994,6,Canadian Grand Prix,10,5,0,262
+619,Ferrari,1994,6,Canadian Grand Prix,32,2,0,262
+620,Williams,1994,6,Canadian Grand Prix,25,3,1,262
+621,McLaren,1994,8,British Grand Prix,14,4,0,264
+622,Ferrari,1994,8,British Grand Prix,42,3,0,264
+623,Williams,1994,8,British Grand Prix,43,2,2,264
+624,McLaren,1994,10,Hungarian Grand Prix,17,4,0,266
+625,Ferrari,1994,10,Hungarian Grand Prix,52,2,1,266
+626,Williams,1994,10,Hungarian Grand Prix,49,3,2,266
+627,McLaren,1994,11,Belgian Grand Prix,23,4,0,267
+628,Ferrari,1994,11,Belgian Grand Prix,52,3,1,267
+629,Williams,1994,11,Belgian Grand Prix,62,2,3,267
+630,McLaren,1994,12,Italian Grand Prix,29,4,0,268
+631,Ferrari,1994,12,Italian Grand Prix,58,3,1,268
+632,Williams,1994,12,Italian Grand Prix,73,2,4,268
+633,McLaren,1994,15,Japanese Grand Prix,38,4,0,271
+634,Ferrari,1994,15,Japanese Grand Prix,64,3,1,271
+635,Williams,1994,15,Japanese Grand Prix,108,1,6,271
+636,McLaren,1994,1,São Paulo Grand Prix,0,12,0,257
+637,McLaren,1995,1,São Paulo Grand Prix,4,4,0,240
+638,Ferrari,1995,1,São Paulo Grand Prix,6,3,0,240
+639,Williams,1995,1,São Paulo Grand Prix,6,2,0,240
+640,McLaren,1995,3,Emilia Romagna Grand Prix,6,4,0,242
+641,Ferrari,1995,3,Emilia Romagna Grand Prix,23,2,0,242
+642,Williams,1995,3,Emilia Romagna Grand Prix,29,1,2,242
+643,McLaren,1995,4,Spanish Grand Prix,6,4,0,243
+644,Ferrari,1995,4,Spanish Grand Prix,27,3,0,243
+645,Williams,1995,4,Spanish Grand Prix,32,2,2,243
+646,McLaren,1995,5,Monaco Grand Prix,8,4,0,244
+647,Ferrari,1995,5,Monaco Grand Prix,31,3,0,244
+648,Williams,1995,5,Monaco Grand Prix,38,2,2,244
+649,McLaren,1995,6,Canadian Grand Prix,8,5,0,245
+650,Ferrari,1995,6,Canadian Grand Prix,41,2,1,245
+651,Williams,1995,6,Canadian Grand Prix,38,3,2,245
+652,McLaren,1995,8,British Grand Prix,10,6,0,247
+653,Ferrari,1995,8,British Grand Prix,49,3,1,247
+654,Williams,1995,8,British Grand Prix,52,2,2,247
+655,McLaren,1995,10,Hungarian Grand Prix,10,6,0,249
+656,Ferrari,1995,10,Hungarian Grand Prix,57,3,1,249
+657,Williams,1995,10,Hungarian Grand Prix,74,2,3,249
+658,McLaren,1995,11,Belgian Grand Prix,12,6,0,250
+659,Ferrari,1995,11,Belgian Grand Prix,57,3,1,250
+660,Williams,1995,11,Belgian Grand Prix,80,2,3,250
+661,McLaren,1995,12,Italian Grand Prix,21,4,0,251
+662,Ferrari,1995,12,Italian Grand Prix,57,3,1,251
+663,Williams,1995,12,Italian Grand Prix,80,2,3,251
+664,McLaren,1995,16,Japanese Grand Prix,27,4,0,255
+665,Ferrari,1995,16,Japanese Grand Prix,73,3,1,255
+666,Williams,1995,16,Japanese Grand Prix,108,2,4,255
+667,Williams,1996,1,Australian Grand Prix,16,1,1,224
+668,Ferrari,1996,1,Australian Grand Prix,4,2,0,224
+669,McLaren,1996,1,Australian Grand Prix,2,4,0,224
+670,Williams,1996,2,São Paulo Grand Prix,26,1,2,225
+671,Ferrari,1996,2,São Paulo Grand Prix,8,3,0,225
+672,McLaren,1996,2,São Paulo Grand Prix,5,4,0,225
+673,Williams,1996,5,Emilia Romagna Grand Prix,65,1,5,228
+674,Ferrari,1996,5,Emilia Romagna Grand Prix,25,2,0,228
+675,McLaren,1996,5,Emilia Romagna Grand Prix,9,4,0,228
+676,Williams,1996,6,Monaco Grand Prix,65,1,5,229
+677,Ferrari,1996,6,Monaco Grand Prix,25,2,0,229
+678,McLaren,1996,6,Monaco Grand Prix,16,4,0,229
+679,Williams,1996,7,Spanish Grand Prix,69,1,5,230
+680,Ferrari,1996,7,Spanish Grand Prix,35,2,1,230
+681,McLaren,1996,7,Spanish Grand Prix,18,4,0,230
+682,Williams,1996,8,Canadian Grand Prix,85,1,6,231
+683,Ferrari,1996,8,Canadian Grand Prix,35,2,1,231
+684,McLaren,1996,8,Canadian Grand Prix,23,4,0,231
+685,Williams,1996,10,British Grand Prix,111,1,8,233
+686,Ferrari,1996,10,British Grand Prix,35,3,1,233
+687,McLaren,1996,10,British Grand Prix,32,4,0,233
+688,Williams,1996,12,Hungarian Grand Prix,141,1,10,235
+689,Ferrari,1996,12,Hungarian Grand Prix,38,3,1,235
+690,McLaren,1996,12,Hungarian Grand Prix,37,4,0,235
+691,Williams,1996,13,Belgian Grand Prix,149,1,10,236
+692,Ferrari,1996,13,Belgian Grand Prix,48,3,2,236
+693,McLaren,1996,13,Belgian Grand Prix,41,4,0,236
+694,Williams,1996,14,Italian Grand Prix,149,1,10,237
+695,Ferrari,1996,14,Italian Grand Prix,58,3,3,237
+696,McLaren,1996,14,Italian Grand Prix,45,4,0,237
+697,Williams,1996,16,Japanese Grand Prix,175,1,12,239
+698,Ferrari,1996,16,Japanese Grand Prix,70,2,3,239
+699,McLaren,1996,16,Japanese Grand Prix,49,4,0,239
+700,Williams,1997,1,Australian Grand Prix,0,6,0,207
+701,Ferrari,1997,1,Australian Grand Prix,6,2,0,207
+702,McLaren,1997,1,Australian Grand Prix,14,1,1,207
+703,Williams,1997,2,São Paulo Grand Prix,10,2,1,208
+704,Ferrari,1997,2,São Paulo Grand Prix,8,4,0,208
+705,McLaren,1997,2,São Paulo Grand Prix,17,1,1,208
+706,Williams,1997,4,Emilia Romagna Grand Prix,30,1,3,210
+707,Ferrari,1997,4,Emilia Romagna Grand Prix,24,2,0,210
+708,McLaren,1997,4,Emilia Romagna Grand Prix,20,3,1,210
+709,Williams,1997,5,Monaco Grand Prix,30,2,3,211
+710,Ferrari,1997,5,Monaco Grand Prix,38,1,1,211
+711,McLaren,1997,5,Monaco Grand Prix,20,3,1,211
+712,Williams,1997,6,Spanish Grand Prix,40,2,4,212
+713,Ferrari,1997,6,Spanish Grand Prix,41,1,1,212
+714,McLaren,1997,6,Spanish Grand Prix,21,3,1,212
+715,Williams,1997,7,Canadian Grand Prix,43,2,4,213
+716,Ferrari,1997,7,Canadian Grand Prix,51,1,2,213
+717,McLaren,1997,7,Canadian Grand Prix,21,4,1,213
+718,Williams,1997,9,British Grand Prix,62,2,5,215
+719,Ferrari,1997,9,British Grand Prix,65,1,3,215
+720,McLaren,1997,9,British Grand Prix,24,4,1,215
+721,Williams,1997,11,Hungarian Grand Prix,72,2,6,217
+722,Ferrari,1997,11,Hungarian Grand Prix,74,1,3,217
+723,McLaren,1997,11,Hungarian Grand Prix,28,4,1,217
+724,Williams,1997,12,Belgian Grand Prix,78,2,6,218
+725,Ferrari,1997,12,Belgian Grand Prix,84,1,4,218
+726,McLaren,1997,12,Belgian Grand Prix,28,4,1,218
+727,Williams,1997,13,Italian Grand Prix,84,2,6,219
+728,Ferrari,1997,13,Italian Grand Prix,85,1,4,219
+729,McLaren,1997,13,Italian Grand Prix,38,4,2,219
+730,Williams,1997,14,Austrian Grand Prix,98,1,7,220
+731,Ferrari,1997,14,Austrian Grand Prix,86,2,4,220
+732,McLaren,1997,14,Austrian Grand Prix,44,4,2,220
+733,Williams,1997,16,Japanese Grand Prix,118,1,8,222
+734,Ferrari,1997,16,Japanese Grand Prix,100,2,5,222
+735,McLaren,1997,16,Japanese Grand Prix,47,4,2,222
+736,McLaren,1998,1,Australian Grand Prix,16,1,1,191
+737,Williams,1998,1,Australian Grand Prix,6,2,0,191
+738,Ferrari,1998,1,Australian Grand Prix,3,3,0,191
+739,McLaren,1998,2,São Paulo Grand Prix,32,1,2,192
+740,Williams,1998,2,São Paulo Grand Prix,8,2,0,192
+741,Ferrari,1998,2,São Paulo Grand Prix,7,3,0,192
+742,McLaren,1998,4,Emilia Romagna Grand Prix,49,1,3,194
+743,Williams,1998,4,Emilia Romagna Grand Prix,13,3,0,194
+744,Ferrari,1998,4,Emilia Romagna Grand Prix,31,2,1,194
+745,McLaren,1998,5,Spanish Grand Prix,65,1,4,195
+746,Williams,1998,5,Spanish Grand Prix,14,3,0,195
+747,Ferrari,1998,5,Spanish Grand Prix,35,2,1,195
+748,McLaren,1998,6,Monaco Grand Prix,75,1,5,196
+749,Williams,1998,6,Monaco Grand Prix,16,4,0,196
+750,Ferrari,1998,6,Monaco Grand Prix,39,2,1,196
+751,McLaren,1998,7,Canadian Grand Prix,75,1,5,197
+752,Williams,1998,7,Canadian Grand Prix,16,4,0,197
+753,Ferrari,1998,7,Canadian Grand Prix,53,2,2,197
+754,McLaren,1998,9,British Grand Prix,86,1,5,199
+755,Williams,1998,9,British Grand Prix,19,4,0,199
+756,Ferrari,1998,9,British Grand Prix,83,2,4,199
+757,McLaren,1998,10,Austrian Grand Prix,102,1,6,200
+758,Williams,1998,10,Austrian Grand Prix,20,4,0,200
+759,Ferrari,1998,10,Austrian Grand Prix,90,2,4,200
+760,McLaren,1998,12,Hungarian Grand Prix,125,1,7,202
+761,Williams,1998,12,Hungarian Grand Prix,30,4,0,202
+762,Ferrari,1998,12,Hungarian Grand Prix,102,2,5,202
+763,McLaren,1998,13,Belgian Grand Prix,125,1,7,203
+764,Williams,1998,13,Belgian Grand Prix,33,3,0,203
+765,Ferrari,1998,13,Belgian Grand Prix,102,2,5,203
+766,McLaren,1998,14,Italian Grand Prix,128,1,7,204
+767,Williams,1998,14,Italian Grand Prix,33,3,0,204
+768,Ferrari,1998,14,Italian Grand Prix,118,2,6,204
+769,McLaren,1998,16,Japanese Grand Prix,156,1,9,206
+770,Williams,1998,16,Japanese Grand Prix,38,3,0,206
+771,Ferrari,1998,16,Japanese Grand Prix,133,2,6,206
+772,Williams,1999,1,Australian Grand Prix,4,3,0,175
+773,Ferrari,1999,1,Australian Grand Prix,10,1,1,175
+774,McLaren,1999,2,São Paulo Grand Prix,10,2,1,176
+775,Williams,1999,2,São Paulo Grand Prix,7,4,0,176
+776,McLaren,1999,3,Emilia Romagna Grand Prix,16,2,1,177
+777,Williams,1999,3,Emilia Romagna Grand Prix,7,4,0,177
+778,Ferrari,1999,3,Emilia Romagna Grand Prix,28,1,2,177
+779,Ferrari,1999,2,São Paulo Grand Prix,18,1,1,176
+780,McLaren,1999,4,Monaco Grand Prix,20,2,1,178
+781,Williams,1999,4,Monaco Grand Prix,7,5,0,178
+782,Ferrari,1999,4,Monaco Grand Prix,44,1,3,178
+783,McLaren,1999,5,Spanish Grand Prix,36,2,2,179
+784,Williams,1999,5,Spanish Grand Prix,9,4,0,179
+785,Ferrari,1999,5,Spanish Grand Prix,51,1,3,179
+786,McLaren,1999,6,Canadian Grand Prix,46,2,3,180
+787,Williams,1999,6,Canadian Grand Prix,12,5,0,180
+788,Ferrari,1999,6,Canadian Grand Prix,55,1,3,180
+789,McLaren,1999,8,British Grand Prix,62,2,4,182
+790,Williams,1999,8,British Grand Prix,19,4,0,182
+791,Ferrari,1999,8,British Grand Prix,64,1,3,182
+792,McLaren,1999,9,Austrian Grand Prix,72,2,4,183
+793,Williams,1999,9,Austrian Grand Prix,19,4,0,183
+794,Ferrari,1999,9,Austrian Grand Prix,74,1,4,183
+795,McLaren,1999,11,Hungarian Grand Prix,90,2,5,185
+796,Williams,1999,11,Hungarian Grand Prix,22,4,0,185
+797,Ferrari,1999,11,Hungarian Grand Prix,94,1,5,185
+798,McLaren,1999,12,Belgian Grand Prix,106,1,6,186
+799,Williams,1999,12,Belgian Grand Prix,24,4,0,186
+800,Ferrari,1999,12,Belgian Grand Prix,97,2,5,186
+801,McLaren,1999,13,Italian Grand Prix,108,1,6,187
+802,Williams,1999,13,Italian Grand Prix,30,4,0,187
+803,Ferrari,1999,13,Italian Grand Prix,102,2,5,187
+804,McLaren,1999,16,Japanese Grand Prix,124,2,7,190
+805,Williams,1999,16,Japanese Grand Prix,35,5,0,190
+806,Ferrari,1999,16,Japanese Grand Prix,128,1,6,190
+807,Ferrari,2000,1,Australian Grand Prix,16,1,1,158
+808,Williams,2000,1,Australian Grand Prix,4,2,0,158
+809,Ferrari,2000,2,São Paulo Grand Prix,26,1,2,159
+810,Williams,2000,2,São Paulo Grand Prix,7,4,0,159
+811,Ferrari,2000,3,Emilia Romagna Grand Prix,39,1,3,160
+812,Williams,2000,3,Emilia Romagna Grand Prix,7,5,0,160
+813,McLaren,2000,3,Emilia Romagna Grand Prix,10,2,0,160
+814,Ferrari,2000,4,British Grand Prix,43,1,3,161
+815,Williams,2000,4,British Grand Prix,12,3,0,161
+816,McLaren,2000,4,British Grand Prix,26,2,1,161
+817,Ferrari,2000,5,Spanish Grand Prix,49,1,3,162
+818,Williams,2000,5,Spanish Grand Prix,15,3,0,162
+819,McLaren,2000,5,Spanish Grand Prix,42,2,2,162
+820,Ferrari,2000,7,Monaco Grand Prix,68,1,4,164
+821,Williams,2000,7,Monaco Grand Prix,15,3,0,164
+822,McLaren,2000,7,Monaco Grand Prix,63,2,3,164
+823,Ferrari,2000,8,Canadian Grand Prix,84,1,5,165
+824,Williams,2000,8,Canadian Grand Prix,15,4,0,165
+825,McLaren,2000,8,Canadian Grand Prix,66,2,3,165
+826,Ferrari,2000,10,Austrian Grand Prix,92,2,5,167
+827,Williams,2000,10,Austrian Grand Prix,19,3,0,167
+828,McLaren,2000,10,Austrian Grand Prix,98,1,5,167
+829,Ferrari,2000,12,Hungarian Grand Prix,111,2,6,169
+830,Williams,2000,12,Hungarian Grand Prix,24,3,0,169
+831,McLaren,2000,12,Hungarian Grand Prix,122,1,6,169
+832,Ferrari,2000,13,Belgian Grand Prix,117,2,6,170
+833,Williams,2000,13,Belgian Grand Prix,30,3,0,170
+834,McLaren,2000,13,Belgian Grand Prix,135,1,7,170
+835,Ferrari,2000,14,Italian Grand Prix,127,2,7,171
+836,Williams,2000,14,Italian Grand Prix,34,3,0,171
+837,McLaren,2000,14,Italian Grand Prix,141,1,7,171
+838,Ferrari,2000,16,Japanese Grand Prix,156,1,9,173
+839,Williams,2000,16,Japanese Grand Prix,36,3,0,173
+840,McLaren,2000,16,Japanese Grand Prix,153,2,7,173
+841,McLaren,2001,1,Australian Grand Prix,6,2,0,141
+842,Ferrari,2001,1,Australian Grand Prix,14,1,1,141
+843,Williams,2001,3,São Paulo Grand Prix,2,6,0,143
+844,McLaren,2001,3,São Paulo Grand Prix,21,2,1,143
+845,Ferrari,2001,3,São Paulo Grand Prix,36,1,2,143
+846,Williams,2001,4,Emilia Romagna Grand Prix,12,3,1,144
+847,McLaren,2001,4,Emilia Romagna Grand Prix,30,2,1,144
+848,Ferrari,2001,4,Emilia Romagna Grand Prix,40,1,2,144
+849,Williams,2001,5,Spanish Grand Prix,18,3,1,145
+850,McLaren,2001,5,Spanish Grand Prix,32,2,1,145
+851,Ferrari,2001,5,Spanish Grand Prix,50,1,3,145
+852,Williams,2001,6,Austrian Grand Prix,18,3,1,146
+853,McLaren,2001,6,Austrian Grand Prix,42,2,2,146
+854,Ferrari,2001,6,Austrian Grand Prix,60,1,3,146
+855,Williams,2001,7,Monaco Grand Prix,18,3,1,147
+856,McLaren,2001,7,Monaco Grand Prix,44,2,2,147
+857,Ferrari,2001,7,Monaco Grand Prix,76,1,4,147
+858,Williams,2001,8,Canadian Grand Prix,28,3,2,148
+859,McLaren,2001,8,Canadian Grand Prix,48,2,2,148
+860,Ferrari,2001,8,Canadian Grand Prix,82,1,4,148
+861,Williams,2001,11,British Grand Prix,46,3,2,151
+862,McLaren,2001,11,British Grand Prix,66,2,3,151
+863,Ferrari,2001,11,British Grand Prix,118,1,6,151
+864,Williams,2001,13,Hungarian Grand Prix,59,3,3,153
+865,McLaren,2001,13,Hungarian Grand Prix,72,2,3,153
+866,Ferrari,2001,13,Hungarian Grand Prix,140,1,7,153
+867,Williams,2001,14,Belgian Grand Prix,59,3,3,154
+868,McLaren,2001,14,Belgian Grand Prix,81,2,3,154
+869,Ferrari,2001,14,Belgian Grand Prix,152,1,8,154
+870,Williams,2001,15,Italian Grand Prix,73,3,4,155
+871,McLaren,2001,15,Italian Grand Prix,81,2,3,155
+872,Ferrari,2001,15,Italian Grand Prix,161,1,8,155
+873,Williams,2001,17,Japanese Grand Prix,80,3,4,157
+874,McLaren,2001,17,Japanese Grand Prix,102,2,4,157
+875,Ferrari,2001,17,Japanese Grand Prix,179,1,9,157
+876,McLaren,2002,1,Australian Grand Prix,4,3,0,124
+877,Williams,2002,1,Australian Grand Prix,6,2,0,124
+878,Ferrari,2002,1,Australian Grand Prix,10,1,1,124
+879,McLaren,2002,3,São Paulo Grand Prix,8,3,0,126
+880,Williams,2002,3,São Paulo Grand Prix,30,1,1,126
+881,Ferrari,2002,3,São Paulo Grand Prix,24,2,2,126
+882,McLaren,2002,4,Emilia Romagna Grand Prix,9,3,0,127
+883,Williams,2002,4,Emilia Romagna Grand Prix,37,2,1,127
+884,Ferrari,2002,4,Emilia Romagna Grand Prix,40,1,3,127
+885,McLaren,2002,5,Spanish Grand Prix,13,3,0,128
+886,Williams,2002,5,Spanish Grand Prix,43,2,1,128
+887,Ferrari,2002,5,Spanish Grand Prix,50,1,4,128
+888,McLaren,2002,6,Austrian Grand Prix,14,3,0,129
+889,Williams,2002,6,Austrian Grand Prix,50,2,1,129
+890,Ferrari,2002,6,Austrian Grand Prix,66,1,5,129
+891,McLaren,2002,7,Monaco Grand Prix,24,3,1,130
+892,Williams,2002,7,Monaco Grand Prix,54,2,1,130
+893,Ferrari,2002,7,Monaco Grand Prix,72,1,5,130
+894,McLaren,2002,8,Canadian Grand Prix,33,3,1,131
+895,Williams,2002,8,Canadian Grand Prix,54,2,1,131
+896,Ferrari,2002,8,Canadian Grand Prix,86,1,6,131
+897,McLaren,2002,10,British Grand Prix,37,3,1,133
+898,Williams,2002,10,British Grand Prix,61,2,1,133
+899,Ferrari,2002,10,British Grand Prix,118,1,8,133
+900,McLaren,2002,13,Hungarian Grand Prix,54,3,1,136
+901,Williams,2002,13,Hungarian Grand Prix,80,2,1,136
+902,Ferrari,2002,13,Hungarian Grand Prix,157,1,11,136
+903,McLaren,2002,14,Belgian Grand Prix,57,3,1,137
+904,Williams,2002,14,Belgian Grand Prix,86,2,1,137
+905,Ferrari,2002,14,Belgian Grand Prix,173,1,12,137
+906,McLaren,2002,15,Italian Grand Prix,57,3,1,138
+907,Williams,2002,15,Italian Grand Prix,86,2,1,138
+908,Ferrari,2002,15,Italian Grand Prix,189,1,13,138
+909,McLaren,2002,17,Japanese Grand Prix,65,3,1,140
+910,Williams,2002,17,Japanese Grand Prix,92,2,1,140
+911,Ferrari,2002,17,Japanese Grand Prix,221,1,15,140
+912,Ferrari,2003,1,Australian Grand Prix,5,4,0,108
+913,Williams,2003,1,Australian Grand Prix,9,2,0,108
+914,McLaren,2003,1,Australian Grand Prix,16,1,1,108
+915,Ferrari,2003,3,São Paulo Grand Prix,16,3,0,110
+916,Williams,2003,3,São Paulo Grand Prix,16,4,0,110
+917,McLaren,2003,3,São Paulo Grand Prix,39,1,2,110
+918,Ferrari,2003,4,Emilia Romagna Grand Prix,32,2,1,111
+919,Williams,2003,4,Emilia Romagna Grand Prix,23,4,0,111
+920,McLaren,2003,4,Emilia Romagna Grand Prix,51,1,2,111
+921,Ferrari,2003,5,Spanish Grand Prix,48,2,2,112
+922,Williams,2003,5,Spanish Grand Prix,32,4,0,112
+923,McLaren,2003,5,Spanish Grand Prix,51,1,2,112
+924,Ferrari,2003,6,Austrian Grand Prix,64,1,3,113
+925,Williams,2003,6,Austrian Grand Prix,35,4,0,113
+926,McLaren,2003,6,Austrian Grand Prix,63,2,2,113
+927,Ferrari,2003,7,Monaco Grand Prix,71,2,3,114
+928,Williams,2003,7,Monaco Grand Prix,50,3,1,114
+929,McLaren,2003,7,Monaco Grand Prix,73,1,2,114
+930,Ferrari,2003,8,Canadian Grand Prix,85,1,4,115
+931,Williams,2003,8,Canadian Grand Prix,64,3,1,115
+932,McLaren,2003,8,Canadian Grand Prix,76,2,2,115
+933,Ferrari,2003,11,British Grand Prix,118,1,5,118
+934,Williams,2003,11,British Grand Prix,108,2,3,118
+935,McLaren,2003,11,British Grand Prix,95,3,2,118
+936,Ferrari,2003,13,Hungarian Grand Prix,121,2,5,120
+937,Williams,2003,13,Hungarian Grand Prix,129,1,4,120
+938,McLaren,2003,13,Hungarian Grand Prix,115,3,2,120
+939,Ferrari,2003,14,Italian Grand Prix,137,2,6,121
+940,Williams,2003,14,Italian Grand Prix,141,1,4,121
+941,McLaren,2003,14,Italian Grand Prix,120,3,2,121
+942,Ferrari,2003,16,Japanese Grand Prix,158,1,8,123
+943,Williams,2003,16,Japanese Grand Prix,144,2,4,123
+944,McLaren,2003,16,Japanese Grand Prix,142,3,2,123
+945,McLaren,2004,1,Australian Grand Prix,1,5,0,90
+946,Williams,2004,1,Australian Grand Prix,9,2,0,90
+947,Ferrari,2004,1,Australian Grand Prix,18,1,1,90
+948,McLaren,2004,3,Bahrain Grand Prix,4,5,0,92
+949,Williams,2004,3,Bahrain Grand Prix,19,3,0,92
+950,Ferrari,2004,3,Bahrain Grand Prix,51,1,3,92
+951,McLaren,2004,4,Emilia Romagna Grand Prix,5,5,0,93
+952,Williams,2004,4,Emilia Romagna Grand Prix,27,4,0,93
+953,Ferrari,2004,4,Emilia Romagna Grand Prix,64,1,4,93
+954,McLaren,2004,5,Spanish Grand Prix,5,5,0,94
+955,Williams,2004,5,Spanish Grand Prix,30,4,0,94
+956,Ferrari,2004,5,Spanish Grand Prix,82,1,5,94
+957,McLaren,2004,6,Monaco Grand Prix,5,6,0,95
+958,Williams,2004,6,Monaco Grand Prix,35,4,0,95
+959,Ferrari,2004,6,Monaco Grand Prix,88,1,5,95
+960,McLaren,2004,8,Canadian Grand Prix,12,6,0,97
+961,Williams,2004,8,Canadian Grand Prix,36,4,0,97
+962,Ferrari,2004,8,Canadian Grand Prix,124,1,7,97
+963,McLaren,2004,11,British Grand Prix,32,5,0,100
+964,Williams,2004,11,British Grand Prix,41,4,0,100
+965,Ferrari,2004,11,British Grand Prix,174,1,10,100
+966,McLaren,2004,13,Hungarian Grand Prix,37,5,0,102
+967,Williams,2004,13,Hungarian Grand Prix,54,4,0,102
+968,Ferrari,2004,13,Hungarian Grand Prix,202,1,12,102
+969,McLaren,2004,14,Belgian Grand Prix,49,5,1,103
+970,Williams,2004,14,Belgian Grand Prix,54,4,0,103
+971,Ferrari,2004,14,Belgian Grand Prix,216,1,12,103
+972,McLaren,2004,15,Italian Grand Prix,52,5,1,104
+973,Williams,2004,15,Italian Grand Prix,60,4,0,104
+974,Ferrari,2004,15,Italian Grand Prix,234,1,13,104
+975,McLaren,2004,17,Japanese Grand Prix,61,5,1,106
+976,Williams,2004,17,Japanese Grand Prix,74,4,0,106
+977,Ferrari,2004,17,Japanese Grand Prix,254,1,15,106
+978,McLaren,2004,18,São Paulo Grand Prix,69,5,1,107
+979,Williams,2004,18,São Paulo Grand Prix,88,4,1,107
+980,Ferrari,2004,18,São Paulo Grand Prix,262,1,15,107
+981,McLaren,2005,1,Australian Grand Prix,4,5,0,71
+982,Williams,2005,1,Australian Grand Prix,4,4,0,71
+983,Red Bull,2005,1,Australian Grand Prix,7,3,0,71
+984,Ferrari,2005,1,Australian Grand Prix,8,2,0,71
+985,McLaren,2005,3,Bahrain Grand Prix,19,3,0,73
+986,Williams,2005,3,Bahrain Grand Prix,13,4,0,73
+987,Red Bull,2005,3,Bahrain Grand Prix,12,5,0,73
+988,Ferrari,2005,3,Bahrain Grand Prix,10,6,0,73
+989,McLaren,2005,4,Emilia Romagna Grand Prix,25,3,0,74
+990,Williams,2005,4,Emilia Romagna Grand Prix,18,5,0,74
+991,Red Bull,2005,4,Emilia Romagna Grand Prix,13,6,0,74
+992,Ferrari,2005,4,Emilia Romagna Grand Prix,18,4,0,74
+993,McLaren,2005,5,Spanish Grand Prix,37,3,1,75
+994,Williams,2005,5,Spanish Grand Prix,21,4,0,75
+995,Red Bull,2005,5,Spanish Grand Prix,14,6,0,75
+996,Ferrari,2005,5,Spanish Grand Prix,18,5,0,75
+997,McLaren,2005,6,Monaco Grand Prix,51,2,2,76
+998,Williams,2005,6,Monaco Grand Prix,35,4,0,76
+999,Red Bull,2005,6,Monaco Grand Prix,14,6,0,76
+1000,Ferrari,2005,6,Monaco Grand Prix,21,5,0,76
+1001,McLaren,2005,8,Canadian Grand Prix,63,2,3,78
+1002,Williams,2005,8,Canadian Grand Prix,47,3,0,78
+1003,Red Bull,2005,8,Canadian Grand Prix,22,6,0,78
+1004,Ferrari,2005,8,Canadian Grand Prix,45,5,0,78
+1005,McLaren,2005,11,British Grand Prix,87,2,4,81
+1006,Williams,2005,11,British Grand Prix,47,5,0,81
+1007,Red Bull,2005,11,British Grand Prix,22,6,0,81
+1008,Ferrari,2005,11,British Grand Prix,74,3,1,81
+1009,McLaren,2005,13,Hungarian Grand Prix,105,2,5,83
+1010,Williams,2005,13,Hungarian Grand Prix,52,5,0,83
+1011,Red Bull,2005,13,Hungarian Grand Prix,24,6,0,83
+1012,Ferrari,2005,13,Hungarian Grand Prix,86,3,1,83
+1013,McLaren,2005,15,Italian Grand Prix,136,2,7,85
+1014,Williams,2005,15,Italian Grand Prix,54,5,0,85
+1015,Red Bull,2005,15,Italian Grand Prix,27,6,0,85
+1016,Ferrari,2005,15,Italian Grand Prix,86,3,1,85
+1017,McLaren,2005,16,Belgian Grand Prix,146,2,8,86
+1018,Williams,2005,16,Belgian Grand Prix,59,5,0,86
+1019,Red Bull,2005,16,Belgian Grand Prix,27,7,0,86
+1020,Ferrari,2005,16,Belgian Grand Prix,90,3,1,86
+1021,McLaren,2005,17,São Paulo Grand Prix,164,1,9,87
+1022,Williams,2005,17,São Paulo Grand Prix,59,5,0,87
+1023,Red Bull,2005,17,São Paulo Grand Prix,27,7,0,87
+1024,Ferrari,2005,17,São Paulo Grand Prix,98,3,1,87
+1025,McLaren,2005,18,Japanese Grand Prix,174,2,10,88
+1026,Williams,2005,18,Japanese Grand Prix,64,5,0,88
+1027,Red Bull,2005,18,Japanese Grand Prix,30,7,0,88
+1028,Ferrari,2005,18,Japanese Grand Prix,100,3,1,88
+1029,Red Bull,2006,1,Bahrain Grand Prix,1,6,0,53
+1030,Williams,2006,1,Bahrain Grand Prix,5,5,0,53
+1031,McLaren,2006,1,Bahrain Grand Prix,10,2,0,53
+1032,Ferrari,2006,1,Bahrain Grand Prix,8,3,0,53
+1033,Red Bull,2006,3,Australian Grand Prix,2,8,0,55
+1034,Williams,2006,3,Australian Grand Prix,5,7,0,55
+1035,McLaren,2006,3,Australian Grand Prix,23,2,0,55
+1036,Ferrari,2006,3,Australian Grand Prix,15,3,0,55
+1037,Red Bull,2006,4,Emilia Romagna Grand Prix,2,8,0,56
+1038,Williams,2006,4,Emilia Romagna Grand Prix,8,6,0,56
+1039,McLaren,2006,4,Emilia Romagna Grand Prix,33,2,0,56
+1040,Ferrari,2006,4,Emilia Romagna Grand Prix,30,3,1,56
+1041,Red Bull,2006,6,Spanish Grand Prix,2,8,0,58
+1042,Williams,2006,6,Spanish Grand Prix,10,6,0,58
+1043,McLaren,2006,6,Spanish Grand Prix,42,3,0,58
+1044,Ferrari,2006,6,Spanish Grand Prix,59,2,2,58
+1045,Red Bull,2006,7,Monaco Grand Prix,8,8,0,59
+1046,Williams,2006,7,Monaco Grand Prix,10,6,0,59
+1047,McLaren,2006,7,Monaco Grand Prix,50,3,0,59
+1048,Ferrari,2006,7,Monaco Grand Prix,63,2,2,59
+1049,Red Bull,2006,8,British Grand Prix,8,8,0,60
+1050,Williams,2006,8,British Grand Prix,10,6,0,60
+1051,McLaren,2006,8,British Grand Prix,59,3,0,60
+1052,Ferrari,2006,8,British Grand Prix,75,2,2,60
+1053,Red Bull,2006,9,Canadian Grand Prix,9,8,0,61
+1054,Williams,2006,9,Canadian Grand Prix,10,7,0,61
+1055,McLaren,2006,9,Canadian Grand Prix,65,3,0,61
+1056,Ferrari,2006,9,Canadian Grand Prix,87,2,2,61
+1057,Red Bull,2006,13,Hungarian Grand Prix,16,7,0,65
+1058,Williams,2006,13,Hungarian Grand Prix,10,8,0,65
+1059,McLaren,2006,13,Hungarian Grand Prix,85,3,0,65
+1060,Ferrari,2006,13,Hungarian Grand Prix,142,2,5,65
+1061,Red Bull,2006,15,Italian Grand Prix,16,7,0,67
+1062,Williams,2006,15,Italian Grand Prix,10,8,0,67
+1063,McLaren,2006,15,Italian Grand Prix,97,3,0,67
+1064,Ferrari,2006,15,Italian Grand Prix,168,1,7,67
+1065,Red Bull,2006,17,Japanese Grand Prix,16,7,0,69
+1066,Williams,2006,17,Japanese Grand Prix,11,8,0,69
+1067,McLaren,2006,17,Japanese Grand Prix,105,3,0,69
+1068,Ferrari,2006,17,Japanese Grand Prix,186,2,8,69
+1069,Red Bull,2006,18,São Paulo Grand Prix,16,7,0,70
+1070,Williams,2006,18,São Paulo Grand Prix,11,8,0,70
+1071,McLaren,2006,18,São Paulo Grand Prix,110,3,0,70
+1072,Ferrari,2006,18,São Paulo Grand Prix,201,2,9,70
+1073,Red Bull,2007,1,Australian Grand Prix,0,8,0,36
+1074,Williams,2007,1,Australian Grand Prix,2,4,0,36
+1075,Red Bull,2007,3,Bahrain Grand Prix,0,6,0,38
+1076,Williams,2007,3,Bahrain Grand Prix,2,5,0,38
+1077,McLaren,2007,3,Bahrain Grand Prix,44,11,1,38
+1078,Ferrari,2007,3,Bahrain Grand Prix,39,1,2,38
+1079,Red Bull,2007,4,Spanish Grand Prix,4,6,0,39
+1080,Williams,2007,4,Spanish Grand Prix,5,4,0,39
+1081,McLaren,2007,4,Spanish Grand Prix,58,11,1,39
+1082,Red Bull,2007,5,Monaco Grand Prix,4,6,0,40
+1083,Williams,2007,5,Monaco Grand Prix,7,4,0,40
+1084,McLaren,2007,5,Monaco Grand Prix,76,11,2,40
+1085,Red Bull,2007,6,Canadian Grand Prix,4,6,0,41
+1086,Williams,2007,6,Canadian Grand Prix,13,4,0,41
+1087,McLaren,2007,6,Canadian Grand Prix,88,11,3,41
+1088,Red Bull,2007,9,British Grand Prix,6,6,0,44
+1089,Williams,2007,9,British Grand Prix,13,4,0,44
+1090,McLaren,2007,9,British Grand Prix,128,11,5,44
+1091,Red Bull,2007,11,Hungarian Grand Prix,16,5,0,46
+1092,Williams,2007,11,Hungarian Grand Prix,20,4,0,46
+1093,McLaren,2007,11,Hungarian Grand Prix,138,11,6,46
+1094,Red Bull,2007,13,Italian Grand Prix,16,5,0,48
+1095,Williams,2007,13,Italian Grand Prix,25,4,0,48
+1096,McLaren,2007,13,Italian Grand Prix,166,11,7,48
+1097,Red Bull,2007,14,Belgian Grand Prix,18,5,0,49
+1098,Williams,2007,14,Belgian Grand Prix,28,4,0,49
+1099,McLaren,2007,14,Belgian Grand Prix,192,11,7,49
+1100,Red Bull,2007,17,São Paulo Grand Prix,24,5,0,52
+1101,Williams,2007,17,São Paulo Grand Prix,33,4,0,52
+1102,McLaren,2007,17,São Paulo Grand Prix,218,11,8,52
+1103,McLaren,2007,1,Australian Grand Prix,14,11,0,36
+1104,Ferrari,2007,4,Spanish Grand Prix,49,1,3,39
+1105,Ferrari,2007,5,Monaco Grand Prix,56,1,3,40
+1106,Ferrari,2007,6,Canadian Grand Prix,60,1,3,41
+1107,Ferrari,2007,9,British Grand Prix,103,1,5,44
+1108,Ferrari,2007,11,Hungarian Grand Prix,119,1,5,46
+1109,Ferrari,2007,13,Italian Grand Prix,143,1,6,48
+1110,Ferrari,2007,14,Belgian Grand Prix,161,1,7,49
+1111,Ferrari,2007,17,São Paulo Grand Prix,204,1,9,52
+1112,Ferrari,2007,1,Australian Grand Prix,13,1,1,36
+1113,McLaren,2008,1,Australian Grand Prix,14,1,1,18
+1114,Williams,2008,1,Australian Grand Prix,9,2,0,18
+1115,Ferrari,2008,1,Australian Grand Prix,1,6,0,18
+1116,McLaren,2008,3,Bahrain Grand Prix,28,3,1,20
+1117,Williams,2008,3,Bahrain Grand Prix,10,4,0,20
+1118,Ferrari,2008,3,Bahrain Grand Prix,29,2,2,20
+1119,Red Bull,2008,3,Bahrain Grand Prix,4,7,0,20
+1120,McLaren,2008,4,Spanish Grand Prix,34,3,1,21
+1121,Williams,2008,4,Spanish Grand Prix,12,4,0,21
+1122,Ferrari,2008,4,Spanish Grand Prix,47,1,3,21
+1123,Red Bull,2008,4,Spanish Grand Prix,8,6,0,21
+1124,McLaren,2008,6,Monaco Grand Prix,53,2,2,23
+1125,Williams,2008,6,Monaco Grand Prix,15,4,0,23
+1126,Ferrari,2008,6,Monaco Grand Prix,69,1,4,23
+1127,Red Bull,2008,6,Monaco Grand Prix,15,5,0,23
+1128,McLaren,2008,7,Canadian Grand Prix,53,3,2,24
+1129,Williams,2008,7,Canadian Grand Prix,15,6,0,24
+1130,Ferrari,2008,7,Canadian Grand Prix,73,1,4,24
+1131,Red Bull,2008,7,Canadian Grand Prix,21,4,0,24
+1132,McLaren,2008,9,British Grand Prix,72,3,3,26
+1133,Ferrari,2008,9,British Grand Prix,96,1,5,26
+1134,Red Bull,2008,9,British Grand Prix,24,5,0,26
+1135,McLaren,2008,11,Hungarian Grand Prix,100,2,5,28
+1136,Williams,2008,11,Hungarian Grand Prix,16,7,0,28
+1137,Ferrari,2008,11,Hungarian Grand Prix,111,1,5,28
+1138,Red Bull,2008,11,Hungarian Grand Prix,24,6,0,28
+1139,McLaren,2008,13,Belgian Grand Prix,119,2,5,30
+1140,Williams,2008,13,Belgian Grand Prix,17,7,0,30
+1141,Ferrari,2008,13,Belgian Grand Prix,131,1,7,30
+1142,Red Bull,2008,13,Belgian Grand Prix,25,6,0,30
+1143,McLaren,2008,14,Italian Grand Prix,129,2,5,31
+1144,Williams,2008,14,Italian Grand Prix,17,8,0,31
+1145,Ferrari,2008,14,Italian Grand Prix,134,1,7,31
+1146,Red Bull,2008,14,Italian Grand Prix,26,7,0,31
+1147,McLaren,2008,15,Singapore Grand Prix,135,1,5,32
+1148,Williams,2008,15,Singapore Grand Prix,26,8,0,32
+1149,Ferrari,2008,15,Singapore Grand Prix,134,2,7,32
+1150,Red Bull,2008,15,Singapore Grand Prix,28,7,0,32
+1151,McLaren,2008,18,São Paulo Grand Prix,151,2,6,35
+1152,Williams,2008,18,São Paulo Grand Prix,26,8,0,35
+1153,Ferrari,2008,18,São Paulo Grand Prix,172,1,8,35
+1154,Red Bull,2008,18,São Paulo Grand Prix,29,7,0,35
+1155,Ferrari,2009,1,Australian Grand Prix,0,9,0,1
+1156,Red Bull,2009,1,Australian Grand Prix,0,8,0,1
+1157,Williams,2009,1,Australian Grand Prix,3,4,0,1
+1158,Red Bull,2009,4,Bahrain Grand Prix,27.5,2,1,4
+1159,McLaren,2009,4,Bahrain Grand Prix,13,4,0,4
+1160,Ferrari,2009,4,Bahrain Grand Prix,3,9,0,4
+1161,Williams,2009,4,Bahrain Grand Prix,3.5,8,0,4
+1162,McLaren,2009,5,Spanish Grand Prix,13,4,0,5
+1163,Williams,2009,5,Spanish Grand Prix,4.5,8,0,5
+1164,Red Bull,2009,5,Spanish Grand Prix,38.5,2,1,5
+1165,Ferrari,2009,5,Spanish Grand Prix,6,7,0,5
+1166,Ferrari,2009,6,Monaco Grand Prix,17,4,0,6
+1167,Red Bull,2009,6,Monaco Grand Prix,42.5,2,1,6
+1168,Williams,2009,6,Monaco Grand Prix,7.5,7,0,6
+1169,McLaren,2009,6,Monaco Grand Prix,13,5,0,6
+1170,Ferrari,2009,8,British Grand Prix,26,4,0,8
+1171,McLaren,2009,8,British Grand Prix,13,6,0,8
+1172,Red Bull,2009,8,British Grand Prix,74.5,2,2,8
+1173,Williams,2009,8,British Grand Prix,15.5,5,0,8
+1174,McLaren,2009,10,Hungarian Grand Prix,28,5,1,10
+1175,Williams,2009,10,Hungarian Grand Prix,25.5,6,0,10
+1176,Red Bull,2009,10,Hungarian Grand Prix,98.5,2,3,10
+1177,Ferrari,2009,10,Hungarian Grand Prix,40,3,0,10
+1178,McLaren,2009,12,Belgian Grand Prix,44,4,1,12
+1179,Williams,2009,12,Belgian Grand Prix,30.5,6,0,12
+1180,Red Bull,2009,12,Belgian Grand Prix,104.5,2,3,12
+1181,Ferrari,2009,12,Belgian Grand Prix,56,3,1,12
+1182,McLaren,2009,13,Italian Grand Prix,47,4,1,13
+1183,Williams,2009,13,Italian Grand Prix,30.5,6,0,13
+1184,Red Bull,2009,13,Italian Grand Prix,105.5,2,3,13
+1185,Ferrari,2009,13,Italian Grand Prix,62,3,1,13
+1186,McLaren,2009,14,Singapore Grand Prix,59,4,2,14
+1187,Williams,2009,14,Singapore Grand Prix,30.5,6,0,14
+1188,Red Bull,2009,14,Singapore Grand Prix,110.5,2,3,14
+1189,Ferrari,2009,14,Singapore Grand Prix,62,3,1,14
+1190,Ferrari,2009,15,Japanese Grand Prix,67,3,1,15
+1191,Red Bull,2009,15,Japanese Grand Prix,120.5,2,4,15
+1192,Williams,2009,15,Japanese Grand Prix,34.5,6,0,15
+1193,McLaren,2009,15,Japanese Grand Prix,65,4,2,15
+1194,McLaren,2009,16,São Paulo Grand Prix,71,3,2,16
+1195,Williams,2009,16,São Paulo Grand Prix,34.5,6,0,16
+1196,Red Bull,2009,16,São Paulo Grand Prix,135.5,2,5,16
+1197,Ferrari,2009,16,São Paulo Grand Prix,70,4,1,16
+1198,McLaren,2009,17,Abu Dhabi Grand Prix,71,3,2,17
+1199,Williams,2009,17,Abu Dhabi Grand Prix,34.5,7,0,17
+1200,Red Bull,2009,17,Abu Dhabi Grand Prix,153.5,2,6,17
+1201,Ferrari,2009,17,Abu Dhabi Grand Prix,70,4,1,17
+1202,Ferrari,2010,1,Bahrain Grand Prix,43,1,1,337
+1203,McLaren,2010,1,Bahrain Grand Prix,21,2,0,337
+1204,Red Bull,2010,1,Bahrain Grand Prix,16,4,0,337
+1205,Mercedes,2010,1,Bahrain Grand Prix,18,3,0,337
+1206,Williams,2010,1,Bahrain Grand Prix,1,6,0,337
+1207,Ferrari,2010,2,Australian Grand Prix,70,1,1,338
+1208,McLaren,2010,2,Australian Grand Prix,54,2,1,338
+1209,Red Bull,2010,2,Australian Grand Prix,18,5,0,338
+1210,Mercedes,2010,2,Australian Grand Prix,29,3,0,338
+1211,Williams,2010,2,Australian Grand Prix,5,7,0,338
+1212,Ferrari,2010,5,Spanish Grand Prix,116,2,1,341
+1213,McLaren,2010,5,Spanish Grand Prix,119,1,2,341
+1214,Red Bull,2010,5,Spanish Grand Prix,113,3,2,341
+1215,Mercedes,2010,5,Spanish Grand Prix,72,4,0,341
+1216,Williams,2010,5,Spanish Grand Prix,8,7,0,341
+1217,Mercedes,2010,6,Monaco Grand Prix,78,4,0,342
+1218,Williams,2010,6,Monaco Grand Prix,8,7,0,342
+1219,Red Bull,2010,6,Monaco Grand Prix,156,1,3,342
+1220,McLaren,2010,6,Monaco Grand Prix,129,3,2,342
+1221,Ferrari,2010,6,Monaco Grand Prix,136,2,1,342
+1222,Ferrari,2010,8,Canadian Grand Prix,161,3,1,344
+1223,McLaren,2010,8,Canadian Grand Prix,215,1,4,344
+1224,Red Bull,2010,8,Canadian Grand Prix,193,2,3,344
+1225,Mercedes,2010,8,Canadian Grand Prix,108,4,0,344
+1226,Williams,2010,8,Canadian Grand Prix,8,8,0,344
+1227,Ferrari,2010,10,British Grand Prix,165,3,1,346
+1228,McLaren,2010,10,British Grand Prix,278,1,4,346
+1229,Red Bull,2010,10,British Grand Prix,249,2,5,346
+1230,Mercedes,2010,10,British Grand Prix,126,4,0,346
+1231,Williams,2010,10,British Grand Prix,31,7,0,346
+1232,Ferrari,2010,12,Hungarian Grand Prix,238,3,2,348
+1233,McLaren,2010,12,Hungarian Grand Prix,304,2,4,348
+1234,Red Bull,2010,12,Hungarian Grand Prix,312,1,6,348
+1235,Mercedes,2010,12,Hungarian Grand Prix,132,4,0,348
+1236,Williams,2010,12,Hungarian Grand Prix,40,7,0,348
+1237,Ferrari,2010,13,Belgian Grand Prix,250,3,2,349
+1238,McLaren,2010,13,Belgian Grand Prix,329,2,5,349
+1239,Red Bull,2010,13,Belgian Grand Prix,330,1,6,349
+1240,Mercedes,2010,13,Belgian Grand Prix,146,4,0,349
+1241,Williams,2010,13,Belgian Grand Prix,40,7,0,349
+1242,Ferrari,2010,14,Italian Grand Prix,290,3,3,350
+1243,McLaren,2010,14,Italian Grand Prix,347,2,5,350
+1244,Red Bull,2010,14,Italian Grand Prix,350,1,6,350
+1245,Mercedes,2010,14,Italian Grand Prix,158,4,0,350
+1246,Williams,2010,14,Italian Grand Prix,47,7,0,350
+1247,McLaren,2010,15,Singapore Grand Prix,359,2,5,351
+1248,Red Bull,2010,15,Singapore Grand Prix,383,1,6,351
+1249,Mercedes,2010,15,Singapore Grand Prix,168,4,0,351
+1250,Williams,2010,15,Singapore Grand Prix,56,7,0,351
+1251,Ferrari,2010,15,Singapore Grand Prix,319,3,4,351
+1252,McLaren,2010,16,Japanese Grand Prix,381,2,5,352
+1253,Red Bull,2010,16,Japanese Grand Prix,426,1,7,352
+1254,Mercedes,2010,16,Japanese Grand Prix,176,4,0,352
+1255,Williams,2010,16,Japanese Grand Prix,58,7,0,352
+1256,Ferrari,2010,16,Japanese Grand Prix,334,3,4,352
+1257,Ferrari,2010,18,São Paulo Grand Prix,389,3,5,354
+1258,McLaren,2010,18,São Paulo Grand Prix,421,2,5,354
+1259,Red Bull,2010,18,São Paulo Grand Prix,469,1,8,354
+1260,Mercedes,2010,18,São Paulo Grand Prix,202,4,0,354
+1261,Williams,2010,18,São Paulo Grand Prix,69,6,0,354
+1262,Ferrari,2010,19,Abu Dhabi Grand Prix,396,3,5,355
+1263,McLaren,2010,19,Abu Dhabi Grand Prix,454,2,5,355
+1264,Red Bull,2010,19,Abu Dhabi Grand Prix,498,1,9,355
+1265,Mercedes,2010,19,Abu Dhabi Grand Prix,214,4,0,355
+1266,Williams,2010,19,Abu Dhabi Grand Prix,69,6,0,355
+1267,Mercedes,2011,1,Australian Grand Prix,0,10,0,841
+1268,Williams,2011,1,Australian Grand Prix,0,9,0,841
+1269,Ferrari,2011,1,Australian Grand Prix,18,3,0,841
+1270,McLaren,2011,1,Australian Grand Prix,26,2,0,841
+1271,Red Bull,2011,1,Australian Grand Prix,35,1,1,841
+1272,Red Bull,2011,5,Spanish Grand Prix,185,1,4,845
+1273,McLaren,2011,5,Spanish Grand Prix,138,2,1,845
+1274,Ferrari,2011,5,Spanish Grand Prix,75,3,0,845
+1275,Williams,2011,5,Spanish Grand Prix,0,9,0,845
+1276,Mercedes,2011,5,Spanish Grand Prix,40,5,0,845
+1277,Red Bull,2011,6,Monaco Grand Prix,222,1,5,846
+1278,McLaren,2011,6,Monaco Grand Prix,161,2,1,846
+1279,Ferrari,2011,6,Monaco Grand Prix,93,3,0,846
+1280,Williams,2011,6,Monaco Grand Prix,2,9,0,846
+1281,Mercedes,2011,6,Monaco Grand Prix,40,5,0,846
+1282,Red Bull,2011,7,Canadian Grand Prix,255,1,5,847
+1283,McLaren,2011,7,Canadian Grand Prix,186,2,2,847
+1284,Ferrari,2011,7,Canadian Grand Prix,101,3,0,847
+1285,Williams,2011,7,Canadian Grand Prix,4,9,0,847
+1286,Mercedes,2011,7,Canadian Grand Prix,52,5,0,847
+1287,Red Bull,2011,9,British Grand Prix,328,1,6,849
+1288,McLaren,2011,9,British Grand Prix,218,2,2,849
+1289,Ferrari,2011,9,British Grand Prix,164,3,1,849
+1290,Williams,2011,9,British Grand Prix,4,9,0,849
+1291,Mercedes,2011,9,British Grand Prix,68,4,0,849
+1292,Red Bull,2011,11,Hungarian Grand Prix,383,1,6,851
+1293,McLaren,2011,11,Hungarian Grand Prix,280,2,4,851
+1294,Ferrari,2011,11,Hungarian Grand Prix,215,3,1,851
+1295,Williams,2011,11,Hungarian Grand Prix,4,9,0,851
+1296,Mercedes,2011,11,Hungarian Grand Prix,80,4,0,851
+1297,Red Bull,2011,12,Belgian Grand Prix,426,1,7,852
+1298,McLaren,2011,12,Belgian Grand Prix,295,2,4,852
+1299,Ferrari,2011,12,Belgian Grand Prix,231,3,1,852
+1300,Williams,2011,12,Belgian Grand Prix,5,9,0,852
+1301,Mercedes,2011,12,Belgian Grand Prix,98,4,0,852
+1302,Red Bull,2011,13,Italian Grand Prix,451,1,8,853
+1303,McLaren,2011,13,Italian Grand Prix,325,2,4,853
+1304,Ferrari,2011,13,Italian Grand Prix,254,3,1,853
+1305,Williams,2011,13,Italian Grand Prix,5,9,0,853
+1306,Mercedes,2011,13,Italian Grand Prix,108,4,0,853
+1307,Red Bull,2011,14,Singapore Grand Prix,491,1,9,854
+1308,McLaren,2011,14,Singapore Grand Prix,353,2,4,854
+1309,Ferrari,2011,14,Singapore Grand Prix,268,3,1,854
+1310,Williams,2011,14,Singapore Grand Prix,5,9,0,854
+1311,Mercedes,2011,14,Singapore Grand Prix,114,4,0,854
+1312,Red Bull,2011,15,Japanese Grand Prix,518,1,9,855
+1313,McLaren,2011,15,Japanese Grand Prix,388,2,5,855
+1314,Ferrari,2011,15,Japanese Grand Prix,292,3,1,855
+1315,Williams,2011,15,Japanese Grand Prix,5,9,0,855
+1316,Mercedes,2011,15,Japanese Grand Prix,123,4,0,855
+1317,Red Bull,2011,18,Abu Dhabi Grand Prix,607,1,11,858
+1318,McLaren,2011,18,Abu Dhabi Grand Prix,482,2,6,858
+1319,Ferrari,2011,18,Abu Dhabi Grand Prix,353,3,1,858
+1320,Williams,2011,18,Abu Dhabi Grand Prix,5,9,0,858
+1321,Mercedes,2011,18,Abu Dhabi Grand Prix,159,4,0,858
+1322,Red Bull,2011,19,São Paulo Grand Prix,650,1,12,859
+1323,McLaren,2011,19,São Paulo Grand Prix,497,2,6,859
+1324,Ferrari,2011,19,São Paulo Grand Prix,375,3,1,859
+1325,Williams,2011,19,São Paulo Grand Prix,5,9,0,859
+1326,Mercedes,2011,19,São Paulo Grand Prix,165,4,0,859
+1327,McLaren,2012,1,Australian Grand Prix,40,1,1,860
+1328,Williams,2012,1,Australian Grand Prix,0,9,0,860
+1329,Mercedes,2012,1,Australian Grand Prix,0,8,0,860
+1330,Ferrari,2012,1,Australian Grand Prix,10,4,0,860
+1331,Red Bull,2012,1,Australian Grand Prix,30,2,0,860
+1332,Williams,2012,5,Spanish Grand Prix,43,6,1,864
+1333,Mercedes,2012,5,Spanish Grand Prix,43,5,1,864
+1334,Ferrari,2012,5,Spanish Grand Prix,63,4,1,864
+1335,Red Bull,2012,5,Spanish Grand Prix,109,1,1,864
+1336,McLaren,2012,5,Spanish Grand Prix,98,2,1,864
+1337,McLaren,2012,4,Bahrain Grand Prix,92,2,1,863
+1338,Red Bull,2012,4,Bahrain Grand Prix,101,1,1,863
+1339,Ferrari,2012,4,Bahrain Grand Prix,45,4,1,863
+1340,Mercedes,2012,4,Bahrain Grand Prix,37,5,1,863
+1341,Williams,2012,4,Bahrain Grand Prix,18,7,0,863
+1342,McLaren,2012,6,Monaco Grand Prix,108,2,1,865
+1343,Red Bull,2012,6,Monaco Grand Prix,146,1,2,865
+1344,Ferrari,2012,6,Monaco Grand Prix,86,3,1,865
+1345,Mercedes,2012,6,Monaco Grand Prix,61,5,1,865
+1346,Williams,2012,6,Monaco Grand Prix,44,6,1,865
+1347,McLaren,2012,7,Canadian Grand Prix,133,2,2,866
+1348,Red Bull,2012,7,Canadian Grand Prix,164,1,2,866
+1349,Ferrari,2012,7,Canadian Grand Prix,97,4,1,866
+1350,Mercedes,2012,7,Canadian Grand Prix,69,5,1,866
+1351,Williams,2012,7,Canadian Grand Prix,44,7,1,866
+1352,McLaren,2012,9,British Grand Prix,142,4,2,868
+1353,Red Bull,2012,9,British Grand Prix,216,1,3,868
+1354,Ferrari,2012,9,British Grand Prix,152,2,2,868
+1355,Mercedes,2012,9,British Grand Prix,98,5,1,868
+1356,Williams,2012,9,British Grand Prix,47,7,1,868
+1357,Red Bull,2012,12,Belgian Grand Prix,272,1,3,871
+1358,Mercedes,2012,11,Hungarian Grand Prix,106,5,1,870
+1359,McLaren,2012,12,Belgian Grand Prix,218,2,4,871
+1360,McLaren,2012,11,Hungarian Grand Prix,193,2,3,870
+1361,Red Bull,2012,11,Hungarian Grand Prix,246,1,3,870
+1362,Ferrari,2012,11,Hungarian Grand Prix,189,4,3,870
+1363,Williams,2012,11,Hungarian Grand Prix,53,7,1,870
+1364,Ferrari,2012,12,Belgian Grand Prix,199,4,3,871
+1365,Mercedes,2012,12,Belgian Grand Prix,112,5,1,871
+1366,Williams,2012,12,Belgian Grand Prix,53,8,1,871
+1367,McLaren,2012,13,Italian Grand Prix,243,2,5,872
+1368,Red Bull,2012,13,Italian Grand Prix,272,1,3,872
+1369,Ferrari,2012,13,Italian Grand Prix,226,3,3,872
+1370,Mercedes,2012,13,Italian Grand Prix,126,5,1,872
+1371,Williams,2012,13,Italian Grand Prix,54,8,1,872
+1372,Williams,2012,14,Singapore Grand Prix,54,8,1,873
+1373,Mercedes,2012,14,Singapore Grand Prix,136,5,1,873
+1374,Ferrari,2012,14,Singapore Grand Prix,245,3,3,873
+1375,Red Bull,2012,14,Singapore Grand Prix,297,1,4,873
+1376,McLaren,2012,14,Singapore Grand Prix,261,2,5,873
+1377,Williams,2012,15,Japanese Grand Prix,58,8,1,874
+1378,Mercedes,2012,15,Japanese Grand Prix,136,5,1,874
+1379,Ferrari,2012,15,Japanese Grand Prix,263,3,3,874
+1380,Red Bull,2012,15,Japanese Grand Prix,324,1,5,874
+1381,McLaren,2012,15,Japanese Grand Prix,283,2,5,874
+1382,McLaren,2012,18,Abu Dhabi Grand Prix,318,3,5,877
+1383,Red Bull,2012,18,Abu Dhabi Grand Prix,422,1,7,877
+1384,Ferrari,2012,18,Abu Dhabi Grand Prix,340,2,3,877
+1385,Mercedes,2012,18,Abu Dhabi Grand Prix,136,5,1,877
+1386,Williams,2012,18,Abu Dhabi Grand Prix,73,8,1,877
+1387,McLaren,2012,19,United States Grand Prix,353,3,6,878
+1388,Red Bull,2012,19,United States Grand Prix,440,1,7,878
+1389,Ferrari,2012,19,United States Grand Prix,367,2,3,878
+1390,Mercedes,2012,19,United States Grand Prix,136,5,1,878
+1391,Williams,2012,19,United States Grand Prix,76,8,1,878
+1392,McLaren,2012,20,São Paulo Grand Prix,378,3,7,879
+1393,Red Bull,2012,20,São Paulo Grand Prix,460,1,7,879
+1394,Ferrari,2012,20,São Paulo Grand Prix,400,2,3,879
+1395,Mercedes,2012,20,São Paulo Grand Prix,142,5,1,879
+1396,Williams,2012,20,São Paulo Grand Prix,76,8,1,879
+1397,Ferrari,2013,1,Australian Grand Prix,30,1,0,880
+1398,Red Bull,2013,1,Australian Grand Prix,23,3,0,880
+1399,Mercedes,2013,1,Australian Grand Prix,10,4,0,880
+1400,McLaren,2013,1,Australian Grand Prix,2,6,0,880
+1401,Williams,2013,1,Australian Grand Prix,0,9,0,880
+1402,Ferrari,2013,4,Bahrain Grand Prix,77,3,1,883
+1403,Red Bull,2013,4,Bahrain Grand Prix,109,1,2,883
+1404,Mercedes,2013,4,Bahrain Grand Prix,64,4,0,883
+1405,McLaren,2013,4,Bahrain Grand Prix,23,6,0,883
+1406,Williams,2013,4,Bahrain Grand Prix,0,9,0,883
+1407,Ferrari,2013,5,Spanish Grand Prix,117,2,2,884
+1408,Red Bull,2013,5,Spanish Grand Prix,131,1,2,884
+1409,Mercedes,2013,5,Spanish Grand Prix,72,4,0,884
+1410,McLaren,2013,5,Spanish Grand Prix,29,6,0,884
+1411,Williams,2013,5,Spanish Grand Prix,0,9,0,884
+1412,Ferrari,2013,6,Monaco Grand Prix,123,2,2,885
+1413,Red Bull,2013,6,Monaco Grand Prix,164,1,2,885
+1414,Mercedes,2013,6,Monaco Grand Prix,109,4,1,885
+1415,McLaren,2013,6,Monaco Grand Prix,37,6,0,885
+1416,Williams,2013,6,Monaco Grand Prix,0,9,0,885
+1417,Ferrari,2013,7,Canadian Grand Prix,145,2,2,886
+1418,Red Bull,2013,7,Canadian Grand Prix,201,1,3,886
+1419,Mercedes,2013,7,Canadian Grand Prix,134,3,1,886
+1420,McLaren,2013,7,Canadian Grand Prix,37,6,0,886
+1421,Williams,2013,7,Canadian Grand Prix,0,9,0,886
+1422,Ferrari,2013,8,British Grand Prix,168,3,2,887
+1423,Red Bull,2013,8,British Grand Prix,219,1,3,887
+1424,Mercedes,2013,8,British Grand Prix,171,2,2,887
+1425,McLaren,2013,8,British Grand Prix,37,6,0,887
+1426,Williams,2013,8,British Grand Prix,0,9,0,887
+1427,Ferrari,2013,10,Hungarian Grand Prix,194,3,2,890
+1428,Red Bull,2013,10,Hungarian Grand Prix,277,1,4,890
+1429,Mercedes,2013,10,Hungarian Grand Prix,208,2,3,890
+1430,McLaren,2013,10,Hungarian Grand Prix,57,6,0,890
+1431,Williams,2013,10,Hungarian Grand Prix,1,9,0,890
+1432,Ferrari,2013,11,Belgian Grand Prix,218,3,2,891
+1433,Red Bull,2013,11,Belgian Grand Prix,312,1,5,891
+1434,Mercedes,2013,11,Belgian Grand Prix,235,2,3,891
+1435,McLaren,2013,11,Belgian Grand Prix,65,5,0,891
+1436,Williams,2013,11,Belgian Grand Prix,1,9,0,891
+1437,Williams,2013,13,Singapore Grand Prix,1,9,0,893
+1438,McLaren,2013,13,Singapore Grand Prix,76,5,0,893
+1439,Mercedes,2013,13,Singapore Grand Prix,267,3,3,893
+1440,Red Bull,2013,13,Singapore Grand Prix,377,1,7,893
+1441,Ferrari,2013,13,Singapore Grand Prix,274,2,2,893
+1442,Ferrari,2013,12,Italian Grand Prix,248,2,2,892
+1443,Red Bull,2013,12,Italian Grand Prix,352,1,6,892
+1444,Mercedes,2013,12,Italian Grand Prix,245,3,3,892
+1445,McLaren,2013,12,Italian Grand Prix,66,5,0,892
+1446,Williams,2013,12,Italian Grand Prix,1,9,0,892
+1447,Ferrari,2013,15,Japanese Grand Prix,297,2,2,895
+1448,Red Bull,2013,15,Japanese Grand Prix,445,1,9,895
+1449,Mercedes,2013,15,Japanese Grand Prix,287,3,3,895
+1450,McLaren,2013,15,Japanese Grand Prix,83,5,0,895
+1451,Williams,2013,15,Japanese Grand Prix,1,9,0,895
+1452,Ferrari,2013,17,Abu Dhabi Grand Prix,323,3,2,897
+1453,Red Bull,2013,17,Abu Dhabi Grand Prix,513,1,11,897
+1454,Mercedes,2013,17,Abu Dhabi Grand Prix,334,2,3,897
+1455,McLaren,2013,17,Abu Dhabi Grand Prix,95,5,0,897
+1456,Williams,2013,17,Abu Dhabi Grand Prix,1,9,0,897
+1457,Ferrari,2013,18,United States Grand Prix,333,3,2,898
+1458,Red Bull,2013,18,United States Grand Prix,553,1,12,898
+1459,Mercedes,2013,18,United States Grand Prix,348,2,3,898
+1460,McLaren,2013,18,United States Grand Prix,102,5,0,898
+1461,Williams,2013,18,United States Grand Prix,5,9,0,898
+1462,Ferrari,2013,19,São Paulo Grand Prix,354,3,2,899
+1463,Red Bull,2013,19,São Paulo Grand Prix,596,1,13,899
+1464,Mercedes,2013,19,São Paulo Grand Prix,360,2,3,899
+1465,McLaren,2013,19,São Paulo Grand Prix,122,5,0,899
+1466,Williams,2013,19,São Paulo Grand Prix,5,9,0,899
+1467,Red Bull,2014,1,Australian Grand Prix,0,11,0,900
+1468,Williams,2014,1,Australian Grand Prix,10,4,0,900
+1469,Ferrari,2014,1,Australian Grand Prix,18,3,0,900
+1470,McLaren,2014,1,Australian Grand Prix,33,1,0,900
+1471,Mercedes,2014,1,Australian Grand Prix,25,2,1,900
+1472,Mercedes,2014,3,Bahrain Grand Prix,111,1,3,902
+1473,McLaren,2014,3,Bahrain Grand Prix,43,3,0,902
+1474,Ferrari,2014,3,Bahrain Grand Prix,33,5,0,902
+1475,Williams,2014,3,Bahrain Grand Prix,30,6,0,902
+1476,Red Bull,2014,3,Bahrain Grand Prix,35,4,0,902
+1477,Mercedes,2014,5,Spanish Grand Prix,197,1,5,904
+1478,McLaren,2014,5,Spanish Grand Prix,43,6,0,904
+1479,Ferrari,2014,5,Spanish Grand Prix,66,3,0,904
+1480,Williams,2014,5,Spanish Grand Prix,46,5,0,904
+1481,Red Bull,2014,5,Spanish Grand Prix,84,2,0,904
+1482,Mercedes,2014,6,Monaco Grand Prix,240,1,6,905
+1483,McLaren,2014,6,Monaco Grand Prix,52,5,0,905
+1484,Ferrari,2014,6,Monaco Grand Prix,78,3,0,905
+1485,Williams,2014,6,Monaco Grand Prix,52,6,0,905
+1486,Red Bull,2014,6,Monaco Grand Prix,99,2,0,905
+1487,Mercedes,2014,7,Canadian Grand Prix,258,1,6,906
+1488,McLaren,2014,7,Canadian Grand Prix,66,5,0,906
+1489,Ferrari,2014,7,Canadian Grand Prix,87,3,0,906
+1490,Williams,2014,7,Canadian Grand Prix,58,6,0,906
+1491,Red Bull,2014,7,Canadian Grand Prix,139,2,1,906
+1492,Mercedes,2014,8,Austrian Grand Prix,301,1,7,907
+1493,McLaren,2014,8,Austrian Grand Prix,72,6,0,907
+1494,Ferrari,2014,8,Austrian Grand Prix,98,3,0,907
+1495,Williams,2014,8,Austrian Grand Prix,85,5,0,907
+1496,Red Bull,2014,8,Austrian Grand Prix,143,2,1,907
+1497,Mercedes,2014,9,British Grand Prix,326,1,8,908
+1498,McLaren,2014,9,British Grand Prix,90,6,0,908
+1499,Ferrari,2014,9,British Grand Prix,106,3,0,908
+1500,Williams,2014,9,British Grand Prix,103,4,0,908
+1501,Red Bull,2014,9,British Grand Prix,168,2,1,908
+1502,Mercedes,2014,11,Hungarian Grand Prix,393,1,9,910
+1503,McLaren,2014,11,Hungarian Grand Prix,97,6,0,910
+1504,Ferrari,2014,11,Hungarian Grand Prix,142,3,0,910
+1505,Williams,2014,11,Hungarian Grand Prix,135,4,0,910
+1506,Red Bull,2014,11,Hungarian Grand Prix,219,2,2,910
+1507,Mercedes,2014,12,Belgian Grand Prix,411,1,9,911
+1508,McLaren,2014,12,Belgian Grand Prix,105,5,0,911
+1509,Ferrari,2014,12,Belgian Grand Prix,160,3,0,911
+1510,Williams,2014,12,Belgian Grand Prix,150,4,0,911
+1511,Red Bull,2014,12,Belgian Grand Prix,254,2,3,911
+1512,Mercedes,2014,13,Italian Grand Prix,454,1,10,912
+1513,McLaren,2014,13,Italian Grand Prix,110,5,0,912
+1514,Ferrari,2014,13,Italian Grand Prix,162,4,0,912
+1515,Williams,2014,13,Italian Grand Prix,177,3,0,912
+1516,Red Bull,2014,13,Italian Grand Prix,272,2,3,912
+1517,Mercedes,2014,14,Singapore Grand Prix,479,1,11,913
+1518,McLaren,2014,14,Singapore Grand Prix,111,6,0,913
+1519,Ferrari,2014,14,Singapore Grand Prix,178,4,0,913
+1520,Williams,2014,14,Singapore Grand Prix,187,3,0,913
+1521,Red Bull,2014,14,Singapore Grand Prix,305,2,3,913
+1522,Mercedes,2014,15,Japanese Grand Prix,522,1,12,914
+1523,McLaren,2014,15,Japanese Grand Prix,121,6,0,914
+1524,Ferrari,2014,15,Japanese Grand Prix,178,4,0,914
+1525,Williams,2014,15,Japanese Grand Prix,201,3,0,914
+1526,Red Bull,2014,15,Japanese Grand Prix,332,2,3,914
+1527,Mercedes,2014,17,United States Grand Prix,608,1,14,916
+1528,McLaren,2014,17,United States Grand Prix,147,5,0,916
+1529,Ferrari,2014,17,United States Grand Prix,196,4,0,916
+1530,Williams,2014,17,United States Grand Prix,238,3,0,916
+1531,Red Bull,2014,17,United States Grand Prix,363,2,3,916
+1532,Mercedes,2014,18,São Paulo Grand Prix,651,1,15,917
+1533,McLaren,2014,18,São Paulo Grand Prix,161,5,0,917
+1534,Ferrari,2014,18,São Paulo Grand Prix,210,4,0,917
+1535,Williams,2014,18,São Paulo Grand Prix,254,3,0,917
+1536,Red Bull,2014,18,São Paulo Grand Prix,373,2,3,917
+1537,Mercedes,2014,19,Abu Dhabi Grand Prix,701,1,16,918
+1538,McLaren,2014,19,Abu Dhabi Grand Prix,181,5,0,918
+1539,Ferrari,2014,19,Abu Dhabi Grand Prix,216,4,0,918
+1540,Williams,2014,19,Abu Dhabi Grand Prix,320,3,0,918
+1541,Red Bull,2014,19,Abu Dhabi Grand Prix,405,2,3,918
+1542,Mercedes,2015,7,Australian Grand Prix,43,1,1,926
+1543,Ferrari,2015,7,Australian Grand Prix,15,2,0,926
+1544,Williams,2015,7,Australian Grand Prix,12,4,0,926
+1545,Red Bull,2015,7,Australian Grand Prix,8,5,0,926
+1546,McLaren,2015,7,Australian Grand Prix,0,8,0,926
+1547,Mercedes,2015,5,Bahrain Grand Prix,159,1,3,929
+1548,Ferrari,2015,5,Bahrain Grand Prix,107,2,1,929
+1549,Williams,2015,5,Bahrain Grand Prix,61,3,0,929
+1550,Red Bull,2015,5,Bahrain Grand Prix,23,4,0,929
+1551,McLaren,2015,5,Bahrain Grand Prix,0,9,0,929
+1552,Mercedes,2015,6,Spanish Grand Prix,202,1,4,930
+1553,Ferrari,2015,6,Spanish Grand Prix,132,2,1,930
+1554,Williams,2015,6,Spanish Grand Prix,81,3,0,930
+1555,Red Bull,2015,6,Spanish Grand Prix,30,4,0,930
+1556,McLaren,2015,6,Spanish Grand Prix,0,9,0,930
+1557,Mercedes,2015,1,Monaco Grand Prix,242,1,5,931
+1558,Ferrari,2015,1,Monaco Grand Prix,158,2,1,931
+1559,Williams,2015,1,Monaco Grand Prix,81,3,0,931
+1560,Red Bull,2015,1,Monaco Grand Prix,52,4,0,931
+1561,McLaren,2015,1,Monaco Grand Prix,4,9,0,931
+1562,Mercedes,2015,4,Canadian Grand Prix,285,1,6,932
+1563,Ferrari,2015,4,Canadian Grand Prix,180,2,1,932
+1564,Williams,2015,4,Canadian Grand Prix,104,3,0,932
+1565,Red Bull,2015,4,Canadian Grand Prix,54,4,0,932
+1566,McLaren,2015,4,Canadian Grand Prix,4,9,0,932
+1567,Mercedes,2015,8,Austrian Grand Prix,328,1,7,933
+1568,Ferrari,2015,8,Austrian Grand Prix,192,2,1,933
+1569,Williams,2015,8,Austrian Grand Prix,129,3,0,933
+1570,Red Bull,2015,8,Austrian Grand Prix,55,4,0,933
+1571,McLaren,2015,8,Austrian Grand Prix,4,9,0,933
+1572,Mercedes,2015,9,British Grand Prix,371,1,8,934
+1573,Ferrari,2015,9,British Grand Prix,211,2,1,934
+1574,Williams,2015,9,British Grand Prix,151,3,0,934
+1575,Red Bull,2015,9,British Grand Prix,63,4,0,934
+1576,McLaren,2015,9,British Grand Prix,5,9,0,934
+1577,Mercedes,2015,10,Hungarian Grand Prix,383,1,8,936
+1578,Ferrari,2015,10,Hungarian Grand Prix,236,2,2,936
+1579,Williams,2015,10,Hungarian Grand Prix,151,3,0,936
+1580,Red Bull,2015,10,Hungarian Grand Prix,96,4,0,936
+1581,McLaren,2015,10,Hungarian Grand Prix,17,9,0,936
+1582,Mercedes,2015,12,Italian Grand Prix,451,1,10,938
+1583,McLaren,2015,11,Belgian Grand Prix,17,9,0,937
+1584,Williams,2015,11,Belgian Grand Prix,161,3,0,937
+1585,Red Bull,2015,11,Belgian Grand Prix,108,4,0,937
+1586,Ferrari,2015,11,Belgian Grand Prix,242,2,2,937
+1587,Mercedes,2015,11,Belgian Grand Prix,426,1,9,937
+1588,Ferrari,2015,12,Italian Grand Prix,270,2,2,938
+1589,Williams,2015,12,Italian Grand Prix,188,3,0,938
+1590,Red Bull,2015,12,Italian Grand Prix,113,4,0,938
+1591,McLaren,2015,12,Italian Grand Prix,17,9,0,938
+1592,Mercedes,2015,13,Singapore Grand Prix,463,1,10,939
+1593,Ferrari,2015,13,Singapore Grand Prix,310,2,3,939
+1594,Williams,2015,13,Singapore Grand Prix,198,3,0,939
+1595,Red Bull,2015,13,Singapore Grand Prix,139,4,0,939
+1596,McLaren,2015,13,Singapore Grand Prix,17,9,0,939
+1597,McLaren,2015,14,Japanese Grand Prix,17,9,0,940
+1598,Red Bull,2015,14,Japanese Grand Prix,139,4,0,940
+1599,Williams,2015,14,Japanese Grand Prix,208,3,0,940
+1600,Ferrari,2015,14,Japanese Grand Prix,337,2,3,940
+1601,Mercedes,2015,14,Japanese Grand Prix,506,1,11,940
+1602,McLaren,2015,16,United States Grand Prix,27,9,0,942
+1603,Williams,2015,16,United States Grand Prix,220,3,0,942
+1604,Red Bull,2015,16,United States Grand Prix,150,4,0,942
+1605,Ferrari,2015,16,United States Grand Prix,374,2,3,942
+1606,Mercedes,2015,16,United States Grand Prix,574,1,13,942
+1607,McLaren,2015,17,Mexico City Grand Prix,27,9,0,943
+1608,Williams,2015,17,Mexico City Grand Prix,243,3,0,943
+1609,Red Bull,2015,17,Mexico City Grand Prix,172,4,0,943
+1610,Ferrari,2015,17,Mexico City Grand Prix,374,2,3,943
+1611,Mercedes,2015,17,Mexico City Grand Prix,617,1,14,943
+1612,McLaren,2015,18,São Paulo Grand Prix,27,9,0,944
+1613,Williams,2015,18,São Paulo Grand Prix,253,3,0,944
+1614,Red Bull,2015,18,São Paulo Grand Prix,178,4,0,944
+1615,Ferrari,2015,18,São Paulo Grand Prix,401,2,3,944
+1616,Mercedes,2015,18,São Paulo Grand Prix,660,1,15,944
+1617,McLaren,2015,19,Abu Dhabi Grand Prix,27,9,0,945
+1618,Williams,2015,19,Abu Dhabi Grand Prix,257,3,0,945
+1619,Red Bull,2015,19,Abu Dhabi Grand Prix,187,4,0,945
+1620,Ferrari,2015,19,Abu Dhabi Grand Prix,428,2,3,945
+1621,Mercedes,2015,19,Abu Dhabi Grand Prix,703,1,16,945
+1622,Mercedes,2016,8,Azerbaijan Grand Prix,258,1,7,955
+1623,Mercedes,2016,1,Australian Grand Prix,43,1,1,948
+1624,McLaren,2016,1,Australian Grand Prix,0,9,0,948
+1625,Haas F1 Team,2016,1,Australian Grand Prix,8,5,0,948
+1626,Williams,2016,1,Australian Grand Prix,14,3,0,948
+1627,Red Bull,2016,1,Australian Grand Prix,12,4,0,948
+1628,Ferrari,2016,1,Australian Grand Prix,15,2,0,948
+1629,Mercedes,2016,2,Bahrain Grand Prix,83,1,2,949
+1630,Ferrari,2016,2,Bahrain Grand Prix,33,2,0,949
+1631,Red Bull,2016,2,Bahrain Grand Prix,30,3,0,949
+1632,Williams,2016,2,Bahrain Grand Prix,20,4,0,949
+1633,Haas F1 Team,2016,2,Bahrain Grand Prix,18,5,0,949
+1634,McLaren,2016,2,Bahrain Grand Prix,1,8,0,949
+1635,Mercedes,2016,5,Spanish Grand Prix,157,1,4,952
+1636,Ferrari,2016,5,Spanish Grand Prix,109,2,0,952
+1637,Red Bull,2016,5,Spanish Grand Prix,94,3,1,952
+1638,Williams,2016,5,Spanish Grand Prix,65,4,0,952
+1639,Haas F1 Team,2016,5,Spanish Grand Prix,22,6,0,952
+1640,McLaren,2016,5,Spanish Grand Prix,12,8,0,952
+1641,Mercedes,2016,6,Monaco Grand Prix,188,1,5,953
+1642,Ferrari,2016,6,Monaco Grand Prix,121,2,0,953
+1643,Red Bull,2016,6,Monaco Grand Prix,112,3,1,953
+1644,Williams,2016,6,Monaco Grand Prix,66,4,0,953
+1645,Haas F1 Team,2016,6,Monaco Grand Prix,22,8,0,953
+1646,McLaren,2016,6,Monaco Grand Prix,24,7,0,953
+1647,Mercedes,2016,7,Canadian Grand Prix,223,1,6,954
+1648,Ferrari,2016,7,Canadian Grand Prix,147,2,0,954
+1649,Red Bull,2016,7,Canadian Grand Prix,130,3,1,954
+1650,Williams,2016,7,Canadian Grand Prix,81,4,0,954
+1651,Haas F1 Team,2016,7,Canadian Grand Prix,22,8,0,954
+1652,McLaren,2016,7,Canadian Grand Prix,24,7,0,954
+1653,Ferrari,2016,8,Azerbaijan Grand Prix,177,2,0,955
+1654,Red Bull,2016,8,Azerbaijan Grand Prix,140,3,1,955
+1655,Williams,2016,8,Azerbaijan Grand Prix,90,4,0,955
+1656,Haas F1 Team,2016,8,Azerbaijan Grand Prix,22,8,0,955
+1657,McLaren,2016,8,Azerbaijan Grand Prix,24,7,0,955
+1658,Mercedes,2016,9,Austrian Grand Prix,295,1,8,956
+1659,Ferrari,2016,9,Austrian Grand Prix,192,2,0,956
+1660,Red Bull,2016,9,Austrian Grand Prix,168,3,1,956
+1661,Williams,2016,9,Austrian Grand Prix,92,4,0,956
+1662,Haas F1 Team,2016,9,Austrian Grand Prix,28,8,0,956
+1663,McLaren,2016,9,Austrian Grand Prix,32,7,0,956
+1664,Mercedes,2016,10,British Grand Prix,335,1,9,957
+1665,Ferrari,2016,10,British Grand Prix,204,2,0,957
+1666,Red Bull,2016,10,British Grand Prix,198,3,1,957
+1667,Williams,2016,10,British Grand Prix,92,4,0,957
+1668,Haas F1 Team,2016,10,British Grand Prix,28,8,0,957
+1669,McLaren,2016,10,British Grand Prix,32,7,0,957
+1670,Mercedes,2016,11,Hungarian Grand Prix,378,1,10,958
+1671,Ferrari,2016,11,Hungarian Grand Prix,224,2,0,958
+1672,Red Bull,2016,11,Hungarian Grand Prix,223,3,1,958
+1673,Williams,2016,11,Hungarian Grand Prix,94,4,0,958
+1674,Haas F1 Team,2016,11,Hungarian Grand Prix,28,8,0,958
+1675,McLaren,2016,11,Hungarian Grand Prix,38,7,0,958
+1676,Mercedes,2016,13,Belgian Grand Prix,455,1,12,960
+1677,Ferrari,2016,13,Belgian Grand Prix,252,3,0,960
+1678,Red Bull,2016,13,Belgian Grand Prix,274,2,1,960
+1679,Williams,2016,13,Belgian Grand Prix,101,5,0,960
+1680,Haas F1 Team,2016,13,Belgian Grand Prix,28,8,0,960
+1681,McLaren,2016,13,Belgian Grand Prix,48,6,0,960
+1682,Mercedes,2016,14,Italian Grand Prix,498,1,13,961
+1683,Ferrari,2016,14,Italian Grand Prix,279,3,0,961
+1684,Red Bull,2016,14,Italian Grand Prix,290,2,1,961
+1685,Williams,2016,14,Italian Grand Prix,111,4,0,961
+1686,Haas F1 Team,2016,14,Italian Grand Prix,28,8,0,961
+1687,McLaren,2016,14,Italian Grand Prix,48,6,0,961
+1688,Mercedes,2016,15,Singapore Grand Prix,538,1,14,962
+1689,Ferrari,2016,15,Singapore Grand Prix,301,3,0,962
+1690,Red Bull,2016,15,Singapore Grand Prix,316,2,1,962
+1691,Williams,2016,15,Singapore Grand Prix,111,5,0,962
+1692,Haas F1 Team,2016,15,Singapore Grand Prix,28,8,0,962
+1693,McLaren,2016,15,Singapore Grand Prix,54,6,0,962
+1694,Mercedes,2016,17,Japanese Grand Prix,593,1,15,964
+1695,Ferrari,2016,17,Japanese Grand Prix,335,3,0,964
+1696,Red Bull,2016,17,Japanese Grand Prix,385,2,2,964
+1697,Williams,2016,17,Japanese Grand Prix,124,5,0,964
+1698,Haas F1 Team,2016,17,Japanese Grand Prix,28,8,0,964
+1699,McLaren,2016,17,Japanese Grand Prix,62,6,0,964
+1700,Ferrari,2016,20,São Paulo Grand Prix,375,3,0,967
+1701,McLaren,2016,18,United States Grand Prix,74,6,0,965
+1702,Mercedes,2016,20,São Paulo Grand Prix,722,1,18,967
+1703,Ferrari,2016,18,United States Grand Prix,347,3,0,965
+1704,Williams,2016,18,United States Grand Prix,130,5,0,965
+1705,Haas F1 Team,2016,18,United States Grand Prix,29,8,0,965
+1706,Red Bull,2016,18,United States Grand Prix,400,2,2,965
+1707,Mercedes,2016,18,United States Grand Prix,636,1,16,965
+1708,McLaren,2016,19,Mexico City Grand Prix,74,6,0,966
+1709,Ferrari,2016,19,Mexico City Grand Prix,365,3,0,966
+1710,Williams,2016,19,Mexico City Grand Prix,136,5,0,966
+1711,Haas F1 Team,2016,19,Mexico City Grand Prix,29,8,0,966
+1712,Red Bull,2016,19,Mexico City Grand Prix,427,2,2,966
+1713,Mercedes,2016,19,Mexico City Grand Prix,679,1,17,966
+1714,Red Bull,2016,20,São Paulo Grand Prix,446,2,2,967
+1715,Williams,2016,20,São Paulo Grand Prix,136,5,0,967
+1716,Haas F1 Team,2016,20,São Paulo Grand Prix,29,8,0,967
+1717,McLaren,2016,20,São Paulo Grand Prix,75,6,0,967
+1718,Mercedes,2016,21,Abu Dhabi Grand Prix,765,1,19,968
+1719,Ferrari,2016,21,Abu Dhabi Grand Prix,398,3,0,968
+1720,Red Bull,2016,21,Abu Dhabi Grand Prix,468,2,2,968
+1721,Williams,2016,21,Abu Dhabi Grand Prix,138,5,0,968
+1722,Haas F1 Team,2016,21,Abu Dhabi Grand Prix,29,8,0,968
+1723,McLaren,2016,21,Abu Dhabi Grand Prix,76,6,0,968
+1724,Ferrari,2017,1,Australian Grand Prix,37,1,1,969
+1725,Mercedes,2017,1,Australian Grand Prix,33,2,0,969
+1726,Red Bull,2017,1,Australian Grand Prix,10,3,0,969
+1727,Williams,2017,1,Australian Grand Prix,8,4,0,969
+1728,McLaren,2017,1,Australian Grand Prix,0,9,0,969
+1729,Haas F1 Team,2017,1,Australian Grand Prix,0,10,0,969
+1730,Ferrari,2017,3,Bahrain Grand Prix,102,1,2,971
+1731,Mercedes,2017,3,Bahrain Grand Prix,99,2,1,971
+1732,Red Bull,2017,3,Bahrain Grand Prix,47,3,0,971
+1733,Williams,2017,3,Bahrain Grand Prix,16,5,0,971
+1734,McLaren,2017,3,Bahrain Grand Prix,0,10,0,971
+1735,Haas F1 Team,2017,3,Bahrain Grand Prix,8,7,0,971
+1736,Ferrari,2017,5,Spanish Grand Prix,153,2,2,973
+1737,Mercedes,2017,5,Spanish Grand Prix,161,1,3,973
+1738,Red Bull,2017,5,Spanish Grand Prix,72,3,0,973
+1739,Williams,2017,5,Spanish Grand Prix,18,6,0,973
+1740,McLaren,2017,5,Spanish Grand Prix,0,10,0,973
+1741,Haas F1 Team,2017,5,Spanish Grand Prix,9,8,0,973
+1742,Ferrari,2017,6,Monaco Grand Prix,196,1,3,974
+1743,Mercedes,2017,6,Monaco Grand Prix,179,2,3,974
+1744,Red Bull,2017,6,Monaco Grand Prix,97,3,0,974
+1745,Williams,2017,6,Monaco Grand Prix,20,6,0,974
+1746,McLaren,2017,6,Monaco Grand Prix,0,10,0,974
+1747,Haas F1 Team,2017,6,Monaco Grand Prix,14,8,0,974
+1748,Ferrari,2017,7,Canadian Grand Prix,214,2,3,975
+1749,Mercedes,2017,7,Canadian Grand Prix,222,1,4,975
+1750,Red Bull,2017,7,Canadian Grand Prix,112,3,0,975
+1751,Williams,2017,7,Canadian Grand Prix,22,6,0,975
+1752,McLaren,2017,7,Canadian Grand Prix,0,10,0,975
+1753,Haas F1 Team,2017,7,Canadian Grand Prix,15,8,0,975
+1754,Ferrari,2017,8,Azerbaijan Grand Prix,226,2,3,976
+1755,Mercedes,2017,8,Azerbaijan Grand Prix,250,1,4,976
+1756,Red Bull,2017,8,Azerbaijan Grand Prix,137,3,1,976
+1757,Williams,2017,8,Azerbaijan Grand Prix,37,5,0,976
+1758,McLaren,2017,8,Azerbaijan Grand Prix,2,10,0,976
+1759,Haas F1 Team,2017,8,Azerbaijan Grand Prix,21,7,0,976
+1760,Ferrari,2017,9,Austrian Grand Prix,254,2,3,977
+1761,Mercedes,2017,9,Austrian Grand Prix,287,1,5,977
+1762,Red Bull,2017,9,Austrian Grand Prix,152,3,1,977
+1763,Williams,2017,9,Austrian Grand Prix,40,5,0,977
+1764,McLaren,2017,9,Austrian Grand Prix,2,10,0,977
+1765,Haas F1 Team,2017,9,Austrian Grand Prix,29,7,0,977
+1766,Ferrari,2017,10,British Grand Prix,275,2,3,978
+1767,Mercedes,2017,10,British Grand Prix,330,1,6,978
+1768,Red Bull,2017,10,British Grand Prix,174,3,1,978
+1769,Williams,2017,10,British Grand Prix,41,5,0,978
+1770,McLaren,2017,10,British Grand Prix,2,10,0,978
+1771,Haas F1 Team,2017,10,British Grand Prix,29,7,0,978
+1772,Ferrari,2017,11,Hungarian Grand Prix,318,2,4,979
+1773,Mercedes,2017,11,Hungarian Grand Prix,357,1,6,979
+1774,Red Bull,2017,11,Hungarian Grand Prix,184,3,1,979
+1775,Williams,2017,11,Hungarian Grand Prix,41,5,0,979
+1776,McLaren,2017,11,Hungarian Grand Prix,11,9,0,979
+1777,Haas F1 Team,2017,11,Hungarian Grand Prix,29,7,0,979
+1778,Ferrari,2017,12,Belgian Grand Prix,348,2,4,980
+1779,Mercedes,2017,12,Belgian Grand Prix,392,1,7,980
+1780,Red Bull,2017,12,Belgian Grand Prix,199,3,1,980
+1781,Williams,2017,12,Belgian Grand Prix,45,5,0,980
+1782,McLaren,2017,12,Belgian Grand Prix,11,9,0,980
+1783,Haas F1 Team,2017,12,Belgian Grand Prix,35,7,0,980
+1784,Ferrari,2017,13,Italian Grand Prix,373,2,4,981
+1785,Mercedes,2017,13,Italian Grand Prix,435,1,8,981
+1786,Red Bull,2017,13,Italian Grand Prix,212,3,1,981
+1787,Williams,2017,13,Italian Grand Prix,55,5,0,981
+1788,McLaren,2017,13,Italian Grand Prix,11,9,0,981
+1789,Haas F1 Team,2017,13,Italian Grand Prix,35,7,0,981
+1790,Ferrari,2017,14,Singapore Grand Prix,373,2,4,982
+1791,Mercedes,2017,14,Singapore Grand Prix,475,1,9,982
+1792,Red Bull,2017,14,Singapore Grand Prix,230,3,1,982
+1793,Williams,2017,14,Singapore Grand Prix,59,5,0,982
+1794,McLaren,2017,14,Singapore Grand Prix,17,9,0,982
+1795,Haas F1 Team,2017,14,Singapore Grand Prix,37,8,0,982
+1796,Ferrari,2017,16,Japanese Grand Prix,395,2,4,984
+1797,Mercedes,2017,16,Japanese Grand Prix,540,1,10,984
+1798,Red Bull,2017,16,Japanese Grand Prix,303,3,2,984
+1799,Williams,2017,16,Japanese Grand Prix,66,5,0,984
+1800,McLaren,2017,16,Japanese Grand Prix,23,9,0,984
+1801,Haas F1 Team,2017,16,Japanese Grand Prix,43,7,0,984
+1802,Ferrari,2017,17,United States Grand Prix,428,2,4,985
+1803,Mercedes,2017,17,United States Grand Prix,575,1,11,985
+1804,Red Bull,2017,17,United States Grand Prix,315,3,2,985
+1805,Williams,2017,17,United States Grand Prix,68,5,0,985
+1806,McLaren,2017,17,United States Grand Prix,23,9,0,985
+1807,Haas F1 Team,2017,17,United States Grand Prix,43,8,0,985
+1808,Ferrari,2017,18,Mexico City Grand Prix,455,2,4,986
+1809,Mercedes,2017,18,Mexico City Grand Prix,595,1,11,986
+1810,Red Bull,2017,18,Mexico City Grand Prix,340,3,3,986
+1811,Williams,2017,18,Mexico City Grand Prix,76,5,0,986
+1812,McLaren,2017,18,Mexico City Grand Prix,24,9,0,986
+1813,Haas F1 Team,2017,18,Mexico City Grand Prix,47,8,0,986
+1814,Ferrari,2017,19,São Paulo Grand Prix,495,2,5,987
+1815,Mercedes,2017,19,São Paulo Grand Prix,625,1,11,987
+1816,Red Bull,2017,19,São Paulo Grand Prix,358,3,3,987
+1817,Williams,2017,19,São Paulo Grand Prix,82,5,0,987
+1818,McLaren,2017,19,São Paulo Grand Prix,28,9,0,987
+1819,Haas F1 Team,2017,19,São Paulo Grand Prix,47,8,0,987
+1820,Ferrari,2017,20,Abu Dhabi Grand Prix,522,2,5,988
+1821,Mercedes,2017,20,Abu Dhabi Grand Prix,668,1,12,988
+1822,Red Bull,2017,20,Abu Dhabi Grand Prix,368,3,3,988
+1823,Williams,2017,20,Abu Dhabi Grand Prix,83,5,0,988
+1824,McLaren,2017,20,Abu Dhabi Grand Prix,30,9,0,988
+1825,Haas F1 Team,2017,20,Abu Dhabi Grand Prix,47,8,0,988
+1826,Ferrari,2018,1,Australian Grand Prix,40,1,1,989
+1827,Mercedes,2018,1,Australian Grand Prix,22,2,0,989
+1828,Red Bull,2018,1,Australian Grand Prix,20,3,0,989
+1829,McLaren,2018,1,Australian Grand Prix,12,4,0,989
+1830,Williams,2018,1,Australian Grand Prix,0,8,0,989
+1831,Haas F1 Team,2018,1,Australian Grand Prix,0,10,0,989
+1832,Haas F1 Team,2018,2,Bahrain Grand Prix,10,7,0,990
+1833,Williams,2018,2,Bahrain Grand Prix,0,10,0,990
+1834,Red Bull,2018,2,Bahrain Grand Prix,20,4,0,990
+1835,McLaren,2018,2,Bahrain Grand Prix,22,3,0,990
+1836,Mercedes,2018,2,Bahrain Grand Prix,55,2,0,990
+1837,Ferrari,2018,2,Bahrain Grand Prix,65,1,2,990
+1838,Ferrari,2018,4,Azerbaijan Grand Prix,114,1,2,992
+1839,Mercedes,2018,4,Azerbaijan Grand Prix,110,2,1,992
+1840,Red Bull,2018,4,Azerbaijan Grand Prix,55,3,1,992
+1841,McLaren,2018,4,Azerbaijan Grand Prix,36,4,0,992
+1842,Williams,2018,4,Azerbaijan Grand Prix,4,10,0,992
+1843,Haas F1 Team,2018,4,Azerbaijan Grand Prix,11,8,0,992
+1844,Ferrari,2018,5,Spanish Grand Prix,126,2,2,993
+1845,Mercedes,2018,5,Spanish Grand Prix,153,1,2,993
+1846,Red Bull,2018,5,Spanish Grand Prix,80,3,1,993
+1847,McLaren,2018,5,Spanish Grand Prix,40,5,0,993
+1848,Williams,2018,5,Spanish Grand Prix,4,10,0,993
+1849,Haas F1 Team,2018,5,Spanish Grand Prix,19,6,0,993
+1850,Ferrari,2018,6,Monaco Grand Prix,156,2,2,994
+1851,Mercedes,2018,6,Monaco Grand Prix,178,1,2,994
+1852,Red Bull,2018,6,Monaco Grand Prix,107,3,2,994
+1853,McLaren,2018,6,Monaco Grand Prix,40,5,0,994
+1854,Williams,2018,6,Monaco Grand Prix,4,10,0,994
+1855,Haas F1 Team,2018,6,Monaco Grand Prix,19,8,0,994
+1856,Ferrari,2018,7,Canadian Grand Prix,189,2,3,995
+1857,Mercedes,2018,7,Canadian Grand Prix,206,1,2,995
+1858,Red Bull,2018,7,Canadian Grand Prix,134,3,2,995
+1859,McLaren,2018,7,Canadian Grand Prix,40,5,0,995
+1860,Williams,2018,7,Canadian Grand Prix,4,10,0,995
+1861,Haas F1 Team,2018,7,Canadian Grand Prix,19,8,0,995
+1862,Ferrari,2018,9,Austrian Grand Prix,247,1,3,997
+1863,Mercedes,2018,9,Austrian Grand Prix,237,2,3,997
+1864,Red Bull,2018,9,Austrian Grand Prix,189,3,3,997
+1865,McLaren,2018,9,Austrian Grand Prix,44,6,0,997
+1866,Williams,2018,9,Austrian Grand Prix,4,10,0,997
+1867,Haas F1 Team,2018,9,Austrian Grand Prix,49,5,0,997
+1868,Ferrari,2018,10,British Grand Prix,287,1,4,998
+1869,Mercedes,2018,10,British Grand Prix,267,2,3,998
+1870,Red Bull,2018,10,British Grand Prix,199,3,3,998
+1871,McLaren,2018,10,British Grand Prix,48,7,0,998
+1872,Williams,2018,10,British Grand Prix,4,10,0,998
+1873,Haas F1 Team,2018,10,British Grand Prix,51,5,0,998
+1874,Ferrari,2018,12,Hungarian Grand Prix,335,2,4,1000
+1875,Mercedes,2018,12,Hungarian Grand Prix,345,1,5,1000
+1876,Red Bull,2018,12,Hungarian Grand Prix,223,3,3,1000
+1877,McLaren,2018,12,Hungarian Grand Prix,52,7,0,1000
+1878,Williams,2018,12,Hungarian Grand Prix,4,10,0,1000
+1879,Haas F1 Team,2018,12,Hungarian Grand Prix,66,5,0,1000
+1880,Ferrari,2018,13,Belgian Grand Prix,360,2,5,1001
+1881,Mercedes,2018,13,Belgian Grand Prix,375,1,5,1001
+1882,Red Bull,2018,13,Belgian Grand Prix,238,3,3,1001
+1883,McLaren,2018,13,Belgian Grand Prix,52,6,0,1001
+1884,Williams,2018,13,Belgian Grand Prix,4,10,0,1001
+1885,Haas F1 Team,2018,13,Belgian Grand Prix,76,5,0,1001
+1886,Williams,2018,14,Italian Grand Prix,7,10,0,1002
+1887,McLaren,2018,14,Italian Grand Prix,52,6,0,1002
+1888,Mercedes,2018,14,Italian Grand Prix,415,1,6,1002
+1889,Haas F1 Team,2018,14,Italian Grand Prix,76,5,0,1002
+1890,Ferrari,2018,14,Italian Grand Prix,390,2,5,1002
+1891,Red Bull,2018,14,Italian Grand Prix,248,3,3,1002
+1892,Ferrari,2018,15,Singapore Grand Prix,415,2,5,1003
+1893,Mercedes,2018,15,Singapore Grand Prix,452,1,7,1003
+1894,Red Bull,2018,15,Singapore Grand Prix,274,3,3,1003
+1895,McLaren,2018,15,Singapore Grand Prix,58,6,0,1003
+1896,Williams,2018,15,Singapore Grand Prix,7,10,0,1003
+1897,Haas F1 Team,2018,15,Singapore Grand Prix,76,5,0,1003
+1898,Ferrari,2018,17,Japanese Grand Prix,460,2,5,1005
+1899,Mercedes,2018,17,Japanese Grand Prix,538,1,9,1005
+1900,Red Bull,2018,17,Japanese Grand Prix,319,3,3,1005
+1901,McLaren,2018,17,Japanese Grand Prix,58,6,0,1005
+1902,Williams,2018,17,Japanese Grand Prix,7,10,0,1005
+1903,Haas F1 Team,2018,17,Japanese Grand Prix,84,5,0,1005
+1904,Haas F1 Team,2018,18,United States Grand Prix,84,5,0,1006
+1905,Williams,2018,18,United States Grand Prix,7,10,0,1006
+1906,McLaren,2018,18,United States Grand Prix,58,6,0,1006
+1907,Mercedes,2018,18,United States Grand Prix,563,1,9,1006
+1908,Ferrari,2018,18,United States Grand Prix,497,2,6,1006
+1909,Red Bull,2018,18,United States Grand Prix,337,3,3,1006
+1910,Ferrari,2018,19,Mexico City Grand Prix,530,2,6,1007
+1911,Mercedes,2018,19,Mexico City Grand Prix,585,1,9,1007
+1912,Red Bull,2018,19,Mexico City Grand Prix,362,3,4,1007
+1913,McLaren,2018,19,Mexico City Grand Prix,62,6,0,1007
+1914,Williams,2018,19,Mexico City Grand Prix,7,10,0,1007
+1915,Haas F1 Team,2018,19,Mexico City Grand Prix,84,5,0,1007
+1916,Ferrari,2018,20,São Paulo Grand Prix,553,2,6,1008
+1917,Mercedes,2018,20,São Paulo Grand Prix,620,1,10,1008
+1918,Red Bull,2018,20,São Paulo Grand Prix,392,3,4,1008
+1919,McLaren,2018,20,São Paulo Grand Prix,62,6,0,1008
+1920,Williams,2018,20,São Paulo Grand Prix,7,10,0,1008
+1921,Haas F1 Team,2018,20,São Paulo Grand Prix,90,5,0,1008
+1922,Ferrari,2018,21,Abu Dhabi Grand Prix,571,2,6,1009
+1923,Mercedes,2018,21,Abu Dhabi Grand Prix,655,1,11,1009
+1924,Red Bull,2018,21,Abu Dhabi Grand Prix,419,3,4,1009
+1925,McLaren,2018,21,Abu Dhabi Grand Prix,62,6,0,1009
+1926,Williams,2018,21,Abu Dhabi Grand Prix,7,10,0,1009
+1927,Haas F1 Team,2018,21,Abu Dhabi Grand Prix,93,5,0,1009
+1928,Haas F1 Team,2019,1,Australian Grand Prix,8,4,0,1010
+1929,Ferrari,2019,1,Australian Grand Prix,22,2,0,1010
+1930,Red Bull,2019,1,Australian Grand Prix,15,3,0,1010
+1931,Mercedes,2019,1,Australian Grand Prix,44,1,1,1010
+1932,Alfa Romeo,2019,1,Australian Grand Prix,4,6,0,1010
+1933,McLaren,2019,1,Australian Grand Prix,0,9,0,1010
+1934,Williams,2019,1,Australian Grand Prix,0,10,0,1010
+1935,Williams,2019,2,Bahrain Grand Prix,0,10,0,1011
+1936,Ferrari,2019,2,Bahrain Grand Prix,48,2,0,1011
+1937,McLaren,2019,2,Bahrain Grand Prix,8,5,0,1011
+1938,Alfa Romeo,2019,2,Bahrain Grand Prix,10,4,0,1011
+1939,Red Bull,2019,2,Bahrain Grand Prix,31,3,0,1011
+1940,Haas F1 Team,2019,2,Bahrain Grand Prix,8,6,0,1011
+1941,Mercedes,2019,2,Bahrain Grand Prix,87,1,2,1011
+1942,Mercedes,2019,4,Azerbaijan Grand Prix,173,1,4,1013
+1943,Red Bull,2019,4,Azerbaijan Grand Prix,64,3,0,1013
+1944,Ferrari,2019,4,Azerbaijan Grand Prix,99,2,0,1013
+1945,Haas F1 Team,2019,4,Azerbaijan Grand Prix,8,8,0,1013
+1946,Alfa Romeo,2019,4,Azerbaijan Grand Prix,13,6,0,1013
+1947,McLaren,2019,4,Azerbaijan Grand Prix,18,4,0,1013
+1948,Williams,2019,4,Azerbaijan Grand Prix,0,10,0,1013
+1949,Mercedes,2019,5,Spanish Grand Prix,217,1,5,1014
+1950,Red Bull,2019,5,Spanish Grand Prix,87,3,0,1014
+1951,Ferrari,2019,5,Spanish Grand Prix,121,2,0,1014
+1952,Haas F1 Team,2019,5,Spanish Grand Prix,15,6,0,1014
+1953,Alfa Romeo,2019,5,Spanish Grand Prix,13,7,0,1014
+1954,McLaren,2019,5,Spanish Grand Prix,22,4,0,1014
+1955,Williams,2019,5,Spanish Grand Prix,0,10,0,1014
+1956,Mercedes,2019,6,Monaco Grand Prix,257,1,6,1015
+1957,Red Bull,2019,6,Monaco Grand Prix,110,3,0,1015
+1958,Ferrari,2019,6,Monaco Grand Prix,139,2,0,1015
+1959,Haas F1 Team,2019,6,Monaco Grand Prix,16,6,0,1015
+1960,Alfa Romeo,2019,6,Monaco Grand Prix,13,9,0,1015
+1961,McLaren,2019,6,Monaco Grand Prix,30,4,0,1015
+1962,Williams,2019,6,Monaco Grand Prix,0,10,0,1015
+1963,Mercedes,2019,7,Canadian Grand Prix,295,1,7,1016
+1964,Red Bull,2019,7,Canadian Grand Prix,124,3,0,1016
+1965,Ferrari,2019,7,Canadian Grand Prix,172,2,0,1016
+1966,Haas F1 Team,2019,7,Canadian Grand Prix,16,8,0,1016
+1967,Alfa Romeo,2019,7,Canadian Grand Prix,13,9,0,1016
+1968,McLaren,2019,7,Canadian Grand Prix,30,4,0,1016
+1969,Williams,2019,7,Canadian Grand Prix,0,10,0,1016
+1970,Red Bull,2019,9,Austrian Grand Prix,169,3,1,1018
+1971,Mercedes,2019,9,Austrian Grand Prix,363,1,8,1018
+1972,Ferrari,2019,9,Austrian Grand Prix,228,2,0,1018
+1973,Haas F1 Team,2019,9,Austrian Grand Prix,16,9,0,1018
+1974,Alfa Romeo,2019,9,Austrian Grand Prix,22,6,0,1018
+1975,McLaren,2019,9,Austrian Grand Prix,52,4,0,1018
+1976,Williams,2019,9,Austrian Grand Prix,0,10,0,1018
+1977,Mercedes,2019,10,British Grand Prix,407,1,9,1019
+1978,Red Bull,2019,10,British Grand Prix,191,3,1,1019
+1979,Ferrari,2019,10,British Grand Prix,243,2,0,1019
+1980,Haas F1 Team,2019,10,British Grand Prix,16,9,0,1019
+1981,Alfa Romeo,2019,10,British Grand Prix,26,6,0,1019
+1982,McLaren,2019,10,British Grand Prix,60,4,0,1019
+1983,Williams,2019,10,British Grand Prix,0,10,0,1019
+1984,Mercedes,2019,12,Hungarian Grand Prix,438,1,10,1021
+1985,Red Bull,2019,12,Hungarian Grand Prix,244,3,2,1021
+1986,Ferrari,2019,12,Hungarian Grand Prix,288,2,0,1021
+1987,Haas F1 Team,2019,12,Hungarian Grand Prix,26,9,0,1021
+1988,Alfa Romeo,2019,12,Hungarian Grand Prix,32,7,0,1021
+1989,McLaren,2019,12,Hungarian Grand Prix,82,4,0,1021
+1990,Williams,2019,12,Hungarian Grand Prix,1,10,0,1021
+1991,Mercedes,2019,13,Belgian Grand Prix,471,1,10,1022
+1992,Red Bull,2019,13,Belgian Grand Prix,254,3,2,1022
+1993,Ferrari,2019,13,Belgian Grand Prix,326,2,1,1022
+1994,Haas F1 Team,2019,13,Belgian Grand Prix,26,9,0,1022
+1995,Alfa Romeo,2019,13,Belgian Grand Prix,32,8,0,1022
+1996,McLaren,2019,13,Belgian Grand Prix,82,4,0,1022
+1997,Williams,2019,13,Belgian Grand Prix,1,10,0,1022
+1998,Mercedes,2019,14,Italian Grand Prix,505,1,10,1023
+1999,Red Bull,2019,14,Italian Grand Prix,266,3,2,1023
+2000,Ferrari,2019,14,Italian Grand Prix,351,2,2,1023
+2001,Haas F1 Team,2019,14,Italian Grand Prix,26,9,0,1023
+2002,Alfa Romeo,2019,14,Italian Grand Prix,34,8,0,1023
+2003,McLaren,2019,14,Italian Grand Prix,83,4,0,1023
+2004,Williams,2019,14,Italian Grand Prix,1,10,0,1023
+2005,Mercedes,2019,15,Singapore Grand Prix,527,1,10,1024
+2006,Red Bull,2019,15,Singapore Grand Prix,289,3,2,1024
+2007,Ferrari,2019,15,Singapore Grand Prix,394,2,3,1024
+2008,Haas F1 Team,2019,15,Singapore Grand Prix,26,9,0,1024
+2009,Alfa Romeo,2019,15,Singapore Grand Prix,35,8,0,1024
+2010,McLaren,2019,15,Singapore Grand Prix,89,4,0,1024
+2011,Williams,2019,15,Singapore Grand Prix,1,10,0,1024
+2012,Williams,2019,17,Japanese Grand Prix,1,10,0,1026
+2013,McLaren,2019,17,Japanese Grand Prix,111,4,0,1026
+2014,Alfa Romeo,2019,17,Japanese Grand Prix,35,8,0,1026
+2015,Ferrari,2019,17,Japanese Grand Prix,435,2,3,1026
+2016,Red Bull,2019,17,Japanese Grand Prix,323,3,2,1026
+2017,Haas F1 Team,2019,17,Japanese Grand Prix,28,9,0,1026
+2018,Mercedes,2019,17,Japanese Grand Prix,612,1,12,1026
+2019,Williams,2019,18,Mexico City Grand Prix,1,10,0,1027
+2020,McLaren,2019,18,Mexico City Grand Prix,111,4,0,1027
+2021,Alfa Romeo,2019,18,Mexico City Grand Prix,35,8,0,1027
+2022,Ferrari,2019,18,Mexico City Grand Prix,466,2,3,1027
+2023,Red Bull,2019,18,Mexico City Grand Prix,341,3,2,1027
+2024,Haas F1 Team,2019,18,Mexico City Grand Prix,28,9,0,1027
+2025,Mercedes,2019,18,Mexico City Grand Prix,652,1,13,1027
+2026,Mercedes,2019,19,United States Grand Prix,695,1,14,1028
+2027,Red Bull,2019,19,United States Grand Prix,366,3,2,1028
+2028,Ferrari,2019,19,United States Grand Prix,479,2,3,1028
+2029,Haas F1 Team,2019,19,United States Grand Prix,28,9,0,1028
+2030,Alfa Romeo,2019,19,United States Grand Prix,35,8,0,1028
+2031,McLaren,2019,19,United States Grand Prix,121,4,0,1028
+2032,Williams,2019,19,United States Grand Prix,1,10,0,1028
+2033,Mercedes,2019,20,São Paulo Grand Prix,701,1,14,1029
+2034,Red Bull,2019,20,São Paulo Grand Prix,391,3,3,1029
+2035,Ferrari,2019,20,São Paulo Grand Prix,479,2,3,1029
+2036,Haas F1 Team,2019,20,São Paulo Grand Prix,28,9,0,1029
+2037,Alfa Romeo,2019,20,São Paulo Grand Prix,57,8,0,1029
+2038,McLaren,2019,20,São Paulo Grand Prix,140,4,0,1029
+2039,Williams,2019,20,São Paulo Grand Prix,1,10,0,1029
+2040,Mercedes,2019,21,Abu Dhabi Grand Prix,739,1,15,1030
+2041,Red Bull,2019,21,Abu Dhabi Grand Prix,417,3,3,1030
+2042,Ferrari,2019,21,Abu Dhabi Grand Prix,504,2,3,1030
+2043,Haas F1 Team,2019,21,Abu Dhabi Grand Prix,28,9,0,1030
+2044,Alfa Romeo,2019,21,Abu Dhabi Grand Prix,57,8,0,1030
+2045,McLaren,2019,21,Abu Dhabi Grand Prix,145,4,0,1030
+2046,Williams,2019,21,Abu Dhabi Grand Prix,1,10,0,1030
+2047,Haas F1 Team,2020,4,British Grand Prix,1,9,0,1034
+2048,Red Bull,2020,4,British Grand Prix,78,2,0,1034
+2049,Williams,2020,4,British Grand Prix,0,10,0,1034
+2050,Alfa Romeo,2020,4,British Grand Prix,2,8,0,1034
+2051,AlphaTauri,2020,4,British Grand Prix,13,7,0,1034
+2052,McLaren,2020,4,British Grand Prix,51,3,0,1034
+2053,Ferrari,2020,4,British Grand Prix,43,4,0,1034
+2054,Mercedes,2020,4,British Grand Prix,146,1,4,1034
+2055,Haas F1 Team,2020,1,Austrian Grand Prix,0,10,0,1031
+2056,Red Bull,2020,1,Austrian Grand Prix,0,9,0,1031
+2057,Williams,2020,1,Austrian Grand Prix,0,8,0,1031
+2058,Alfa Romeo,2020,1,Austrian Grand Prix,2,7,0,1031
+2059,AlphaTauri,2020,1,Austrian Grand Prix,6,5,0,1031
+2060,McLaren,2020,1,Austrian Grand Prix,26,2,0,1031
+2061,Ferrari,2020,1,Austrian Grand Prix,19,3,0,1031
+2062,Mercedes,2020,1,Austrian Grand Prix,37,1,1,1031
+2063,Mercedes,2020,2,Austrian Grand Prix,80,1,2,1032
+2064,Ferrari,2020,2,Austrian Grand Prix,19,5,0,1032
+2065,McLaren,2020,2,Austrian Grand Prix,39,2,0,1032
+2066,AlphaTauri,2020,2,Austrian Grand Prix,7,7,0,1032
+2067,Alfa Romeo,2020,2,Austrian Grand Prix,2,8,0,1032
+2068,Williams,2020,2,Austrian Grand Prix,0,9,0,1032
+2069,Red Bull,2020,2,Austrian Grand Prix,27,3,0,1032
+2070,Haas F1 Team,2020,2,Austrian Grand Prix,0,10,0,1032
+2071,Red Bull,2020,3,Hungarian Grand Prix,55,2,0,1033
+2072,Williams,2020,3,Hungarian Grand Prix,0,10,0,1033
+2073,AlphaTauri,2020,3,Hungarian Grand Prix,7,7,0,1033
+2074,Ferrari,2020,3,Hungarian Grand Prix,27,5,0,1033
+2075,McLaren,2020,3,Hungarian Grand Prix,41,3,0,1033
+2076,Haas F1 Team,2020,3,Hungarian Grand Prix,1,9,0,1033
+2077,Alfa Romeo,2020,3,Hungarian Grand Prix,2,8,0,1033
+2078,Mercedes,2020,3,Hungarian Grand Prix,121,1,3,1033
+2079,Mercedes,2020,5,British Grand Prix,180,1,4,1035
+2080,Ferrari,2020,5,British Grand Prix,55,3,0,1035
+2081,McLaren,2020,5,British Grand Prix,53,4,0,1035
+2082,AlphaTauri,2020,5,British Grand Prix,14,7,0,1035
+2083,Alfa Romeo,2020,5,British Grand Prix,2,8,0,1035
+2084,Williams,2020,5,British Grand Prix,0,10,0,1035
+2085,Red Bull,2020,5,British Grand Prix,113,2,1,1035
+2086,Haas F1 Team,2020,5,British Grand Prix,1,9,0,1035
+2087,Mercedes,2020,6,Spanish Grand Prix,221,1,5,1036
+2088,Ferrari,2020,6,Spanish Grand Prix,61,5,0,1036
+2089,McLaren,2020,6,Spanish Grand Prix,62,4,0,1036
+2090,AlphaTauri,2020,6,Spanish Grand Prix,16,7,0,1036
+2091,Alfa Romeo,2020,6,Spanish Grand Prix,2,8,0,1036
+2092,Williams,2020,6,Spanish Grand Prix,0,10,0,1036
+2093,Red Bull,2020,6,Spanish Grand Prix,135,2,1,1036
+2094,Haas F1 Team,2020,6,Spanish Grand Prix,1,9,0,1036
+2095,Mercedes,2020,7,Belgian Grand Prix,264,1,6,1037
+2096,Ferrari,2020,7,Belgian Grand Prix,61,5,0,1037
+2097,McLaren,2020,7,Belgian Grand Prix,68,3,0,1037
+2098,AlphaTauri,2020,7,Belgian Grand Prix,20,7,0,1037
+2099,Alfa Romeo,2020,7,Belgian Grand Prix,2,8,0,1037
+2100,Williams,2020,7,Belgian Grand Prix,0,10,0,1037
+2101,Red Bull,2020,7,Belgian Grand Prix,158,2,1,1037
+2102,Haas F1 Team,2020,7,Belgian Grand Prix,1,9,0,1037
+2103,Mercedes,2020,8,Italian Grand Prix,281,1,6,1038
+2104,Ferrari,2020,8,Italian Grand Prix,61,6,0,1038
+2105,McLaren,2020,8,Italian Grand Prix,98,3,0,1038
+2106,AlphaTauri,2020,8,Italian Grand Prix,47,7,1,1038
+2107,Alfa Romeo,2020,8,Italian Grand Prix,2,8,0,1038
+2108,Williams,2020,8,Italian Grand Prix,0,10,0,1038
+2109,Red Bull,2020,8,Italian Grand Prix,158,2,1,1038
+2110,Haas F1 Team,2020,8,Italian Grand Prix,1,9,0,1038
+2111,Mercedes,2020,13,Emilia Romagna Grand Prix,479,1,11,1043
+2112,Ferrari,2020,13,Emilia Romagna Grand Prix,103,6,0,1043
+2113,McLaren,2020,13,Emilia Romagna Grand Prix,134,4,0,1043
+2114,AlphaTauri,2020,13,Emilia Romagna Grand Prix,89,7,1,1043
+2115,Alfa Romeo,2020,13,Emilia Romagna Grand Prix,8,8,0,1043
+2116,Williams,2020,13,Emilia Romagna Grand Prix,0,10,0,1043
+2117,Red Bull,2020,13,Emilia Romagna Grand Prix,226,2,1,1043
+2118,Haas F1 Team,2020,13,Emilia Romagna Grand Prix,3,9,0,1043
+2119,Mercedes,2020,15,Bahrain Grand Prix,533,1,13,1045
+2120,Ferrari,2020,15,Bahrain Grand Prix,131,6,0,1045
+2121,McLaren,2020,15,Bahrain Grand Prix,171,3,0,1045
+2122,AlphaTauri,2020,15,Bahrain Grand Prix,97,7,1,1045
+2123,Alfa Romeo,2020,15,Bahrain Grand Prix,8,8,0,1045
+2124,Williams,2020,15,Bahrain Grand Prix,0,10,0,1045
+2125,Red Bull,2020,15,Bahrain Grand Prix,274,2,1,1045
+2126,Haas F1 Team,2020,15,Bahrain Grand Prix,3,9,0,1045
+2127,Mercedes,2020,16,Bahrain Grand Prix,540,1,13,1046
+2128,Ferrari,2020,16,Bahrain Grand Prix,131,6,0,1046
+2129,McLaren,2020,16,Bahrain Grand Prix,184,4,0,1046
+2130,AlphaTauri,2020,16,Bahrain Grand Prix,103,7,1,1046
+2131,Alfa Romeo,2020,16,Bahrain Grand Prix,8,8,0,1046
+2132,Williams,2020,16,Bahrain Grand Prix,0,10,0,1046
+2133,Red Bull,2020,16,Bahrain Grand Prix,282,2,1,1046
+2134,Haas F1 Team,2020,16,Bahrain Grand Prix,3,9,0,1046
+2135,Mercedes,2020,17,Abu Dhabi Grand Prix,573,1,13,1047
+2136,Ferrari,2020,17,Abu Dhabi Grand Prix,131,6,0,1047
+2137,McLaren,2020,17,Abu Dhabi Grand Prix,202,3,0,1047
+2138,AlphaTauri,2020,17,Abu Dhabi Grand Prix,107,7,1,1047
+2139,Alfa Romeo,2020,17,Abu Dhabi Grand Prix,8,8,0,1047
+2140,Williams,2020,17,Abu Dhabi Grand Prix,0,10,0,1047
+2141,Red Bull,2020,17,Abu Dhabi Grand Prix,319,2,2,1047
+2142,Haas F1 Team,2020,17,Abu Dhabi Grand Prix,3,9,0,1047
+2143,Haas F1 Team,2021,2,Qatar Grand Prix,0,10,0,1051
+2144,Williams,2021,2,Qatar Grand Prix,23,8,0,1051
+2145,Alpine F1 Team,2021,2,Qatar Grand Prix,137,5,1,1051
+2146,Alfa Romeo,2021,2,Qatar Grand Prix,11,9,0,1051
+2147,Aston Martin,2021,2,Qatar Grand Prix,77,7,0,1051
+2148,AlphaTauri,2021,2,Qatar Grand Prix,112,6,0,1051
+2149,Ferrari,2021,2,Qatar Grand Prix,297.5,3,0,1051
+2150,McLaren,2021,2,Qatar Grand Prix,258,4,1,1051
+2151,Red Bull,2021,2,Qatar Grand Prix,541.5,2,10,1051
+2152,Mercedes,2021,2,Qatar Grand Prix,546.5,1,8,1051
+2153,Mercedes,2021,1,Bahrain Grand Prix,41,1,1,1052
+2154,Red Bull,2021,1,Bahrain Grand Prix,28,2,0,1052
+2155,McLaren,2021,1,Bahrain Grand Prix,18,3,0,1052
+2156,Ferrari,2021,1,Bahrain Grand Prix,12,4,0,1052
+2157,AlphaTauri,2021,1,Bahrain Grand Prix,2,5,0,1052
+2158,Aston Martin,2021,1,Bahrain Grand Prix,1,6,0,1052
+2159,Alfa Romeo,2021,1,Bahrain Grand Prix,0,7,0,1052
+2160,Alpine F1 Team,2021,1,Bahrain Grand Prix,0,8,0,1052
+2161,Williams,2021,1,Bahrain Grand Prix,0,9,0,1052
+2162,Haas F1 Team,2021,1,Bahrain Grand Prix,0,10,0,1052
+2163,Williams,2021,20,Emilia Romagna Grand Prix,0,9,0,1053
+2164,Alfa Romeo,2021,20,Emilia Romagna Grand Prix,0,8,0,1053
+2165,Haas F1 Team,2021,20,Emilia Romagna Grand Prix,0,10,0,1053
+2166,Red Bull,2021,20,Emilia Romagna Grand Prix,53,2,1,1053
+2167,McLaren,2021,20,Emilia Romagna Grand Prix,41,3,0,1053
+2168,Alpine F1 Team,2021,20,Emilia Romagna Grand Prix,3,7,0,1053
+2169,Aston Martin,2021,20,Emilia Romagna Grand Prix,5,6,0,1053
+2170,AlphaTauri,2021,20,Emilia Romagna Grand Prix,8,5,0,1053
+2171,Ferrari,2021,20,Emilia Romagna Grand Prix,34,4,0,1053
+2172,Mercedes,2021,20,Emilia Romagna Grand Prix,60,1,1,1053
+2173,Mercedes,2021,4,Spanish Grand Prix,141,1,3,1055
+2174,Red Bull,2021,4,Spanish Grand Prix,112,2,1,1055
+2175,McLaren,2021,4,Spanish Grand Prix,65,3,0,1055
+2176,Ferrari,2021,4,Spanish Grand Prix,60,4,0,1055
+2177,AlphaTauri,2021,4,Spanish Grand Prix,10,6,0,1055
+2178,Aston Martin,2021,4,Spanish Grand Prix,5,7,0,1055
+2179,Alfa Romeo,2021,4,Spanish Grand Prix,0,8,0,1055
+2180,Alpine F1 Team,2021,4,Spanish Grand Prix,15,5,0,1055
+2181,Williams,2021,4,Spanish Grand Prix,0,9,0,1055
+2182,Haas F1 Team,2021,4,Spanish Grand Prix,0,10,0,1055
+2183,Mercedes,2021,5,Monaco Grand Prix,148,2,3,1056
+2184,Red Bull,2021,5,Monaco Grand Prix,149,1,2,1056
+2185,McLaren,2021,5,Monaco Grand Prix,80,3,0,1056
+2186,Ferrari,2021,5,Monaco Grand Prix,78,4,0,1056
+2187,AlphaTauri,2021,5,Monaco Grand Prix,18,6,0,1056
+2188,Aston Martin,2021,5,Monaco Grand Prix,19,5,0,1056
+2189,Alfa Romeo,2021,5,Monaco Grand Prix,1,8,0,1056
+2190,Alpine F1 Team,2021,5,Monaco Grand Prix,17,7,0,1056
+2191,Williams,2021,5,Monaco Grand Prix,0,9,0,1056
+2192,Haas F1 Team,2021,5,Monaco Grand Prix,0,10,0,1056
+2193,Mercedes,2021,6,Azerbaijan Grand Prix,148,2,3,1057
+2194,Red Bull,2021,6,Azerbaijan Grand Prix,174,1,3,1057
+2195,McLaren,2021,6,Azerbaijan Grand Prix,92,4,0,1057
+2196,Ferrari,2021,6,Azerbaijan Grand Prix,94,3,0,1057
+2197,AlphaTauri,2021,6,Azerbaijan Grand Prix,39,5,0,1057
+2198,Aston Martin,2021,6,Azerbaijan Grand Prix,37,6,0,1057
+2199,Alfa Romeo,2021,6,Azerbaijan Grand Prix,2,8,0,1057
+2200,Alpine F1 Team,2021,6,Azerbaijan Grand Prix,25,7,0,1057
+2201,Williams,2021,6,Azerbaijan Grand Prix,0,10,0,1057
+2202,Haas F1 Team,2021,6,Azerbaijan Grand Prix,0,9,0,1057
+2203,Mercedes,2021,8,Austrian Grand Prix,212,2,3,1058
+2204,Red Bull,2021,8,Austrian Grand Prix,252,1,5,1058
+2205,McLaren,2021,8,Austrian Grand Prix,120,3,0,1058
+2206,Ferrari,2021,8,Austrian Grand Prix,108,4,0,1058
+2207,AlphaTauri,2021,8,Austrian Grand Prix,46,5,0,1058
+2208,Aston Martin,2021,8,Austrian Grand Prix,44,6,0,1058
+2209,Alfa Romeo,2021,8,Austrian Grand Prix,2,8,0,1058
+2210,Alpine F1 Team,2021,8,Austrian Grand Prix,31,7,0,1058
+2211,Williams,2021,8,Austrian Grand Prix,0,9,0,1058
+2212,Haas F1 Team,2021,8,Austrian Grand Prix,0,10,0,1058
+2213,Haas F1 Team,2021,9,Austrian Grand Prix,0,10,0,1060
+2214,AlphaTauri,2021,9,Austrian Grand Prix,48,5,0,1060
+2215,Ferrari,2021,9,Austrian Grand Prix,122,4,0,1060
+2216,Williams,2021,9,Austrian Grand Prix,0,9,0,1060
+2217,Alpine F1 Team,2021,9,Austrian Grand Prix,32,7,0,1060
+2218,Alfa Romeo,2021,9,Austrian Grand Prix,2,8,0,1060
+2219,Aston Martin,2021,9,Austrian Grand Prix,44,6,0,1060
+2220,McLaren,2021,9,Austrian Grand Prix,141,3,0,1060
+2221,Red Bull,2021,9,Austrian Grand Prix,286,1,6,1060
+2222,Mercedes,2021,9,Austrian Grand Prix,242,2,3,1060
+2223,Mercedes,2021,10,British Grand Prix,285,2,4,1061
+2224,Red Bull,2021,10,British Grand Prix,289,1,6,1061
+2225,McLaren,2021,10,British Grand Prix,163,3,0,1061
+2226,Ferrari,2021,10,British Grand Prix,148,4,0,1061
+2227,AlphaTauri,2021,10,British Grand Prix,49,5,0,1061
+2228,Aston Martin,2021,10,British Grand Prix,48,6,0,1061
+2229,Alfa Romeo,2021,10,British Grand Prix,2,8,0,1061
+2230,Alpine F1 Team,2021,10,British Grand Prix,40,7,0,1061
+2231,Williams,2021,10,British Grand Prix,0,9,0,1061
+2232,Haas F1 Team,2021,10,British Grand Prix,0,10,0,1061
+2233,Alpine F1 Team,2021,11,Hungarian Grand Prix,77,5,1,1062
+2234,Alfa Romeo,2021,11,Hungarian Grand Prix,3,9,0,1062
+2235,Aston Martin,2021,11,Hungarian Grand Prix,48,7,0,1062
+2236,AlphaTauri,2021,11,Hungarian Grand Prix,68,6,0,1062
+2237,McLaren,2021,11,Hungarian Grand Prix,163,4,0,1062
+2238,Haas F1 Team,2021,11,Hungarian Grand Prix,0,10,0,1062
+2239,Williams,2021,11,Hungarian Grand Prix,10,8,0,1062
+2240,Ferrari,2021,11,Hungarian Grand Prix,163,3,0,1062
+2241,Red Bull,2021,11,Hungarian Grand Prix,291,2,6,1062
+2242,Mercedes,2021,11,Hungarian Grand Prix,303,1,4,1062
+2243,Mercedes,2021,12,Belgian Grand Prix,310.5,1,4,1063
+2244,Red Bull,2021,12,Belgian Grand Prix,303.5,2,7,1063
+2245,McLaren,2021,12,Belgian Grand Prix,169,3,0,1063
+2246,Ferrari,2021,12,Belgian Grand Prix,165.5,4,0,1063
+2247,AlphaTauri,2021,12,Belgian Grand Prix,72,6,0,1063
+2248,Aston Martin,2021,12,Belgian Grand Prix,53,7,0,1063
+2249,Alfa Romeo,2021,12,Belgian Grand Prix,3,9,0,1063
+2250,Alpine F1 Team,2021,12,Belgian Grand Prix,80,5,1,1063
+2251,Williams,2021,12,Belgian Grand Prix,20,8,0,1063
+2252,Haas F1 Team,2021,12,Belgian Grand Prix,0,10,0,1063
+2253,Mercedes,2021,13,Dutch Grand Prix,344.5,1,4,1064
+2254,Red Bull,2021,13,Dutch Grand Prix,332.5,2,8,1064
+2255,McLaren,2021,13,Dutch Grand Prix,170,4,0,1064
+2256,Ferrari,2021,13,Dutch Grand Prix,181.5,3,0,1064
+2257,AlphaTauri,2021,13,Dutch Grand Prix,84,6,0,1064
+2258,Aston Martin,2021,13,Dutch Grand Prix,53,7,0,1064
+2259,Alfa Romeo,2021,13,Dutch Grand Prix,3,9,0,1064
+2260,Alpine F1 Team,2021,13,Dutch Grand Prix,90,5,1,1064
+2261,Williams,2021,13,Dutch Grand Prix,20,8,0,1064
+2262,Haas F1 Team,2021,13,Dutch Grand Prix,0,10,0,1064
+2263,Mercedes,2021,14,Italian Grand Prix,362.5,1,4,1065
+2264,Red Bull,2021,14,Italian Grand Prix,344.5,2,8,1065
+2265,McLaren,2021,14,Italian Grand Prix,215,3,1,1065
+2266,Ferrari,2021,14,Italian Grand Prix,201.5,4,0,1065
+2267,AlphaTauri,2021,14,Italian Grand Prix,84,6,0,1065
+2268,Aston Martin,2021,14,Italian Grand Prix,59,7,0,1065
+2269,Alfa Romeo,2021,14,Italian Grand Prix,3,9,0,1065
+2270,Alpine F1 Team,2021,14,Italian Grand Prix,95,5,1,1065
+2271,Williams,2021,14,Italian Grand Prix,22,8,0,1065
+2272,Haas F1 Team,2021,14,Italian Grand Prix,0,10,0,1065
+2273,Mercedes,2021,17,United States Grand Prix,460.5,1,6,1069
+2274,Red Bull,2021,17,United States Grand Prix,437.5,2,9,1069
+2275,McLaren,2021,17,United States Grand Prix,254,3,1,1069
+2276,Ferrari,2021,17,United States Grand Prix,250.5,4,0,1069
+2277,AlphaTauri,2021,17,United States Grand Prix,94,6,0,1069
+2278,Aston Martin,2021,17,United States Grand Prix,62,7,0,1069
+2279,Alfa Romeo,2021,17,United States Grand Prix,7,9,0,1069
+2280,Alpine F1 Team,2021,17,United States Grand Prix,104,5,1,1069
+2281,Williams,2021,17,United States Grand Prix,23,8,0,1069
+2282,Haas F1 Team,2021,17,United States Grand Prix,0,10,0,1069
+2283,Mercedes,2021,18,Mexico City Grand Prix,478.5,1,6,1070
+2284,Red Bull,2021,18,Mexico City Grand Prix,477.5,2,10,1070
+2285,McLaren,2021,18,Mexico City Grand Prix,255,4,1,1070
+2286,Ferrari,2021,18,Mexico City Grand Prix,268.5,3,0,1070
+2287,AlphaTauri,2021,18,Mexico City Grand Prix,106,6,0,1070
+2288,Aston Martin,2021,18,Mexico City Grand Prix,68,7,0,1070
+2289,Alfa Romeo,2021,18,Mexico City Grand Prix,11,9,0,1070
+2290,Alpine F1 Team,2021,18,Mexico City Grand Prix,106,5,1,1070
+2291,Williams,2021,18,Mexico City Grand Prix,23,8,0,1070
+2292,Haas F1 Team,2021,18,Mexico City Grand Prix,0,10,0,1070
+2293,Mercedes,2021,19,São Paulo Grand Prix,521.5,1,7,1071
+2294,Red Bull,2021,19,São Paulo Grand Prix,510.5,2,10,1071
+2295,McLaren,2021,19,São Paulo Grand Prix,256,4,1,1071
+2296,Ferrari,2021,19,São Paulo Grand Prix,287.5,3,0,1071
+2297,AlphaTauri,2021,19,São Paulo Grand Prix,112,6,0,1071
+2298,Aston Martin,2021,19,São Paulo Grand Prix,68,7,0,1071
+2299,Alfa Romeo,2021,19,São Paulo Grand Prix,11,9,0,1071
+2300,Alpine F1 Team,2021,19,São Paulo Grand Prix,112,5,1,1071
+2301,Williams,2021,19,São Paulo Grand Prix,23,8,0,1071
+2302,Haas F1 Team,2021,19,São Paulo Grand Prix,0,10,0,1071
+2303,Mercedes,2021,21,Saudi Arabian Grand Prix,587.5,1,9,1072
+2304,Red Bull,2021,21,Saudi Arabian Grand Prix,559.5,2,10,1072
+2305,McLaren,2021,21,Saudi Arabian Grand Prix,269,4,1,1072
+2306,Ferrari,2021,21,Saudi Arabian Grand Prix,307.5,3,0,1072
+2307,AlphaTauri,2021,21,Saudi Arabian Grand Prix,120,6,0,1072
+2308,Aston Martin,2021,21,Saudi Arabian Grand Prix,77,7,0,1072
+2309,Alfa Romeo,2021,21,Saudi Arabian Grand Prix,13,9,0,1072
+2310,Alpine F1 Team,2021,21,Saudi Arabian Grand Prix,149,5,1,1072
+2311,Williams,2021,21,Saudi Arabian Grand Prix,23,8,0,1072
+2312,Haas F1 Team,2021,21,Saudi Arabian Grand Prix,0,10,0,1072
+2313,Mercedes,2021,22,Abu Dhabi Grand Prix,613.5,1,9,1073
+2314,Red Bull,2021,22,Abu Dhabi Grand Prix,585.5,2,11,1073
+2315,McLaren,2021,22,Abu Dhabi Grand Prix,275,4,1,1073
+2316,Ferrari,2021,22,Abu Dhabi Grand Prix,323.5,3,0,1073
+2317,AlphaTauri,2021,22,Abu Dhabi Grand Prix,142,6,0,1073
+2318,Aston Martin,2021,22,Abu Dhabi Grand Prix,77,7,0,1073
+2319,Alfa Romeo,2021,22,Abu Dhabi Grand Prix,13,9,0,1073
+2320,Alpine F1 Team,2021,22,Abu Dhabi Grand Prix,155,5,1,1073
+2321,Williams,2021,22,Abu Dhabi Grand Prix,23,8,0,1073
+2322,Haas F1 Team,2021,22,Abu Dhabi Grand Prix,0,10,0,1073
+2323,Red Bull,2022,1,Bahrain Grand Prix,0,10,0,1074
+2324,McLaren,2022,1,Bahrain Grand Prix,0,9,0,1074
+2325,Williams,2022,1,Bahrain Grand Prix,0,8,0,1074
+2326,Aston Martin,2022,1,Bahrain Grand Prix,0,7,0,1074
+2327,AlphaTauri,2022,1,Bahrain Grand Prix,4,6,0,1074
+2328,Alpine F1 Team,2022,1,Bahrain Grand Prix,8,5,0,1074
+2329,Alfa Romeo,2022,1,Bahrain Grand Prix,9,4,0,1074
+2330,Haas F1 Team,2022,1,Bahrain Grand Prix,10,3,0,1074
+2331,Mercedes,2022,1,Bahrain Grand Prix,27,2,0,1074
+2332,Ferrari,2022,1,Bahrain Grand Prix,44,1,1,1074
+2333,Ferrari,2022,2,Saudi Arabian Grand Prix,78,1,1,1075
+2334,Mercedes,2022,2,Saudi Arabian Grand Prix,38,2,0,1075
+2335,Haas F1 Team,2022,2,Saudi Arabian Grand Prix,12,5,0,1075
+2336,Alfa Romeo,2022,2,Saudi Arabian Grand Prix,9,6,0,1075
+2337,Alpine F1 Team,2022,2,Saudi Arabian Grand Prix,16,4,0,1075
+2338,AlphaTauri,2022,2,Saudi Arabian Grand Prix,8,7,0,1075
+2339,Aston Martin,2022,2,Saudi Arabian Grand Prix,0,9,0,1075
+2340,Williams,2022,2,Saudi Arabian Grand Prix,0,10,0,1075
+2341,McLaren,2022,2,Saudi Arabian Grand Prix,6,8,0,1075
+2342,Red Bull,2022,2,Saudi Arabian Grand Prix,37,3,1,1075
+2343,Ferrari,2022,3,Australian Grand Prix,104,1,2,1076
+2344,Mercedes,2022,3,Australian Grand Prix,65,2,0,1076
+2345,Haas F1 Team,2022,3,Australian Grand Prix,12,7,0,1076
+2346,Alfa Romeo,2022,3,Australian Grand Prix,13,6,0,1076
+2347,Alpine F1 Team,2022,3,Australian Grand Prix,22,5,0,1076
+2348,AlphaTauri,2022,3,Australian Grand Prix,10,8,0,1076
+2349,Aston Martin,2022,3,Australian Grand Prix,0,10,0,1076
+2350,Williams,2022,3,Australian Grand Prix,1,9,0,1076
+2351,McLaren,2022,3,Australian Grand Prix,24,4,0,1076
+2352,Red Bull,2022,3,Australian Grand Prix,55,3,1,1076
+2353,Ferrari,2022,4,Emilia Romagna Grand Prix,124,1,2,1077
+2354,Mercedes,2022,4,Emilia Romagna Grand Prix,77,3,0,1077
+2355,Haas F1 Team,2022,4,Emilia Romagna Grand Prix,15,8,0,1077
+2356,Alfa Romeo,2022,4,Emilia Romagna Grand Prix,25,5,0,1077
+2357,Alpine F1 Team,2022,4,Emilia Romagna Grand Prix,22,6,0,1077
+2358,AlphaTauri,2022,4,Emilia Romagna Grand Prix,16,7,0,1077
+2359,Aston Martin,2022,4,Emilia Romagna Grand Prix,5,9,0,1077
+2360,Williams,2022,4,Emilia Romagna Grand Prix,1,10,0,1077
+2361,McLaren,2022,4,Emilia Romagna Grand Prix,46,4,0,1077
+2362,Red Bull,2022,4,Emilia Romagna Grand Prix,113,2,2,1077
+2363,Ferrari,2022,5,Miami Grand Prix,157,1,2,1078
+2364,Mercedes,2022,5,Miami Grand Prix,95,3,0,1078
+2365,Haas F1 Team,2022,5,Miami Grand Prix,15,8,0,1078
+2366,Alfa Romeo,2022,5,Miami Grand Prix,31,5,0,1078
+2367,Alpine F1 Team,2022,5,Miami Grand Prix,26,6,0,1078
+2368,AlphaTauri,2022,5,Miami Grand Prix,16,7,0,1078
+2369,Aston Martin,2022,5,Miami Grand Prix,6,9,0,1078
+2370,Williams,2022,5,Miami Grand Prix,3,10,0,1078
+2371,McLaren,2022,5,Miami Grand Prix,46,4,0,1078
+2372,Red Bull,2022,5,Miami Grand Prix,151,2,3,1078
+2373,Ferrari,2022,6,Spanish Grand Prix,169,2,2,1079
+2374,Mercedes,2022,6,Spanish Grand Prix,120,3,0,1079
+2375,Haas F1 Team,2022,6,Spanish Grand Prix,15,8,0,1079
+2376,Alfa Romeo,2022,6,Spanish Grand Prix,39,5,0,1079
+2377,Alpine F1 Team,2022,6,Spanish Grand Prix,34,6,0,1079
+2378,AlphaTauri,2022,6,Spanish Grand Prix,17,7,0,1079
+2379,Aston Martin,2022,6,Spanish Grand Prix,6,9,0,1079
+2380,Williams,2022,6,Spanish Grand Prix,3,10,0,1079
+2381,McLaren,2022,6,Spanish Grand Prix,50,4,0,1079
+2382,Red Bull,2022,6,Spanish Grand Prix,195,1,4,1079
+2383,Ferrari,2022,7,Monaco Grand Prix,199,2,2,1080
+2384,Mercedes,2022,7,Monaco Grand Prix,134,3,0,1080
+2385,Haas F1 Team,2022,7,Monaco Grand Prix,15,8,0,1080
+2386,Alfa Romeo,2022,7,Monaco Grand Prix,41,5,0,1080
+2387,Alpine F1 Team,2022,7,Monaco Grand Prix,40,6,0,1080
+2388,AlphaTauri,2022,7,Monaco Grand Prix,17,7,0,1080
+2389,Aston Martin,2022,7,Monaco Grand Prix,7,9,0,1080
+2390,Williams,2022,7,Monaco Grand Prix,3,10,0,1080
+2391,McLaren,2022,7,Monaco Grand Prix,59,4,0,1080
+2392,Red Bull,2022,7,Monaco Grand Prix,235,1,5,1080
+2393,Ferrari,2022,8,Azerbaijan Grand Prix,199,2,2,1081
+2394,Mercedes,2022,8,Azerbaijan Grand Prix,161,3,0,1081
+2395,Haas F1 Team,2022,8,Azerbaijan Grand Prix,15,8,0,1081
+2396,Alfa Romeo,2022,8,Azerbaijan Grand Prix,41,6,0,1081
+2397,Alpine F1 Team,2022,8,Azerbaijan Grand Prix,47,5,0,1081
+2398,AlphaTauri,2022,8,Azerbaijan Grand Prix,27,7,0,1081
+2399,Aston Martin,2022,8,Azerbaijan Grand Prix,15,9,0,1081
+2400,Williams,2022,8,Azerbaijan Grand Prix,3,10,0,1081
+2401,McLaren,2022,8,Azerbaijan Grand Prix,65,4,0,1081
+2402,Red Bull,2022,8,Azerbaijan Grand Prix,279,1,6,1081
+2403,Red Bull,2022,9,Canadian Grand Prix,304,1,7,1082
+2404,McLaren,2022,9,Canadian Grand Prix,65,4,0,1082
+2405,Williams,2022,9,Canadian Grand Prix,3,10,0,1082
+2406,AlphaTauri,2022,9,Canadian Grand Prix,27,7,0,1082
+2407,Haas F1 Team,2022,9,Canadian Grand Prix,15,9,0,1082
+2408,Ferrari,2022,9,Canadian Grand Prix,228,2,2,1082
+2409,Mercedes,2022,9,Canadian Grand Prix,188,3,0,1082
+2410,Aston Martin,2022,9,Canadian Grand Prix,16,8,0,1082
+2411,Alpine F1 Team,2022,9,Canadian Grand Prix,57,5,0,1082
+2412,Alfa Romeo,2022,9,Canadian Grand Prix,51,6,0,1082
+2413,Ferrari,2022,10,British Grand Prix,265,2,3,1083
+2414,Mercedes,2022,10,British Grand Prix,204,3,0,1083
+2415,Haas F1 Team,2022,10,British Grand Prix,20,8,0,1083
+2416,Alfa Romeo,2022,10,British Grand Prix,51,6,0,1083
+2417,Alpine F1 Team,2022,10,British Grand Prix,67,5,0,1083
+2418,AlphaTauri,2022,10,British Grand Prix,27,7,0,1083
+2419,Aston Martin,2022,10,British Grand Prix,18,9,0,1083
+2420,Williams,2022,10,British Grand Prix,3,10,0,1083
+2421,McLaren,2022,10,British Grand Prix,73,4,0,1083
+2422,Red Bull,2022,10,British Grand Prix,328,1,7,1083
+2423,Ferrari,2022,11,Austrian Grand Prix,303,2,4,1084
+2424,Mercedes,2022,11,Austrian Grand Prix,237,3,0,1084
+2425,Haas F1 Team,2022,11,Austrian Grand Prix,34,7,0,1084
+2426,Alfa Romeo,2022,11,Austrian Grand Prix,51,6,0,1084
+2427,Alpine F1 Team,2022,11,Austrian Grand Prix,81,5,0,1084
+2428,AlphaTauri,2022,11,Austrian Grand Prix,27,8,0,1084
+2429,Aston Martin,2022,11,Austrian Grand Prix,18,9,0,1084
+2430,Williams,2022,11,Austrian Grand Prix,3,10,0,1084
+2431,McLaren,2022,11,Austrian Grand Prix,81,4,0,1084
+2432,Red Bull,2022,11,Austrian Grand Prix,359,1,7,1084
+2433,Ferrari,2022,13,Hungarian Grand Prix,334,2,4,1086
+2434,Mercedes,2022,13,Hungarian Grand Prix,304,3,0,1086
+2435,Haas F1 Team,2022,13,Hungarian Grand Prix,34,7,0,1086
+2436,Alfa Romeo,2022,13,Hungarian Grand Prix,51,6,0,1086
+2437,Alpine F1 Team,2022,13,Hungarian Grand Prix,99,4,0,1086
+2438,AlphaTauri,2022,13,Hungarian Grand Prix,27,8,0,1086
+2439,Aston Martin,2022,13,Hungarian Grand Prix,20,9,0,1086
+2440,Williams,2022,13,Hungarian Grand Prix,3,10,0,1086
+2441,McLaren,2022,13,Hungarian Grand Prix,95,5,0,1086
+2442,Red Bull,2022,13,Hungarian Grand Prix,431,1,9,1086
+2443,Ferrari,2022,14,Belgian Grand Prix,357,2,4,1087
+2444,Mercedes,2022,14,Belgian Grand Prix,316,3,0,1087
+2445,Haas F1 Team,2022,14,Belgian Grand Prix,34,7,0,1087
+2446,Alfa Romeo,2022,14,Belgian Grand Prix,51,6,0,1087
+2447,Alpine F1 Team,2022,14,Belgian Grand Prix,115,4,0,1087
+2448,AlphaTauri,2022,14,Belgian Grand Prix,29,8,0,1087
+2449,Aston Martin,2022,14,Belgian Grand Prix,24,9,0,1087
+2450,Williams,2022,14,Belgian Grand Prix,4,10,0,1087
+2451,McLaren,2022,14,Belgian Grand Prix,95,5,0,1087
+2452,Red Bull,2022,14,Belgian Grand Prix,475,1,10,1087
+2453,Ferrari,2022,15,Dutch Grand Prix,376,2,4,1088
+2454,Mercedes,2022,15,Dutch Grand Prix,346,3,0,1088
+2455,Haas F1 Team,2022,15,Dutch Grand Prix,34,7,0,1088
+2456,Alfa Romeo,2022,15,Dutch Grand Prix,51,6,0,1088
+2457,Alpine F1 Team,2022,15,Dutch Grand Prix,125,4,0,1088
+2458,AlphaTauri,2022,15,Dutch Grand Prix,29,8,0,1088
+2459,Aston Martin,2022,15,Dutch Grand Prix,25,9,0,1088
+2460,Williams,2022,15,Dutch Grand Prix,4,10,0,1088
+2461,McLaren,2022,15,Dutch Grand Prix,101,5,0,1088
+2462,Red Bull,2022,15,Dutch Grand Prix,511,1,11,1088
+2463,Ferrari,2022,16,Italian Grand Prix,406,2,4,1089
+2464,Mercedes,2022,16,Italian Grand Prix,371,3,0,1089
+2465,Haas F1 Team,2022,16,Italian Grand Prix,34,7,0,1089
+2466,Alfa Romeo,2022,16,Italian Grand Prix,52,6,0,1089
+2467,Alpine F1 Team,2022,16,Italian Grand Prix,125,4,0,1089
+2468,AlphaTauri,2022,16,Italian Grand Prix,33,8,0,1089
+2469,Aston Martin,2022,16,Italian Grand Prix,25,9,0,1089
+2470,Williams,2022,16,Italian Grand Prix,6,10,0,1089
+2471,McLaren,2022,16,Italian Grand Prix,107,5,0,1089
+2472,Red Bull,2022,16,Italian Grand Prix,545,1,12,1089
+2473,Ferrari,2022,17,Singapore Grand Prix,439,2,4,1091
+2474,Mercedes,2022,17,Singapore Grand Prix,373,3,0,1091
+2475,Haas F1 Team,2022,17,Singapore Grand Prix,34,8,0,1091
+2476,Alfa Romeo,2022,17,Singapore Grand Prix,52,6,0,1091
+2477,Alpine F1 Team,2022,17,Singapore Grand Prix,125,5,0,1091
+2478,AlphaTauri,2022,17,Singapore Grand Prix,34,9,0,1091
+2479,Aston Martin,2022,17,Singapore Grand Prix,37,7,0,1091
+2480,Williams,2022,17,Singapore Grand Prix,6,10,0,1091
+2481,McLaren,2022,17,Singapore Grand Prix,129,4,0,1091
+2482,Red Bull,2022,17,Singapore Grand Prix,576,1,13,1091
+2483,Red Bull,2022,18,Japanese Grand Prix,619,1,14,1092
+2484,McLaren,2022,18,Japanese Grand Prix,130,5,0,1092
+2485,AlphaTauri,2022,18,Japanese Grand Prix,34,9,0,1092
+2486,Haas F1 Team,2022,18,Japanese Grand Prix,34,8,0,1092
+2487,Ferrari,2022,18,Japanese Grand Prix,454,2,4,1092
+2488,Williams,2022,18,Japanese Grand Prix,8,10,0,1092
+2489,Mercedes,2022,18,Japanese Grand Prix,387,3,0,1092
+2490,Alpine F1 Team,2022,18,Japanese Grand Prix,143,4,0,1092
+2491,Aston Martin,2022,18,Japanese Grand Prix,45,7,0,1092
+2492,Alfa Romeo,2022,18,Japanese Grand Prix,52,6,0,1092
+2493,Williams,2022,19,United States Grand Prix,8,10,0,1093
+2494,McLaren,2022,19,United States Grand Prix,138,5,0,1093
+2495,Alpine F1 Team,2022,19,United States Grand Prix,149,4,0,1093
+2496,Ferrari,2022,19,United States Grand Prix,469,2,4,1093
+2497,Aston Martin,2022,19,United States Grand Prix,49,7,0,1093
+2498,AlphaTauri,2022,19,United States Grand Prix,35,9,0,1093
+2499,Alfa Romeo,2022,19,United States Grand Prix,52,6,0,1093
+2500,Haas F1 Team,2022,19,United States Grand Prix,36,8,0,1093
+2501,Mercedes,2022,19,United States Grand Prix,416,3,0,1093
+2502,Red Bull,2022,20,Mexico City Grand Prix,696,1,16,1094
+2503,McLaren,2022,20,Mexico City Grand Prix,146,5,0,1094
+2504,AlphaTauri,2022,20,Mexico City Grand Prix,35,9,0,1094
+2505,Haas F1 Team,2022,20,Mexico City Grand Prix,36,8,0,1094
+2506,Ferrari,2022,20,Mexico City Grand Prix,487,2,4,1094
+2507,Williams,2022,20,Mexico City Grand Prix,8,10,0,1094
+2508,Mercedes,2022,20,Mexico City Grand Prix,447,3,0,1094
+2509,Alpine F1 Team,2022,20,Mexico City Grand Prix,153,4,0,1094
+2510,Aston Martin,2022,20,Mexico City Grand Prix,49,7,0,1094
+2511,Alfa Romeo,2022,20,Mexico City Grand Prix,53,6,0,1094
+2512,Red Bull,2022,19,United States Grand Prix,656,1,15,1093
+2513,Ferrari,2022,21,São Paulo Grand Prix,524,2,4,1095
+2514,Mercedes,2022,21,São Paulo Grand Prix,505,3,1,1095
+2515,Haas F1 Team,2022,21,São Paulo Grand Prix,37,8,0,1095
+2516,Alfa Romeo,2022,21,São Paulo Grand Prix,55,6,0,1095
+2517,Alpine F1 Team,2022,21,São Paulo Grand Prix,167,4,0,1095
+2518,AlphaTauri,2022,21,São Paulo Grand Prix,35,9,0,1095
+2519,Aston Martin,2022,21,São Paulo Grand Prix,50,7,0,1095
+2520,Williams,2022,21,São Paulo Grand Prix,8,10,0,1095
+2521,McLaren,2022,21,São Paulo Grand Prix,148,5,0,1095
+2522,Red Bull,2022,21,São Paulo Grand Prix,719,1,16,1095
+2523,Ferrari,2022,22,Abu Dhabi Grand Prix,554,2,4,1096
+2524,Mercedes,2022,22,Abu Dhabi Grand Prix,515,3,1,1096
+2525,Haas F1 Team,2022,22,Abu Dhabi Grand Prix,37,8,0,1096
+2526,Alfa Romeo,2022,22,Abu Dhabi Grand Prix,55,6,0,1096
+2527,Alpine F1 Team,2022,22,Abu Dhabi Grand Prix,173,4,0,1096
+2528,AlphaTauri,2022,22,Abu Dhabi Grand Prix,35,9,0,1096
+2529,Aston Martin,2022,22,Abu Dhabi Grand Prix,55,7,0,1096
+2530,Williams,2022,22,Abu Dhabi Grand Prix,8,10,0,1096
+2531,McLaren,2022,22,Abu Dhabi Grand Prix,159,5,0,1096
+2532,Red Bull,2022,22,Abu Dhabi Grand Prix,759,1,17,1096
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

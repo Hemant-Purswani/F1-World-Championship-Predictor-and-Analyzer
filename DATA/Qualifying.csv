@@ -1,0 +1,844 @@
+﻿qualifyId,D_number,Driver_code,Driver_name,constructor_name,GP_year,GrandPrix_name,Circuit_name,position,q1,q2,q3,q1_milli,q2_milli,q3_milli
+1,14,ALO,Fernando Alonso,McLaren,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,2,01:26.697,01:25.326,01:26.493,86697,85326,86493
+2,14,ALO,Fernando Alonso,McLaren,2007,Bahrain Grand Prix,Bahrain International Circuit,4,01:33.049,01:32.214,01:33.192,93049,92214,93192
+3,14,ALO,Fernando Alonso,McLaren,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:46.058,01:45.442,01:46.091,106058,105442,106091
+4,14,ALO,Fernando Alonso,McLaren,2007,British Grand Prix,Silverstone Circuit,3,01:19.330,01:19.152,01:20.147,79330,79152,80147
+5,14,ALO,Fernando Alonso,McLaren,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:16.562,01:15.522,01:16.163,76562,75522,76163
+6,14,ALO,Fernando Alonso,McLaren,2007,Hungarian Grand Prix,Hungaroring,1,01:20.425,01:19.661,01:19.674,80425,79661,79674
+7,14,ALO,Fernando Alonso,McLaren,2007,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:21.718,01:21.356,01:21.997,81718,81356,81997
+8,14,ALO,Fernando Alonso,McLaren,2007,Monaco Grand Prix,Circuit de Monaco,1,01:16.059,01:15.431,01:15.726,76059,75431,75726
+9,14,ALO,Fernando Alonso,McLaren,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:12.895,01:12.637,01:12.356,72895,72637,72356
+10,14,ALO,Fernando Alonso,McLaren,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:21.609,01:20.797,01:21.451,81609,80797,81451
+11,44,HAM,Lewis Hamilton,McLaren,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,4,01:26.674,01:25.577,01:26.755,86674,85577,86755
+12,44,HAM,Lewis Hamilton,McLaren,2007,Bahrain Grand Prix,Bahrain International Circuit,2,01:32.580,01:31.752,01:32.935,92580,91752,92935
+13,44,HAM,Lewis Hamilton,McLaren,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,01:46.437,01:45.132,01:46.406,106437,105132,106406
+14,44,HAM,Lewis Hamilton,McLaren,2007,British Grand Prix,Silverstone Circuit,1,01:19.885,01:19.400,01:19.997,79885,79400,79997
+15,44,HAM,Lewis Hamilton,McLaren,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:16.576,01:15.486,01:15.707,76576,75486,75707
+16,44,HAM,Lewis Hamilton,McLaren,2007,Hungarian Grand Prix,Hungaroring,2,01:19.570,01:19.301,01:19.781,79570,79301,79781
+17,44,HAM,Lewis Hamilton,McLaren,2007,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:21.956,01:21.746,01:22.034,81956,81746,82034
+18,44,HAM,Lewis Hamilton,McLaren,2007,Monaco Grand Prix,Circuit de Monaco,2,01:15.685,01:15.479,01:15.905,75685,75479,75905
+19,44,HAM,Lewis Hamilton,McLaren,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,2,01:13.033,01:12.296,01:12.082,73033,72296,72082
+20,44,HAM,Lewis Hamilton,McLaren,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:21.120,01:20.713,01:21.785,81120,80713,81785
+21,44,HAM,Lewis Hamilton,McLaren,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:26.572,01:25.187,01:26.714,86572,85187,86714
+22,44,HAM,Lewis Hamilton,McLaren,2008,Bahrain Grand Prix,Bahrain International Circuit,3,01:32.750,01:31.922,01:33.292,92750,91922,93292
+23,44,HAM,Lewis Hamilton,McLaren,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:46.887,01:46.088,01:47.338,106887,106088,107338
+24,44,HAM,Lewis Hamilton,McLaren,2008,British Grand Prix,Silverstone Circuit,4,01:20.288,01:19.537,01:21.835,80288,79537,81835
+25,44,HAM,Lewis Hamilton,McLaren,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:16.909,01:17.034,01:17.886,76909,77034,77886
+26,44,HAM,Lewis Hamilton,McLaren,2008,Hungarian Grand Prix,Hungaroring,1,01:19.376,01:19.473,01:20.899,79376,79473,80899
+27,44,HAM,Lewis Hamilton,McLaren,2008,Monaco Grand Prix,Circuit de Monaco,3,01:15.582,01:15.322,01:15.839,75582,75322,75839
+28,44,HAM,Lewis Hamilton,McLaren,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:12.213,01:11.856,01:12.830,72213,71856,72830
+29,44,HAM,Lewis Hamilton,McLaren,2008,Singapore Grand Prix,Marina Bay Street Circuit,2,01:44.501,01:44.932,01:45.465,104501,104932,105465
+30,44,HAM,Lewis Hamilton,McLaren,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:21.366,01:20.825,01:22.096,81366,80825,82096
+31,44,HAM,Lewis Hamilton,McLaren,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:39.873,01:39.695,01:40.948,99873,99695,100948
+32,44,HAM,Lewis Hamilton,McLaren,2009,Bahrain Grand Prix,Bahrain International Circuit,5,01:32.851,01:32.877,01:34.196,92851,92877,94196
+33,44,HAM,Lewis Hamilton,McLaren,2009,Hungarian Grand Prix,Hungaroring,4,01:20.842,01:20.465,01:21.839,80842,80465,81839
+34,44,HAM,Lewis Hamilton,McLaren,2009,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:23.375,01:22.973,01:24.066,83375,82973,84066
+35,44,HAM,Lewis Hamilton,McLaren,2009,Japanese Grand Prix,Suzuka Circuit,3,01:30.917,01:30.627,01:32.395,90917,90627,92395
+36,44,HAM,Lewis Hamilton,McLaren,2009,Singapore Grand Prix,Marina Bay Street Circuit,1,01:46.977,01:46.657,01:47.891,106977,106657,107891
+37,14,ALO,Fernando Alonso,Ferrari,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:40.170,01:40.311,01:39.792,100170,100311,99792
+38,14,ALO,Fernando Alonso,Ferrari,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,3,01:25.082,01:24.335,01:24.111,85082,84335,84111
+39,14,ALO,Fernando Alonso,Ferrari,2010,Bahrain Grand Prix,Bahrain International Circuit,3,01:54.612,01:54.172,01:54.608,114612,114172,114608
+40,14,ALO,Fernando Alonso,Ferrari,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,01:57.023,01:47.544,01:47.441,117023,107544,107441
+41,14,ALO,Fernando Alonso,Ferrari,2010,British Grand Prix,Silverstone Circuit,3,01:30.997,01:30.700,01:30.426,90997,90700,90426
+42,14,ALO,Fernando Alonso,Ferrari,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,4,01:16.171,01:15.597,01:15.435,76171,75597,75435
+43,14,ALO,Fernando Alonso,Ferrari,2010,Hungarian Grand Prix,Hungaroring,3,01:21.278,01:20.237,01:19.987,81278,80237,79987
+44,14,ALO,Fernando Alonso,Ferrari,2010,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:22.646,01:22.297,01:21.962,82646,82297,81962
+45,14,ALO,Fernando Alonso,Ferrari,2010,Japanese Grand Prix,Suzuka Circuit,5,01:32.555,01:31.819,01:31.352,92555,91819,91352
+46,14,ALO,Fernando Alonso,Ferrari,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:18.987,01:19.010,01:15.989,78987,79010,75989
+47,14,ALO,Fernando Alonso,Ferrari,2010,Singapore Grand Prix,Marina Bay Street Circuit,1,01:46.541,01:45.809,01:45.390,106541,105809,105390
+48,14,ALO,Fernando Alonso,Ferrari,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:21.957,01:21.549,01:20.937,81957,81549,80937
+49,44,HAM,Lewis Hamilton,McLaren,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:40.335,01:40.119,01:39.425,100335,100119,99425
+50,44,HAM,Lewis Hamilton,McLaren,2010,Bahrain Grand Prix,Bahrain International Circuit,4,01:55.341,01:54.707,01:55.217,115341,114707,115217
+51,44,HAM,Lewis Hamilton,McLaren,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,01:56.706,01:46.211,01:45.863,116706,106211,105863
+52,44,HAM,Lewis Hamilton,McLaren,2010,British Grand Prix,Silverstone Circuit,4,01:31.297,01:31.118,01:30.556,91297,91118,90556
+53,44,HAM,Lewis Hamilton,McLaren,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:15.889,01:15.528,01:15.105,75889,75528,75105
+54,44,HAM,Lewis Hamilton,McLaren,2010,Hungarian Grand Prix,Hungaroring,5,01:21.455,01:20.877,01:20.499,81455,80877,80499
+55,44,HAM,Lewis Hamilton,McLaren,2010,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:22.830,01:22.394,01:22.623,82830,82394,82623
+56,44,HAM,Lewis Hamilton,McLaren,2010,Japanese Grand Prix,Suzuka Circuit,3,01:32.809,01:31.523,01:31.169,92809,91523,91169
+57,44,HAM,Lewis Hamilton,McLaren,2010,Monaco Grand Prix,Circuit de Monaco,5,01:15.676,01:14.527,01:14.432,75676,74527,74432
+58,44,HAM,Lewis Hamilton,McLaren,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:19.931,01:18.921,01:15.747,79931,78921,75747
+59,44,HAM,Lewis Hamilton,McLaren,2010,Singapore Grand Prix,Marina Bay Street Circuit,3,01:48.296,01:46.042,01:45.571,108296,106042,105571
+60,44,HAM,Lewis Hamilton,McLaren,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:21.723,01:21.415,01:20.829,81723,81415,80829
+61,27,HUL,Nico Hülkenberg,Williams,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,01:55.442,01:47.821,01:47.053,115442,107821,107053
+62,27,HUL,Nico Hülkenberg,Williams,2010,Hungarian Grand Prix,Hungaroring,10,01:21.598,01:21.275,01:21.710,81598,81275,81710
+63,27,HUL,Nico Hülkenberg,Williams,2010,Italian Grand Prix,Autodromo Nazionale di Monza,8,01:23.516,01:22.989,01:23.037,83516,82989,83037
+64,27,HUL,Nico Hülkenberg,Williams,2010,Japanese Grand Prix,Suzuka Circuit,9,01:32.211,01:31.926,01:31.559,92211,91926,91559
+65,27,HUL,Nico Hülkenberg,Williams,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:20.050,01:19.144,01:14.470,80050,79144,74470
+66,14,ALO,Fernando Alonso,Ferrari,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,5,01:41.380,01:39.058,01:39.058,101380,99058,99058
+67,14,ALO,Fernando Alonso,Ferrari,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:25.707,01:25.242,01:24.974,85707,85242,84974
+68,14,ALO,Fernando Alonso,Ferrari,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,02:04.450,02:02.768,01:51.251,124450,122768,111251
+69,14,ALO,Fernando Alonso,Ferrari,2011,British Grand Prix,Silverstone Circuit,3,01:32.986,01:31.727,01:30.516,92986,91727,90516
+70,14,ALO,Fernando Alonso,Ferrari,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:13.822,01:13.672,01:13.199,73822,73672,73199
+71,14,ALO,Fernando Alonso,Ferrari,2011,Hungarian Grand Prix,Hungaroring,5,01:21.578,01:20.262,01:20.365,81578,80262,80365
+72,14,ALO,Fernando Alonso,Ferrari,2011,Italian Grand Prix,Autodromo Nazionale di Monza,4,01:24.134,01:23.342,01:22.841,84134,83342,82841
+73,14,ALO,Fernando Alonso,Ferrari,2011,Japanese Grand Prix,Suzuka Circuit,5,01:32.817,01:31.612,01:30.886,92817,91612,90886
+74,14,ALO,Fernando Alonso,Ferrari,2011,Monaco Grand Prix,Circuit de Monaco,4,01:16.051,01:14.569,01:14.483,76051,74569,74483
+75,14,ALO,Fernando Alonso,Ferrari,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:13.969,01:12.870,01:12.591,73969,72870,72591
+76,14,ALO,Fernando Alonso,Ferrari,2011,Singapore Grand Prix,Marina Bay Street Circuit,5,01:47.054,01:45.779,01:44.874,107054,105779,104874
+77,14,ALO,Fernando Alonso,Ferrari,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:23.485,01:22.813,01:21.964,83485,82813,81964
+78,44,HAM,Lewis Hamilton,McLaren,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:39.782,01:38.434,01:38.622,99782,98434,98622
+79,44,HAM,Lewis Hamilton,McLaren,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,2,01:25.384,01:24.595,01:24.307,85384,84595,84307
+80,44,HAM,Lewis Hamilton,McLaren,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,02:03.008,02:02.823,01:48.730,123008,122823,108730
+81,44,HAM,Lewis Hamilton,McLaren,2011,British Grand Prix,Silverstone Circuit,10,01:33.581,01:32.505,01:32.376,93581,92505,92376
+82,44,HAM,Lewis Hamilton,McLaren,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,5,01:14.114,01:13.926,01:13.565,74114,73926,73565
+83,44,HAM,Lewis Hamilton,McLaren,2011,Hungarian Grand Prix,Hungaroring,2,01:21.636,01:21.105,01:19.978,81636,81105,79978
+84,44,HAM,Lewis Hamilton,McLaren,2011,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:23.976,01:23.172,01:22.725,83976,83172,82725
+85,44,HAM,Lewis Hamilton,McLaren,2011,Japanese Grand Prix,Suzuka Circuit,3,01:32.843,01:31.139,01:30.617,92843,91139,90617
+86,44,HAM,Lewis Hamilton,McLaren,2011,Monaco Grand Prix,Circuit de Monaco,7,01:15.207,01:14.275,01:15.280,75207,74275,75280
+87,44,HAM,Lewis Hamilton,McLaren,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:13.361,01:12.811,01:12.480,73361,72811,72480
+88,44,HAM,Lewis Hamilton,McLaren,2011,Singapore Grand Prix,Marina Bay Street Circuit,4,01:47.014,01:46.829,01:44.809,107014,106829,104809
+89,44,HAM,Lewis Hamilton,McLaren,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:24.370,01:22.148,01:21.961,84370,82148,81961
+90,14,ALO,Fernando Alonso,Ferrari,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,7,01:41.939,01:41.514,01:41.582,101939,101514,101582
+91,14,ALO,Fernando Alonso,Ferrari,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,01:49.401,01:48.598,01:48.313,109401,108598,108313
+92,14,ALO,Fernando Alonso,Ferrari,2012,British Grand Prix,Silverstone Circuit,1,01:46.515,01:56.921,01:51.746,106515,116921,111746
+93,14,ALO,Fernando Alonso,Ferrari,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:14.916,01:14.314,01:14.151,74916,74314,74151
+94,14,ALO,Fernando Alonso,Ferrari,2012,Hungarian Grand Prix,Hungaroring,6,01:22.095,01:21.598,01:21.844,82095,81598,81844
+95,14,ALO,Fernando Alonso,Ferrari,2012,Italian Grand Prix,Autodromo Nazionale di Monza,10,01:24.175,01:24.242,01:25.678,84175,84242,85678
+96,14,ALO,Fernando Alonso,Ferrari,2012,Japanese Grand Prix,Suzuka Circuit,7,01:32.459,01:31.833,01:32.114,92459,91833,92114
+97,14,ALO,Fernando Alonso,Ferrari,2012,Monaco Grand Prix,Circuit de Monaco,6,01:16.153,01:15.128,01:14.948,76153,75128,74948
+98,14,ALO,Fernando Alonso,Ferrari,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,8,01:16.097,01:13.856,01:13.253,76097,73856,73253
+99,14,ALO,Fernando Alonso,Ferrari,2012,Singapore Grand Prix,Marina Bay Street Circuit,5,01:49.391,01:47.567,01:47.216,109391,107567,107216
+100,14,ALO,Fernando Alonso,Ferrari,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:23.276,01:22.862,01:22.302,83276,82862,82302
+101,14,ALO,Fernando Alonso,Ferrari,2012,United States Grand Prix,Circuit of the Americas,9,01:37.968,01:37.123,01:37.300,97968,97123,97300
+102,44,HAM,Lewis Hamilton,McLaren,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:41.497,01:40.901,01:40.630,101497,100901,100630
+103,44,HAM,Lewis Hamilton,McLaren,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:26.800,01:25.626,01:24.922,86800,85626,84922
+104,44,HAM,Lewis Hamilton,McLaren,2012,Bahrain Grand Prix,Bahrain International Circuit,2,01:34.813,01:33.209,01:32.520,94813,93209,92520
+105,44,HAM,Lewis Hamilton,McLaren,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,01:49.605,01:48.563,01:48.394,109605,108563,108394
+106,44,HAM,Lewis Hamilton,McLaren,2012,British Grand Prix,Silverstone Circuit,8,01:47.433,01:54.897,01:53.543,107433,114897,113543
+107,44,HAM,Lewis Hamilton,McLaren,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:14.891,01:14.371,01:14.087,74891,74371,74087
+108,44,HAM,Lewis Hamilton,McLaren,2012,Hungarian Grand Prix,Hungaroring,1,01:21.794,01:21.060,01:20.953,81794,81060,80953
+109,44,HAM,Lewis Hamilton,McLaren,2012,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:24.211,01:24.394,01:24.010,84211,84394,84010
+110,44,HAM,Lewis Hamilton,McLaren,2012,Japanese Grand Prix,Suzuka Circuit,9,01:33.061,01:32.121,01:32.327,93061,92121,92327
+111,44,HAM,Lewis Hamilton,McLaren,2012,Monaco Grand Prix,Circuit de Monaco,4,01:16.063,01:15.166,01:14.583,76063,75166,74583
+112,44,HAM,Lewis Hamilton,McLaren,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:15.075,01:13.398,01:12.458,75075,73398,72458
+113,44,HAM,Lewis Hamilton,McLaren,2012,Singapore Grand Prix,Marina Bay Street Circuit,1,01:48.285,01:46.665,01:46.362,108285,106665,106362
+114,44,HAM,Lewis Hamilton,McLaren,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:22.583,01:22.465,01:21.707,82583,82465,81707
+115,44,HAM,Lewis Hamilton,McLaren,2012,United States Grand Prix,Circuit of the Americas,2,01:37.058,01:36.795,01:35.766,97058,96795,95766
+116,14,ALO,Fernando Alonso,Ferrari,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:43.850,01:36.691,01:28.493,103850,96691,88493
+117,14,ALO,Fernando Alonso,Ferrari,2013,Bahrain Grand Prix,Bahrain International Circuit,3,01:32.878,01:33.316,01:32.667,92878,93316,92667
+118,14,ALO,Fernando Alonso,Ferrari,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,02:00.190,01:48.309,02:03.482,120190,108309,123482
+119,14,ALO,Fernando Alonso,Ferrari,2013,British Grand Prix,Silverstone Circuit,10,01:32.266,01:31.387,01:30.979,92266,91387,90979
+120,14,ALO,Fernando Alonso,Ferrari,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,6,01:23.224,01:28.788,01:26.504,83224,88788,86504
+121,14,ALO,Fernando Alonso,Ferrari,2013,Hungarian Grand Prix,Hungaroring,5,01:20.652,01:20.183,01:19.791,80652,80183,79791
+122,14,ALO,Fernando Alonso,Ferrari,2013,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:24.661,01:24.227,01:24.142,84661,84227,84142
+123,14,ALO,Fernando Alonso,Ferrari,2013,Japanese Grand Prix,Suzuka Circuit,8,01:32.371,01:31.828,01:31.665,92371,91828,91665
+124,14,ALO,Fernando Alonso,Ferrari,2013,Monaco Grand Prix,Circuit de Monaco,6,01:23.712,01:16.510,01:14.824,83712,76510,74824
+125,14,ALO,Fernando Alonso,Ferrari,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,3,01:26.656,01:26.590,01:27.539,86656,86590,87539
+126,14,ALO,Fernando Alonso,Ferrari,2013,Singapore Grand Prix,Marina Bay Street Circuit,7,01:45.115,01:44.153,01:43.938,105115,104153,103938
+127,14,ALO,Fernando Alonso,Ferrari,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:22.264,01:21.646,01:21.218,82264,81646,81218
+128,14,ALO,Fernando Alonso,Ferrari,2013,United States Grand Prix,Circuit of the Americas,6,01:38.929,01:37.368,01:37.376,98929,97368,97376
+129,77,BOT,Valtteri Bottas,Williams,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:23.446,01:28.419,01:25.897,83446,88419,85897
+130,77,BOT,Valtteri Bottas,Williams,2013,United States Grand Prix,Circuit of the Americas,9,01:37.821,01:37.439,01:37.836,97821,97439,97836
+131,44,HAM,Lewis Hamilton,Mercedes,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,4,01:40.693,01:40.477,01:40.501,100693,100477,100501
+132,44,HAM,Lewis Hamilton,Mercedes,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,3,01:45.456,01:36.625,01:28.087,105456,96625,88087
+133,44,HAM,Lewis Hamilton,Mercedes,2013,Bahrain Grand Prix,Bahrain International Circuit,4,01:33.498,01:33.346,01:32.762,93498,93346,92762
+134,44,HAM,Lewis Hamilton,Mercedes,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,02:00.368,01:49.067,02:01.012,120368,109067,121012
+135,44,HAM,Lewis Hamilton,Mercedes,2013,British Grand Prix,Silverstone Circuit,1,01:30.995,01:31.224,01:29.607,90995,91224,89607
+136,44,HAM,Lewis Hamilton,Mercedes,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:23.801,01:27.649,01:25.512,83801,87649,85512
+137,44,HAM,Lewis Hamilton,Mercedes,2013,Hungarian Grand Prix,Hungaroring,1,01:20.363,01:19.862,01:19.388,80363,79862,79388
+138,44,HAM,Lewis Hamilton,Mercedes,2013,Japanese Grand Prix,Suzuka Circuit,3,01:32.340,01:31.636,01:31.253,92340,91636,91253
+139,44,HAM,Lewis Hamilton,Mercedes,2013,Monaco Grand Prix,Circuit de Monaco,2,01:23.779,01:16.265,01:13.967,83779,76265,73967
+140,44,HAM,Lewis Hamilton,Mercedes,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:25.342,01:26.698,01:27.677,85342,86698,87677
+141,44,HAM,Lewis Hamilton,Mercedes,2013,Singapore Grand Prix,Marina Bay Street Circuit,5,01:44.196,01:43.920,01:43.254,104196,103920,103254
+142,44,HAM,Lewis Hamilton,Mercedes,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:21.728,01:21.001,01:20.972,81728,81001,80972
+143,44,HAM,Lewis Hamilton,Mercedes,2013,United States Grand Prix,Circuit of the Americas,5,01:37.959,01:37.854,01:37.345,97959,97854,97345
+144,11,PER,Sergio Pérez,McLaren,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,9,01:41.687,01:40.812,01:41.068,101687,100812,101068
+145,11,PER,Sergio Pérez,McLaren,2013,Hungarian Grand Prix,Hungaroring,9,01:21.612,01:20.545,01:22.398,81612,80545,82398
+146,11,PER,Sergio Pérez,McLaren,2013,Italian Grand Prix,Autodromo Nazionale di Monza,8,01:24.635,01:24.592,01:24.502,84635,84592,84502
+147,11,PER,Sergio Pérez,McLaren,2013,Monaco Grand Prix,Circuit de Monaco,7,01:24.682,01:17.748,01:15.138,84682,77748,75138
+148,11,PER,Sergio Pérez,McLaren,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,01:23.116,01:21.790,01:22.069,83116,81790,82069
+149,11,PER,Sergio Pérez,McLaren,2013,United States Grand Prix,Circuit of the Americas,7,01:38.367,01:38.040,01:37.452,98367,98040,97452
+150,14,ALO,Fernando Alonso,Ferrari,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,8,01:42.467,01:41.940,01:42.866,102467,101940,102866
+151,14,ALO,Fernando Alonso,Ferrari,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:31.388,01:42.805,01:45.819,91388,102805,105819
+152,14,ALO,Fernando Alonso,Ferrari,2014,Austrian Grand Prix,Red Bull Ring,4,01:10.405,01:09.479,01:09.285,70405,69479,69285
+153,14,ALO,Fernando Alonso,Ferrari,2014,Bahrain Grand Prix,Bahrain International Circuit,10,01:35.251,01:34.723,01:34.992,95251,94723,94992
+154,14,ALO,Fernando Alonso,Ferrari,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,02:10.197,02:08.450,02:07.786,130197,128450,127786
+155,14,ALO,Fernando Alonso,Ferrari,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,7,01:17.010,01:16.131,01:15.814,77010,76131,75814
+156,14,ALO,Fernando Alonso,Ferrari,2014,Hungarian Grand Prix,Hungaroring,5,01:26.087,01:24.249,01:23.909,86087,84249,83909
+157,14,ALO,Fernando Alonso,Ferrari,2014,Italian Grand Prix,Autodromo Nazionale di Monza,7,01:26.514,01:25.525,01:25.430,86514,85525,85430
+158,14,ALO,Fernando Alonso,Ferrari,2014,Japanese Grand Prix,Suzuka Circuit,5,01:34.497,01:33.675,01:33.740,94497,93675,93740
+159,14,ALO,Fernando Alonso,Ferrari,2014,Monaco Grand Prix,Circuit de Monaco,5,01:17.853,01:17.200,01:16.686,77853,77200,76686
+160,14,ALO,Fernando Alonso,Ferrari,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,8,01:11.558,01:11.215,01:10.977,71558,71215,70977
+161,14,ALO,Fernando Alonso,Ferrari,2014,Singapore Grand Prix,Marina Bay Street Circuit,5,01:46.889,01:46.328,01:45.907,106889,106328,105907
+162,14,ALO,Fernando Alonso,Ferrari,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:28.329,01:27.602,01:27.140,88329,87602,87140
+163,14,ALO,Fernando Alonso,Ferrari,2014,United States Grand Prix,Circuit of the Americas,6,01:38.349,01:38.010,01:37.610,98349,98010,97610
+164,77,BOT,Valtteri Bottas,Williams,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:42.346,01:41.376,01:41.025,102346,101376,101025
+165,77,BOT,Valtteri Bottas,Williams,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,10,01:31.601,01:43.852,01:48.147,91601,103852,108147
+166,77,BOT,Valtteri Bottas,Williams,2014,Austrian Grand Prix,Red Bull Ring,2,01:10.356,01:09.096,01:08.846,70356,69096,68846
+167,77,BOT,Valtteri Bottas,Williams,2014,Bahrain Grand Prix,Bahrain International Circuit,4,01:34.934,01:34.842,01:34.247,94934,94842,94247
+168,77,BOT,Valtteri Bottas,Williams,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,02:09.250,02:08.451,02:08.049,129250,128451,128049
+169,77,BOT,Valtteri Bottas,Williams,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,4,01:16.772,01:15.806,01:15.550,76772,75806,75550
+170,77,BOT,Valtteri Bottas,Williams,2014,Hungarian Grand Prix,Hungaroring,3,01:25.690,01:23.776,01:23.354,85690,83776,83354
+171,77,BOT,Valtteri Bottas,Williams,2014,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:26.012,01:24.858,01:24.697,86012,84858,84697
+172,77,BOT,Valtteri Bottas,Williams,2014,Japanese Grand Prix,Suzuka Circuit,3,01:34.301,01:33.443,01:33.128,94301,93443,93128
+173,77,BOT,Valtteri Bottas,Williams,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:10.832,01:10.421,01:10.305,70832,70421,70305
+174,77,BOT,Valtteri Bottas,Williams,2014,Singapore Grand Prix,Marina Bay Street Circuit,8,01:47.196,01:46.622,01:46.187,107196,106622,106187
+175,77,BOT,Valtteri Bottas,Williams,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:28.198,01:27.563,01:26.632,88198,87563,86632
+176,77,BOT,Valtteri Bottas,Williams,2014,United States Grand Prix,Circuit of the Americas,3,01:38.249,01:37.499,01:36.906,98249,97499,96906
+177,44,HAM,Lewis Hamilton,Mercedes,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:41.207,01:40.920,01:40.866,101207,100920,100866
+178,44,HAM,Lewis Hamilton,Mercedes,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:31.699,01:42.890,01:44.231,91699,102890,104231
+179,44,HAM,Lewis Hamilton,Mercedes,2014,Bahrain Grand Prix,Bahrain International Circuit,2,01:35.323,01:33.872,01:33.464,95323,93872,93464
+180,44,HAM,Lewis Hamilton,Mercedes,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,02:07.280,02:06.609,02:05.819,127280,126609,125819
+181,44,HAM,Lewis Hamilton,Mercedes,2014,British Grand Prix,Silverstone Circuit,6,01:41.058,01:34.870,01:39.232,101058,94870,99232
+182,44,HAM,Lewis Hamilton,Mercedes,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:15.750,01:15.054,01:14.953,75750,75054,74953
+183,44,HAM,Lewis Hamilton,Mercedes,2014,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:25.363,01:24.560,01:24.109,85363,84560,84109
+184,44,HAM,Lewis Hamilton,Mercedes,2014,Japanese Grand Prix,Suzuka Circuit,2,01:33.611,01:32.982,01:32.703,93611,92982,92703
+185,44,HAM,Lewis Hamilton,Mercedes,2014,Monaco Grand Prix,Circuit de Monaco,2,01:17.823,01:16.354,01:16.048,77823,76354,76048
+186,44,HAM,Lewis Hamilton,Mercedes,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,2,01:10.457,01:10.712,01:10.056,70457,70712,70056
+187,44,HAM,Lewis Hamilton,Mercedes,2014,Singapore Grand Prix,Marina Bay Street Circuit,1,01:46.921,01:46.287,01:45.681,106921,106287,105681
+188,44,HAM,Lewis Hamilton,Mercedes,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:27.238,01:26.210,01:25.232,87238,86210,85232
+189,44,HAM,Lewis Hamilton,Mercedes,2014,United States Grand Prix,Circuit of the Americas,2,01:37.196,01:37.287,01:36.443,97196,97287,96443
+190,20,MAG,Kevin Magnussen,McLaren,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,4,01:30.949,01:43.247,01:45.745,90949,103247,105745
+191,20,MAG,Kevin Magnussen,McLaren,2014,Austrian Grand Prix,Red Bull Ring,6,01:10.081,01:09.473,01:09.515,70081,69473,69515
+192,20,MAG,Kevin Magnussen,McLaren,2014,Bahrain Grand Prix,Bahrain International Circuit,9,01:35.288,01:34.904,01:34.712,95288,94904,94712
+193,20,MAG,Kevin Magnussen,McLaren,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,02:11.081,02:08.901,02:08.679,131081,128901,128679
+194,20,MAG,Kevin Magnussen,McLaren,2014,British Grand Prix,Silverstone Circuit,5,01:42.507,01:37.370,01:38.417,102507,97370,98417
+195,20,MAG,Kevin Magnussen,McLaren,2014,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:26.337,01:25.973,01:25.314,86337,85973,85314
+196,20,MAG,Kevin Magnussen,McLaren,2014,Japanese Grand Prix,Suzuka Circuit,7,01:34.930,01:34.229,01:34.242,94930,94229,94242
+197,20,MAG,Kevin Magnussen,McLaren,2014,Monaco Grand Prix,Circuit de Monaco,8,01:17.978,01:17.609,01:17.555,77978,77609,77555
+198,20,MAG,Kevin Magnussen,McLaren,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,7,01:11.134,01:11.211,01:10.969,71134,71211,70969
+199,20,MAG,Kevin Magnussen,McLaren,2014,Singapore Grand Prix,Marina Bay Street Circuit,9,01:47.976,01:46.700,01:46.250,107976,106700,106250
+200,20,MAG,Kevin Magnussen,McLaren,2014,United States Grand Prix,Circuit of the Americas,8,01:38.557,01:38.047,01:37.706,98557,98047,97706
+201,77,BOT,Valtteri Bottas,Williams,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:42.608,01:41.868,01:41.656,102608,101868,101656
+202,77,BOT,Valtteri Bottas,Williams,2015,Austrian Grand Prix,Red Bull Ring,6,01:11.894,01:09.598,01:09.319,71894,69598,69319
+203,77,BOT,Valtteri Bottas,Williams,2015,Bahrain Grand Prix,Circuit Gilles Villeneuve,4,01:16.552,01:15.506,01:15.102,76552,75506,75102
+204,77,BOT,Valtteri Bottas,Williams,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:49.026,01:49.044,01:48.537,109026,109044,108537
+205,77,BOT,Valtteri Bottas,Williams,2015,British Grand Prix,Silverstone Circuit,4,01:34.171,01:33.020,01:33.149,94171,93020,93149
+206,77,BOT,Valtteri Bottas,Williams,2015,Canadian Grand Prix,Albert Park Grand Prix Circuit,6,01:29.641,01:27.796,01:28.087,89641,87796,88087
+207,77,BOT,Valtteri Bottas,Williams,2015,Hungarian Grand Prix,Hungaroring,6,01:23.649,01:23.555,01:23.222,83649,83555,83222
+208,77,BOT,Valtteri Bottas,Williams,2015,Italian Grand Prix,Autodromo Nazionale di Monza,6,01:24.979,01:24.313,01:24.127,84979,84313,84127
+209,77,BOT,Valtteri Bottas,Williams,2015,Japanese Grand Prix,Suzuka Circuit,3,01:34.326,01:33.416,01:33.024,94326,93416,93024
+210,77,BOT,Valtteri Bottas,Williams,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,01:20.817,01:20.458,01:20.448,80817,80458,80448
+211,77,BOT,Valtteri Bottas,Williams,2015,Monaco Grand Prix,Circuit de Barcelona-Catalunya,4,01:27.262,01:26.197,01:25.694,87262,86197,85694
+212,77,BOT,Valtteri Bottas,Williams,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:12.934,01:12.374,01:12.085,72934,72374,72085
+213,77,BOT,Valtteri Bottas,Williams,2015,Singapore Grand Prix,Marina Bay Street Circuit,7,01:46.231,01:45.887,01:45.676,106231,105887,105676
+214,77,BOT,Valtteri Bottas,Williams,2015,Spanish Grand Prix,Bahrain International Circuit,5,01:34.161,01:33.897,01:33.381,94161,93897,93381
+215,44,HAM,Lewis Hamilton,Mercedes,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:40.974,01:40.758,01:40.614,100974,100758,100614
+216,44,HAM,Lewis Hamilton,Mercedes,2015,Australian Grand Prix,Circuit de Monaco,1,01:16.588,01:15.864,01:15.098,76588,75864,75098
+217,44,HAM,Lewis Hamilton,Mercedes,2015,Austrian Grand Prix,Red Bull Ring,1,01:12.218,01:09.062,01:08.455,72218,69062,68455
+218,44,HAM,Lewis Hamilton,Mercedes,2015,Bahrain Grand Prix,Circuit Gilles Villeneuve,1,01:15.895,01:14.661,01:14.393,75895,74661,74393
+219,44,HAM,Lewis Hamilton,Mercedes,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:48.908,01:48.024,01:47.197,108908,108024,107197
+220,44,HAM,Lewis Hamilton,Mercedes,2015,British Grand Prix,Silverstone Circuit,1,01:33.796,01:33.068,01:32.248,93796,93068,92248
+221,44,HAM,Lewis Hamilton,Mercedes,2015,Canadian Grand Prix,Albert Park Grand Prix Circuit,1,01:28.586,01:26.894,01:26.327,88586,86894,86327
+222,44,HAM,Lewis Hamilton,Mercedes,2015,Hungarian Grand Prix,Hungaroring,1,01:22.890,01:22.285,01:22.020,82890,82285,82020
+223,44,HAM,Lewis Hamilton,Mercedes,2015,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:24.251,01:23.383,01:23.397,84251,83383,83397
+224,44,HAM,Lewis Hamilton,Mercedes,2015,Japanese Grand Prix,Suzuka Circuit,2,01:32.844,01:32.789,01:32.660,92844,92789,92660
+225,44,HAM,Lewis Hamilton,Mercedes,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:20.808,01:19.829,01:19.668,80808,79829,79668
+226,44,HAM,Lewis Hamilton,Mercedes,2015,Monaco Grand Prix,Circuit de Barcelona-Catalunya,2,01:26.382,01:25.740,01:24.948,86382,85740,84948
+227,44,HAM,Lewis Hamilton,Mercedes,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,2,01:11.682,01:11.665,01:11.360,71682,71665,71360
+228,44,HAM,Lewis Hamilton,Mercedes,2015,Singapore Grand Prix,Marina Bay Street Circuit,5,01:45.765,01:45.650,01:45.300,105765,105650,105300
+229,44,HAM,Lewis Hamilton,Mercedes,2015,Spanish Grand Prix,Bahrain International Circuit,1,01:33.928,01:32.669,01:32.571,93928,92669,92571
+230,14,ALO,Fernando Alonso,McLaren,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,9,01:41.616,01:41.044,01:41.106,101616,101044,101106
+231,14,ALO,Fernando Alonso,McLaren,2016,British Grand Prix,Silverstone Circuit,10,01:32.281,01:31.740,01:32.343,92281,91740,92343
+232,14,ALO,Fernando Alonso,McLaren,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,10,01:15.026,01:14.260,01:14.338,75026,74260,74338
+233,14,ALO,Fernando Alonso,McLaren,2016,Hungarian Grand Prix,Hungaroring,7,01:35.165,01:23.816,01:21.211,95165,83816,81211
+234,14,ALO,Fernando Alonso,McLaren,2016,Monaco Grand Prix,Circuit de Monaco,10,01:15.504,01:15.107,01:15.363,75504,75107,75363
+235,14,ALO,Fernando Alonso,McLaren,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,10,01:12.700,01:12.312,01:12.266,72700,72312,72266
+236,14,ALO,Fernando Alonso,McLaren,2016,Singapore Grand Prix,Marina Bay Street Circuit,9,01:45.373,01:44.653,01:44.553,105373,104653,104553
+237,14,ALO,Fernando Alonso,McLaren,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,01:24.578,01:24.192,01:23.981,84578,84192,83981
+238,77,BOT,Valtteri Bottas,Williams,2016,Austrian Grand Prix,Red Bull Ring,8,01:07.148,01:06.911,01:10.440,67148,66911,70440
+239,77,BOT,Valtteri Bottas,Williams,2016,Azerbaijan Grand Prix,Baku City Circuit,8,01:44.706,01:44.477,01:45.246,104706,104477,105246
+240,77,BOT,Valtteri Bottas,Williams,2016,Bahrain Grand Prix,Bahrain International Circuit,6,01:31.672,01:30.931,01:31.153,91672,90931,91153
+241,77,BOT,Valtteri Bottas,Williams,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,01:48.655,01:47.918,01:47.612,108655,107918,107612
+242,77,BOT,Valtteri Bottas,Williams,2016,British Grand Prix,Silverstone Circuit,7,01:31.913,01:31.478,01:31.557,91913,91478,91557
+243,77,BOT,Valtteri Bottas,Williams,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,7,01:14.389,01:13.791,01:13.670,74389,73791,73670
+244,77,BOT,Valtteri Bottas,Williams,2016,Hungarian Grand Prix,Hungaroring,10,01:42.758,01:24.506,01:22.182,102758,84506,82182
+245,77,BOT,Valtteri Bottas,Williams,2016,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:23.264,01:22.499,01:22.388,83264,82499,82388
+246,77,BOT,Valtteri Bottas,Williams,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,01:20.338,01:19.958,01:19.551,80338,79958,79551
+247,77,BOT,Valtteri Bottas,Williams,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:24.251,01:24.023,01:23.522,84251,84023,83522
+248,77,BOT,Valtteri Bottas,Williams,2016,United States Grand Prix,Circuit of the Americas,8,01:37.456,01:37.202,01:37.116,97456,97202,97116
+249,44,HAM,Lewis Hamilton,Mercedes,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:39.487,01:39.382,01:38.755,99487,99382,98755
+250,44,HAM,Lewis Hamilton,Mercedes,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:25.351,01:24.605,01:23.837,85351,84605,83837
+251,44,HAM,Lewis Hamilton,Mercedes,2016,Austrian Grand Prix,Red Bull Ring,1,01:06.947,01:06.228,01:07.922,66947,66228,67922
+252,44,HAM,Lewis Hamilton,Mercedes,2016,Azerbaijan Grand Prix,Baku City Circuit,10,01:44.259,01:43.526,02:01.954,104259,103526,121954
+253,44,HAM,Lewis Hamilton,Mercedes,2016,Bahrain Grand Prix,Bahrain International Circuit,1,01:31.391,01:30.039,01:29.493,91391,90039,89493
+254,44,HAM,Lewis Hamilton,Mercedes,2016,British Grand Prix,Silverstone Circuit,1,01:30.739,01:29.243,01:29.287,90739,89243,89287
+255,44,HAM,Lewis Hamilton,Mercedes,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:14.121,01:13.076,01:12.812,74121,73076,72812
+256,44,HAM,Lewis Hamilton,Mercedes,2016,Hungarian Grand Prix,Hungaroring,2,01:34.210,01:24.836,01:20.108,94210,84836,80108
+257,44,HAM,Lewis Hamilton,Mercedes,2016,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:21.854,01:21.498,01:21.135,81854,81498,81135
+258,44,HAM,Lewis Hamilton,Mercedes,2016,Japanese Grand Prix,Suzuka Circuit,2,01:32.218,01:31.129,01:30.660,92218,91129,90660
+259,44,HAM,Lewis Hamilton,Mercedes,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,01:19.447,01:19.137,01:18.704,79447,79137,78704
+260,44,HAM,Lewis Hamilton,Mercedes,2016,Monaco Grand Prix,Circuit de Monaco,3,01:14.826,01:14.056,01:13.942,74826,74056,73942
+261,44,HAM,Lewis Hamilton,Mercedes,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:11.511,01:11.238,01:10.736,71511,71238,70736
+262,44,HAM,Lewis Hamilton,Mercedes,2016,Singapore Grand Prix,Marina Bay Street Circuit,3,01:45.167,01:43.471,01:43.288,105167,103471,103288
+263,44,HAM,Lewis Hamilton,Mercedes,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:23.214,01:22.159,01:22.000,83214,82159,82000
+264,44,HAM,Lewis Hamilton,Mercedes,2016,United States Grand Prix,Circuit of the Americas,1,01:36.296,01:36.450,01:34.999,96296,96450,94999
+265,1,VER,Max Verstappen,Red Bull,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:40.424,01:39.903,01:39.818,100424,99903,99818
+266,1,VER,Max Verstappen,Red Bull,2016,Austrian Grand Prix,Red Bull Ring,9,01:07.131,01:06.866,01:11.153,67131,66866,71153
+267,1,VER,Max Verstappen,Red Bull,2016,Azerbaijan Grand Prix,Baku City Circuit,9,01:44.939,01:44.387,01:45.570,104939,104387,105570
+268,1,VER,Max Verstappen,Red Bull,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,01:48.407,01:47.163,01:46.893,108407,107163,106893
+269,1,VER,Max Verstappen,Red Bull,2016,British Grand Prix,Silverstone Circuit,3,01:31.305,01:30.697,01:30.313,91305,90697,90313
+270,1,VER,Max Verstappen,Red Bull,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,5,01:14.601,01:13.793,01:13.414,74601,73793,73414
+271,1,VER,Max Verstappen,Red Bull,2016,Hungarian Grand Prix,Hungaroring,4,01:40.424,01:22.660,01:20.557,100424,82660,80557
+272,1,VER,Max Verstappen,Red Bull,2016,Italian Grand Prix,Autodromo Nazionale di Monza,7,01:23.229,01:22.857,01:22.411,83229,82857,82411
+273,1,VER,Max Verstappen,Red Bull,2016,Japanese Grand Prix,Suzuka Circuit,5,01:32.487,01:31.489,01:31.178,92487,91489,91178
+274,1,VER,Max Verstappen,Red Bull,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,01:19.874,01:18.972,01:19.054,79874,78972,79054
+275,1,VER,Max Verstappen,Red Bull,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:11.957,01:11.834,01:11.485,71957,71834,71485
+276,1,VER,Max Verstappen,Red Bull,2016,Singapore Grand Prix,Marina Bay Street Circuit,4,01:45.036,01:44.112,01:43.328,105036,104112,103328
+277,1,VER,Max Verstappen,Red Bull,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:23.578,01:23.178,01:23.087,83578,83178,83087
+278,1,VER,Max Verstappen,Red Bull,2016,United States Grand Prix,Circuit of the Americas,4,01:36.613,01:36.857,01:35.747,96613,96857,95747
+279,14,ALO,Fernando Alonso,McLaren,2017,Hungarian Grand Prix,Hungaroring,8,01:18.395,01:17.919,01:17.549,78395,77919,77549
+280,14,ALO,Fernando Alonso,McLaren,2017,Japanese Grand Prix,Suzuka Circuit,10,01:30.525,01:29.749,01:30.687,90525,89749,90687
+281,14,ALO,Fernando Alonso,McLaren,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,7,01:10.172,01:09.593,01:09.617,70172,69593,69617
+282,14,ALO,Fernando Alonso,McLaren,2017,Singapore Grand Prix,Marina Bay Street Circuit,8,01:42.086,01:41.442,01:41.179,102086,101442,101179
+283,14,ALO,Fernando Alonso,McLaren,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:22.015,01:21.251,01:21.048,82015,81251,81048
+284,14,ALO,Fernando Alonso,McLaren,2017,United States Grand Prix,Circuit of the Americas,9,01:35.712,01:35.046,01:35.007,95712,95046,95007
+285,77,BOT,Valtteri Bottas,Mercedes,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:37.356,01:36.822,01:36.231,97356,96822,96231
+286,77,BOT,Valtteri Bottas,Mercedes,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,3,01:24.514,01:23.215,01:22.481,84514,83215,82481
+287,77,BOT,Valtteri Bottas,Mercedes,2017,Austrian Grand Prix,Red Bull Ring,1,01:05.760,01:04.316,01:04.251,65760,64316,64251
+288,77,BOT,Valtteri Bottas,Mercedes,2017,Azerbaijan Grand Prix,Baku City Circuit,2,01:43.026,01:41.502,01:41.027,103026,101502,101027
+289,77,BOT,Valtteri Bottas,Mercedes,2017,Bahrain Grand Prix,Bahrain International Circuit,1,01:31.041,01:29.555,01:28.769,91041,89555,88769
+290,77,BOT,Valtteri Bottas,Mercedes,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:44.773,01:43.249,01:43.094,104773,103249,103094
+291,77,BOT,Valtteri Bottas,Mercedes,2017,British Grand Prix,Silverstone Circuit,4,01:39.698,01:28.732,01:27.376,99698,88732,87376
+292,77,BOT,Valtteri Bottas,Mercedes,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:12.685,01:12.563,01:12.177,72685,72563,72177
+293,77,BOT,Valtteri Bottas,Mercedes,2017,Hungarian Grand Prix,Hungaroring,3,01:18.058,01:17.362,01:16.530,78058,77362,76530
+294,77,BOT,Valtteri Bottas,Mercedes,2017,Italian Grand Prix,Autodromo Nazionale di Monza,6,01:35.716,01:35.396,01:37.833,95716,95396,97833
+295,77,BOT,Valtteri Bottas,Mercedes,2017,Japanese Grand Prix,Suzuka Circuit,2,01:29.332,01:28.543,01:27.651,89332,88543,87651
+296,77,BOT,Valtteri Bottas,Mercedes,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,01:17.578,01:17.161,01:16.958,77578,77161,76958
+297,77,BOT,Valtteri Bottas,Mercedes,2017,Monaco Grand Prix,Circuit de Monaco,3,01:13.325,01:12.901,01:12.223,73325,72901,72223
+298,77,BOT,Valtteri Bottas,Mercedes,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:09.452,01:08.638,01:08.322,69452,68638,68322
+299,77,BOT,Valtteri Bottas,Mercedes,2017,Singapore Grand Prix,Marina Bay Street Circuit,6,01:43.137,01:41.409,01:40.810,103137,101409,100810
+300,77,BOT,Valtteri Bottas,Mercedes,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:20.991,01:20.300,01:19.373,80991,80300,79373
+301,77,BOT,Valtteri Bottas,Mercedes,2017,United States Grand Prix,Circuit of the Americas,3,01:35.309,01:33.769,01:33.568,95309,93769,93568
+302,44,HAM,Lewis Hamilton,Mercedes,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:37.391,01:36.742,01:36.403,97391,96742,96403
+303,44,HAM,Lewis Hamilton,Mercedes,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:24.191,01:23.251,01:22.188,84191,83251,82188
+304,44,HAM,Lewis Hamilton,Mercedes,2017,Austrian Grand Prix,Red Bull Ring,3,01:05.064,01:04.800,01:04.424,65064,64800,64424
+305,44,HAM,Lewis Hamilton,Mercedes,2017,Azerbaijan Grand Prix,Baku City Circuit,1,01:41.983,01:41.275,01:40.593,101983,101275,100593
+306,44,HAM,Lewis Hamilton,Mercedes,2017,Bahrain Grand Prix,Bahrain International Circuit,2,01:30.814,01:29.535,01:28.792,90814,89535,88792
+307,44,HAM,Lewis Hamilton,Mercedes,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:44.184,01:42.927,01:42.553,104184,102927,102553
+308,44,HAM,Lewis Hamilton,Mercedes,2017,British Grand Prix,Silverstone Circuit,1,01:39.069,01:27.893,01:26.600,99069,87893,86600
+309,44,HAM,Lewis Hamilton,Mercedes,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:12.692,01:12.496,01:11.459,72692,72496,71459
+310,44,HAM,Lewis Hamilton,Mercedes,2017,Hungarian Grand Prix,Hungaroring,4,01:17.492,01:16.693,01:16.707,77492,76693,76707
+311,44,HAM,Lewis Hamilton,Mercedes,2017,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:36.009,01:34.660,01:35.554,96009,94660,95554
+312,44,HAM,Lewis Hamilton,Mercedes,2017,Japanese Grand Prix,Suzuka Circuit,1,01:29.047,01:27.819,01:27.319,89047,87819,87319
+313,44,HAM,Lewis Hamilton,Mercedes,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,01:17.518,01:17.035,01:16.934,77518,77035,76934
+314,44,HAM,Lewis Hamilton,Mercedes,2017,Singapore Grand Prix,Marina Bay Street Circuit,5,01:42.455,01:40.577,01:40.126,102455,100577,100126
+315,44,HAM,Lewis Hamilton,Mercedes,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:20.511,01:20.210,01:19.149,80511,80210,79149
+316,44,HAM,Lewis Hamilton,Mercedes,2017,United States Grand Prix,Circuit of the Americas,1,01:34.822,01:33.437,01:33.108,94822,93437,93108
+317,18,STR,Lance Stroll,Williams,2017,Azerbaijan Grand Prix,Baku City Circuit,8,01:43.613,01:42.284,01:42.753,103613,102284,102753
+318,18,STR,Lance Stroll,Williams,2017,Italian Grand Prix,Autodromo Nazionale di Monza,4,01:37.653,01:37.002,01:37.032,97653,97002,97032
+319,1,VER,Max Verstappen,Red Bull,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:38.021,01:37.777,01:37.328,98021,97777,97328
+320,1,VER,Max Verstappen,Red Bull,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:24.482,01:24.092,01:23.485,84482,84092,83485
+321,1,VER,Max Verstappen,Red Bull,2017,Austrian Grand Prix,Red Bull Ring,6,01:05.779,01:04.948,01:04.983,65779,64948,64983
+322,1,VER,Max Verstappen,Red Bull,2017,Azerbaijan Grand Prix,Baku City Circuit,5,01:42.544,01:41.961,01:41.879,102544,101961,101879
+323,1,VER,Max Verstappen,Red Bull,2017,Bahrain Grand Prix,Bahrain International Circuit,6,01:30.904,01:30.307,01:29.687,90904,90307,89687
+324,1,VER,Max Verstappen,Red Bull,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,01:44.535,01:43.940,01:43.380,104535,103940,103380
+325,1,VER,Max Verstappen,Red Bull,2017,British Grand Prix,Silverstone Circuit,5,01:38.912,01:29.431,01:28.130,98912,89431,88130
+326,1,VER,Max Verstappen,Red Bull,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,5,01:13.177,01:12.751,01:12.403,73177,72751,72403
+327,1,VER,Max Verstappen,Red Bull,2017,Hungarian Grand Prix,Hungaroring,5,01:17.266,01:17.028,01:16.797,77266,77028,76797
+328,1,VER,Max Verstappen,Red Bull,2017,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:37.344,01:36.113,01:36.702,97344,96113,96702
+329,1,VER,Max Verstappen,Red Bull,2017,Japanese Grand Prix,Suzuka Circuit,5,01:29.181,01:28.747,01:28.332,89181,88747,88332
+330,1,VER,Max Verstappen,Red Bull,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:17.630,01:16.524,01:16.574,77630,76524,76574
+331,1,VER,Max Verstappen,Red Bull,2017,Monaco Grand Prix,Circuit de Monaco,4,01:13.078,01:12.697,01:12.496,73078,72697,72496
+332,1,VER,Max Verstappen,Red Bull,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:09.820,01:09.050,01:08.925,69820,69050,68925
+333,1,VER,Max Verstappen,Red Bull,2017,Singapore Grand Prix,Marina Bay Street Circuit,2,01:42.010,01:40.332,01:39.814,102010,100332,99814
+334,1,VER,Max Verstappen,Red Bull,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:21.430,01:20.722,01:19.706,81430,80722,79706
+335,1,VER,Max Verstappen,Red Bull,2017,United States Grand Prix,Circuit of the Americas,6,01:34.899,01:34.716,01:33.658,94899,94716,93658
+336,14,ALO,Fernando Alonso,McLaren,2018,Monaco Grand Prix,Circuit de Monaco,7,01:12.657,01:12.269,01:12.110,72657,72269,72110
+337,14,ALO,Fernando Alonso,McLaren,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,01:18.276,01:18.100,01:17.721,78276,78100,77721
+338,77,BOT,Valtteri Bottas,Mercedes,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:36.789,01:36.392,01:34.956,96789,96392,94956
+339,77,BOT,Valtteri Bottas,Mercedes,2018,Austrian Grand Prix,Red Bull Ring,1,01:04.175,01:03.756,01:03.130,64175,63756,63130
+340,77,BOT,Valtteri Bottas,Mercedes,2018,Azerbaijan Grand Prix,Baku City Circuit,3,01:43.355,01:42.679,01:41.837,103355,102679,101837
+341,77,BOT,Valtteri Bottas,Mercedes,2018,Bahrain Grand Prix,Bahrain International Circuit,3,01:29.275,01:28.794,01:28.124,89275,88794,88124
+342,77,BOT,Valtteri Bottas,Mercedes,2018,British Grand Prix,Silverstone Circuit,4,01:27.025,01:26.413,01:26.217,87025,86413,86217
+343,77,BOT,Valtteri Bottas,Mercedes,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:11.950,01:11.514,01:10.857,71950,71514,70857
+344,77,BOT,Valtteri Bottas,Mercedes,2018,Hungarian Grand Prix,Hungaroring,2,01:17.123,01:32.081,01:35.918,77123,92081,95918
+345,77,BOT,Valtteri Bottas,Mercedes,2018,Italian Grand Prix,Autodromo Nazionale di Monza,4,01:21.381,01:20.427,01:19.656,81381,80427,79656
+346,77,BOT,Valtteri Bottas,Mercedes,2018,Japanese Grand Prix,Suzuka Circuit,2,01:29.297,01:27.987,01:28.059,89297,87987,88059
+347,77,BOT,Valtteri Bottas,Mercedes,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,5,01:15.580,01:15.923,01:15.160,75580,75923,75160
+348,77,BOT,Valtteri Bottas,Mercedes,2018,Monaco Grand Prix,Circuit de Monaco,5,01:12.434,01:12.002,01:11.441,72434,72002,71441
+349,77,BOT,Valtteri Bottas,Mercedes,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,3,01:08.492,01:07.727,01:07.441,68492,67727,67441
+350,77,BOT,Valtteri Bottas,Mercedes,2018,Singapore Grand Prix,Marina Bay Street Circuit,4,01:39.291,01:37.254,01:36.702,99291,97254,96702
+351,77,BOT,Valtteri Bottas,Mercedes,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:17.674,01:17.111,01:16.213,77674,77111,76213
+352,77,BOT,Valtteri Bottas,Mercedes,2018,United States Grand Prix,Circuit of the Americas,4,01:34.518,01:33.702,01:32.616,94518,93702,92616
+353,44,HAM,Lewis Hamilton,Mercedes,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:36.828,01:35.693,01:34.794,96828,95693,94794
+354,44,HAM,Lewis Hamilton,Mercedes,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:22.824,01:22.051,01:21.164,82824,82051,81164
+355,44,HAM,Lewis Hamilton,Mercedes,2018,Austrian Grand Prix,Red Bull Ring,2,01:04.080,01:03.577,01:03.149,64080,63577,63149
+356,44,HAM,Lewis Hamilton,Mercedes,2018,Azerbaijan Grand Prix,Baku City Circuit,2,01:42.693,01:42.676,01:41.677,102693,102676,101677
+357,44,HAM,Lewis Hamilton,Mercedes,2018,Bahrain Grand Prix,Bahrain International Circuit,4,01:29.396,01:28.458,01:28.220,89396,88458,88220
+358,44,HAM,Lewis Hamilton,Mercedes,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:42.977,01:41.553,01:58.179,102977,101553,118179
+359,44,HAM,Lewis Hamilton,Mercedes,2018,British Grand Prix,Silverstone Circuit,1,01:26.818,01:26.256,01:25.892,86818,86256,85892
+360,44,HAM,Lewis Hamilton,Mercedes,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,4,01:11.835,01:11.740,01:10.996,71835,71740,70996
+361,44,HAM,Lewis Hamilton,Mercedes,2018,Hungarian Grand Prix,Hungaroring,1,01:17.419,01:31.242,01:35.658,77419,91242,95658
+362,44,HAM,Lewis Hamilton,Mercedes,2018,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:20.810,01:19.798,01:19.294,80810,79798,79294
+363,44,HAM,Lewis Hamilton,Mercedes,2018,Japanese Grand Prix,Suzuka Circuit,1,01:28.702,01:28.017,01:27.760,88702,88017,87760
+364,44,HAM,Lewis Hamilton,Mercedes,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,01:15.673,01:15.644,01:14.894,75673,75644,74894
+365,44,HAM,Lewis Hamilton,Mercedes,2018,Monaco Grand Prix,Circuit de Monaco,3,01:12.460,01:11.584,01:11.232,72460,71584,71232
+366,44,HAM,Lewis Hamilton,Mercedes,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:08.464,01:07.795,01:07.281,68464,67795,67281
+367,44,HAM,Lewis Hamilton,Mercedes,2018,Singapore Grand Prix,Marina Bay Street Circuit,1,01:39.403,01:37.344,01:36.015,99403,97344,96015
+368,44,HAM,Lewis Hamilton,Mercedes,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:17.633,01:17.166,01:16.173,77633,77166,76173
+369,44,HAM,Lewis Hamilton,Mercedes,2018,United States Grand Prix,Circuit of the Americas,1,01:34.130,01:33.480,01:32.237,94130,93480,92237
+370,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,6,01:23.909,01:23.300,01:23.187,83909,83300,83187
+371,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Austrian Grand Prix,Red Bull Ring,8,01:04.460,01:04.291,01:04.051,64460,64291,64051
+372,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Bahrain Grand Prix,Bahrain International Circuit,7,01:29.594,01:29.623,01:29.358,89594,89623,89358
+373,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,01:43.834,01:43.320,02:04.933,103834,103320,124933
+374,20,MAG,Kevin Magnussen,Haas F1 Team,2018,British Grand Prix,Silverstone Circuit,7,01:28.143,01:27.730,01:27.244,88143,87730,87244
+375,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Hungarian Grand Prix,Hungaroring,9,01:18.314,01:32.968,01:39.858,78314,92968,99858
+376,20,MAG,Kevin Magnussen,Haas F1 Team,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:18.169,01:17.618,01:17.676,78169,77618,77676
+377,18,STR,Lance Stroll,Williams,2018,Italian Grand Prix,Autodromo Nazionale di Monza,10,01:21.838,01:21.494,01:21.627,81838,81494,81627
+378,1,VER,Max Verstappen,Red Bull,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:37.195,01:36.144,01:35.589,97195,96144,95589
+379,1,VER,Max Verstappen,Red Bull,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,4,01:23.483,01:22.416,01:21.879,83483,82416,81879
+380,1,VER,Max Verstappen,Red Bull,2018,Austrian Grand Prix,Red Bull Ring,5,01:04.273,01:04.001,01:03.840,64273,64001,63840
+381,1,VER,Max Verstappen,Red Bull,2018,Azerbaijan Grand Prix,Baku City Circuit,5,01:42.642,01:42.901,01:41.994,102642,102901,101994
+382,1,VER,Max Verstappen,Red Bull,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,01:43.199,01:42.554,02:02.769,103199,102554,122769
+383,1,VER,Max Verstappen,Red Bull,2018,British Grand Prix,Silverstone Circuit,5,01:27.309,01:27.013,01:26.602,87309,87013,86602
+384,1,VER,Max Verstappen,Red Bull,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:12.008,01:11.472,01:10.937,72008,71472,70937
+385,1,VER,Max Verstappen,Red Bull,2018,Hungarian Grand Prix,Hungaroring,7,01:16.940,01:31.178,01:38.032,76940,91178,98032
+386,1,VER,Max Verstappen,Red Bull,2018,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:21.381,01:20.333,01:20.615,81381,80333,80615
+387,1,VER,Max Verstappen,Red Bull,2018,Japanese Grand Prix,Suzuka Circuit,3,01:29.480,01:28.849,01:29.057,89480,88849,89057
+388,1,VER,Max Verstappen,Red Bull,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:15.756,01:15.640,01:14.785,75756,75640,74785
+389,1,VER,Max Verstappen,Red Bull,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:08.205,01:08.017,01:07.778,68205,68017,67778
+390,1,VER,Max Verstappen,Red Bull,2018,Singapore Grand Prix,Marina Bay Street Circuit,2,01:38.751,01:37.214,01:36.334,98751,97214,96334
+391,1,VER,Max Verstappen,Red Bull,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:17.411,01:17.266,01:16.816,77411,77266,76816
+392,23,ALB,Alexander Albon,Red Bull,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:36.102,01:36.718,01:35.682,96102,96718,95682
+393,23,ALB,Alexander Albon,Red Bull,2019,Japanese Grand Prix,Suzuka Circuit,6,01:29.351,01:28.156,01:27.851,89351,88156,87851
+394,23,ALB,Alexander Albon,Red Bull,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,5,01:16.175,01:16.574,01:15.336,76175,76574,75336
+395,23,ALB,Alexander Albon,Red Bull,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,6,01:08.503,01:08.117,01:07.935,68503,68117,67935
+396,23,ALB,Alexander Albon,Red Bull,2019,Singapore Grand Prix,Marina Bay Street Circuit,6,01:39.106,01:37.865,01:37.411,99106,97865,97411
+397,23,ALB,Alexander Albon,Red Bull,2019,United States Grand Prix,Circuit of the Americas,6,01:33.984,01:32.898,01:32.548,93984,92898,92548
+398,77,BOT,Valtteri Bottas,Mercedes,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:36.200,01:35.674,01:34.973,96200,95674,94973
+399,77,BOT,Valtteri Bottas,Mercedes,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,2,01:22.367,01:21.193,01:20.598,82367,81193,80598
+400,77,BOT,Valtteri Bottas,Mercedes,2019,Austrian Grand Prix,Red Bull Ring,4,01:04.084,01:03.863,01:03.537,64084,63863,63537
+401,77,BOT,Valtteri Bottas,Mercedes,2019,Azerbaijan Grand Prix,Baku City Circuit,1,01:42.026,01:41.500,01:40.495,102026,101500,100495
+402,77,BOT,Valtteri Bottas,Mercedes,2019,Bahrain Grand Prix,Bahrain International Circuit,4,01:29.498,01:28.830,01:28.256,89498,88830,88256
+403,77,BOT,Valtteri Bottas,Mercedes,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,01:45.141,01:43.980,01:43.415,105141,103980,103415
+404,77,BOT,Valtteri Bottas,Mercedes,2019,British Grand Prix,Silverstone Circuit,1,01:25.750,01:25.672,01:25.093,85750,85672,85093
+405,77,BOT,Valtteri Bottas,Mercedes,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,6,01:11.229,01:11.095,01:11.101,71229,71095,71101
+406,77,BOT,Valtteri Bottas,Mercedes,2019,Hungarian Grand Prix,Hungaroring,2,01:16.078,01:15.669,01:14.590,76078,75669,74590
+407,77,BOT,Valtteri Bottas,Mercedes,2019,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:20.156,01:20.018,01:19.354,80156,80018,79354
+408,77,BOT,Valtteri Bottas,Mercedes,2019,Japanese Grand Prix,Suzuka Circuit,3,01:28.896,01:27.688,01:27.293,88896,87688,87293
+409,77,BOT,Valtteri Bottas,Mercedes,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,01:17.062,01:15.852,01:15.338,77062,75852,75338
+410,77,BOT,Valtteri Bottas,Mercedes,2019,Monaco Grand Prix,Circuit de Monaco,2,01:11.562,01:10.701,01:10.252,71562,70701,70252
+411,77,BOT,Valtteri Bottas,Mercedes,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:08.545,01:08.232,01:07.874,68545,68232,67874
+412,77,BOT,Valtteri Bottas,Mercedes,2019,Singapore Grand Prix,Marina Bay Street Circuit,5,01:37.317,01:37.142,01:37.146,97317,97142,97146
+413,77,BOT,Valtteri Bottas,Mercedes,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:16.979,01:15.924,01:15.406,76979,75924,75406
+414,77,BOT,Valtteri Bottas,Mercedes,2019,United States Grand Prix,Circuit of the Americas,1,01:33.750,01:33.160,01:32.029,93750,93160,92029
+415,44,HAM,Lewis Hamilton,Mercedes,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:35.851,01:35.634,01:34.779,95851,95634,94779
+416,44,HAM,Lewis Hamilton,Mercedes,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:22.043,01:21.014,01:20.486,82043,81014,80486
+417,44,HAM,Lewis Hamilton,Mercedes,2019,Austrian Grand Prix,Red Bull Ring,2,01:03.818,01:03.803,01:03.262,63818,63803,63262
+418,44,HAM,Lewis Hamilton,Mercedes,2019,Azerbaijan Grand Prix,Baku City Circuit,2,01:41.614,01:41.580,01:40.554,101614,101580,100554
+419,44,HAM,Lewis Hamilton,Mercedes,2019,Bahrain Grand Prix,Bahrain International Circuit,3,01:29.262,01:28.578,01:28.190,89262,88578,88190
+420,44,HAM,Lewis Hamilton,Mercedes,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:45.260,01:43.592,01:43.282,105260,103592,103282
+421,44,HAM,Lewis Hamilton,Mercedes,2019,British Grand Prix,Silverstone Circuit,2,01:25.513,01:25.840,01:25.099,85513,85840,85099
+422,44,HAM,Lewis Hamilton,Mercedes,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,2,01:11.518,01:11.010,01:10.446,71518,71010,70446
+423,44,HAM,Lewis Hamilton,Mercedes,2019,Hungarian Grand Prix,Hungaroring,3,01:16.068,01:15.548,01:14.769,76068,75548,74769
+424,44,HAM,Lewis Hamilton,Mercedes,2019,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:20.272,01:19.464,01:19.346,80272,79464,79346
+425,44,HAM,Lewis Hamilton,Mercedes,2019,Japanese Grand Prix,Suzuka Circuit,4,01:28.735,01:27.826,01:27.302,88735,87826,87302
+426,44,HAM,Lewis Hamilton,Mercedes,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,01:16.424,01:15.721,01:15.262,76424,75721,75262
+427,44,HAM,Lewis Hamilton,Mercedes,2019,Monaco Grand Prix,Circuit de Monaco,1,01:11.542,01:10.835,01:10.166,71542,70835,70166
+428,44,HAM,Lewis Hamilton,Mercedes,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,3,01:08.614,01:08.088,01:07.699,68614,68088,67699
+429,44,HAM,Lewis Hamilton,Mercedes,2019,Singapore Grand Prix,Marina Bay Street Circuit,2,01:37.565,01:36.933,01:36.408,97565,96933,96408
+430,44,HAM,Lewis Hamilton,Mercedes,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:17.292,01:16.038,01:16.040,77292,76038,76040
+431,44,HAM,Lewis Hamilton,Mercedes,2019,United States Grand Prix,Circuit of the Americas,5,01:33.454,01:33.045,01:32.321,93454,93045,92321
+432,16,LEC,Charles Leclerc,Ferrari,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,4,01:36.478,01:35.543,01:35.219,96478,95543,95219
+433,16,LEC,Charles Leclerc,Ferrari,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:22.017,01:21.739,01:21.442,82017,81739,81442
+434,16,LEC,Charles Leclerc,Ferrari,2019,Austrian Grand Prix,Red Bull Ring,1,01:04.138,01:03.378,01:03.003,64138,63378,63003
+435,16,LEC,Charles Leclerc,Ferrari,2019,Bahrain Grand Prix,Bahrain International Circuit,1,01:28.495,01:28.046,01:27.866,88495,88046,87866
+436,16,LEC,Charles Leclerc,Ferrari,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:43.587,01:42.938,01:42.519,103587,102938,102519
+437,16,LEC,Charles Leclerc,Ferrari,2019,British Grand Prix,Silverstone Circuit,3,01:25.533,01:25.546,01:25.172,85533,85546,85172
+438,16,LEC,Charles Leclerc,Ferrari,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:11.214,01:11.205,01:10.920,71214,71205,70920
+439,16,LEC,Charles Leclerc,Ferrari,2019,Hungarian Grand Prix,Hungaroring,4,01:16.337,01:15.792,01:15.043,76337,75792,75043
+440,16,LEC,Charles Leclerc,Ferrari,2019,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:20.126,01:19.553,01:19.307,80126,79553,79307
+441,16,LEC,Charles Leclerc,Ferrari,2019,Japanese Grand Prix,Suzuka Circuit,2,01:28.405,01:28.179,01:27.253,88405,88179,87253
+442,16,LEC,Charles Leclerc,Ferrari,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:16.364,01:16.219,01:15.024,76364,76219,75024
+443,16,LEC,Charles Leclerc,Ferrari,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:08.496,01:07.888,01:07.728,68496,67888,67728
+444,16,LEC,Charles Leclerc,Ferrari,2019,Singapore Grand Prix,Marina Bay Street Circuit,1,01:38.014,01:36.650,01:36.217,98014,96650,96217
+445,16,LEC,Charles Leclerc,Ferrari,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:17.388,01:16.714,01:16.588,77388,76714,76588
+446,16,LEC,Charles Leclerc,Ferrari,2019,United States Grand Prix,Circuit of the Americas,4,01:33.988,01:32.760,01:32.137,93988,92760,92137
+447,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,7,01:22.519,01:22.221,01:22.099,82519,82221,82099
+448,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Austrian Grand Prix,Red Bull Ring,5,01:04.778,01:04.466,01:04.072,64778,64466,64072
+449,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Bahrain Grand Prix,Bahrain International Circuit,6,01:29.532,01:29.017,01:28.757,89532,89017,88757
+450,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,01:45.839,01:44.738,01:45.086,105839,104738,105086
+451,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Monaco Grand Prix,Circuit de Monaco,6,01:11.865,01:11.363,01:11.109,71865,71363,71109
+452,20,MAG,Kevin Magnussen,Haas F1 Team,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,10,01:08.875,01:08.803,01:09.037,68875,68803,69037
+453,20,MAG,Kevin Magnussen,Haas F1 Team,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,01:17.669,01:17.272,01:16.922,77669,77272,76922
+454,4,NOR,Lando Norris,McLaren,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,7,01:37.545,01:36.764,01:36.436,97545,96764,96436
+455,4,NOR,Lando Norris,McLaren,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,8,01:22.702,01:22.423,01:22.304,82702,82423,82304
+456,4,NOR,Lando Norris,McLaren,2019,Austrian Grand Prix,Red Bull Ring,6,01:04.361,01:04.211,01:04.099,64361,64211,64099
+457,4,NOR,Lando Norris,McLaren,2019,Azerbaijan Grand Prix,Baku City Circuit,7,01:42.371,01:42.084,01:41.886,102371,102084,101886
+458,4,NOR,Lando Norris,McLaren,2019,Bahrain Grand Prix,Bahrain International Circuit,10,01:29.381,01:29.258,01:29.043,89381,89258,89043
+459,4,NOR,Lando Norris,McLaren,2019,British Grand Prix,Silverstone Circuit,8,01:26.079,01:26.385,01:26.224,86079,86385,86224
+460,4,NOR,Lando Norris,McLaren,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,8,01:11.780,01:11.735,01:11.863,71780,71735,71863
+461,4,NOR,Lando Norris,McLaren,2019,Hungarian Grand Prix,Hungaroring,7,01:16.697,01:16.060,01:15.800,76697,76060,75800
+462,4,NOR,Lando Norris,McLaren,2019,Japanese Grand Prix,Suzuka Circuit,8,01:28.873,01:28.571,01:28.464,88873,88571,88464
+463,4,NOR,Lando Norris,McLaren,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,01:17.092,01:16.447,01:16.322,77092,76447,76322
+464,4,NOR,Lando Norris,McLaren,2019,Singapore Grand Prix,Marina Bay Street Circuit,9,01:38.606,01:37.572,01:38.329,98606,97572,98329
+465,4,NOR,Lando Norris,McLaren,2019,United States Grand Prix,Circuit of the Americas,8,01:33.353,01:33.316,01:33.175,93353,93316,93175
+466,55,SAI,Carlos Sainz,McLaren,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,9,01:37.358,01:36.308,01:36.459,97358,96308,96459
+467,55,SAI,Carlos Sainz,McLaren,2019,Bahrain Grand Prix,Bahrain International Circuit,7,01:29.528,01:29.055,01:28.813,89528,89055,88813
+468,55,SAI,Carlos Sainz,McLaren,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,9,01:11.750,01:11.572,01:13.981,71750,71572,73981
+469,55,SAI,Carlos Sainz,McLaren,2019,Hungarian Grand Prix,Hungaroring,8,01:16.493,01:16.308,01:15.852,76493,76308,75852
+470,55,SAI,Carlos Sainz,McLaren,2019,Italian Grand Prix,Autodromo Nazionale di Monza,7,01:20.413,01:20.202,01:20.455,80413,80202,80455
+471,55,SAI,Carlos Sainz,McLaren,2019,Japanese Grand Prix,Suzuka Circuit,7,01:29.018,01:28.577,01:28.304,89018,88577,88304
+472,55,SAI,Carlos Sainz,McLaren,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,7,01:17.044,01:16.267,01:16.014,77044,76267,76014
+473,55,SAI,Carlos Sainz,McLaren,2019,Monaco Grand Prix,Circuit de Monaco,9,01:11.872,01:11.608,01:11.417,71872,71608,71417
+474,55,SAI,Carlos Sainz,McLaren,2019,Singapore Grand Prix,Marina Bay Street Circuit,7,01:38.882,01:37.982,01:37.818,98882,97982,97818
+475,55,SAI,Carlos Sainz,McLaren,2019,United States Grand Prix,Circuit of the Americas,7,01:33.916,01:33.422,01:32.847,93916,93422,92847
+476,1,VER,Max Verstappen,Red Bull,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:36.390,01:36.275,01:35.139,96390,96275,95139
+477,1,VER,Max Verstappen,Red Bull,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,4,01:22.876,01:21.678,01:21.320,82876,81678,81320
+478,1,VER,Max Verstappen,Red Bull,2019,Austrian Grand Prix,Red Bull Ring,3,01:03.807,01:03.835,01:03.439,63807,63835,63439
+479,1,VER,Max Verstappen,Red Bull,2019,Azerbaijan Grand Prix,Baku City Circuit,4,01:41.727,01:41.388,01:41.069,101727,101388,101069
+480,1,VER,Max Verstappen,Red Bull,2019,Bahrain Grand Prix,Bahrain International Circuit,5,01:29.579,01:29.109,01:28.752,89579,89109,88752
+481,1,VER,Max Verstappen,Red Bull,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,01:44.622,01:44.132,01:43.690,104622,104132,103690
+482,1,VER,Max Verstappen,Red Bull,2019,British Grand Prix,Silverstone Circuit,4,01:25.700,01:25.848,01:25.276,85700,85848,85276
+483,1,VER,Max Verstappen,Red Bull,2019,Hungarian Grand Prix,Hungaroring,1,01:15.817,01:15.573,01:14.572,75817,75573,74572
+484,1,VER,Max Verstappen,Red Bull,2019,Japanese Grand Prix,Suzuka Circuit,5,01:28.754,01:28.499,01:27.851,88754,88499,87851
+485,1,VER,Max Verstappen,Red Bull,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,01:15.949,01:16.136,01:14.758,75949,76136,74758
+486,1,VER,Max Verstappen,Red Bull,2019,Monaco Grand Prix,Circuit de Monaco,3,01:11.597,01:10.618,01:10.641,71597,70618,70641
+487,1,VER,Max Verstappen,Red Bull,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:08.242,01:07.503,01:07.508,68242,67503,67508
+488,1,VER,Max Verstappen,Red Bull,2019,Singapore Grand Prix,Marina Bay Street Circuit,4,01:38.540,01:37.089,01:36.813,98540,97089,96813
+489,1,VER,Max Verstappen,Red Bull,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:17.244,01:16.726,01:16.357,77244,76726,76357
+490,1,VER,Max Verstappen,Red Bull,2019,United States Grand Prix,Circuit of the Americas,3,01:33.549,01:33.120,01:32.096,93549,93120,92096
+491,23,ALB,Alexander Albon,Red Bull,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,5,01:36.106,01:35.654,01:35.571,96106,95654,95571
+492,23,ALB,Alexander Albon,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,5,01:04.661,01:03.746,01:03.868,64661,63746,63868
+493,23,ALB,Alexander Albon,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,7,01:20.882,01:19.014,01:21.011,80882,79014,81011
+494,23,ALB,Alexander Albon,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,4,01:28.732,01:28.749,01:28.274,88732,88749,88274
+495,23,ALB,Alexander Albon,Red Bull,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,01:43.418,01:42.193,01:42.264,103418,102193,102264
+496,23,ALB,Alexander Albon,Red Bull,2020,British Grand Prix,Silverstone Circuit,9,01:27.153,01:26.642,01:26.669,87153,86642,86669
+497,23,ALB,Alexander Albon,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,01:15.402,01:14.745,01:14.572,75402,74745,74572
+498,23,ALB,Alexander Albon,Red Bull,2020,Italian Grand Prix,Autodromo Nazionale di Monza,9,01:21.104,01:20.064,01:20.090,81104,80064,80090
+499,23,ALB,Alexander Albon,Red Bull,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,01:17.419,01:17.163,01:17.029,77419,77163,77029
+500,77,BOT,Valtteri Bottas,Mercedes,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:35.699,01:35.527,01:35.271,95699,95527,95271
+501,77,BOT,Valtteri Bottas,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,1,01:04.111,01:03.015,01:02.939,64111,63015,62939
+502,77,BOT,Valtteri Bottas,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,4,01:18.791,01:18.657,01:20.701,78791,78657,80701
+503,77,BOT,Valtteri Bottas,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,2,01:28.767,01:28.063,01:27.553,88767,88063,87553
+504,77,BOT,Valtteri Bottas,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,1,00:53.904,00:53.803,00:53.377,53904,53803,53377
+505,77,BOT,Valtteri Bottas,Mercedes,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,01:42.534,01:42.126,01:41.763,102534,102126,101763
+506,77,BOT,Valtteri Bottas,Mercedes,2020,British Grand Prix,Silverstone Circuit,2,01:25.801,01:25.015,01:24.616,85801,85015,84616
+507,77,BOT,Valtteri Bottas,Mercedes,2020,British Grand Prix,Silverstone Circuit,1,01:26.738,01:25.785,01:25.154,86738,85785,85154
+508,77,BOT,Valtteri Bottas,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,01:14.221,01:14.585,01:13.609,74221,74585,73609
+509,77,BOT,Valtteri Bottas,Mercedes,2020,Hungarian Grand Prix,Hungaroring,2,01:15.474,01:14.530,01:13.554,75474,74530,73554
+510,77,BOT,Valtteri Bottas,Mercedes,2020,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:19.786,01:18.952,01:18.956,79786,78952,78956
+511,77,BOT,Valtteri Bottas,Mercedes,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:17.243,01:16.152,01:15.643,77243,76152,75643
+512,44,HAM,Lewis Hamilton,Mercedes,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:35.528,01:35.466,01:35.332,95528,95466,95332
+513,44,HAM,Lewis Hamilton,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,2,01:04.198,01:03.096,01:02.951,64198,63096,62951
+514,44,HAM,Lewis Hamilton,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,1,01:18.188,01:17.825,01:19.273,78188,77825,79273
+515,44,HAM,Lewis Hamilton,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,1,01:28.343,01:27.586,01:27.264,88343,87586,87264
+516,44,HAM,Lewis Hamilton,Mercedes,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:42.323,01:42.014,01:41.252,102323,102014,101252
+517,44,HAM,Lewis Hamilton,Mercedes,2020,British Grand Prix,Silverstone Circuit,1,01:25.900,01:25.347,01:24.303,85900,85347,84303
+518,44,HAM,Lewis Hamilton,Mercedes,2020,British Grand Prix,Silverstone Circuit,2,01:26.818,01:26.266,01:25.217,86818,86266,85217
+519,44,HAM,Lewis Hamilton,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,01:14.229,01:14.643,01:13.706,74229,74643,73706
+520,44,HAM,Lewis Hamilton,Mercedes,2020,Hungarian Grand Prix,Hungaroring,1,01:14.907,01:14.261,01:13.447,74907,74261,73447
+521,44,HAM,Lewis Hamilton,Mercedes,2020,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:19.514,01:19.092,01:18.887,79514,79092,78887
+522,44,HAM,Lewis Hamilton,Mercedes,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:16.872,01:16.013,01:15.584,76872,76013,75584
+523,16,LEC,Charles Leclerc,Ferrari,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,9,01:35.881,01:35.932,01:36.065,95881,95932,96065
+524,16,LEC,Charles Leclerc,Ferrari,2020,Austrian Grand Prix,Red Bull Ring,7,01:04.500,01:04.041,01:03.923,64500,64041,63923
+525,16,LEC,Charles Leclerc,Ferrari,2020,Bahrain Grand Prix,Bahrain International Circuit,4,00:54.249,00:53.825,00:53.613,54249,53825,53613
+526,16,LEC,Charles Leclerc,Ferrari,2020,British Grand Prix,Silverstone Circuit,4,01:26.550,01:26.203,01:25.427,86550,86203,85427
+527,16,LEC,Charles Leclerc,Ferrari,2020,British Grand Prix,Silverstone Circuit,8,01:27.427,01:26.709,01:26.614,87427,86709,86614
+528,16,LEC,Charles Leclerc,Ferrari,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,7,01:15.123,01:15.017,01:14.616,75123,75017,74616
+529,16,LEC,Charles Leclerc,Ferrari,2020,Hungarian Grand Prix,Hungaroring,6,01:15.793,01:15.006,01:14.817,75793,75006,74817
+530,16,LEC,Charles Leclerc,Ferrari,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,01:17.256,01:16.953,01:17.087,77256,76953,77087
+531,4,NOR,Lando Norris,McLaren,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,4,01:36.016,01:35.849,01:35.497,96016,95849,95497
+532,4,NOR,Lando Norris,McLaren,2020,Austrian Grand Prix,Red Bull Ring,4,01:04.606,01:03.819,01:03.626,64606,63819,63626
+533,4,NOR,Lando Norris,McLaren,2020,Austrian Grand Prix,Red Bull Ring,6,01:18.504,01:18.448,01:20.925,78504,78448,80925
+534,4,NOR,Lando Norris,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,9,01:29.464,01:28.877,01:28.542,89464,88877,88542
+535,4,NOR,Lando Norris,McLaren,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,01:43.514,01:42.722,01:42.657,103514,102722,102657
+536,4,NOR,Lando Norris,McLaren,2020,British Grand Prix,Silverstone Circuit,5,01:26.855,01:26.420,01:25.782,86855,86420,85782
+537,4,NOR,Lando Norris,McLaren,2020,British Grand Prix,Silverstone Circuit,10,01:27.217,01:26.885,01:26.778,87217,86885,86778
+538,4,NOR,Lando Norris,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,01:15.274,01:15.051,01:14.814,75274,75051,74814
+539,4,NOR,Lando Norris,McLaren,2020,Hungarian Grand Prix,Hungaroring,8,01:15.444,01:15.085,01:14.966,75444,75085,74966
+540,4,NOR,Lando Norris,McLaren,2020,Italian Grand Prix,Autodromo Nazionale di Monza,6,01:20.344,01:19.962,01:19.820,80344,79962,79820
+541,4,NOR,Lando Norris,McLaren,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,01:17.577,01:17.166,01:17.084,77577,77166,77084
+542,63,RUS,George Russell,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,2,00:54.160,00:53.819,00:53.403,54160,53819,53403
+543,55,SAI,Carlos Sainz,McLaren,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:36.517,01:36.192,01:35.815,96517,96192,95815
+544,55,SAI,Carlos Sainz,McLaren,2020,Austrian Grand Prix,Red Bull Ring,8,01:04.537,01:03.971,01:03.971,64537,63971,63971
+545,55,SAI,Carlos Sainz,McLaren,2020,Austrian Grand Prix,Red Bull Ring,3,01:18.590,01:18.836,01:20.671,78590,78836,80671
+546,55,SAI,Carlos Sainz,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,8,00:54.450,00:53.818,00:54.010,54450,53818,54010
+547,55,SAI,Carlos Sainz,McLaren,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,01:43.322,01:42.478,01:42.438,103322,102478,102438
+548,55,SAI,Carlos Sainz,McLaren,2020,British Grand Prix,Silverstone Circuit,7,01:26.715,01:26.149,01:25.965,86715,86149,85965
+549,55,SAI,Carlos Sainz,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,01:15.528,01:15.027,01:14.911,75528,75027,74911
+550,55,SAI,Carlos Sainz,McLaren,2020,Hungarian Grand Prix,Hungaroring,9,01:15.281,01:15.267,01:15.027,75281,75267,75027
+551,55,SAI,Carlos Sainz,McLaren,2020,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:20.099,01:19.705,01:19.695,80099,79705,79695
+552,55,SAI,Carlos Sainz,McLaren,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:17.438,01:16.876,01:17.044,77438,76876,77044
+553,1,VER,Max Verstappen,Red Bull,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:35.993,01:35.641,01:35.246,95993,95641,95246
+554,1,VER,Max Verstappen,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,3,01:04.024,01:04.000,01:03.477,64024,64000,63477
+555,1,VER,Max Verstappen,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,2,01:18.297,01:17.938,01:20.489,78297,77938,80489
+556,1,VER,Max Verstappen,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,3,01:28.885,01:28.025,01:27.678,88885,88025,87678
+557,1,VER,Max Verstappen,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,3,00:54.037,00:53.647,00:53.433,54037,53647,53433
+558,1,VER,Max Verstappen,Red Bull,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:43.197,01:42.473,01:41.778,103197,102473,101778
+559,1,VER,Max Verstappen,Red Bull,2020,British Grand Prix,Silverstone Circuit,3,01:26.115,01:26.144,01:25.325,86115,86144,85325
+560,1,VER,Max Verstappen,Red Bull,2020,British Grand Prix,Silverstone Circuit,4,01:27.154,01:26.779,01:26.176,87154,86779,86176
+561,1,VER,Max Verstappen,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,01:15.034,01:14.974,01:14.176,75034,74974,74176
+562,1,VER,Max Verstappen,Red Bull,2020,Hungarian Grand Prix,Hungaroring,7,01:15.495,01:14.976,01:14.849,75495,74976,74849
+563,1,VER,Max Verstappen,Red Bull,2020,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:20.193,01:19.780,01:19.795,80193,79780,79795
+564,1,VER,Max Verstappen,Red Bull,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:17.213,01:16.518,01:16.292,77213,76518,76292
+565,77,BOT,Valtteri Bottas,Mercedes,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:23.117,01:23.246,01:23.036,83117,83246,83036
+566,77,BOT,Valtteri Bottas,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,2,01:04.537,01:04.443,01:04.035,64537,64443,64035
+567,77,BOT,Valtteri Bottas,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,5,01:04.563,01:04.376,01:04.049,64563,64376,64049
+568,77,BOT,Valtteri Bottas,Mercedes,2021,Azerbaijan Grand Prix,Baku City Circuit,10,01:42.701,01:42.106,01:42.659,102701,102106,102659
+569,77,BOT,Valtteri Bottas,Mercedes,2021,Bahrain Grand Prix,Bahrain International Circuit,3,01:31.200,01:30.186,01:29.586,91200,90186,89586
+570,77,BOT,Valtteri Bottas,Mercedes,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,01:59.870,01:56.295,02:02.502,119870,116295,122502
+571,77,BOT,Valtteri Bottas,Mercedes,2021,British Grand Prix,Silverstone Circuit,3,01:27.487,01:26.764,01:26.328,87487,86764,86328
+572,77,BOT,Valtteri Bottas,Mercedes,2021,Dutch Grand Prix,Circuit Park Zandvoort,3,01:10.219,01:09.769,01:09.222,70219,69769,69222
+573,77,BOT,Valtteri Bottas,Mercedes,2021,Emilia Romagna Grand Prix,Losail International Circuit,3,01:22.016,01:21.991,01:21.478,82016,81991,81478
+574,77,BOT,Valtteri Bottas,Mercedes,2021,Hungarian Grand Prix,Hungaroring,2,01:16.569,01:16.702,01:15.734,76569,76702,75734
+575,77,BOT,Valtteri Bottas,Mercedes,2021,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:20.685,01:20.032,01:19.555,80685,80032,79555
+576,77,BOT,Valtteri Bottas,Mercedes,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,01:16.727,01:16.864,01:15.875,76727,76864,75875
+577,77,BOT,Valtteri Bottas,Mercedes,2021,Monaco Grand Prix,Circuit de Monaco,3,01:10.938,01:10.695,01:10.601,70938,70695,70601
+578,77,BOT,Valtteri Bottas,Mercedes,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,8,01:14.672,01:14.905,01:14.898,74672,74905,74898
+579,77,BOT,Valtteri Bottas,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,3,01:09.040,01:08.426,01:08.469,69040,68426,68469
+580,77,BOT,Valtteri Bottas,Mercedes,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2,01:28.057,01:28.054,01:27.622,88057,88054,87622
+581,77,BOT,Valtteri Bottas,Mercedes,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:18.005,01:17.142,01:16.873,78005,77142,76873
+582,77,BOT,Valtteri Bottas,Mercedes,2021,United States Grand Prix,Circuit of the Americas,4,01:34.590,01:33.959,01:33.475,94590,93959,93475
+583,44,HAM,Lewis Hamilton,Mercedes,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:22.845,01:23.145,01:22.480,82845,83145,82480
+584,44,HAM,Lewis Hamilton,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,3,01:04.672,01:04.512,01:04.067,64672,64512,64067
+585,44,HAM,Lewis Hamilton,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,4,01:04.506,01:04.258,01:04.014,64506,64258,64014
+586,44,HAM,Lewis Hamilton,Mercedes,2021,Azerbaijan Grand Prix,Baku City Circuit,2,01:41.545,01:41.634,01:41.450,101545,101634,101450
+587,44,HAM,Lewis Hamilton,Mercedes,2021,Bahrain Grand Prix,Bahrain International Circuit,2,01:30.617,01:30.085,01:29.385,90617,90085,89385
+588,44,HAM,Lewis Hamilton,Mercedes,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:59.218,01:56.229,02:00.099,119218,116229,120099
+589,44,HAM,Lewis Hamilton,Mercedes,2021,British Grand Prix,Silverstone Circuit,1,01:26.786,01:26.023,01:26.134,86786,86023,86134
+590,44,HAM,Lewis Hamilton,Mercedes,2021,Dutch Grand Prix,Circuit Park Zandvoort,2,01:10.114,01:09.726,01:08.923,70114,69726,68923
+591,44,HAM,Lewis Hamilton,Mercedes,2021,Emilia Romagna Grand Prix,Losail International Circuit,1,01:21.901,01:21.682,01:20.827,81901,81682,80827
+592,44,HAM,Lewis Hamilton,Mercedes,2021,Hungarian Grand Prix,Hungaroring,1,01:16.424,01:16.553,01:15.419,76424,76553,75419
+593,44,HAM,Lewis Hamilton,Mercedes,2021,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:20.543,01:19.936,01:19.651,80543,79936,79651
+594,44,HAM,Lewis Hamilton,Mercedes,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:17.207,01:16.474,01:16.020,77207,76474,76020
+595,44,HAM,Lewis Hamilton,Mercedes,2021,Monaco Grand Prix,Circuit de Monaco,7,01:11.622,01:11.116,01:11.095,71622,71116,71095
+596,44,HAM,Lewis Hamilton,Mercedes,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,1,01:14.823,01:14.817,01:14.411,74823,74817,74411
+597,44,HAM,Lewis Hamilton,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:08.733,01:08.068,01:07.934,68733,68068,67934
+598,44,HAM,Lewis Hamilton,Mercedes,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,1,01:28.466,01:27.712,01:27.511,88466,87712,87511
+599,44,HAM,Lewis Hamilton,Mercedes,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:18.245,01:17.166,01:16.741,78245,77166,76741
+600,44,HAM,Lewis Hamilton,Mercedes,2021,United States Grand Prix,Circuit of the Americas,2,01:34.579,01:33.797,01:33.119,94579,93797,93119
+601,16,LEC,Charles Leclerc,Ferrari,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,7,01:23.467,01:23.202,01:23.122,83467,83202,83122
+602,16,LEC,Charles Leclerc,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,7,01:04.745,01:04.646,01:04.472,64745,64646,64472
+603,16,LEC,Charles Leclerc,Ferrari,2021,Azerbaijan Grand Prix,Baku City Circuit,1,01:42.241,01:41.659,01:41.218,102241,101659,101218
+604,16,LEC,Charles Leclerc,Ferrari,2021,Bahrain Grand Prix,Bahrain International Circuit,4,01:30.691,01:30.010,01:29.678,90691,90010,89678
+605,16,LEC,Charles Leclerc,Ferrari,2021,British Grand Prix,Silverstone Circuit,4,01:27.051,01:26.919,01:26.828,87051,86919,86828
+606,16,LEC,Charles Leclerc,Ferrari,2021,Dutch Grand Prix,Circuit Park Zandvoort,5,01:09.829,01:09.437,01:09.527,69829,69437,69527
+607,16,LEC,Charles Leclerc,Ferrari,2021,Hungarian Grand Prix,Hungaroring,7,01:17.084,01:16.574,01:16.496,77084,76574,76496
+608,16,LEC,Charles Leclerc,Ferrari,2021,Italian Grand Prix,Autodromo Nazionale di Monza,8,01:21.219,01:20.767,01:20.510,81219,80767,80510
+609,16,LEC,Charles Leclerc,Ferrari,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,01:16.748,01:17.034,01:16.837,76748,77034,76837
+610,16,LEC,Charles Leclerc,Ferrari,2021,Monaco Grand Prix,Circuit de Monaco,1,01:11.113,01:10.597,01:10.346,71113,70597,70346
+611,16,LEC,Charles Leclerc,Ferrari,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,4,01:15.413,01:14.808,01:14.740,75413,74808,74740
+612,16,LEC,Charles Leclerc,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,7,01:09.155,01:08.859,01:08.960,69155,68859,68960
+613,16,LEC,Charles Leclerc,Ferrari,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,4,01:28.310,01:28.459,01:28.054,88310,88459,88054
+614,16,LEC,Charles Leclerc,Ferrari,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:18.041,01:17.717,01:17.510,78041,77717,77510
+615,16,LEC,Charles Leclerc,Ferrari,2021,United States Grand Prix,Circuit of the Americas,5,01:34.153,01:33.928,01:33.606,94153,93928,93606
+616,4,NOR,Lando Norris,McLaren,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:23.553,01:23.256,01:22.931,83553,83256,82931
+617,4,NOR,Lando Norris,McLaren,2021,Austrian Grand Prix,Red Bull Ring,4,01:04.584,01:04.298,01:04.120,64584,64298,64120
+618,4,NOR,Lando Norris,McLaren,2021,Austrian Grand Prix,Red Bull Ring,2,01:04.345,01:04.415,01:03.768,64345,64415,63768
+619,4,NOR,Lando Norris,McLaren,2021,Azerbaijan Grand Prix,Baku City Circuit,6,01:42.167,01:41.813,01:41.747,102167,101813,101747
+620,4,NOR,Lando Norris,McLaren,2021,Bahrain Grand Prix,Bahrain International Circuit,7,01:30.902,01:30.099,01:29.974,90902,90099,89974
+621,4,NOR,Lando Norris,McLaren,2021,British Grand Prix,Silverstone Circuit,6,01:27.444,01:27.220,01:26.897,87444,87220,86897
+622,4,NOR,Lando Norris,McLaren,2021,Emilia Romagna Grand Prix,Losail International Circuit,6,01:22.839,01:22.216,01:21.731,82839,82216,81731
+623,4,NOR,Lando Norris,McLaren,2021,Hungarian Grand Prix,Hungaroring,6,01:17.081,01:16.385,01:16.489,77081,76385,76489
+624,4,NOR,Lando Norris,McLaren,2021,Italian Grand Prix,Autodromo Nazionale di Monza,4,01:20.916,01:20.059,01:19.989,80916,80059,79989
+625,4,NOR,Lando Norris,McLaren,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,10,01:17.569,01:17.473,01:36.830,77569,77473,96830
+626,4,NOR,Lando Norris,McLaren,2021,Monaco Grand Prix,Circuit de Monaco,5,01:11.321,01:11.031,01:10.620,71321,71031,70620
+627,4,NOR,Lando Norris,McLaren,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,7,01:15.009,01:14.718,01:14.875,75009,74718,74875
+628,4,NOR,Lando Norris,McLaren,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,8,01:09.365,01:09.030,01:08.980,69365,69030,68980
+629,4,NOR,Lando Norris,McLaren,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,7,01:28.338,01:28.344,01:28.180,88338,88344,88180
+630,4,NOR,Lando Norris,McLaren,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,01:17.821,01:17.696,01:18.010,77821,77696,78010
+631,4,NOR,Lando Norris,McLaren,2021,United States Grand Prix,Circuit of the Americas,8,01:34.551,01:33.880,01:33.887,94551,93880,93887
+632,11,PER,Sergio Pérez,Red Bull,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,4,01:23.350,01:23.135,01:22.947,83350,83135,82947
+633,11,PER,Sergio Pérez,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,5,01:04.638,01:04.197,01:04.168,64638,64197,64168
+634,11,PER,Sergio Pérez,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,3,01:04.833,01:04.483,01:03.990,64833,64483,63990
+635,11,PER,Sergio Pérez,Red Bull,2021,Azerbaijan Grand Prix,Baku City Circuit,7,01:41.968,01:41.630,01:41.917,101968,101630,101917
+636,11,PER,Sergio Pérez,Red Bull,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,01:59.334,01:56.886,02:02.112,119334,116886,122112
+637,11,PER,Sergio Pérez,Red Bull,2021,British Grand Prix,Silverstone Circuit,5,01:27.121,01:27.073,01:26.844,87121,87073,86844
+638,11,PER,Sergio Pérez,Red Bull,2021,Hungarian Grand Prix,Hungaroring,4,01:17.233,01:16.443,01:16.421,77233,76443,76421
+639,11,PER,Sergio Pérez,Red Bull,2021,Italian Grand Prix,Autodromo Nazionale di Monza,9,01:21.308,01:20.882,01:20.611,81308,80882,80611
+640,11,PER,Sergio Pérez,Red Bull,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,01:17.003,01:17.055,01:16.342,77003,77055,76342
+641,11,PER,Sergio Pérez,Red Bull,2021,Monaco Grand Prix,Circuit de Monaco,9,01:11.644,01:11.019,01:11.573,71644,71019,71573
+642,11,PER,Sergio Pérez,Red Bull,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,2,01:15.395,01:14.716,01:14.446,75395,74716,74446
+643,11,PER,Sergio Pérez,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:09.172,01:08.973,01:08.483,69172,68973,68483
+644,11,PER,Sergio Pérez,Red Bull,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,5,01:28.021,01:27.946,01:28.123,88021,87946,88123
+645,11,PER,Sergio Pérez,Red Bull,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,01:18.203,01:17.669,01:17.701,78203,77669,77701
+646,11,PER,Sergio Pérez,Red Bull,2021,United States Grand Prix,Circuit of the Americas,3,01:34.369,01:34.178,01:33.134,94369,94178,93134
+647,63,RUS,George Russell,Williams,2021,Austrian Grand Prix,Red Bull Ring,9,01:04.907,01:04.553,01:04.591,64907,64553,64591
+648,63,RUS,George Russell,Williams,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,01:59.864,01:56.950,02:00.086,119864,116950,120086
+649,63,RUS,George Russell,Williams,2021,British Grand Prix,Silverstone Circuit,8,01:27.671,01:27.080,01:26.971,87671,87080,86971
+650,55,SAI,Carlos Sainz,Ferrari,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,5,01:23.624,01:23.174,01:22.992,83624,83174,82992
+651,55,SAI,Carlos Sainz,Ferrari,2021,Azerbaijan Grand Prix,Baku City Circuit,5,01:42.121,01:41.740,01:41.576,102121,101740,101576
+652,55,SAI,Carlos Sainz,Ferrari,2021,Bahrain Grand Prix,Bahrain International Circuit,8,01:31.653,01:30.009,01:30.215,91653,90009,90215
+653,55,SAI,Carlos Sainz,Ferrari,2021,British Grand Prix,Silverstone Circuit,9,01:27.337,01:26.848,01:27.007,87337,86848,87007
+654,55,SAI,Carlos Sainz,Ferrari,2021,Dutch Grand Prix,Circuit Park Zandvoort,6,01:10.022,01:09.870,01:09.537,70022,69870,69537
+655,55,SAI,Carlos Sainz,Ferrari,2021,Emilia Romagna Grand Prix,Losail International Circuit,7,01:22.304,01:22.241,01:21.840,82304,82241,81840
+656,55,SAI,Carlos Sainz,Ferrari,2021,Italian Grand Prix,Autodromo Nazionale di Monza,7,01:21.118,01:20.750,01:20.462,81118,80750,80462
+657,55,SAI,Carlos Sainz,Ferrari,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,01:17.517,01:17.248,01:16.761,77517,77248,76761
+658,55,SAI,Carlos Sainz,Ferrari,2021,Monaco Grand Prix,Circuit de Monaco,4,01:11.324,01:10.806,01:10.611,71324,70806,70611
+659,55,SAI,Carlos Sainz,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,6,01:09.046,01:09.031,01:08.826,69046,69031,68826
+660,55,SAI,Carlos Sainz,Ferrari,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,01:18.205,01:17.656,01:17.620,78205,77656,77620
+661,55,SAI,Carlos Sainz,Ferrari,2021,United States Grand Prix,Circuit of the Americas,6,01:34.558,01:34.126,01:33.792,94558,94126,93792
+662,18,STR,Lance Stroll,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,10,01:04.821,01:04.663,01:04.708,64821,64663,64708
+663,18,STR,Lance Stroll,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,10,01:04.927,01:04.547,01:04.618,64927,64547,64618
+664,18,STR,Lance Stroll,Aston Martin,2021,Bahrain Grand Prix,Bahrain International Circuit,10,01:31.261,01:30.624,01:30.601,91261,90624,90601
+665,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,8,01:23.428,01:23.404,01:23.220,83428,83404,83220
+666,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,8,01:04.608,01:04.631,01:04.514,64608,64631,64514
+667,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,7,01:04.967,01:04.518,01:04.273,64967,64518,64273
+668,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Azerbaijan Grand Prix,Baku City Circuit,8,01:42.521,01:41.654,01:42.211,102521,101654,102211
+669,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Emilia Romagna Grand Prix,Losail International Circuit,8,01:22.458,01:22.058,01:21.881,82458,82058,81881
+670,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,9,01:17.330,01:16.701,01:17.158,77330,76701,77158
+671,22,TSU,Yuki Tsunoda,AlphaTauri,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,8,01:28.503,01:28.222,01:28.442,88503,88222,88442
+672,22,TSU,Yuki Tsunoda,AlphaTauri,2021,United States Grand Prix,Circuit of the Americas,10,01:35.360,01:35.137,01:34.918,95360,95137,94918
+673,1,VER,Max Verstappen,Red Bull,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:23.322,01:22.800,01:22.109,83322,82800,82109
+674,1,VER,Max Verstappen,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,1,01:04.489,01:04.433,01:03.841,64489,64433,63841
+675,1,VER,Max Verstappen,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,1,01:04.249,01:03.927,01:03.720,64249,63927,63720
+676,1,VER,Max Verstappen,Red Bull,2021,Azerbaijan Grand Prix,Baku City Circuit,3,01:41.760,01:41.625,01:41.563,101760,101625,101563
+677,1,VER,Max Verstappen,Red Bull,2021,Bahrain Grand Prix,Bahrain International Circuit,1,01:30.499,01:30.318,01:28.997,90499,90318,88997
+678,1,VER,Max Verstappen,Red Bull,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:58.717,01:56.559,01:59.765,118717,116559,119765
+679,1,VER,Max Verstappen,Red Bull,2021,British Grand Prix,Silverstone Circuit,2,01:26.751,01:26.315,01:26.209,86751,86315,86209
+680,1,VER,Max Verstappen,Red Bull,2021,Dutch Grand Prix,Circuit Park Zandvoort,1,01:10.036,01:09.071,01:08.885,70036,69071,68885
+681,1,VER,Max Verstappen,Red Bull,2021,Emilia Romagna Grand Prix,Losail International Circuit,2,01:21.996,01:21.984,01:21.282,81996,81984,81282
+682,1,VER,Max Verstappen,Red Bull,2021,Hungarian Grand Prix,Hungaroring,3,01:16.214,01:15.650,01:15.840,76214,75650,75840
+683,1,VER,Max Verstappen,Red Bull,2021,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:21.035,01:20.229,01:19.966,81035,80229,79966
+684,1,VER,Max Verstappen,Red Bull,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,01:16.788,01:16.483,01:16.225,76788,76483,76225
+685,1,VER,Max Verstappen,Red Bull,2021,Monaco Grand Prix,Circuit de Monaco,2,01:11.124,01:10.650,01:10.576,71124,70650,70576
+686,1,VER,Max Verstappen,Red Bull,2021,Qatar Grand Prix,Autodromo Enzo e Dino Ferrari,3,01:15.109,01:14.884,01:14.498,75109,74884,74498
+687,1,VER,Max Verstappen,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,2,01:09.329,01:08.499,01:08.372,69329,68499,68372
+688,1,VER,Max Verstappen,Red Bull,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,3,01:28.285,01:27.953,01:27.653,88285,87953,87653
+689,1,VER,Max Verstappen,Red Bull,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:18.090,01:16.922,01:16.777,78090,76922,76777
+690,1,VER,Max Verstappen,Red Bull,2021,United States Grand Prix,Circuit of the Americas,1,01:34.352,01:33.464,01:32.910,94352,93464,92910
+823,1,VER,Max Verstappen,Red Bull,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,1,01:24.754,01:24.622,01:23.824,84754,84622,83824
+761,11,PER,Sergio Pérez,Red Bull,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,2,01:24.820,01:24.419,01:24.052,84820,84419,84052
+719,16,LEC,Charles Leclerc,Ferrari,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,3,01:25.211,01:24.517,01:24.092,85211,84517,84092
+797,55,SAI,Carlos Sainz,Ferrari,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,4,01:25.090,01:24.521,01:24.242,85090,84521,84242
+700,44,HAM,Lewis Hamilton,Mercedes,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,5,01:25.594,01:24.774,01:24.508,85594,84774,84508
+779,63,RUS,George Russell,Mercedes,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,6,01:25.545,01:24.940,01:24.511,85545,84940,84511
+746,4,NOR,Lando Norris,McLaren,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,7,01:25.387,01:24.903,01:24.769,85387,84903,84769
+701,44,HAM,Lewis Hamilton,Mercedes,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,5,01:19.401,01:19.106,01:18.825,79401,79106,78825
+720,16,LEC,Charles Leclerc,Ferrari,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,1,01:18.881,01:18.606,01:17.868,78881,78606,77868
+747,4,NOR,Lando Norris,McLaren,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,4,01:19.280,01:19.066,01:18.703,79280,79066,78703
+762,11,PER,Sergio Pérez,Red Bull,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,3,01:18.834,01:18.340,01:18.240,78834,78340,78240
+780,63,RUS,George Russell,Mercedes,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,6,01:19.405,01:19.076,01:18.933,79405,79076,78933
+798,55,SAI,Carlos Sainz,Ferrari,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,9,01:18.983,01:18.469,01:19.408,78983,78469,79408
+824,1,VER,Max Verstappen,Red Bull,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,2,01:18.580,01:18.611,01:18.154,78580,78611,78154
+702,44,HAM,Lewis Hamilton,Mercedes,2022,Austrian Grand Prix,Red Bull Ring,9,01:06.079,01:05.475,01:13.151,66079,65475,73151
+721,16,LEC,Charles Leclerc,Ferrari,2022,Austrian Grand Prix,Red Bull Ring,2,01:05.419,01:05.287,01:05.013,65419,65287,65013
+738,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Austrian Grand Prix,Red Bull Ring,6,01:06.366,01:05.894,01:05.879,66366,65894,65879
+781,63,RUS,George Russell,Mercedes,2022,Austrian Grand Prix,Red Bull Ring,4,01:06.235,01:05.697,01:05.431,66235,65697,65431
+799,55,SAI,Carlos Sainz,Ferrari,2022,Austrian Grand Prix,Red Bull Ring,3,01:05.660,01:05.576,01:05.066,65660,65576,65066
+825,1,VER,Max Verstappen,Red Bull,2022,Austrian Grand Prix,Red Bull Ring,1,01:05.852,01:05.374,01:04.984,65852,65374,64984
+703,44,HAM,Lewis Hamilton,Mercedes,2022,Azerbaijan Grand Prix,Baku City Circuit,7,01:43.939,01:43.182,01:42.924,103939,103182,102924
+722,16,LEC,Charles Leclerc,Ferrari,2022,Azerbaijan Grand Prix,Baku City Circuit,1,01:42.865,01:42.046,01:41.359,102865,102046,101359
+763,11,PER,Sergio Pérez,Red Bull,2022,Azerbaijan Grand Prix,Baku City Circuit,2,01:42.733,01:41.955,01:41.641,102733,101955,101641
+782,63,RUS,George Russell,Mercedes,2022,Azerbaijan Grand Prix,Baku City Circuit,5,01:43.754,01:43.281,01:42.712,103754,103281,102712
+800,55,SAI,Carlos Sainz,Ferrari,2022,Azerbaijan Grand Prix,Baku City Circuit,4,01:42.957,01:42.088,01:41.814,102957,102088,101814
+819,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Azerbaijan Grand Prix,Baku City Circuit,8,01:43.595,01:43.376,01:43.056,103595,103376,103056
+826,1,VER,Max Verstappen,Red Bull,2022,Azerbaijan Grand Prix,Baku City Circuit,3,01:42.722,01:42.227,01:41.706,102722,102227,101706
+692,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Bahrain Grand Prix,Bahrain International Circuit,6,01:31.919,01:31.717,01:31.560,91919,91717,91560
+704,44,HAM,Lewis Hamilton,Mercedes,2022,Bahrain Grand Prix,Bahrain International Circuit,5,01:32.285,01:31.048,01:31.238,92285,91048,91238
+723,16,LEC,Charles Leclerc,Ferrari,2022,Bahrain Grand Prix,Bahrain International Circuit,1,01:31.471,01:30.932,01:30.558,91471,90932,90558
+739,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,7,01:31.955,01:31.461,01:31.808,91955,91461,91808
+764,11,PER,Sergio Pérez,Red Bull,2022,Bahrain Grand Prix,Bahrain International Circuit,4,01:32.311,01:31.008,01:30.921,92311,91008,90921
+783,63,RUS,George Russell,Mercedes,2022,Bahrain Grand Prix,Bahrain International Circuit,9,01:32.269,01:31.252,01:32.216,92269,91252,92216
+801,55,SAI,Carlos Sainz,Ferrari,2022,Bahrain Grand Prix,Bahrain International Circuit,3,01:31.567,01:30.787,01:30.687,91567,90787,90687
+827,1,VER,Max Verstappen,Red Bull,2022,Bahrain Grand Prix,Bahrain International Circuit,2,01:31.785,01:30.757,01:30.681,91785,90757,90681
+691,23,ALB,Alexander Albon,Williams,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,01:45.672,01:45.675,01:45.837,105672,105675,105837
+705,44,HAM,Lewis Hamilton,Mercedes,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,01:45.736,01:45.420,01:45.503,105736,105420,105503
+724,16,LEC,Charles Leclerc,Ferrari,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,01:45.572,01:44.551,01:44.553,105572,104551,104553
+748,4,NOR,Lando Norris,McLaren,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,01:45.745,01:45.603,01:46.178,105745,105603,106178
+765,11,PER,Sergio Pérez,Red Bull,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,01:45.377,01:44.794,01:44.462,105377,104794,104462
+784,63,RUS,George Russell,Mercedes,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,01:45.650,01:45.461,01:45.776,105650,105461,105776
+802,55,SAI,Carlos Sainz,Ferrari,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,01:45.050,01:45.418,01:44.297,105050,105418,104297
+828,1,VER,Max Verstappen,Red Bull,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,01:44.581,01:44.723,01:43.665,104581,104723,103665
+706,44,HAM,Lewis Hamilton,Mercedes,2022,British Grand Prix,Silverstone Circuit,5,01:40.428,01:41.062,01:41.995,100428,101062,101995
+725,16,LEC,Charles Leclerc,Ferrari,2022,British Grand Prix,Silverstone Circuit,3,01:39.846,01:41.247,01:41.298,99846,101247,101298
+749,4,NOR,Lando Norris,McLaren,2022,British Grand Prix,Silverstone Circuit,6,01:41.515,01:41.821,01:42.084,101515,101821,102084
+766,11,PER,Sergio Pérez,Red Bull,2022,British Grand Prix,Silverstone Circuit,4,01:40.521,01:42.513,01:41.616,100521,102513,101616
+785,63,RUS,George Russell,Mercedes,2022,British Grand Prix,Silverstone Circuit,8,01:40.028,01:41.725,01:42.161,100028,101725,102161
+803,55,SAI,Carlos Sainz,Ferrari,2022,British Grand Prix,Silverstone Circuit,1,01:40.190,01:41.602,01:40.983,100190,101602,100983
+829,1,VER,Max Verstappen,Red Bull,2022,British Grand Prix,Silverstone Circuit,2,01:39.129,01:40.655,01:41.055,99129,100655,101055
+707,44,HAM,Lewis Hamilton,Mercedes,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,4,01:33.841,01:25.543,01:22.891,93841,85543,82891
+740,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,5,01:32.957,01:26.254,01:22.960,92957,86254,82960
+786,63,RUS,George Russell,Mercedes,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,8,01:33.160,01:24.950,01:23.557,93160,84950,83557
+804,55,SAI,Carlos Sainz,Ferrari,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,3,01:32.781,01:25.197,01:22.096,92781,85197,82096
+830,1,VER,Max Verstappen,Red Bull,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,1,01:32.219,01:23.746,01:21.299,92219,83746,81299
+708,44,HAM,Lewis Hamilton,Mercedes,2022,Dutch Grand Prix,Circuit Park Zandvoort,4,01:11.331,01:11.075,01:10.648,71331,71075,70648
+726,16,LEC,Charles Leclerc,Ferrari,2022,Dutch Grand Prix,Circuit Park Zandvoort,2,01:11.443,01:10.988,01:10.363,71443,70988,70363
+750,4,NOR,Lando Norris,McLaren,2022,Dutch Grand Prix,Circuit Park Zandvoort,7,01:11.556,01:11.116,01:11.174,71556,71116,71174
+767,11,PER,Sergio Pérez,Red Bull,2022,Dutch Grand Prix,Circuit Park Zandvoort,5,01:11.641,01:11.314,01:11.077,71641,71314,71077
+787,63,RUS,George Russell,Mercedes,2022,Dutch Grand Prix,Circuit Park Zandvoort,6,01:11.561,01:10.824,01:11.147,71561,70824,71147
+805,55,SAI,Carlos Sainz,Ferrari,2022,Dutch Grand Prix,Circuit Park Zandvoort,3,01:11.767,01:10.814,01:10.434,71767,70814,70434
+820,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Dutch Grand Prix,Circuit Park Zandvoort,9,01:11.427,01:11.428,01:12.556,71427,71428,72556
+831,1,VER,Max Verstappen,Red Bull,2022,Dutch Grand Prix,Circuit Park Zandvoort,1,01:11.317,01:10.927,01:10.342,71317,70927,70342
+693,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,8,01:20.419,01:20.192,01:30.439,80419,80192,90439
+727,16,LEC,Charles Leclerc,Ferrari,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,01:18.796,01:19.584,01:28.778,78796,79584,88778
+741,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,01:20.147,01:19.902,01:29.164,80147,79902,89164
+751,4,NOR,Lando Norris,McLaren,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,01:20.168,01:19.294,01:29.131,80168,79294,89131
+768,11,PER,Sergio Pérez,Red Bull,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,7,01:19.773,01:19.296,01:29.808,79773,79296,89808
+832,1,VER,Max Verstappen,Red Bull,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,01:19.295,01:18.793,01:27.999,79295,78793,87999
+694,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Hungarian Grand Prix,Hungaroring,8,01:18.935,01:18.445,01:18.157,78935,78445,78157
+709,44,HAM,Lewis Hamilton,Mercedes,2022,Hungarian Grand Prix,Hungaroring,7,01:18.374,01:18.035,01:18.142,78374,78035,78142
+728,16,LEC,Charles Leclerc,Ferrari,2022,Hungarian Grand Prix,Hungaroring,3,01:18.806,01:17.768,01:17.567,78806,77768,77567
+752,4,NOR,Lando Norris,McLaren,2022,Hungarian Grand Prix,Hungaroring,4,01:18.653,01:18.121,01:17.769,78653,78121,77769
+788,63,RUS,George Russell,Mercedes,2022,Hungarian Grand Prix,Hungaroring,1,01:18.407,01:18.154,01:17.377,78407,78154,77377
+806,55,SAI,Carlos Sainz,Ferrari,2022,Hungarian Grand Prix,Hungaroring,2,01:18.434,01:17.946,01:17.421,78434,77946,77421
+833,1,VER,Max Verstappen,Red Bull,2022,Hungarian Grand Prix,Hungaroring,10,01:18.509,01:17.703,01:18.823,78509,77703,78823
+710,44,HAM,Lewis Hamilton,Mercedes,2022,Italian Grand Prix,Autodromo Nazionale di Monza,5,01:22.048,01:21.708,01:21.524,82048,81708,81524
+729,16,LEC,Charles Leclerc,Ferrari,2022,Italian Grand Prix,Autodromo Nazionale di Monza,1,01:21.280,01:21.208,01:20.161,81280,81208,80161
+753,4,NOR,Lando Norris,McLaren,2022,Italian Grand Prix,Autodromo Nazionale di Monza,7,01:22.130,01:21.831,01:21.584,82130,81831,81584
+769,11,PER,Sergio Pérez,Red Bull,2022,Italian Grand Prix,Autodromo Nazionale di Monza,4,01:21.495,01:21.358,01:21.206,81495,81358,81206
+789,63,RUS,George Russell,Mercedes,2022,Italian Grand Prix,Autodromo Nazionale di Monza,6,01:21.785,01:21.747,01:21.542,81785,81747,81542
+807,55,SAI,Carlos Sainz,Ferrari,2022,Italian Grand Prix,Autodromo Nazionale di Monza,3,01:21.348,01:20.878,01:20.429,81348,80878,80429
+834,1,VER,Max Verstappen,Red Bull,2022,Italian Grand Prix,Autodromo Nazionale di Monza,2,01:20.922,01:21.265,01:20.306,80922,81265,80306
+711,44,HAM,Lewis Hamilton,Mercedes,2022,Japanese Grand Prix,Suzuka Circuit,6,01:30.906,01:30.443,01:30.261,90906,90443,90261
+730,16,LEC,Charles Leclerc,Ferrari,2022,Japanese Grand Prix,Suzuka Circuit,2,01:30.402,01:30.486,01:29.314,90402,90486,89314
+754,4,NOR,Lando Norris,McLaren,2022,Japanese Grand Prix,Suzuka Circuit,10,01:30.881,01:30.473,01:31.003,90881,90473,91003
+770,11,PER,Sergio Pérez,Red Bull,2022,Japanese Grand Prix,Suzuka Circuit,4,01:30.622,01:29.925,01:29.709,90622,89925,89709
+790,63,RUS,George Russell,Mercedes,2022,Japanese Grand Prix,Suzuka Circuit,8,01:30.865,01:30.465,01:30.389,90865,90465,90389
+808,55,SAI,Carlos Sainz,Ferrari,2022,Japanese Grand Prix,Suzuka Circuit,3,01:30.336,01:30.444,01:29.361,90336,90444,89361
+835,1,VER,Max Verstappen,Red Bull,2022,Japanese Grand Prix,Suzuka Circuit,1,01:30.224,01:30.346,01:29.304,90224,90346,89304
+695,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,01:19.523,01:18.762,01:18.401,79523,78762,78401
+712,44,HAM,Lewis Hamilton,Mercedes,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,01:19.169,01:18.552,01:18.084,79169,78552,78084
+731,16,LEC,Charles Leclerc,Ferrari,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,7,01:19.505,01:19.109,01:18.555,79505,79109,78555
+755,4,NOR,Lando Norris,McLaren,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,01:19.857,01:19.119,01:18.721,79857,79119,78721
+771,11,PER,Sergio Pérez,Red Bull,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,01:19.706,01:18.615,01:18.128,79706,78615,78128
+791,63,RUS,George Russell,Mercedes,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,01:19.583,01:18.565,01:18.079,79583,78565,78079
+809,55,SAI,Carlos Sainz,Ferrari,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,5,01:19.566,01:18.560,01:18.351,79566,78560,78351
+836,1,VER,Max Verstappen,Red Bull,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,01:19.222,01:18.566,01:17.775,79222,78566,77775
+696,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Miami Grand Prix,Miami International Autodrome,5,01:30.845,01:29.751,01:29.475,90845,89751,89475
+713,44,HAM,Lewis Hamilton,Mercedes,2022,Miami Grand Prix,Miami International Autodrome,6,01:30.388,01:29.797,01:29.625,90388,89797,89625
+732,16,LEC,Charles Leclerc,Ferrari,2022,Miami Grand Prix,Miami International Autodrome,1,01:29.474,01:29.130,01:28.796,89474,89130,88796
+756,4,NOR,Lando Norris,McLaren,2022,Miami Grand Prix,Miami International Autodrome,8,01:30.761,01:29.634,01:29.750,90761,89634,89750
+772,11,PER,Sergio Pérez,Red Bull,2022,Miami Grand Prix,Miami International Autodrome,4,01:30.055,01:29.673,01:29.036,90055,89673,89036
+810,55,SAI,Carlos Sainz,Ferrari,2022,Miami Grand Prix,Miami International Autodrome,2,01:30.079,01:29.729,01:28.986,90079,89729,88986
+817,18,STR,Lance Stroll,Aston Martin,2022,Miami Grand Prix,Miami International Autodrome,10,01:30.441,01:29.996,01:30.676,90441,89996,90676
+821,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Miami Grand Prix,Miami International Autodrome,9,01:30.485,01:30.031,01:29.932,90485,90031,89932
+837,1,VER,Max Verstappen,Red Bull,2022,Miami Grand Prix,Miami International Autodrome,3,01:29.836,01:29.202,01:28.991,89836,89202,88991
+714,44,HAM,Lewis Hamilton,Mercedes,2022,Monaco Grand Prix,Circuit de Monaco,8,01:13.444,01:12.595,01:12.560,73444,72595,72560
+733,16,LEC,Charles Leclerc,Ferrari,2022,Monaco Grand Prix,Circuit de Monaco,1,01:12.569,01:11.864,01:11.376,72569,71864,71376
+757,4,NOR,Lando Norris,McLaren,2022,Monaco Grand Prix,Circuit de Monaco,5,01:12.927,01:12.266,01:11.849,72927,72266,71849
+773,11,PER,Sergio Pérez,Red Bull,2022,Monaco Grand Prix,Circuit de Monaco,3,01:13.004,01:11.954,01:11.629,73004,71954,71629
+792,63,RUS,George Russell,Mercedes,2022,Monaco Grand Prix,Circuit de Monaco,6,01:12.787,01:12.617,01:12.112,72787,72617,72112
+811,55,SAI,Carlos Sainz,Ferrari,2022,Monaco Grand Prix,Circuit de Monaco,2,01:12.616,01:12.074,01:11.601,72616,72074,71601
+838,1,VER,Max Verstappen,Red Bull,2022,Monaco Grand Prix,Circuit de Monaco,4,01:12.993,01:12.117,01:11.666,72993,72117,71666
+715,44,HAM,Lewis Hamilton,Mercedes,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,8,01:13.403,01:11.539,01:12.611,73403,71539,72611
+742,20,MAG,Kevin Magnussen,Haas F1 Team,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,1,01:13.954,01:11.410,01:11.674,73954,71410,71674
+758,4,NOR,Lando Norris,McLaren,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,4,01:13.106,01:11.377,01:12.263,73106,71377,72263
+774,11,PER,Sergio Pérez,Red Bull,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,9,01:13.613,01:11.456,01:15.601,73613,71456,75601
+793,63,RUS,George Russell,Mercedes,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,3,01:14.427,01:11.318,01:12.059,74427,71318,72059
+812,55,SAI,Carlos Sainz,Ferrari,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,5,01:14.680,01:10.890,01:12.357,74680,70890,72357
+839,1,VER,Max Verstappen,Red Bull,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,2,01:13.625,01:10.881,01:11.877,73625,70881,71877
+697,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,8,01:29.683,01:29.404,01:29.183,89683,89404,89183
+734,16,LEC,Charles Leclerc,Ferrari,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2,01:29.039,01:28.780,01:28.225,89039,88780,88225
+743,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,10,01:29.831,01:29.546,01:29.588,89831,89546,89588
+775,11,PER,Sergio Pérez,Red Bull,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,1,01:29.705,01:28.924,01:28.200,89705,88924,88200
+794,63,RUS,George Russell,Mercedes,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,6,01:29.680,01:29.618,01:29.104,89680,89618,89104
+813,55,SAI,Carlos Sainz,Ferrari,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,3,01:28.855,01:28.686,01:28.402,88855,88686,88402
+840,1,VER,Max Verstappen,Red Bull,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,4,01:28.928,01:28.945,01:28.461,88928,88945,88461
+716,44,HAM,Lewis Hamilton,Mercedes,2022,Singapore Grand Prix,Marina Bay Street Circuit,3,01:53.161,01:52.691,01:49.466,113161,112691,109466
+735,16,LEC,Charles Leclerc,Ferrari,2022,Singapore Grand Prix,Marina Bay Street Circuit,1,01:54.129,01:52.343,01:49.412,114129,112343,109412
+744,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,9,01:55.103,01:54.006,01:51.573,115103,114006,111573
+759,4,NOR,Lando Norris,McLaren,2022,Singapore Grand Prix,Marina Bay Street Circuit,6,01:55.914,01:53.942,01:50.584,115914,113942,110584
+776,11,PER,Sergio Pérez,Red Bull,2022,Singapore Grand Prix,Marina Bay Street Circuit,2,01:54.404,01:52.818,01:49.434,114404,112818,109434
+814,55,SAI,Carlos Sainz,Ferrari,2022,Singapore Grand Prix,Marina Bay Street Circuit,4,01:54.559,01:53.219,01:49.583,114559,113219,109583
+822,22,TSU,Yuki Tsunoda,AlphaTauri,2022,Singapore Grand Prix,Marina Bay Street Circuit,10,01:55.314,01:53.848,01:51.983,115314,113848,111983
+841,1,VER,Max Verstappen,Red Bull,2022,Singapore Grand Prix,Marina Bay Street Circuit,8,01:53.057,01:52.723,01:51.395,113057,112723,111395
+698,77,BOT,Valtteri Bottas,Alfa Romeo,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,01:20.355,01:20.053,01:19.608,80355,80053,79608
+717,44,HAM,Lewis Hamilton,Mercedes,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,01:20.252,01:19.794,01:19.512,80252,79794,79512
+736,16,LEC,Charles Leclerc,Ferrari,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,01:19.861,01:19.969,01:18.750,79861,79969,78750
+745,20,MAG,Kevin Magnussen,Haas F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,01:20.227,01:19.810,01:19.682,80227,79810,79682
+777,11,PER,Sergio Pérez,Red Bull,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,5,01:20.447,01:19.830,01:19.420,80447,79830,79420
+795,63,RUS,George Russell,Mercedes,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,01:20.218,01:19.470,01:19.393,80218,79470,79393
+815,55,SAI,Carlos Sainz,Ferrari,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,01:19.892,01:19.453,01:19.166,79892,79453,79166
+842,1,VER,Max Verstappen,Red Bull,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,01:20.091,01:19.219,01:19.073,80091,79219,79073
+699,77,BOT,Valtteri Bottas,Alfa Romeo,2022,United States Grand Prix,Circuit of the Americas,10,01:36.746,01:36.321,01:36.319,96746,96321,96319
+718,44,HAM,Lewis Hamilton,Mercedes,2022,United States Grand Prix,Circuit of the Americas,5,01:36.148,01:35.732,01:34.947,96148,95732,94947
+737,16,LEC,Charles Leclerc,Ferrari,2022,United States Grand Prix,Circuit of the Americas,2,01:35.795,01:35.246,01:34.421,95795,95246,94421
+760,4,NOR,Lando Norris,McLaren,2022,United States Grand Prix,Circuit of the Americas,8,01:36.465,01:36.341,01:35.690,96465,96341,95690
+778,11,PER,Sergio Pérez,Red Bull,2022,United States Grand Prix,Circuit of the Americas,4,01:36.163,01:35.864,01:34.645,96163,95864,94645
+796,63,RUS,George Russell,Mercedes,2022,United States Grand Prix,Circuit of the Americas,6,01:36.195,01:35.692,01:34.988,96195,95692,94988
+816,55,SAI,Carlos Sainz,Ferrari,2022,United States Grand Prix,Circuit of the Americas,1,01:35.297,01:35.590,01:34.356,95297,95590,94356
+818,18,STR,Lance Stroll,Aston Martin,2022,United States Grand Prix,Circuit of the Americas,7,01:36.860,01:36.032,01:35.598,96860,96032,95598
+843,1,VER,Max Verstappen,Red Bull,2022,United States Grand Prix,Circuit of the Americas,3,01:35.864,01:35.294,01:34.448,95864,95294,94448

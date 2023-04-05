@@ -1,0 +1,2517 @@
+﻿constructorResultsId,constructorId,GP_year,GrandPrix_name,Circuit_name,points,GP_Id
+1,McLaren,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,14,18
+2,Williams,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,9,18
+3,Ferrari,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,1,18
+4,Red Bull,2008,Australian Grand Prix,Albert Park Grand Prix Circuit,0,18
+5,Ferrari,2008,Bahrain Grand Prix,Bahrain International Circuit,18,20
+6,McLaren,2008,Bahrain Grand Prix,Bahrain International Circuit,4,20
+7,Red Bull,2008,Bahrain Grand Prix,Bahrain International Circuit,2,20
+8,Williams,2008,Bahrain Grand Prix,Bahrain International Circuit,1,20
+9,Ferrari,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,18,21
+10,McLaren,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,21
+11,Red Bull,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,21
+12,Williams,2008,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,21
+13,McLaren,2008,Monaco Grand Prix,Circuit de Monaco,11,23
+14,Ferrari,2008,Monaco Grand Prix,Circuit de Monaco,6,23
+15,Red Bull,2008,Monaco Grand Prix,Circuit de Monaco,5,23
+16,Williams,2008,Monaco Grand Prix,Circuit de Monaco,2,23
+17,Red Bull,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,6,24
+18,Ferrari,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,4,24
+19,McLaren,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,0,24
+20,Williams,2008,Canadian Grand Prix,Circuit Gilles Villeneuve,0,24
+21,McLaren,2008,British Grand Prix,Silverstone Circuit,14,26
+22,Ferrari,2008,British Grand Prix,Silverstone Circuit,5,26
+23,Williams,2008,British Grand Prix,Silverstone Circuit,1,26
+24,Red Bull,2008,British Grand Prix,Silverstone Circuit,0,26
+25,McLaren,2008,Hungarian Grand Prix,Hungaroring,14,28
+26,Ferrari,2008,Hungarian Grand Prix,Hungaroring,6,28
+27,Red Bull,2008,Hungarian Grand Prix,Hungaroring,0,28
+28,Williams,2008,Hungarian Grand Prix,Hungaroring,0,28
+29,Ferrari,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,30
+30,McLaren,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,30
+31,Red Bull,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,30
+32,Williams,2008,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,30
+33,McLaren,2008,Italian Grand Prix,Autodromo Nazionale di Monza,10,31
+34,Ferrari,2008,Italian Grand Prix,Autodromo Nazionale di Monza,3,31
+35,Red Bull,2008,Italian Grand Prix,Autodromo Nazionale di Monza,1,31
+36,Williams,2008,Italian Grand Prix,Autodromo Nazionale di Monza,0,31
+37,Williams,2008,Singapore Grand Prix,Marina Bay Street Circuit,9,32
+38,McLaren,2008,Singapore Grand Prix,Marina Bay Street Circuit,6,32
+39,Red Bull,2008,Singapore Grand Prix,Marina Bay Street Circuit,2,32
+40,Ferrari,2008,Singapore Grand Prix,Marina Bay Street Circuit,0,32
+41,Ferrari,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,16,35
+42,McLaren,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,6,35
+43,Red Bull,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,0,35
+44,Williams,2008,São Paulo Grand Prix,Autódromo José Carlos Pace,0,35
+45,Ferrari,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,13,36
+46,McLaren,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,14,36
+47,Williams,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,2,36
+48,Red Bull,2007,Australian Grand Prix,Albert Park Grand Prix Circuit,0,36
+49,Ferrari,2007,Bahrain Grand Prix,Bahrain International Circuit,16,38
+50,McLaren,2007,Bahrain Grand Prix,Bahrain International Circuit,12,38
+51,Williams,2007,Bahrain Grand Prix,Bahrain International Circuit,0,38
+52,Red Bull,2007,Bahrain Grand Prix,Bahrain International Circuit,0,38
+53,Ferrari,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,39
+54,McLaren,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,14,39
+55,Red Bull,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,39
+56,Williams,2007,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,39
+57,McLaren,2007,Monaco Grand Prix,Circuit de Monaco,18,40
+58,Ferrari,2007,Monaco Grand Prix,Circuit de Monaco,7,40
+59,Williams,2007,Monaco Grand Prix,Circuit de Monaco,2,40
+60,Red Bull,2007,Monaco Grand Prix,Circuit de Monaco,0,40
+61,McLaren,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,12,41
+62,Williams,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,6,41
+63,Ferrari,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,4,41
+64,Red Bull,2007,Canadian Grand Prix,Circuit Gilles Villeneuve,0,41
+65,Ferrari,2007,British Grand Prix,Silverstone Circuit,14,44
+66,McLaren,2007,British Grand Prix,Silverstone Circuit,14,44
+67,Red Bull,2007,British Grand Prix,Silverstone Circuit,0,44
+68,Williams,2007,British Grand Prix,Silverstone Circuit,0,44
+69,McLaren,2007,Hungarian Grand Prix,Hungaroring,15,46
+70,Ferrari,2007,Hungarian Grand Prix,Hungaroring,8,46
+71,Williams,2007,Hungarian Grand Prix,Hungaroring,2,46
+72,Red Bull,2007,Hungarian Grand Prix,Hungaroring,0,46
+73,McLaren,2007,Italian Grand Prix,Autodromo Nazionale di Monza,18,48
+74,Ferrari,2007,Italian Grand Prix,Autodromo Nazionale di Monza,6,48
+75,Williams,2007,Italian Grand Prix,Autodromo Nazionale di Monza,3,48
+76,Red Bull,2007,Italian Grand Prix,Autodromo Nazionale di Monza,0,48
+77,Ferrari,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,49
+78,McLaren,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,11,49
+79,Williams,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,49
+80,Red Bull,2007,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,49
+81,Ferrari,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,18,52
+82,McLaren,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,8,52
+83,Williams,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,5,52
+84,Red Bull,2007,São Paulo Grand Prix,Autódromo José Carlos Pace,0,52
+85,Ferrari,2006,Bahrain Grand Prix,Bahrain International Circuit,8,53
+86,McLaren,2006,Bahrain Grand Prix,Bahrain International Circuit,10,53
+87,Williams,2006,Bahrain Grand Prix,Bahrain International Circuit,5,53
+88,Red Bull,2006,Bahrain Grand Prix,Bahrain International Circuit,1,53
+89,McLaren,2006,Australian Grand Prix,Albert Park Grand Prix Circuit,8,55
+90,Red Bull,2006,Australian Grand Prix,Albert Park Grand Prix Circuit,1,55
+91,Ferrari,2006,Australian Grand Prix,Albert Park Grand Prix Circuit,0,55
+92,Williams,2006,Australian Grand Prix,Albert Park Grand Prix Circuit,0,55
+93,Ferrari,2006,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,15,56
+94,McLaren,2006,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,56
+95,Williams,2006,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,56
+96,Red Bull,2006,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,56
+97,Ferrari,2006,Spanish Grand Prix,Circuit de Barcelona-Catalunya,13,58
+98,McLaren,2006,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,58
+99,Williams,2006,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,58
+100,Red Bull,2006,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,58
+101,McLaren,2006,Monaco Grand Prix,Circuit de Monaco,8,59
+102,Red Bull,2006,Monaco Grand Prix,Circuit de Monaco,6,59
+103,Ferrari,2006,Monaco Grand Prix,Circuit de Monaco,4,59
+104,Williams,2006,Monaco Grand Prix,Circuit de Monaco,0,59
+105,Ferrari,2006,British Grand Prix,Silverstone Circuit,12,60
+106,McLaren,2006,British Grand Prix,Silverstone Circuit,9,60
+107,Williams,2006,British Grand Prix,Silverstone Circuit,0,60
+108,Red Bull,2006,British Grand Prix,Silverstone Circuit,0,60
+109,Ferrari,2006,Canadian Grand Prix,Circuit Gilles Villeneuve,12,61
+110,McLaren,2006,Canadian Grand Prix,Circuit Gilles Villeneuve,6,61
+111,Red Bull,2006,Canadian Grand Prix,Circuit Gilles Villeneuve,1,61
+112,Williams,2006,Canadian Grand Prix,Circuit Gilles Villeneuve,0,61
+113,McLaren,2006,Hungarian Grand Prix,Hungaroring,8,65
+114,Red Bull,2006,Hungarian Grand Prix,Hungaroring,4,65
+115,Ferrari,2006,Hungarian Grand Prix,Hungaroring,3,65
+116,Williams,2006,Hungarian Grand Prix,Hungaroring,0,65
+117,Ferrari,2006,Italian Grand Prix,Autodromo Nazionale di Monza,10,67
+118,McLaren,2006,Italian Grand Prix,Autodromo Nazionale di Monza,8,67
+119,Williams,2006,Italian Grand Prix,Autodromo Nazionale di Monza,0,67
+120,Red Bull,2006,Italian Grand Prix,Autodromo Nazionale di Monza,0,67
+121,Ferrari,2006,Japanese Grand Prix,Suzuka Circuit,8,69
+122,McLaren,2006,Japanese Grand Prix,Suzuka Circuit,4,69
+123,Williams,2006,Japanese Grand Prix,Suzuka Circuit,0,69
+124,Red Bull,2006,Japanese Grand Prix,Suzuka Circuit,0,69
+125,Ferrari,2006,São Paulo Grand Prix,Autódromo José Carlos Pace,15,70
+126,McLaren,2006,São Paulo Grand Prix,Autódromo José Carlos Pace,5,70
+127,Red Bull,2006,São Paulo Grand Prix,Autódromo José Carlos Pace,0,70
+128,Williams,2006,São Paulo Grand Prix,Autódromo José Carlos Pace,0,70
+129,Ferrari,2005,Australian Grand Prix,Albert Park Grand Prix Circuit,8,71
+130,Red Bull,2005,Australian Grand Prix,Albert Park Grand Prix Circuit,7,71
+131,Williams,2005,Australian Grand Prix,Albert Park Grand Prix Circuit,4,71
+132,McLaren,2005,Australian Grand Prix,Albert Park Grand Prix Circuit,4,71
+133,McLaren,2005,Bahrain Grand Prix,Bahrain International Circuit,10,73
+134,Williams,2005,Bahrain Grand Prix,Bahrain International Circuit,3,73
+135,Red Bull,2005,Bahrain Grand Prix,Bahrain International Circuit,1,73
+136,Ferrari,2005,Bahrain Grand Prix,Bahrain International Circuit,0,73
+137,Ferrari,2005,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,8,74
+138,McLaren,2005,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,74
+139,Williams,2005,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,5,74
+140,Red Bull,2005,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,74
+141,McLaren,2005,Spanish Grand Prix,Circuit de Barcelona-Catalunya,12,75
+142,Williams,2005,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,75
+143,Red Bull,2005,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,75
+144,Ferrari,2005,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,75
+145,McLaren,2005,Monaco Grand Prix,Circuit de Monaco,14,76
+146,Williams,2005,Monaco Grand Prix,Circuit de Monaco,14,76
+147,Ferrari,2005,Monaco Grand Prix,Circuit de Monaco,3,76
+148,Red Bull,2005,Monaco Grand Prix,Circuit de Monaco,0,76
+149,McLaren,2005,Canadian Grand Prix,Circuit Gilles Villeneuve,10,78
+150,Ferrari,2005,Canadian Grand Prix,Circuit Gilles Villeneuve,14,78
+151,Williams,2005,Canadian Grand Prix,Circuit Gilles Villeneuve,4,78
+152,Red Bull,2005,Canadian Grand Prix,Circuit Gilles Villeneuve,3,78
+153,McLaren,2005,British Grand Prix,Silverstone Circuit,16,81
+154,Ferrari,2005,British Grand Prix,Silverstone Circuit,5,81
+155,Williams,2005,British Grand Prix,Silverstone Circuit,0,81
+156,Red Bull,2005,British Grand Prix,Silverstone Circuit,0,81
+157,McLaren,2005,Hungarian Grand Prix,Hungaroring,10,83
+158,Ferrari,2005,Hungarian Grand Prix,Hungaroring,8,83
+159,Williams,2005,Hungarian Grand Prix,Hungaroring,5,83
+160,Red Bull,2005,Hungarian Grand Prix,Hungaroring,0,83
+161,McLaren,2005,Italian Grand Prix,Autodromo Nazionale di Monza,15,85
+162,Williams,2005,Italian Grand Prix,Autodromo Nazionale di Monza,2,85
+163,Ferrari,2005,Italian Grand Prix,Autodromo Nazionale di Monza,0,85
+164,Red Bull,2005,Italian Grand Prix,Autodromo Nazionale di Monza,0,85
+165,McLaren,2005,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,86
+166,Williams,2005,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,86
+167,Ferrari,2005,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,86
+168,Red Bull,2005,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,86
+169,McLaren,2005,São Paulo Grand Prix,Autódromo José Carlos Pace,18,87
+170,Ferrari,2005,São Paulo Grand Prix,Autódromo José Carlos Pace,8,87
+171,Red Bull,2005,São Paulo Grand Prix,Autódromo José Carlos Pace,0,87
+172,Williams,2005,São Paulo Grand Prix,Autódromo José Carlos Pace,0,87
+173,McLaren,2005,Japanese Grand Prix,Suzuka Circuit,10,88
+174,Williams,2005,Japanese Grand Prix,Suzuka Circuit,5,88
+175,Red Bull,2005,Japanese Grand Prix,Suzuka Circuit,3,88
+176,Ferrari,2005,Japanese Grand Prix,Suzuka Circuit,2,88
+177,Ferrari,2004,Australian Grand Prix,Albert Park Grand Prix Circuit,18,90
+178,Williams,2004,Australian Grand Prix,Albert Park Grand Prix Circuit,9,90
+179,McLaren,2004,Australian Grand Prix,Albert Park Grand Prix Circuit,1,90
+180,Ferrari,2004,Bahrain Grand Prix,Bahrain International Circuit,18,92
+181,Williams,2004,Bahrain Grand Prix,Bahrain International Circuit,2,92
+182,McLaren,2004,Bahrain Grand Prix,Bahrain International Circuit,0,92
+183,Ferrari,2004,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,13,93
+184,Williams,2004,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,8,93
+185,McLaren,2004,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,93
+186,Ferrari,2004,Spanish Grand Prix,Circuit de Barcelona-Catalunya,18,94
+187,Williams,2004,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,94
+188,McLaren,2004,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,94
+189,Ferrari,2004,Monaco Grand Prix,Circuit de Monaco,6,95
+190,Williams,2004,Monaco Grand Prix,Circuit de Monaco,5,95
+191,McLaren,2004,Monaco Grand Prix,Circuit de Monaco,0,95
+192,Ferrari,2004,Canadian Grand Prix,Circuit Gilles Villeneuve,18,97
+193,McLaren,2004,Canadian Grand Prix,Circuit Gilles Villeneuve,7,97
+194,Williams,2004,Canadian Grand Prix,Circuit Gilles Villeneuve,0,97
+195,Ferrari,2004,British Grand Prix,Silverstone Circuit,16,100
+196,McLaren,2004,British Grand Prix,Silverstone Circuit,10,100
+197,Williams,2004,British Grand Prix,Silverstone Circuit,4,100
+198,Ferrari,2004,Hungarian Grand Prix,Hungaroring,18,102
+199,Williams,2004,Hungarian Grand Prix,Hungaroring,7,102
+200,McLaren,2004,Hungarian Grand Prix,Hungaroring,0,102
+201,McLaren,2004,Belgian Grand Prix,Circuit de Spa-Francorchamps,12,103
+202,Ferrari,2004,Belgian Grand Prix,Circuit de Spa-Francorchamps,14,103
+203,Williams,2004,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,103
+204,Ferrari,2004,Italian Grand Prix,Autodromo Nazionale di Monza,18,104
+205,Williams,2004,Italian Grand Prix,Autodromo Nazionale di Monza,6,104
+206,McLaren,2004,Italian Grand Prix,Autodromo Nazionale di Monza,3,104
+207,Ferrari,2004,Japanese Grand Prix,Suzuka Circuit,10,106
+208,Williams,2004,Japanese Grand Prix,Suzuka Circuit,10,106
+209,McLaren,2004,Japanese Grand Prix,Suzuka Circuit,3,106
+210,Williams,2004,São Paulo Grand Prix,Autódromo José Carlos Pace,14,107
+211,McLaren,2004,São Paulo Grand Prix,Autódromo José Carlos Pace,8,107
+212,Ferrari,2004,São Paulo Grand Prix,Autódromo José Carlos Pace,8,107
+213,McLaren,2003,Australian Grand Prix,Albert Park Grand Prix Circuit,16,108
+214,Williams,2003,Australian Grand Prix,Albert Park Grand Prix Circuit,9,108
+215,Ferrari,2003,Australian Grand Prix,Albert Park Grand Prix Circuit,5,108
+216,McLaren,2003,São Paulo Grand Prix,Autódromo José Carlos Pace,13,110
+217,Williams,2003,São Paulo Grand Prix,Autódromo José Carlos Pace,2,110
+218,Ferrari,2003,São Paulo Grand Prix,Autódromo José Carlos Pace,0,110
+219,Ferrari,2003,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,16,111
+220,McLaren,2003,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,12,111
+221,Williams,2003,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,7,111
+222,Ferrari,2003,Spanish Grand Prix,Circuit de Barcelona-Catalunya,16,112
+223,Williams,2003,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,112
+224,McLaren,2003,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,112
+225,Ferrari,2003,Austrian Grand Prix,Red Bull Ring,16,113
+226,McLaren,2003,Austrian Grand Prix,Red Bull Ring,12,113
+227,Williams,2003,Austrian Grand Prix,Red Bull Ring,3,113
+228,Williams,2003,Monaco Grand Prix,Circuit de Monaco,15,114
+229,McLaren,2003,Monaco Grand Prix,Circuit de Monaco,10,114
+230,Ferrari,2003,Monaco Grand Prix,Circuit de Monaco,7,114
+231,Ferrari,2003,Canadian Grand Prix,Circuit Gilles Villeneuve,14,115
+232,Williams,2003,Canadian Grand Prix,Circuit Gilles Villeneuve,14,115
+233,McLaren,2003,Canadian Grand Prix,Circuit Gilles Villeneuve,3,115
+234,Ferrari,2003,British Grand Prix,Silverstone Circuit,15,118
+235,Williams,2003,British Grand Prix,Silverstone Circuit,8,118
+236,McLaren,2003,British Grand Prix,Silverstone Circuit,10,118
+237,McLaren,2003,Hungarian Grand Prix,Hungaroring,12,120
+238,Williams,2003,Hungarian Grand Prix,Hungaroring,11,120
+239,Ferrari,2003,Hungarian Grand Prix,Hungaroring,1,120
+240,Ferrari,2003,Italian Grand Prix,Autodromo Nazionale di Monza,16,121
+241,Williams,2003,Italian Grand Prix,Autodromo Nazionale di Monza,12,121
+242,McLaren,2003,Italian Grand Prix,Autodromo Nazionale di Monza,5,121
+243,Ferrari,2003,Japanese Grand Prix,Suzuka Circuit,11,123
+244,McLaren,2003,Japanese Grand Prix,Suzuka Circuit,14,123
+245,Williams,2003,Japanese Grand Prix,Suzuka Circuit,0,123
+246,Ferrari,2002,Australian Grand Prix,Albert Park Grand Prix Circuit,10,124
+247,Williams,2002,Australian Grand Prix,Albert Park Grand Prix Circuit,6,124
+248,McLaren,2002,Australian Grand Prix,Albert Park Grand Prix Circuit,4,124
+249,Ferrari,2002,São Paulo Grand Prix,Autódromo José Carlos Pace,10,126
+250,Williams,2002,São Paulo Grand Prix,Autódromo José Carlos Pace,8,126
+251,McLaren,2002,São Paulo Grand Prix,Autódromo José Carlos Pace,4,126
+252,Ferrari,2002,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,16,127
+253,Williams,2002,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,7,127
+254,McLaren,2002,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,127
+255,Ferrari,2002,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,128
+256,Williams,2002,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,128
+257,McLaren,2002,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,128
+258,Ferrari,2002,Austrian Grand Prix,Red Bull Ring,16,129
+259,Williams,2002,Austrian Grand Prix,Red Bull Ring,7,129
+260,McLaren,2002,Austrian Grand Prix,Red Bull Ring,1,129
+261,McLaren,2002,Monaco Grand Prix,Circuit de Monaco,10,130
+262,Ferrari,2002,Monaco Grand Prix,Circuit de Monaco,6,130
+263,Williams,2002,Monaco Grand Prix,Circuit de Monaco,4,130
+264,Ferrari,2002,Canadian Grand Prix,Circuit Gilles Villeneuve,14,131
+265,McLaren,2002,Canadian Grand Prix,Circuit Gilles Villeneuve,9,131
+266,Williams,2002,Canadian Grand Prix,Circuit Gilles Villeneuve,0,131
+267,Ferrari,2002,British Grand Prix,Silverstone Circuit,16,133
+268,Williams,2002,British Grand Prix,Silverstone Circuit,4,133
+269,McLaren,2002,British Grand Prix,Silverstone Circuit,0,133
+270,Ferrari,2002,Hungarian Grand Prix,Hungaroring,16,136
+271,Williams,2002,Hungarian Grand Prix,Hungaroring,4,136
+272,McLaren,2002,Hungarian Grand Prix,Hungaroring,5,136
+273,Ferrari,2002,Belgian Grand Prix,Circuit de Spa-Francorchamps,16,137
+274,Williams,2002,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,137
+275,McLaren,2002,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,137
+276,Ferrari,2002,Italian Grand Prix,Autodromo Nazionale di Monza,16,138
+277,McLaren,2002,Italian Grand Prix,Autodromo Nazionale di Monza,0,138
+278,Williams,2002,Italian Grand Prix,Autodromo Nazionale di Monza,0,138
+279,Ferrari,2002,Japanese Grand Prix,Suzuka Circuit,16,140
+280,McLaren,2002,Japanese Grand Prix,Suzuka Circuit,4,140
+281,Williams,2002,Japanese Grand Prix,Suzuka Circuit,3,140
+282,Ferrari,2001,Australian Grand Prix,Albert Park Grand Prix Circuit,14,141
+283,McLaren,2001,Australian Grand Prix,Albert Park Grand Prix Circuit,6,141
+284,Williams,2001,Australian Grand Prix,Albert Park Grand Prix Circuit,0,141
+285,McLaren,2001,São Paulo Grand Prix,Autódromo José Carlos Pace,10,143
+286,Ferrari,2001,São Paulo Grand Prix,Autódromo José Carlos Pace,6,143
+287,Williams,2001,São Paulo Grand Prix,Autódromo José Carlos Pace,0,143
+288,Williams,2001,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,144
+289,McLaren,2001,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,144
+290,Ferrari,2001,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,144
+291,Ferrari,2001,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,145
+292,Williams,2001,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,145
+293,McLaren,2001,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,145
+294,McLaren,2001,Austrian Grand Prix,Red Bull Ring,10,146
+295,Ferrari,2001,Austrian Grand Prix,Red Bull Ring,10,146
+296,Williams,2001,Austrian Grand Prix,Red Bull Ring,0,146
+297,Ferrari,2001,Monaco Grand Prix,Circuit de Monaco,16,147
+298,McLaren,2001,Monaco Grand Prix,Circuit de Monaco,2,147
+299,Williams,2001,Monaco Grand Prix,Circuit de Monaco,0,147
+300,Williams,2001,Canadian Grand Prix,Circuit Gilles Villeneuve,10,148
+301,Ferrari,2001,Canadian Grand Prix,Circuit Gilles Villeneuve,6,148
+302,McLaren,2001,Canadian Grand Prix,Circuit Gilles Villeneuve,4,148
+303,McLaren,2001,British Grand Prix,Silverstone Circuit,10,151
+304,Ferrari,2001,British Grand Prix,Silverstone Circuit,10,151
+305,Williams,2001,British Grand Prix,Silverstone Circuit,3,151
+306,Ferrari,2001,Hungarian Grand Prix,Hungaroring,16,153
+307,McLaren,2001,Hungarian Grand Prix,Hungaroring,6,153
+308,Williams,2001,Hungarian Grand Prix,Hungaroring,3,153
+309,Ferrari,2001,Belgian Grand Prix,Circuit de Spa-Francorchamps,12,154
+310,McLaren,2001,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,154
+311,Williams,2001,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,154
+312,Williams,2001,Italian Grand Prix,Autodromo Nazionale di Monza,14,155
+313,Ferrari,2001,Italian Grand Prix,Autodromo Nazionale di Monza,9,155
+314,McLaren,2001,Italian Grand Prix,Autodromo Nazionale di Monza,0,155
+315,Ferrari,2001,Japanese Grand Prix,Suzuka Circuit,12,157
+316,Williams,2001,Japanese Grand Prix,Suzuka Circuit,7,157
+317,McLaren,2001,Japanese Grand Prix,Suzuka Circuit,7,157
+318,Ferrari,2000,Australian Grand Prix,Albert Park Grand Prix Circuit,16,158
+319,Williams,2000,Australian Grand Prix,Albert Park Grand Prix Circuit,4,158
+320,McLaren,2000,Australian Grand Prix,Albert Park Grand Prix Circuit,0,158
+321,Ferrari,2000,São Paulo Grand Prix,Autódromo José Carlos Pace,10,159
+322,Williams,2000,São Paulo Grand Prix,Autódromo José Carlos Pace,3,159
+323,McLaren,2000,São Paulo Grand Prix,Autódromo José Carlos Pace,0,159
+324,Ferrari,2000,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,13,160
+325,McLaren,2000,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,160
+326,Williams,2000,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,160
+327,McLaren,2000,British Grand Prix,Silverstone Circuit,16,161
+328,Ferrari,2000,British Grand Prix,Silverstone Circuit,4,161
+329,Williams,2000,British Grand Prix,Silverstone Circuit,5,161
+330,McLaren,2000,Spanish Grand Prix,Circuit de Barcelona-Catalunya,16,162
+331,Ferrari,2000,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,162
+332,Williams,2000,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,162
+333,McLaren,2000,Monaco Grand Prix,Circuit de Monaco,11,164
+334,Ferrari,2000,Monaco Grand Prix,Circuit de Monaco,6,164
+335,Williams,2000,Monaco Grand Prix,Circuit de Monaco,0,164
+336,Ferrari,2000,Canadian Grand Prix,Circuit Gilles Villeneuve,16,165
+337,McLaren,2000,Canadian Grand Prix,Circuit Gilles Villeneuve,3,165
+338,Williams,2000,Canadian Grand Prix,Circuit Gilles Villeneuve,0,165
+339,McLaren,2000,Austrian Grand Prix,Red Bull Ring,16,167
+340,Ferrari,2000,Austrian Grand Prix,Red Bull Ring,4,167
+341,Williams,2000,Austrian Grand Prix,Red Bull Ring,2,167
+342,McLaren,2000,Hungarian Grand Prix,Hungaroring,14,169
+343,Ferrari,2000,Hungarian Grand Prix,Hungaroring,9,169
+344,Williams,2000,Hungarian Grand Prix,Hungaroring,2,169
+345,McLaren,2000,Belgian Grand Prix,Circuit de Spa-Francorchamps,13,170
+346,Ferrari,2000,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,170
+347,Williams,2000,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,170
+348,Ferrari,2000,Italian Grand Prix,Autodromo Nazionale di Monza,10,171
+349,McLaren,2000,Italian Grand Prix,Autodromo Nazionale di Monza,6,171
+350,Williams,2000,Italian Grand Prix,Autodromo Nazionale di Monza,4,171
+351,Ferrari,2000,Japanese Grand Prix,Suzuka Circuit,13,173
+352,McLaren,2000,Japanese Grand Prix,Suzuka Circuit,10,173
+353,Williams,2000,Japanese Grand Prix,Suzuka Circuit,2,173
+354,Ferrari,1999,Australian Grand Prix,Albert Park Grand Prix Circuit,10,175
+355,Williams,1999,Australian Grand Prix,Albert Park Grand Prix Circuit,4,175
+356,McLaren,1999,Australian Grand Prix,Albert Park Grand Prix Circuit,0,175
+357,McLaren,1999,São Paulo Grand Prix,Autódromo José Carlos Pace,10,176
+358,Ferrari,1999,São Paulo Grand Prix,Autódromo José Carlos Pace,8,176
+359,Williams,1999,São Paulo Grand Prix,Autódromo José Carlos Pace,3,176
+360,Ferrari,1999,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,177
+361,McLaren,1999,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,177
+362,Williams,1999,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,177
+363,Ferrari,1999,Monaco Grand Prix,Circuit de Monaco,16,178
+364,McLaren,1999,Monaco Grand Prix,Circuit de Monaco,4,178
+365,Williams,1999,Monaco Grand Prix,Circuit de Monaco,0,178
+366,McLaren,1999,Spanish Grand Prix,Circuit de Barcelona-Catalunya,16,179
+367,Ferrari,1999,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,179
+368,Williams,1999,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,179
+369,McLaren,1999,Canadian Grand Prix,Circuit Gilles Villeneuve,10,180
+370,Ferrari,1999,Canadian Grand Prix,Circuit Gilles Villeneuve,4,180
+371,Williams,1999,Canadian Grand Prix,Circuit Gilles Villeneuve,3,180
+372,McLaren,1999,British Grand Prix,Silverstone Circuit,10,182
+373,Ferrari,1999,British Grand Prix,Silverstone Circuit,6,182
+374,Williams,1999,British Grand Prix,Silverstone Circuit,4,182
+375,Ferrari,1999,Austrian Grand Prix,Red Bull Ring,10,183
+376,McLaren,1999,Austrian Grand Prix,Red Bull Ring,10,183
+377,Williams,1999,Austrian Grand Prix,Red Bull Ring,0,183
+378,McLaren,1999,Hungarian Grand Prix,Hungaroring,16,185
+379,Ferrari,1999,Hungarian Grand Prix,Hungaroring,4,185
+380,Williams,1999,Hungarian Grand Prix,Hungaroring,0,185
+381,McLaren,1999,Belgian Grand Prix,Circuit de Spa-Francorchamps,16,186
+382,Ferrari,1999,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,186
+383,Williams,1999,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,186
+384,Williams,1999,Italian Grand Prix,Autodromo Nazionale di Monza,6,187
+385,Ferrari,1999,Italian Grand Prix,Autodromo Nazionale di Monza,5,187
+386,McLaren,1999,Italian Grand Prix,Autodromo Nazionale di Monza,2,187
+387,McLaren,1999,Japanese Grand Prix,Suzuka Circuit,10,190
+388,Ferrari,1999,Japanese Grand Prix,Suzuka Circuit,10,190
+389,Williams,1999,Japanese Grand Prix,Suzuka Circuit,2,190
+390,McLaren,1998,Australian Grand Prix,Albert Park Grand Prix Circuit,16,191
+391,Williams,1998,Australian Grand Prix,Albert Park Grand Prix Circuit,6,191
+392,Ferrari,1998,Australian Grand Prix,Albert Park Grand Prix Circuit,3,191
+393,McLaren,1998,São Paulo Grand Prix,Autódromo José Carlos Pace,16,192
+394,Ferrari,1998,São Paulo Grand Prix,Autódromo José Carlos Pace,4,192
+395,Williams,1998,São Paulo Grand Prix,Autódromo José Carlos Pace,2,192
+396,McLaren,1998,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,194
+397,Ferrari,1998,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,194
+398,Williams,1998,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,5,194
+399,McLaren,1998,Spanish Grand Prix,Circuit de Barcelona-Catalunya,16,195
+400,Ferrari,1998,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,195
+401,Williams,1998,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,195
+402,McLaren,1998,Monaco Grand Prix,Circuit de Monaco,10,196
+403,Ferrari,1998,Monaco Grand Prix,Circuit de Monaco,4,196
+404,Williams,1998,Monaco Grand Prix,Circuit de Monaco,2,196
+405,Ferrari,1998,Canadian Grand Prix,Circuit Gilles Villeneuve,14,197
+406,Williams,1998,Canadian Grand Prix,Circuit Gilles Villeneuve,0,197
+407,McLaren,1998,Canadian Grand Prix,Circuit Gilles Villeneuve,0,197
+408,Ferrari,1998,British Grand Prix,Silverstone Circuit,14,199
+409,McLaren,1998,British Grand Prix,Silverstone Circuit,6,199
+410,Williams,1998,British Grand Prix,Silverstone Circuit,0,199
+411,McLaren,1998,Austrian Grand Prix,Red Bull Ring,16,200
+412,Ferrari,1998,Austrian Grand Prix,Red Bull Ring,7,200
+413,Williams,1998,Austrian Grand Prix,Red Bull Ring,1,200
+414,Ferrari,1998,Hungarian Grand Prix,Hungaroring,10,202
+415,McLaren,1998,Hungarian Grand Prix,Hungaroring,7,202
+416,Williams,1998,Hungarian Grand Prix,Hungaroring,6,202
+417,Williams,1998,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,203
+418,McLaren,1998,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,203
+419,Ferrari,1998,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,203
+420,Ferrari,1998,Italian Grand Prix,Autodromo Nazionale di Monza,16,204
+421,McLaren,1998,Italian Grand Prix,Autodromo Nazionale di Monza,3,204
+422,Williams,1998,Italian Grand Prix,Autodromo Nazionale di Monza,0,204
+423,McLaren,1998,Japanese Grand Prix,Suzuka Circuit,14,206
+424,Ferrari,1998,Japanese Grand Prix,Suzuka Circuit,6,206
+425,Williams,1998,Japanese Grand Prix,Suzuka Circuit,3,206
+426,McLaren,1997,Australian Grand Prix,Albert Park Grand Prix Circuit,14,207
+427,Ferrari,1997,Australian Grand Prix,Albert Park Grand Prix Circuit,6,207
+428,Williams,1997,Australian Grand Prix,Albert Park Grand Prix Circuit,0,207
+429,Williams,1997,São Paulo Grand Prix,Autódromo José Carlos Pace,10,208
+430,McLaren,1997,São Paulo Grand Prix,Autódromo José Carlos Pace,3,208
+431,Ferrari,1997,São Paulo Grand Prix,Autódromo José Carlos Pace,2,208
+432,Williams,1997,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,210
+433,Ferrari,1997,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,210
+434,McLaren,1997,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,210
+435,Ferrari,1997,Monaco Grand Prix,Circuit de Monaco,14,211
+436,Williams,1997,Monaco Grand Prix,Circuit de Monaco,0,211
+437,McLaren,1997,Monaco Grand Prix,Circuit de Monaco,0,211
+438,Williams,1997,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,212
+439,Ferrari,1997,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,212
+440,McLaren,1997,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,212
+441,Ferrari,1997,Canadian Grand Prix,Circuit Gilles Villeneuve,10,213
+442,Williams,1997,Canadian Grand Prix,Circuit Gilles Villeneuve,3,213
+443,McLaren,1997,Canadian Grand Prix,Circuit Gilles Villeneuve,0,213
+444,Williams,1997,British Grand Prix,Silverstone Circuit,10,215
+445,McLaren,1997,British Grand Prix,Silverstone Circuit,3,215
+446,Ferrari,1997,British Grand Prix,Silverstone Circuit,0,215
+447,Williams,1997,Hungarian Grand Prix,Hungaroring,10,217
+448,Ferrari,1997,Hungarian Grand Prix,Hungaroring,3,217
+449,McLaren,1997,Hungarian Grand Prix,Hungaroring,0,217
+450,Ferrari,1997,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,218
+451,Williams,1997,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,218
+452,McLaren,1997,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,218
+453,McLaren,1997,Italian Grand Prix,Autodromo Nazionale di Monza,10,219
+454,Williams,1997,Italian Grand Prix,Autodromo Nazionale di Monza,6,219
+455,Ferrari,1997,Italian Grand Prix,Autodromo Nazionale di Monza,1,219
+456,Williams,1997,Austrian Grand Prix,Red Bull Ring,14,220
+457,McLaren,1997,Austrian Grand Prix,Red Bull Ring,6,220
+458,Ferrari,1997,Austrian Grand Prix,Red Bull Ring,1,220
+459,Ferrari,1997,Japanese Grand Prix,Suzuka Circuit,14,222
+460,Williams,1997,Japanese Grand Prix,Suzuka Circuit,6,222
+461,McLaren,1997,Japanese Grand Prix,Suzuka Circuit,3,222
+462,Williams,1996,Australian Grand Prix,Albert Park Grand Prix Circuit,16,224
+463,Ferrari,1996,Australian Grand Prix,Albert Park Grand Prix Circuit,4,224
+464,McLaren,1996,Australian Grand Prix,Albert Park Grand Prix Circuit,2,224
+465,Williams,1996,São Paulo Grand Prix,Autódromo José Carlos Pace,10,225
+466,Ferrari,1996,São Paulo Grand Prix,Autódromo José Carlos Pace,4,225
+467,McLaren,1996,São Paulo Grand Prix,Autódromo José Carlos Pace,3,225
+468,Williams,1996,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,228
+469,Ferrari,1996,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,228
+470,McLaren,1996,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,228
+471,McLaren,1996,Monaco Grand Prix,Circuit de Monaco,7,229
+472,Ferrari,1996,Monaco Grand Prix,Circuit de Monaco,0,229
+473,Williams,1996,Monaco Grand Prix,Circuit de Monaco,0,229
+474,Ferrari,1996,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,230
+475,Williams,1996,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,230
+476,McLaren,1996,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,230
+477,Williams,1996,Canadian Grand Prix,Circuit Gilles Villeneuve,16,231
+478,McLaren,1996,Canadian Grand Prix,Circuit Gilles Villeneuve,5,231
+479,Ferrari,1996,Canadian Grand Prix,Circuit Gilles Villeneuve,0,231
+480,Williams,1996,British Grand Prix,Silverstone Circuit,10,233
+481,McLaren,1996,British Grand Prix,Silverstone Circuit,6,233
+482,Ferrari,1996,British Grand Prix,Silverstone Circuit,0,233
+483,Williams,1996,Hungarian Grand Prix,Hungaroring,16,235
+484,McLaren,1996,Hungarian Grand Prix,Hungaroring,3,235
+485,Ferrari,1996,Hungarian Grand Prix,Hungaroring,0,235
+486,Ferrari,1996,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,236
+487,Williams,1996,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,236
+488,McLaren,1996,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,236
+489,Ferrari,1996,Italian Grand Prix,Autodromo Nazionale di Monza,10,237
+490,McLaren,1996,Italian Grand Prix,Autodromo Nazionale di Monza,4,237
+491,Williams,1996,Italian Grand Prix,Autodromo Nazionale di Monza,0,237
+492,Williams,1996,Japanese Grand Prix,Suzuka Circuit,10,239
+493,Ferrari,1996,Japanese Grand Prix,Suzuka Circuit,6,239
+494,McLaren,1996,Japanese Grand Prix,Suzuka Circuit,4,239
+495,Williams,1995,São Paulo Grand Prix,Autódromo José Carlos Pace,6,240
+496,Ferrari,1995,São Paulo Grand Prix,Autódromo José Carlos Pace,6,240
+497,McLaren,1995,São Paulo Grand Prix,Autódromo José Carlos Pace,4,240
+498,Williams,1995,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,13,242
+499,Ferrari,1995,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,242
+500,McLaren,1995,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,242
+501,Ferrari,1995,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,243
+502,Williams,1995,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,243
+503,McLaren,1995,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,243
+504,Williams,1995,Monaco Grand Prix,Circuit de Monaco,6,244
+505,Ferrari,1995,Monaco Grand Prix,Circuit de Monaco,4,244
+506,McLaren,1995,Monaco Grand Prix,Circuit de Monaco,2,244
+507,Ferrari,1995,Canadian Grand Prix,Circuit Gilles Villeneuve,10,245
+508,Williams,1995,Canadian Grand Prix,Circuit Gilles Villeneuve,0,245
+509,McLaren,1995,Canadian Grand Prix,Circuit Gilles Villeneuve,0,245
+510,Ferrari,1995,British Grand Prix,Silverstone Circuit,6,247
+511,Williams,1995,British Grand Prix,Silverstone Circuit,4,247
+512,McLaren,1995,British Grand Prix,Silverstone Circuit,2,247
+513,Williams,1995,Hungarian Grand Prix,Hungaroring,16,249
+514,Ferrari,1995,Hungarian Grand Prix,Hungaroring,4,249
+515,McLaren,1995,Hungarian Grand Prix,Hungaroring,0,249
+516,Williams,1995,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,250
+517,McLaren,1995,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,250
+518,Ferrari,1995,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,250
+519,McLaren,1995,Italian Grand Prix,Autodromo Nazionale di Monza,9,251
+520,Ferrari,1995,Italian Grand Prix,Autodromo Nazionale di Monza,0,251
+521,Williams,1995,Italian Grand Prix,Autodromo Nazionale di Monza,0,251
+522,McLaren,1995,Japanese Grand Prix,Suzuka Circuit,6,255
+523,Williams,1995,Japanese Grand Prix,Suzuka Circuit,0,255
+524,Ferrari,1995,Japanese Grand Prix,Suzuka Circuit,0,255
+525,Williams,1994,São Paulo Grand Prix,Autódromo José Carlos Pace,6,257
+526,Ferrari,1994,São Paulo Grand Prix,Autódromo José Carlos Pace,4,257
+527,McLaren,1994,São Paulo Grand Prix,Autódromo José Carlos Pace,0,257
+528,Ferrari,1994,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,259
+529,McLaren,1994,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,259
+530,Williams,1994,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,259
+531,McLaren,1994,Monaco Grand Prix,Circuit de Monaco,6,260
+532,Ferrari,1994,Monaco Grand Prix,Circuit de Monaco,6,260
+533,Williams,1994,Monaco Grand Prix,Circuit de Monaco,0,260
+534,Williams,1994,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,261
+535,Ferrari,1994,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,261
+536,McLaren,1994,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,261
+537,Williams,1994,Canadian Grand Prix,Circuit Gilles Villeneuve,8,262
+538,Ferrari,1994,Canadian Grand Prix,Circuit Gilles Villeneuve,7,262
+539,McLaren,1994,Canadian Grand Prix,Circuit Gilles Villeneuve,0,262
+540,Williams,1994,British Grand Prix,Silverstone Circuit,12,264
+541,Ferrari,1994,British Grand Prix,Silverstone Circuit,6,264
+542,McLaren,1994,British Grand Prix,Silverstone Circuit,4,264
+543,Williams,1994,Hungarian Grand Prix,Hungaroring,6,266
+544,McLaren,1994,Hungarian Grand Prix,Hungaroring,3,266
+545,Ferrari,1994,Hungarian Grand Prix,Hungaroring,0,266
+546,Williams,1994,Belgian Grand Prix,Circuit de Spa-Francorchamps,13,267
+547,McLaren,1994,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,267
+548,Ferrari,1994,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,267
+549,Williams,1994,Italian Grand Prix,Autodromo Nazionale di Monza,11,268
+550,Ferrari,1994,Italian Grand Prix,Autodromo Nazionale di Monza,6,268
+551,McLaren,1994,Italian Grand Prix,Autodromo Nazionale di Monza,6,268
+552,Williams,1994,Japanese Grand Prix,Suzuka Circuit,13,271
+553,Ferrari,1994,Japanese Grand Prix,Suzuka Circuit,4,271
+554,McLaren,1994,Japanese Grand Prix,Suzuka Circuit,0,271
+555,McLaren,1993,São Paulo Grand Prix,Autódromo José Carlos Pace,10,274
+556,Williams,1993,São Paulo Grand Prix,Autódromo José Carlos Pace,6,274
+557,Ferrari,1993,São Paulo Grand Prix,Autódromo José Carlos Pace,0,274
+558,Williams,1993,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,276
+559,McLaren,1993,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,276
+560,Ferrari,1993,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,276
+561,Williams,1993,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,277
+562,McLaren,1993,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,277
+563,Ferrari,1993,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,277
+564,McLaren,1993,Monaco Grand Prix,Circuit de Monaco,10,278
+565,Williams,1993,Monaco Grand Prix,Circuit de Monaco,9,278
+566,Ferrari,1993,Monaco Grand Prix,Circuit de Monaco,4,278
+567,Williams,1993,Canadian Grand Prix,Circuit Gilles Villeneuve,14,279
+568,Ferrari,1993,Canadian Grand Prix,Circuit Gilles Villeneuve,3,279
+569,McLaren,1993,Canadian Grand Prix,Circuit Gilles Villeneuve,0,279
+570,Williams,1993,British Grand Prix,Silverstone Circuit,10,281
+571,McLaren,1993,British Grand Prix,Silverstone Circuit,2,281
+572,Ferrari,1993,British Grand Prix,Silverstone Circuit,0,281
+573,Williams,1993,Hungarian Grand Prix,Hungaroring,10,283
+574,Ferrari,1993,Hungarian Grand Prix,Hungaroring,4,283
+575,McLaren,1993,Hungarian Grand Prix,Hungaroring,0,283
+576,Williams,1993,Belgian Grand Prix,Circuit de Spa-Francorchamps,14,284
+577,McLaren,1993,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,284
+578,Ferrari,1993,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,284
+579,Williams,1993,Italian Grand Prix,Autodromo Nazionale di Monza,10,285
+580,Ferrari,1993,Italian Grand Prix,Autodromo Nazionale di Monza,6,285
+581,McLaren,1993,Italian Grand Prix,Autodromo Nazionale di Monza,4,285
+582,McLaren,1993,Japanese Grand Prix,Suzuka Circuit,14,287
+583,Williams,1993,Japanese Grand Prix,Suzuka Circuit,9,287
+584,Ferrari,1993,Japanese Grand Prix,Suzuka Circuit,0,287
+585,Williams,1992,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,16,290
+586,McLaren,1992,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,3,290
+587,Ferrari,1992,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,290
+588,Williams,1992,São Paulo Grand Prix,Autódromo José Carlos Pace,16,291
+589,Ferrari,1992,São Paulo Grand Prix,Autódromo José Carlos Pace,5,291
+590,McLaren,1992,São Paulo Grand Prix,Autódromo José Carlos Pace,0,291
+591,Williams,1992,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,292
+592,Ferrari,1992,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,292
+593,McLaren,1992,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,292
+594,Williams,1992,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,16,293
+595,McLaren,1992,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,293
+596,Ferrari,1992,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,293
+597,McLaren,1992,Monaco Grand Prix,Circuit de Monaco,10,294
+598,Williams,1992,Monaco Grand Prix,Circuit de Monaco,10,294
+599,Ferrari,1992,Monaco Grand Prix,Circuit de Monaco,0,294
+600,McLaren,1992,Canadian Grand Prix,Circuit Gilles Villeneuve,10,295
+601,Ferrari,1992,Canadian Grand Prix,Circuit Gilles Villeneuve,4,295
+602,Williams,1992,Canadian Grand Prix,Circuit Gilles Villeneuve,0,295
+603,Williams,1992,British Grand Prix,Silverstone Circuit,16,297
+604,McLaren,1992,British Grand Prix,Silverstone Circuit,2,297
+605,Ferrari,1992,British Grand Prix,Silverstone Circuit,0,297
+606,McLaren,1992,Hungarian Grand Prix,Hungaroring,14,299
+607,Williams,1992,Hungarian Grand Prix,Hungaroring,6,299
+608,Ferrari,1992,Hungarian Grand Prix,Hungaroring,1,299
+609,Williams,1992,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,300
+610,McLaren,1992,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,300
+611,Ferrari,1992,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,300
+612,McLaren,1992,Italian Grand Prix,Autodromo Nazionale di Monza,13,301
+613,Williams,1992,Italian Grand Prix,Autodromo Nazionale di Monza,2,301
+614,Ferrari,1992,Italian Grand Prix,Autodromo Nazionale di Monza,0,301
+615,Williams,1992,Japanese Grand Prix,Suzuka Circuit,10,303
+616,McLaren,1992,Japanese Grand Prix,Suzuka Circuit,6,303
+617,Ferrari,1992,Japanese Grand Prix,Suzuka Circuit,2,303
+618,McLaren,1991,São Paulo Grand Prix,Autódromo José Carlos Pace,14,306
+619,Williams,1991,São Paulo Grand Prix,Autódromo José Carlos Pace,6,306
+620,Ferrari,1991,São Paulo Grand Prix,Autódromo José Carlos Pace,4,306
+621,McLaren,1991,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,16,307
+622,Williams,1991,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,307
+623,Ferrari,1991,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,307
+624,McLaren,1991,Monaco Grand Prix,Circuit de Monaco,10,308
+625,Williams,1991,Monaco Grand Prix,Circuit de Monaco,6,308
+626,Ferrari,1991,Monaco Grand Prix,Circuit de Monaco,6,308
+627,Williams,1991,Canadian Grand Prix,Circuit Gilles Villeneuve,5,309
+628,Ferrari,1991,Canadian Grand Prix,Circuit Gilles Villeneuve,0,309
+629,McLaren,1991,Canadian Grand Prix,Circuit Gilles Villeneuve,0,309
+630,Williams,1991,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,16,310
+631,McLaren,1991,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,310
+632,Ferrari,1991,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,310
+633,Williams,1991,British Grand Prix,Silverstone Circuit,10,312
+634,McLaren,1991,British Grand Prix,Silverstone Circuit,9,312
+635,Ferrari,1991,British Grand Prix,Silverstone Circuit,4,312
+636,McLaren,1991,Hungarian Grand Prix,Hungaroring,13,314
+637,Williams,1991,Hungarian Grand Prix,Hungaroring,10,314
+638,Ferrari,1991,Hungarian Grand Prix,Hungaroring,2,314
+639,McLaren,1991,Belgian Grand Prix,Circuit de Spa-Francorchamps,16,315
+640,Williams,1991,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,315
+641,Ferrari,1991,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,315
+642,Williams,1991,Italian Grand Prix,Autodromo Nazionale di Monza,10,316
+643,McLaren,1991,Italian Grand Prix,Autodromo Nazionale di Monza,9,316
+644,Ferrari,1991,Italian Grand Prix,Autodromo Nazionale di Monza,4,316
+645,Williams,1991,Spanish Grand Prix,Circuit de Barcelona-Catalunya,14,318
+646,Ferrari,1991,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,318
+647,McLaren,1991,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,318
+648,McLaren,1991,Japanese Grand Prix,Suzuka Circuit,16,319
+649,Williams,1991,Japanese Grand Prix,Suzuka Circuit,4,319
+650,Ferrari,1991,Japanese Grand Prix,Suzuka Circuit,3,319
+651,Ferrari,1990,São Paulo Grand Prix,Autódromo José Carlos Pace,12,322
+652,McLaren,1990,São Paulo Grand Prix,Autódromo José Carlos Pace,10,322
+653,Williams,1990,São Paulo Grand Prix,Autódromo José Carlos Pace,2,322
+654,Williams,1990,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,323
+655,McLaren,1990,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,323
+656,Ferrari,1990,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,323
+657,McLaren,1990,Monaco Grand Prix,Circuit de Monaco,13,324
+658,Williams,1990,Monaco Grand Prix,Circuit de Monaco,3,324
+659,Ferrari,1990,Monaco Grand Prix,Circuit de Monaco,0,324
+660,McLaren,1990,Canadian Grand Prix,Circuit Gilles Villeneuve,12,325
+661,Ferrari,1990,Canadian Grand Prix,Circuit Gilles Villeneuve,6,325
+662,Williams,1990,Canadian Grand Prix,Circuit Gilles Villeneuve,0,325
+663,Ferrari,1990,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,15,326
+664,McLaren,1990,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,326
+665,Williams,1990,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,326
+666,Ferrari,1990,British Grand Prix,Silverstone Circuit,9,328
+667,Williams,1990,British Grand Prix,Silverstone Circuit,6,328
+668,McLaren,1990,British Grand Prix,Silverstone Circuit,4,328
+669,Williams,1990,Hungarian Grand Prix,Hungaroring,12,330
+670,McLaren,1990,Hungarian Grand Prix,Hungaroring,6,330
+671,Ferrari,1990,Hungarian Grand Prix,Hungaroring,0,330
+672,McLaren,1990,Belgian Grand Prix,Circuit de Spa-Francorchamps,13,331
+673,Ferrari,1990,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,331
+674,Williams,1990,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,331
+675,McLaren,1990,Italian Grand Prix,Autodromo Nazionale di Monza,13,332
+676,Ferrari,1990,Italian Grand Prix,Autodromo Nazionale di Monza,9,332
+677,Williams,1990,Italian Grand Prix,Autodromo Nazionale di Monza,2,332
+678,Williams,1990,Japanese Grand Prix,Suzuka Circuit,5,335
+679,Ferrari,1990,Japanese Grand Prix,Suzuka Circuit,0,335
+680,McLaren,1990,Japanese Grand Prix,Suzuka Circuit,0,335
+681,McLaren,2009,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1
+682,Williams,2009,Australian Grand Prix,Albert Park Grand Prix Circuit,3,1
+683,Red Bull,2009,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1
+684,Ferrari,2009,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1
+685,Red Bull,2009,Bahrain Grand Prix,Bahrain International Circuit,8,4
+686,McLaren,2009,Bahrain Grand Prix,Bahrain International Circuit,5,4
+687,Ferrari,2009,Bahrain Grand Prix,Bahrain International Circuit,3,4
+688,Williams,2009,Bahrain Grand Prix,Bahrain International Circuit,0,4
+689,Red Bull,2009,Spanish Grand Prix,Circuit de Barcelona-Catalunya,11,5
+690,Ferrari,2009,Spanish Grand Prix,Circuit de Barcelona-Catalunya,3,5
+691,Williams,2009,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,5
+692,McLaren,2009,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,5
+693,Ferrari,2009,Monaco Grand Prix,Circuit de Monaco,11,6
+694,Red Bull,2009,Monaco Grand Prix,Circuit de Monaco,4,6
+695,Williams,2009,Monaco Grand Prix,Circuit de Monaco,3,6
+696,McLaren,2009,Monaco Grand Prix,Circuit de Monaco,0,6
+697,Red Bull,2009,British Grand Prix,Silverstone Circuit,18,8
+698,Ferrari,2009,British Grand Prix,Silverstone Circuit,6,8
+699,Williams,2009,British Grand Prix,Silverstone Circuit,4,8
+700,McLaren,2009,British Grand Prix,Silverstone Circuit,0,8
+701,McLaren,2009,Hungarian Grand Prix,Hungaroring,14,10
+702,Ferrari,2009,Hungarian Grand Prix,Hungaroring,8,10
+703,Red Bull,2009,Hungarian Grand Prix,Hungaroring,6,10
+704,Williams,2009,Hungarian Grand Prix,Hungaroring,5,10
+705,Ferrari,2009,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,12
+706,Red Bull,2009,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,12
+707,McLaren,2009,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,12
+708,Williams,2009,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,12
+709,Ferrari,2009,Italian Grand Prix,Autodromo Nazionale di Monza,6,13
+710,McLaren,2009,Italian Grand Prix,Autodromo Nazionale di Monza,3,13
+711,Red Bull,2009,Italian Grand Prix,Autodromo Nazionale di Monza,1,13
+712,Williams,2009,Italian Grand Prix,Autodromo Nazionale di Monza,0,13
+713,McLaren,2009,Singapore Grand Prix,Marina Bay Street Circuit,12,14
+714,Red Bull,2009,Singapore Grand Prix,Marina Bay Street Circuit,5,14
+715,Williams,2009,Singapore Grand Prix,Marina Bay Street Circuit,0,14
+716,Ferrari,2009,Singapore Grand Prix,Marina Bay Street Circuit,0,14
+717,Red Bull,2009,Japanese Grand Prix,Suzuka Circuit,10,15
+718,McLaren,2009,Japanese Grand Prix,Suzuka Circuit,6,15
+719,Ferrari,2009,Japanese Grand Prix,Suzuka Circuit,5,15
+720,Williams,2009,Japanese Grand Prix,Suzuka Circuit,4,15
+721,Red Bull,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,15,16
+722,McLaren,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,6,16
+723,Ferrari,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,3,16
+724,Williams,2009,São Paulo Grand Prix,Autódromo José Carlos Pace,0,16
+725,McLaren,1989,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,15,357
+726,Williams,1989,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,357
+727,Ferrari,1989,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,357
+728,McLaren,1989,Monaco Grand Prix,Circuit de Monaco,15,358
+729,Williams,1989,Monaco Grand Prix,Circuit de Monaco,0,358
+730,Ferrari,1989,Monaco Grand Prix,Circuit de Monaco,0,358
+731,McLaren,1989,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,11,359
+732,Williams,1989,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,359
+733,Ferrari,1989,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,359
+734,Williams,1989,Canadian Grand Prix,Circuit Gilles Villeneuve,15,361
+735,McLaren,1989,Canadian Grand Prix,Circuit Gilles Villeneuve,0,361
+736,Ferrari,1989,Canadian Grand Prix,Circuit Gilles Villeneuve,0,361
+737,McLaren,1989,British Grand Prix,Silverstone Circuit,9,363
+738,Ferrari,1989,British Grand Prix,Silverstone Circuit,6,363
+739,Williams,1989,British Grand Prix,Silverstone Circuit,0,363
+740,Ferrari,1989,Hungarian Grand Prix,Hungaroring,9,365
+741,McLaren,1989,Hungarian Grand Prix,Hungaroring,9,365
+742,Williams,1989,Hungarian Grand Prix,Hungaroring,4,365
+743,McLaren,1989,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,366
+744,Ferrari,1989,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,366
+745,Williams,1989,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,366
+746,McLaren,1989,Italian Grand Prix,Autodromo Nazionale di Monza,9,367
+747,Ferrari,1989,Italian Grand Prix,Autodromo Nazionale di Monza,6,367
+748,Williams,1989,Italian Grand Prix,Autodromo Nazionale di Monza,7,367
+749,Williams,1989,Japanese Grand Prix,Suzuka Circuit,10,370
+750,McLaren,1989,Japanese Grand Prix,Suzuka Circuit,0,370
+751,Ferrari,1989,Japanese Grand Prix,Suzuka Circuit,0,370
+752,McLaren,1988,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,15,373
+753,Ferrari,1988,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,373
+754,Williams,1988,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,373
+755,McLaren,1988,Monaco Grand Prix,Circuit de Monaco,9,374
+756,Ferrari,1988,Monaco Grand Prix,Circuit de Monaco,10,374
+757,Williams,1988,Monaco Grand Prix,Circuit de Monaco,1,374
+758,McLaren,1988,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,15,375
+759,Ferrari,1988,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,7,375
+760,Williams,1988,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,375
+761,McLaren,1988,Canadian Grand Prix,Circuit Gilles Villeneuve,15,376
+762,Ferrari,1988,Canadian Grand Prix,Circuit Gilles Villeneuve,0,376
+763,Williams,1988,Canadian Grand Prix,Circuit Gilles Villeneuve,0,376
+764,McLaren,1988,British Grand Prix,Silverstone Circuit,9,379
+765,Williams,1988,British Grand Prix,Silverstone Circuit,6,379
+766,Ferrari,1988,British Grand Prix,Silverstone Circuit,0,379
+767,McLaren,1988,Hungarian Grand Prix,Hungaroring,15,381
+768,Ferrari,1988,Hungarian Grand Prix,Hungaroring,3,381
+769,Williams,1988,Hungarian Grand Prix,Hungaroring,1,381
+770,McLaren,1988,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,382
+771,Williams,1988,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,382
+772,Ferrari,1988,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,382
+773,Ferrari,1988,Italian Grand Prix,Autodromo Nazionale di Monza,15,383
+774,Williams,1988,Italian Grand Prix,Autodromo Nazionale di Monza,0,383
+775,McLaren,1988,Italian Grand Prix,Autodromo Nazionale di Monza,0,383
+776,McLaren,1988,Japanese Grand Prix,Suzuka Circuit,15,386
+777,Ferrari,1988,Japanese Grand Prix,Suzuka Circuit,3,386
+778,Williams,1988,Japanese Grand Prix,Suzuka Circuit,1,386
+779,Williams,1987,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,389
+780,Ferrari,1987,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,389
+781,McLaren,1987,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,389
+782,McLaren,1987,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,390
+783,Williams,1987,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,390
+784,Ferrari,1987,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,390
+785,Williams,1987,Monaco Grand Prix,Circuit de Monaco,6,391
+786,Ferrari,1987,Monaco Grand Prix,Circuit de Monaco,7,391
+787,McLaren,1987,Monaco Grand Prix,Circuit de Monaco,0,391
+788,Williams,1987,British Grand Prix,Silverstone Circuit,15,394
+789,McLaren,1987,British Grand Prix,Silverstone Circuit,0,394
+790,Ferrari,1987,British Grand Prix,Silverstone Circuit,0,394
+791,Williams,1987,Hungarian Grand Prix,Hungaroring,9,396
+792,McLaren,1987,Hungarian Grand Prix,Hungaroring,4,396
+793,Ferrari,1987,Hungarian Grand Prix,Hungaroring,0,396
+794,Williams,1987,Austrian Grand Prix,Red Bull Ring,15,397
+795,McLaren,1987,Austrian Grand Prix,Red Bull Ring,1,397
+796,Ferrari,1987,Austrian Grand Prix,Red Bull Ring,0,397
+797,Williams,1987,Italian Grand Prix,Autodromo Nazionale di Monza,13,398
+798,Ferrari,1987,Italian Grand Prix,Autodromo Nazionale di Monza,3,398
+799,McLaren,1987,Italian Grand Prix,Autodromo Nazionale di Monza,1,398
+800,Williams,1987,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,15,401
+801,Ferrari,1987,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,401
+802,McLaren,1987,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,401
+803,Ferrari,1987,Japanese Grand Prix,Suzuka Circuit,12,402
+804,McLaren,1987,Japanese Grand Prix,Suzuka Circuit,4,402
+805,Williams,1987,Japanese Grand Prix,Suzuka Circuit,0,402
+806,McLaren,1986,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,11,406
+807,Williams,1986,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,406
+808,Ferrari,1986,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,406
+809,McLaren,1986,Monaco Grand Prix,Circuit de Monaco,15,407
+810,Williams,1986,Monaco Grand Prix,Circuit de Monaco,3,407
+811,Ferrari,1986,Monaco Grand Prix,Circuit de Monaco,0,407
+812,Williams,1986,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,408
+813,Ferrari,1986,Belgian Grand Prix,Circuit de Spa-Francorchamps,7,408
+814,McLaren,1986,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,408
+815,Williams,1986,Canadian Grand Prix,Circuit Gilles Villeneuve,13,409
+816,McLaren,1986,Canadian Grand Prix,Circuit Gilles Villeneuve,9,409
+817,Ferrari,1986,Canadian Grand Prix,Circuit Gilles Villeneuve,0,409
+818,Williams,1986,Hungarian Grand Prix,Hungaroring,13,414
+819,Ferrari,1986,Hungarian Grand Prix,Hungaroring,3,414
+820,McLaren,1986,Hungarian Grand Prix,Hungaroring,0,414
+821,McLaren,1986,Austrian Grand Prix,Red Bull Ring,9,415
+822,Ferrari,1986,Austrian Grand Prix,Red Bull Ring,10,415
+823,Williams,1986,Austrian Grand Prix,Red Bull Ring,0,415
+824,Williams,1986,Italian Grand Prix,Autodromo Nazionale di Monza,15,416
+825,Ferrari,1986,Italian Grand Prix,Autodromo Nazionale di Monza,4,416
+826,McLaren,1986,Italian Grand Prix,Autodromo Nazionale di Monza,3,416
+827,McLaren,1986,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,418
+828,Williams,1986,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,5,418
+829,Ferrari,1986,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,418
+830,McLaren,1985,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,422
+831,Williams,1985,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,422
+832,Ferrari,1985,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,422
+833,Alfa Romeo,1985,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,422
+834,McLaren,1985,Monaco Grand Prix,Circuit de Monaco,9,423
+835,Ferrari,1985,Monaco Grand Prix,Circuit de Monaco,6,423
+836,Williams,1985,Monaco Grand Prix,Circuit de Monaco,0,423
+837,Alfa Romeo,1985,Monaco Grand Prix,Circuit de Monaco,0,423
+838,Ferrari,1985,Canadian Grand Prix,Circuit Gilles Villeneuve,15,424
+839,McLaren,1985,Canadian Grand Prix,Circuit Gilles Villeneuve,4,424
+840,Williams,1985,Canadian Grand Prix,Circuit Gilles Villeneuve,4,424
+841,Alfa Romeo,1985,Canadian Grand Prix,Circuit Gilles Villeneuve,0,424
+842,McLaren,1985,British Grand Prix,Silverstone Circuit,9,427
+843,Ferrari,1985,British Grand Prix,Silverstone Circuit,6,427
+844,Alfa Romeo,1985,British Grand Prix,Silverstone Circuit,0,427
+845,Williams,1985,British Grand Prix,Silverstone Circuit,0,427
+846,McLaren,1985,Austrian Grand Prix,Red Bull Ring,9,429
+847,Ferrari,1985,Austrian Grand Prix,Red Bull Ring,7,429
+848,Williams,1985,Austrian Grand Prix,Red Bull Ring,0,429
+849,Alfa Romeo,1985,Austrian Grand Prix,Red Bull Ring,0,429
+850,McLaren,1985,Dutch Grand Prix,Circuit Park Zandvoort,15,430
+851,Ferrari,1985,Dutch Grand Prix,Circuit Park Zandvoort,3,430
+852,Williams,1985,Dutch Grand Prix,Circuit Park Zandvoort,1,430
+853,Alfa Romeo,1985,Dutch Grand Prix,Circuit Park Zandvoort,0,430
+854,McLaren,1985,Italian Grand Prix,Autodromo Nazionale di Monza,9,431
+855,Ferrari,1985,Italian Grand Prix,Autodromo Nazionale di Monza,2,431
+856,Williams,1985,Italian Grand Prix,Autodromo Nazionale di Monza,0,431
+857,Alfa Romeo,1985,Italian Grand Prix,Autodromo Nazionale di Monza,0,431
+858,Williams,1985,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,432
+859,McLaren,1985,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,432
+860,Alfa Romeo,1985,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,432
+861,Ferrari,1985,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,432
+862,McLaren,1984,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,439
+863,Ferrari,1984,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,439
+864,Alfa Romeo,1984,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,439
+865,Williams,1984,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,439
+866,McLaren,1984,Monaco Grand Prix,Circuit de Monaco,4.5,441
+867,Ferrari,1984,Monaco Grand Prix,Circuit de Monaco,2.5,441
+868,Williams,1984,Monaco Grand Prix,Circuit de Monaco,1.5,441
+869,Alfa Romeo,1984,Monaco Grand Prix,Circuit de Monaco,0,441
+870,McLaren,1984,Canadian Grand Prix,Circuit Gilles Villeneuve,10,442
+871,Ferrari,1984,Canadian Grand Prix,Circuit Gilles Villeneuve,2,442
+872,Alfa Romeo,1984,Canadian Grand Prix,Circuit Gilles Villeneuve,0,442
+873,Williams,1984,Canadian Grand Prix,Circuit Gilles Villeneuve,0,442
+874,McLaren,1984,Austrian Grand Prix,Red Bull Ring,9,447
+875,Ferrari,1984,Austrian Grand Prix,Red Bull Ring,4,447
+876,Alfa Romeo,1984,Austrian Grand Prix,Red Bull Ring,0,447
+877,Williams,1984,Austrian Grand Prix,Red Bull Ring,0,447
+878,McLaren,1984,Dutch Grand Prix,Circuit Park Zandvoort,15,448
+879,Williams,1984,Dutch Grand Prix,Circuit Park Zandvoort,0,448
+880,Ferrari,1984,Dutch Grand Prix,Circuit Park Zandvoort,0,448
+881,Alfa Romeo,1984,Dutch Grand Prix,Circuit Park Zandvoort,0,448
+882,McLaren,1984,Italian Grand Prix,Autodromo Nazionale di Monza,9,449
+883,Ferrari,1984,Italian Grand Prix,Autodromo Nazionale di Monza,6,449
+884,Alfa Romeo,1984,Italian Grand Prix,Autodromo Nazionale di Monza,4,449
+885,Williams,1984,Italian Grand Prix,Autodromo Nazionale di Monza,0,449
+886,Ferrari,1983,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,13,455
+887,Williams,1983,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,455
+888,McLaren,1983,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,455
+889,Alfa Romeo,1983,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,455
+890,Williams,1983,Monaco Grand Prix,Circuit de Monaco,9,456
+891,Ferrari,1983,Monaco Grand Prix,Circuit de Monaco,3,456
+892,Alfa Romeo,1983,Monaco Grand Prix,Circuit de Monaco,1,456
+893,McLaren,1983,Monaco Grand Prix,Circuit de Monaco,0,456
+894,Ferrari,1983,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,457
+895,Williams,1983,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,457
+896,McLaren,1983,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,457
+897,Alfa Romeo,1983,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,457
+898,Ferrari,1983,Canadian Grand Prix,Circuit Gilles Villeneuve,13,459
+899,Williams,1983,Canadian Grand Prix,Circuit Gilles Villeneuve,3,459
+900,McLaren,1983,Canadian Grand Prix,Circuit Gilles Villeneuve,1,459
+901,Alfa Romeo,1983,Canadian Grand Prix,Circuit Gilles Villeneuve,0,459
+902,Ferrari,1983,British Grand Prix,Silverstone Circuit,6,460
+903,McLaren,1983,British Grand Prix,Silverstone Circuit,1,460
+904,Alfa Romeo,1983,British Grand Prix,Silverstone Circuit,0,460
+905,Williams,1983,British Grand Prix,Silverstone Circuit,0,460
+906,Ferrari,1983,Austrian Grand Prix,Red Bull Ring,6,462
+907,McLaren,1983,Austrian Grand Prix,Red Bull Ring,1,462
+908,Williams,1983,Austrian Grand Prix,Red Bull Ring,0,462
+909,Alfa Romeo,1983,Austrian Grand Prix,Red Bull Ring,0,462
+910,Ferrari,1983,Dutch Grand Prix,Circuit Park Zandvoort,15,463
+911,McLaren,1983,Dutch Grand Prix,Circuit Park Zandvoort,4,463
+912,Alfa Romeo,1983,Dutch Grand Prix,Circuit Park Zandvoort,2,463
+913,Williams,1983,Dutch Grand Prix,Circuit Park Zandvoort,0,463
+914,Ferrari,1983,Italian Grand Prix,Autodromo Nazionale di Monza,9,464
+915,Williams,1983,Italian Grand Prix,Autodromo Nazionale di Monza,0,464
+916,McLaren,1983,Italian Grand Prix,Autodromo Nazionale di Monza,0,464
+917,Alfa Romeo,1983,Italian Grand Prix,Autodromo Nazionale di Monza,0,464
+918,Ferrari,1982,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,15,470
+919,Alfa Romeo,1982,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,470
+920,Ferrari,1982,Monaco Grand Prix,Circuit de Monaco,6,472
+921,Alfa Romeo,1982,Monaco Grand Prix,Circuit de Monaco,4,472
+922,Williams,1982,Monaco Grand Prix,Circuit de Monaco,1,472
+923,McLaren,1982,Monaco Grand Prix,Circuit de Monaco,0,472
+924,McLaren,1982,Canadian Grand Prix,Circuit Gilles Villeneuve,4,474
+925,Alfa Romeo,1982,Canadian Grand Prix,Circuit Gilles Villeneuve,1,474
+926,Williams,1982,Canadian Grand Prix,Circuit Gilles Villeneuve,0,474
+927,Ferrari,1982,Canadian Grand Prix,Circuit Gilles Villeneuve,0,474
+928,Ferrari,1982,Dutch Grand Prix,Circuit Park Zandvoort,9,475
+929,Williams,1982,Dutch Grand Prix,Circuit Park Zandvoort,6,475
+930,McLaren,1982,Dutch Grand Prix,Circuit Park Zandvoort,3,475
+931,Alfa Romeo,1982,Dutch Grand Prix,Circuit Park Zandvoort,0,475
+932,Williams,1982,Austrian Grand Prix,Red Bull Ring,6,479
+933,Ferrari,1982,Austrian Grand Prix,Red Bull Ring,3,479
+934,McLaren,1982,Austrian Grand Prix,Red Bull Ring,2,479
+935,Alfa Romeo,1982,Austrian Grand Prix,Red Bull Ring,0,479
+936,Ferrari,1982,Italian Grand Prix,Autodromo Nazionale di Monza,10,481
+937,McLaren,1982,Italian Grand Prix,Autodromo Nazionale di Monza,3,481
+938,Williams,1982,Italian Grand Prix,Autodromo Nazionale di Monza,0,481
+939,Alfa Romeo,1982,Italian Grand Prix,Autodromo Nazionale di Monza,0,481
+940,McLaren,1982,Caesars Palace Grand Prix,Las Vegas Street Circuit,6,482
+941,Williams,1982,Caesars Palace Grand Prix,Las Vegas Street Circuit,3,482
+942,Alfa Romeo,1982,Caesars Palace Grand Prix,Las Vegas Street Circuit,0,482
+943,Ferrari,1982,Caesars Palace Grand Prix,Las Vegas Street Circuit,0,482
+944,Williams,1981,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4,486
+945,Ferrari,1981,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,486
+946,McLaren,1981,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,1,486
+947,Alfa Romeo,1981,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,486
+948,Ferrari,1981,Monaco Grand Prix,Circuit de Monaco,12,488
+949,Williams,1981,Monaco Grand Prix,Circuit de Monaco,6,488
+950,McLaren,1981,Monaco Grand Prix,Circuit de Monaco,0,488
+951,Alfa Romeo,1981,Monaco Grand Prix,Circuit de Monaco,0,488
+952,McLaren,1981,British Grand Prix,Silverstone Circuit,9,491
+953,Williams,1981,British Grand Prix,Silverstone Circuit,6,491
+954,Alfa Romeo,1981,British Grand Prix,Silverstone Circuit,0,491
+955,Ferrari,1981,British Grand Prix,Silverstone Circuit,0,491
+956,Williams,1981,Austrian Grand Prix,Red Bull Ring,5,493
+957,McLaren,1981,Austrian Grand Prix,Red Bull Ring,1,493
+958,Ferrari,1981,Austrian Grand Prix,Red Bull Ring,0,493
+959,Alfa Romeo,1981,Austrian Grand Prix,Red Bull Ring,0,493
+960,Williams,1981,Dutch Grand Prix,Circuit Park Zandvoort,4,494
+961,Alfa Romeo,1981,Dutch Grand Prix,Circuit Park Zandvoort,0,494
+962,McLaren,1981,Dutch Grand Prix,Circuit Park Zandvoort,0,494
+963,Ferrari,1981,Dutch Grand Prix,Circuit Park Zandvoort,0,494
+964,Williams,1981,Italian Grand Prix,Autodromo Nazionale di Monza,10,495
+965,Ferrari,1981,Italian Grand Prix,Autodromo Nazionale di Monza,2,495
+966,McLaren,1981,Italian Grand Prix,Autodromo Nazionale di Monza,0,495
+967,Alfa Romeo,1981,Italian Grand Prix,Autodromo Nazionale di Monza,0,495
+968,McLaren,1981,Canadian Grand Prix,Circuit Gilles Villeneuve,6,496
+969,Ferrari,1981,Canadian Grand Prix,Circuit Gilles Villeneuve,4,496
+970,Alfa Romeo,1981,Canadian Grand Prix,Circuit Gilles Villeneuve,3,496
+971,Williams,1981,Canadian Grand Prix,Circuit Gilles Villeneuve,0,496
+972,Williams,1981,Caesars Palace Grand Prix,Las Vegas Street Circuit,9,497
+973,Alfa Romeo,1981,Caesars Palace Grand Prix,Las Vegas Street Circuit,4,497
+974,McLaren,1981,Caesars Palace Grand Prix,Las Vegas Street Circuit,0,497
+975,Ferrari,1981,Caesars Palace Grand Prix,Las Vegas Street Circuit,0,497
+976,Williams,1980,São Paulo Grand Prix,Autódromo José Carlos Pace,4,499
+977,McLaren,1980,São Paulo Grand Prix,Autódromo José Carlos Pace,2,499
+978,Alfa Romeo,1980,São Paulo Grand Prix,Autódromo José Carlos Pace,0,499
+979,Ferrari,1980,São Paulo Grand Prix,Autódromo José Carlos Pace,0,499
+980,Williams,1980,Monaco Grand Prix,Circuit de Monaco,9,503
+981,Ferrari,1980,Monaco Grand Prix,Circuit de Monaco,2,503
+982,Alfa Romeo,1980,Monaco Grand Prix,Circuit de Monaco,0,503
+983,McLaren,1980,Monaco Grand Prix,Circuit de Monaco,0,503
+984,Williams,1980,Austrian Grand Prix,Red Bull Ring,10,507
+985,McLaren,1980,Austrian Grand Prix,Red Bull Ring,0,507
+986,Ferrari,1980,Austrian Grand Prix,Red Bull Ring,0,507
+987,Alfa Romeo,1980,Austrian Grand Prix,Red Bull Ring,0,507
+988,Williams,1980,Dutch Grand Prix,Circuit Park Zandvoort,3,508
+989,McLaren,1980,Dutch Grand Prix,Circuit Park Zandvoort,1,508
+990,Ferrari,1980,Dutch Grand Prix,Circuit Park Zandvoort,0,508
+991,Alfa Romeo,1980,Dutch Grand Prix,Circuit Park Zandvoort,0,508
+992,Williams,1980,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,509
+993,McLaren,1980,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,509
+994,Ferrari,1980,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,509
+995,Alfa Romeo,1980,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,509
+996,Williams,1980,Canadian Grand Prix,Circuit Gilles Villeneuve,15,510
+997,McLaren,1980,Canadian Grand Prix,Circuit Gilles Villeneuve,3,510
+998,Ferrari,1980,Canadian Grand Prix,Circuit Gilles Villeneuve,2,510
+999,Alfa Romeo,1980,Canadian Grand Prix,Circuit Gilles Villeneuve,0,510
+1000,Williams,1979,São Paulo Grand Prix,Autódromo José Carlos Pace,0,513
+1001,McLaren,1979,São Paulo Grand Prix,Autódromo José Carlos Pace,0,513
+1002,Ferrari,1979,São Paulo Grand Prix,Autódromo José Carlos Pace,3,513
+1003,McLaren,1979,Monaco Grand Prix,Circuit de Monaco,3,518
+1004,Williams,1979,Monaco Grand Prix,Circuit de Monaco,6,518
+1005,Ferrari,1979,Monaco Grand Prix,Circuit de Monaco,9,518
+1006,Ferrari,1979,British Grand Prix,Silverstone Circuit,2,520
+1007,McLaren,1979,British Grand Prix,Silverstone Circuit,3,520
+1008,Williams,1979,British Grand Prix,Silverstone Circuit,9,520
+1009,Williams,1979,Austrian Grand Prix,Red Bull Ring,11,522
+1010,Ferrari,1979,Austrian Grand Prix,Red Bull Ring,9,522
+1011,McLaren,1979,Austrian Grand Prix,Red Bull Ring,0,522
+1012,Ferrari,1979,Dutch Grand Prix,Circuit Park Zandvoort,6,523
+1013,Williams,1979,Dutch Grand Prix,Circuit Park Zandvoort,9,523
+1014,Alfa Romeo,1979,Italian Grand Prix,Autodromo Nazionale di Monza,0,524
+1015,Williams,1979,Italian Grand Prix,Autodromo Nazionale di Monza,4,524
+1016,Ferrari,1979,Italian Grand Prix,Autodromo Nazionale di Monza,15,524
+1017,Alfa Romeo,1979,Canadian Grand Prix,Circuit Gilles Villeneuve,0,525
+1018,McLaren,1979,Canadian Grand Prix,Circuit Gilles Villeneuve,1,525
+1019,Ferrari,1979,Canadian Grand Prix,Circuit Gilles Villeneuve,9,525
+1020,Williams,1979,Canadian Grand Prix,Circuit Gilles Villeneuve,13,525
+1021,Williams,1978,Monaco Grand Prix,Circuit de Monaco,0,531
+1022,Ferrari,1978,Monaco Grand Prix,Circuit de Monaco,0,531
+1023,McLaren,1978,Monaco Grand Prix,Circuit de Monaco,0,531
+1024,McLaren,1978,Austrian Grand Prix,Red Bull Ring,0,538
+1025,Ferrari,1978,Austrian Grand Prix,Red Bull Ring,4,538
+1026,Williams,1978,Dutch Grand Prix,Circuit Park Zandvoort,0,539
+1027,McLaren,1978,Dutch Grand Prix,Circuit Park Zandvoort,0,539
+1028,Ferrari,1978,Dutch Grand Prix,Circuit Park Zandvoort,1,539
+1029,Williams,1978,Italian Grand Prix,Autodromo Nazionale di Monza,0,540
+1030,McLaren,1978,Italian Grand Prix,Autodromo Nazionale di Monza,2,540
+1031,Ferrari,1978,Italian Grand Prix,Autodromo Nazionale di Monza,4,540
+1032,Williams,1978,Canadian Grand Prix,Circuit Gilles Villeneuve,0,542
+1033,McLaren,1978,Canadian Grand Prix,Circuit Gilles Villeneuve,0,542
+1034,Ferrari,1978,Canadian Grand Prix,Circuit Gilles Villeneuve,9,542
+1035,McLaren,1977,São Paulo Grand Prix,Autódromo José Carlos Pace,6,544
+1036,Ferrari,1977,São Paulo Grand Prix,Autódromo José Carlos Pace,9,544
+1037,McLaren,1977,Monaco Grand Prix,Circuit de Monaco,3,548
+1038,Ferrari,1977,Monaco Grand Prix,Circuit de Monaco,6,548
+1039,Ferrari,1977,British Grand Prix,Silverstone Circuit,6,552
+1040,McLaren,1977,British Grand Prix,Silverstone Circuit,9,552
+1041,McLaren,1977,Austrian Grand Prix,Red Bull Ring,1,554
+1042,Ferrari,1977,Austrian Grand Prix,Red Bull Ring,6,554
+1043,McLaren,1977,Dutch Grand Prix,Circuit Park Zandvoort,0,555
+1044,Ferrari,1977,Dutch Grand Prix,Circuit Park Zandvoort,9,555
+1045,McLaren,1977,Italian Grand Prix,Autodromo Nazionale di Monza,3,556
+1046,Ferrari,1977,Italian Grand Prix,Autodromo Nazionale di Monza,6,556
+1047,Williams,1976,São Paulo Grand Prix,Autódromo José Carlos Pace,0,560
+1048,McLaren,1976,São Paulo Grand Prix,Autódromo José Carlos Pace,1,560
+1049,Ferrari,1976,São Paulo Grand Prix,Autódromo José Carlos Pace,9,560
+1050,McLaren,1976,Monaco Grand Prix,Circuit de Monaco,2,565
+1051,Ferrari,1976,Monaco Grand Prix,Circuit de Monaco,9,565
+1052,McLaren,1976,Austrian Grand Prix,Red Bull Ring,3,570
+1053,Ferrari,1976,Dutch Grand Prix,Circuit Park Zandvoort,6,571
+1054,McLaren,1976,Dutch Grand Prix,Circuit Park Zandvoort,9,571
+1055,Ferrari,1976,Italian Grand Prix,Autodromo Nazionale di Monza,6,572
+1056,Williams,1975,São Paulo Grand Prix,Autódromo José Carlos Pace,0,577
+1057,Ferrari,1975,São Paulo Grand Prix,Autódromo José Carlos Pace,3,577
+1058,McLaren,1975,São Paulo Grand Prix,Autódromo José Carlos Pace,6,577
+1059,McLaren,1975,Monaco Grand Prix,Circuit de Monaco,6,580
+1060,Ferrari,1975,Monaco Grand Prix,Circuit de Monaco,9,580
+1061,McLaren,1975,Dutch Grand Prix,Circuit Park Zandvoort,0,583
+1062,Williams,1975,Dutch Grand Prix,Circuit Park Zandvoort,0,583
+1063,Ferrari,1975,British Grand Prix,Silverstone Circuit,0,585
+1064,Williams,1975,Austrian Grand Prix,Red Bull Ring,0,587
+1065,Ferrari,1975,Austrian Grand Prix,Red Bull Ring,0.5,587
+1066,McLaren,1975,Austrian Grand Prix,Red Bull Ring,1.5,587
+1067,Williams,1975,Italian Grand Prix,Autodromo Nazionale di Monza,0,588
+1068,Ferrari,1974,São Paulo Grand Prix,Autódromo José Carlos Pace,6,591
+1069,McLaren,1974,São Paulo Grand Prix,Autódromo José Carlos Pace,9,591
+1070,McLaren,1974,Monaco Grand Prix,Circuit de Monaco,2,595
+1071,Ferrari,1974,Monaco Grand Prix,Circuit de Monaco,3,595
+1072,McLaren,1974,Dutch Grand Prix,Circuit Park Zandvoort,4,597
+1073,Ferrari,1974,Dutch Grand Prix,Circuit Park Zandvoort,9,597
+1074,Ferrari,1974,Austrian Grand Prix,Red Bull Ring,2,601
+1075,McLaren,1974,Austrian Grand Prix,Red Bull Ring,6,601
+1076,Ferrari,1974,Italian Grand Prix,Autodromo Nazionale di Monza,0,602
+1077,McLaren,1974,Italian Grand Prix,Autodromo Nazionale di Monza,6,602
+1078,Ferrari,1973,São Paulo Grand Prix,Autódromo José Carlos Pace,3,606
+1079,McLaren,1973,São Paulo Grand Prix,Autódromo José Carlos Pace,4,606
+1080,Ferrari,1973,Monaco Grand Prix,Circuit de Monaco,0,610
+1081,McLaren,1973,Monaco Grand Prix,Circuit de Monaco,2,610
+1082,Ferrari,1973,British Grand Prix,Silverstone Circuit,0,613
+1083,McLaren,1973,Dutch Grand Prix,Circuit Park Zandvoort,3,614
+1084,McLaren,1973,Austrian Grand Prix,Red Bull Ring,0,616
+1085,Ferrari,1973,Austrian Grand Prix,Red Bull Ring,0,616
+1086,Ferrari,1973,Italian Grand Prix,Autodromo Nazionale di Monza,0,617
+1087,McLaren,1973,Italian Grand Prix,Autodromo Nazionale di Monza,4,617
+1088,McLaren,1972,Monaco Grand Prix,Circuit de Monaco,2,623
+1089,Ferrari,1972,Monaco Grand Prix,Circuit de Monaco,6,623
+1090,McLaren,1972,Austrian Grand Prix,Red Bull Ring,6,628
+1091,Ferrari,1972,Italian Grand Prix,Autodromo Nazionale di Monza,0,629
+1092,McLaren,1972,Italian Grand Prix,Autodromo Nazionale di Monza,4,629
+1093,McLaren,1971,Monaco Grand Prix,Circuit de Monaco,3,634
+1094,Ferrari,1971,Monaco Grand Prix,Circuit de Monaco,4,634
+1095,Ferrari,1971,Dutch Grand Prix,Circuit Park Zandvoort,9,635
+1096,McLaren,1971,Austrian Grand Prix,Red Bull Ring,0,639
+1097,McLaren,1971,Italian Grand Prix,Autodromo Nazionale di Monza,0,640
+1098,Ferrari,1970,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,646
+1099,Ferrari,1970,Dutch Grand Prix,Circuit Park Zandvoort,4,647
+1100,Red Bull,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,18,17
+1101,Williams,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,0,17
+1102,McLaren,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,0,17
+1103,Ferrari,2009,Abu Dhabi Grand Prix,Yas Marina Circuit,0,17
+1104,Ferrari,1969,Dutch Grand Prix,Circuit Park Zandvoort,4,659
+1105,Ferrari,1969,British Grand Prix,Silverstone Circuit,0,661
+1106,Ferrari,1969,Italian Grand Prix,Autodromo Nazionale di Monza,1,663
+1107,Ferrari,1969,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,666
+1108,Ferrari,1968,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,670
+1109,Ferrari,1968,Dutch Grand Prix,Circuit Park Zandvoort,3,671
+1110,Ferrari,1968,Italian Grand Prix,Autodromo Nazionale di Monza,4,675
+1111,Ferrari,1967,Monaco Grand Prix,Circuit de Monaco,4,680
+1112,Ferrari,1967,Dutch Grand Prix,Circuit Park Zandvoort,3,681
+1113,Ferrari,1967,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,682
+1114,Ferrari,1967,British Grand Prix,Silverstone Circuit,4,684
+1115,Ferrari,1967,Italian Grand Prix,Autodromo Nazionale di Monza,0,687
+1116,Ferrari,1967,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,689
+1117,Ferrari,1966,Dutch Grand Prix,Circuit Park Zandvoort,1,694
+1118,Ferrari,1965,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,701
+1119,Ferrari,1965,Dutch Grand Prix,Circuit Park Zandvoort,0,704
+1120,Ferrari,1965,Italian Grand Prix,Autodromo Nazionale di Monza,3,706
+1121,Ferrari,1965,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,708
+1122,Ferrari,1964,Monaco Grand Prix,Circuit de Monaco,0,709
+1123,Ferrari,1964,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,711
+1124,Ferrari,1963,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,720
+1125,Ferrari,1963,Italian Grand Prix,Autodromo Nazionale di Monza,0,725
+1126,Ferrari,1963,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,727
+1127,Ferrari,1962,Dutch Grand Prix,Circuit Park Zandvoort,4,729
+1128,Ferrari,1962,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,731
+1129,Aston Martin,1960,Dutch Grand Prix,Circuit Park Zandvoort,0,749
+1130,Ferrari,1960,Dutch Grand Prix,Circuit Park Zandvoort,2,749
+1131,Ferrari,1960,Monaco Grand Prix,Circuit de Monaco,4,747
+1132,Aston Martin,1959,Italian Grand Prix,Autodromo Nazionale di Monza,0,763
+1133,Aston Martin,1959,Dutch Grand Prix,Circuit Park Zandvoort,0,758
+1134,Ferrari,1959,Dutch Grand Prix,Circuit Park Zandvoort,2,758
+1135,Ferrari,1959,Monaco Grand Prix,Circuit de Monaco,6,756
+1136,Ferrari,1958,Italian Grand Prix,Autodromo Nazionale di Monza,6,774
+1137,Ferrari,1958,British Grand Prix,Silverstone Circuit,8,771
+1138,Ferrari,1958,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,769
+1139,Ferrari,1958,Dutch Grand Prix,Circuit Park Zandvoort,2,767
+1140,Ferrari,1958,Monaco Grand Prix,Circuit de Monaco,6,766
+1141,Ferrari,1966,Italian Grand Prix,Autodromo Nazionale di Monza,9,696
+1142,Ferrari,1966,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,691
+1143,Ferrari,1966,Monaco Grand Prix,Circuit de Monaco,6,690
+1144,Ferrari,1965,British Grand Prix,Silverstone Circuit,4,703
+1145,Ferrari,1965,Monaco Grand Prix,Circuit de Monaco,6,700
+1146,Ferrari,1964,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,718
+1147,Ferrari,1964,Italian Grand Prix,Autodromo Nazionale di Monza,9,716
+1148,Ferrari,1964,Dutch Grand Prix,Circuit Park Zandvoort,6,710
+1149,Ferrari,1963,British Grand Prix,Silverstone Circuit,6,723
+1150,Ferrari,1963,Dutch Grand Prix,Circuit Park Zandvoort,4,721
+1151,Ferrari,1963,Monaco Grand Prix,Circuit de Monaco,3,719
+1152,Ferrari,1962,Italian Grand Prix,Autodromo Nazionale di Monza,3,735
+1153,Ferrari,1962,Monaco Grand Prix,Circuit de Monaco,6,730
+1154,Ferrari,1961,Italian Grand Prix,Autodromo Nazionale di Monza,9,744
+1155,Ferrari,1961,Belgian Grand Prix,Circuit de Spa-Francorchamps,9,740
+1156,Ferrari,1961,Dutch Grand Prix,Circuit Park Zandvoort,9,739
+1157,Ferrari,1961,Monaco Grand Prix,Circuit de Monaco,6,738
+1158,Ferrari,1959,Italian Grand Prix,Autodromo Nazionale di Monza,6,763
+1159,Ferrari,1960,Italian Grand Prix,Autodromo Nazionale di Monza,8,754
+1160,Aston Martin,1960,British Grand Prix,Silverstone Circuit,0,752
+1161,Ferrari,1960,British Grand Prix,Silverstone Circuit,1,752
+1162,Ferrari,1960,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,750
+1163,Ferrari,1968,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,678
+1164,Ferrari,1969,Monaco Grand Prix,Circuit de Monaco,0,658
+1165,Ferrari,1970,Austrian Grand Prix,Red Bull Ring,15,651
+1166,Ferrari,1970,Italian Grand Prix,Autodromo Nazionale di Monza,9,652
+1167,Ferrari,1970,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,9,655
+1168,Ferrari,1970,Monaco Grand Prix,Circuit de Monaco,0,645
+1169,McLaren,1971,Dutch Grand Prix,Circuit Park Zandvoort,0,635
+1170,McLaren,1971,British Grand Prix,Silverstone Circuit,0,637
+1171,Ferrari,1971,British Grand Prix,Silverstone Circuit,0,637
+1172,Ferrari,1971,Austrian Grand Prix,Red Bull Ring,0,639
+1173,Ferrari,1971,Italian Grand Prix,Autodromo Nazionale di Monza,0,640
+1174,Ferrari,1972,Austrian Grand Prix,Red Bull Ring,0,628
+1175,McLaren,1973,British Grand Prix,Silverstone Circuit,9,613
+1176,Williams,1975,Monaco Grand Prix,Circuit de Monaco,0,580
+1177,Ferrari,1975,Dutch Grand Prix,Circuit Park Zandvoort,6,583
+1178,McLaren,1975,British Grand Prix,Silverstone Circuit,9,585
+1179,McLaren,1975,Italian Grand Prix,Autodromo Nazionale di Monza,6,588
+1180,Ferrari,1975,Italian Grand Prix,Autodromo Nazionale di Monza,9,588
+1181,Williams,1975,British Grand Prix,Silverstone Circuit,0,585
+1182,McLaren,1976,Italian Grand Prix,Autodromo Nazionale di Monza,0,572
+1183,Williams,1978,Austrian Grand Prix,Red Bull Ring,0,538
+1184,McLaren,1979,Dutch Grand Prix,Circuit Park Zandvoort,0,523
+1185,McLaren,1979,Italian Grand Prix,Autodromo Nazionale di Monza,0,524
+1186,Ferrari,2010,Bahrain Grand Prix,Bahrain International Circuit,43,337
+1187,McLaren,2010,Bahrain Grand Prix,Bahrain International Circuit,21,337
+1188,Red Bull,2010,Bahrain Grand Prix,Bahrain International Circuit,16,337
+1189,Mercedes,2010,Bahrain Grand Prix,Bahrain International Circuit,18,337
+1190,Williams,2010,Bahrain Grand Prix,Bahrain International Circuit,1,337
+1191,McLaren,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,33,338
+1192,Ferrari,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,27,338
+1193,Mercedes,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,11,338
+1194,Williams,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,4,338
+1195,Red Bull,2010,Australian Grand Prix,Albert Park Grand Prix Circuit,2,338
+1196,Red Bull,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,40,341
+1197,Ferrari,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,26,341
+1198,Mercedes,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,12,341
+1199,McLaren,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,341
+1200,Williams,2010,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,341
+1201,Red Bull,2010,Monaco Grand Prix,Circuit de Monaco,43,342
+1202,Ferrari,2010,Monaco Grand Prix,Circuit de Monaco,20,342
+1203,McLaren,2010,Monaco Grand Prix,Circuit de Monaco,10,342
+1204,Mercedes,2010,Monaco Grand Prix,Circuit de Monaco,6,342
+1205,Williams,2010,Monaco Grand Prix,Circuit de Monaco,0,342
+1206,McLaren,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,43,344
+1207,Ferrari,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,15,344
+1208,Red Bull,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,22,344
+1209,Mercedes,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,8,344
+1210,Williams,2010,Canadian Grand Prix,Circuit Gilles Villeneuve,0,344
+1211,Red Bull,2010,British Grand Prix,Silverstone Circuit,31,346
+1212,McLaren,2010,British Grand Prix,Silverstone Circuit,30,346
+1213,Mercedes,2010,British Grand Prix,Silverstone Circuit,17,346
+1214,Williams,2010,British Grand Prix,Silverstone Circuit,11,346
+1215,Ferrari,2010,British Grand Prix,Silverstone Circuit,0,346
+1216,Red Bull,2010,Hungarian Grand Prix,Hungaroring,40,348
+1217,Ferrari,2010,Hungarian Grand Prix,Hungaroring,30,348
+1218,Williams,2010,Hungarian Grand Prix,Hungaroring,9,348
+1219,McLaren,2010,Hungarian Grand Prix,Hungaroring,4,348
+1220,Mercedes,2010,Hungarian Grand Prix,Hungaroring,0,348
+1221,McLaren,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,25,349
+1222,Red Bull,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,349
+1223,Ferrari,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,12,349
+1224,Mercedes,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,14,349
+1225,Williams,2010,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,349
+1226,Ferrari,2010,Italian Grand Prix,Autodromo Nazionale di Monza,40,350
+1227,McLaren,2010,Italian Grand Prix,Autodromo Nazionale di Monza,18,350
+1228,Red Bull,2010,Italian Grand Prix,Autodromo Nazionale di Monza,20,350
+1229,Mercedes,2010,Italian Grand Prix,Autodromo Nazionale di Monza,12,350
+1230,Williams,2010,Italian Grand Prix,Autodromo Nazionale di Monza,7,350
+1231,Ferrari,2010,Singapore Grand Prix,Marina Bay Street Circuit,29,351
+1232,Red Bull,2010,Singapore Grand Prix,Marina Bay Street Circuit,33,351
+1233,McLaren,2010,Singapore Grand Prix,Marina Bay Street Circuit,12,351
+1234,Mercedes,2010,Singapore Grand Prix,Marina Bay Street Circuit,10,351
+1235,Williams,2010,Singapore Grand Prix,Marina Bay Street Circuit,9,351
+1236,Red Bull,2010,Japanese Grand Prix,Suzuka Circuit,43,352
+1237,Ferrari,2010,Japanese Grand Prix,Suzuka Circuit,15,352
+1238,McLaren,2010,Japanese Grand Prix,Suzuka Circuit,22,352
+1239,Mercedes,2010,Japanese Grand Prix,Suzuka Circuit,8,352
+1240,Williams,2010,Japanese Grand Prix,Suzuka Circuit,2,352
+1241,Red Bull,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,43,354
+1242,Ferrari,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,15,354
+1243,McLaren,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,22,354
+1244,Mercedes,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,14,354
+1245,Williams,2010,São Paulo Grand Prix,Autódromo José Carlos Pace,4,354
+1246,Red Bull,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,29,355
+1247,McLaren,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,33,355
+1248,Mercedes,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,12,355
+1249,Ferrari,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,7,355
+1250,Williams,2010,Abu Dhabi Grand Prix,Yas Marina Circuit,0,355
+1251,Red Bull,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,35,841
+1252,McLaren,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,26,841
+1253,Ferrari,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,18,841
+1254,Williams,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,0,841
+1255,Mercedes,2011,Australian Grand Prix,Albert Park Grand Prix Circuit,0,841
+1256,Red Bull,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,37,845
+1257,McLaren,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,33,845
+1258,Ferrari,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,845
+1259,Mercedes,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,14,845
+1260,Williams,2011,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,845
+1261,Red Bull,2011,Monaco Grand Prix,Circuit de Monaco,37,846
+1262,Ferrari,2011,Monaco Grand Prix,Circuit de Monaco,18,846
+1263,McLaren,2011,Monaco Grand Prix,Circuit de Monaco,23,846
+1264,Williams,2011,Monaco Grand Prix,Circuit de Monaco,2,846
+1265,Mercedes,2011,Monaco Grand Prix,Circuit de Monaco,0,846
+1266,McLaren,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,25,847
+1267,Red Bull,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,33,847
+1268,Mercedes,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,12,847
+1269,Ferrari,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,8,847
+1270,Williams,2011,Canadian Grand Prix,Circuit Gilles Villeneuve,2,847
+1271,Ferrari,2011,British Grand Prix,Silverstone Circuit,35,849
+1272,Red Bull,2011,British Grand Prix,Silverstone Circuit,33,849
+1273,McLaren,2011,British Grand Prix,Silverstone Circuit,12,849
+1274,Mercedes,2011,British Grand Prix,Silverstone Circuit,10,849
+1275,Williams,2011,British Grand Prix,Silverstone Circuit,0,849
+1276,McLaren,2011,Hungarian Grand Prix,Hungaroring,37,851
+1277,Red Bull,2011,Hungarian Grand Prix,Hungaroring,28,851
+1278,Ferrari,2011,Hungarian Grand Prix,Hungaroring,23,851
+1279,Mercedes,2011,Hungarian Grand Prix,Hungaroring,2,851
+1280,Williams,2011,Hungarian Grand Prix,Hungaroring,0,851
+1281,Red Bull,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,43,852
+1282,McLaren,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,852
+1283,Ferrari,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,16,852
+1284,Mercedes,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,852
+1285,Williams,2011,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,852
+1286,Red Bull,2011,Italian Grand Prix,Autodromo Nazionale di Monza,25,853
+1287,McLaren,2011,Italian Grand Prix,Autodromo Nazionale di Monza,30,853
+1288,Ferrari,2011,Italian Grand Prix,Autodromo Nazionale di Monza,23,853
+1289,Mercedes,2011,Italian Grand Prix,Autodromo Nazionale di Monza,10,853
+1290,Williams,2011,Italian Grand Prix,Autodromo Nazionale di Monza,0,853
+1291,Red Bull,2011,Singapore Grand Prix,Marina Bay Street Circuit,40,854
+1292,McLaren,2011,Singapore Grand Prix,Marina Bay Street Circuit,28,854
+1293,Ferrari,2011,Singapore Grand Prix,Marina Bay Street Circuit,14,854
+1294,Mercedes,2011,Singapore Grand Prix,Marina Bay Street Circuit,6,854
+1295,Williams,2011,Singapore Grand Prix,Marina Bay Street Circuit,0,854
+1296,McLaren,2011,Japanese Grand Prix,Suzuka Circuit,35,855
+1297,Ferrari,2011,Japanese Grand Prix,Suzuka Circuit,24,855
+1298,Red Bull,2011,Japanese Grand Prix,Suzuka Circuit,27,855
+1299,Mercedes,2011,Japanese Grand Prix,Suzuka Circuit,9,855
+1300,Williams,2011,Japanese Grand Prix,Suzuka Circuit,0,855
+1301,McLaren,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,40,858
+1302,Ferrari,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,28,858
+1303,Red Bull,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,12,858
+1304,Mercedes,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,14,858
+1305,Williams,2011,Abu Dhabi Grand Prix,Yas Marina Circuit,0,858
+1306,Red Bull,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,43,859
+1307,McLaren,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,15,859
+1308,Ferrari,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,22,859
+1309,Mercedes,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,6,859
+1310,Williams,2011,São Paulo Grand Prix,Autódromo José Carlos Pace,0,859
+1311,McLaren,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,40,860
+1312,Red Bull,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,30,860
+1313,Ferrari,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,10,860
+1314,Mercedes,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,0,860
+1315,Williams,2012,Australian Grand Prix,Albert Park Grand Prix Circuit,0,860
+1316,Red Bull,2012,Bahrain Grand Prix,Bahrain International Circuit,37,863
+1317,Mercedes,2012,Bahrain Grand Prix,Bahrain International Circuit,11,863
+1318,Ferrari,2012,Bahrain Grand Prix,Bahrain International Circuit,8,863
+1319,McLaren,2012,Bahrain Grand Prix,Bahrain International Circuit,4,863
+1320,Williams,2012,Bahrain Grand Prix,Bahrain International Circuit,0,863
+1321,Williams,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,25,864
+1322,Ferrari,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,18,864
+1323,Red Bull,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,864
+1324,Mercedes,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,864
+1325,McLaren,2012,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,864
+1326,Red Bull,2012,Monaco Grand Prix,Circuit de Monaco,37,865
+1327,Mercedes,2012,Monaco Grand Prix,Circuit de Monaco,18,865
+1328,Ferrari,2012,Monaco Grand Prix,Circuit de Monaco,23,865
+1329,McLaren,2012,Monaco Grand Prix,Circuit de Monaco,10,865
+1330,Williams,2012,Monaco Grand Prix,Circuit de Monaco,1,865
+1331,McLaren,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,25,866
+1332,Red Bull,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,18,866
+1333,Ferrari,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,11,866
+1334,Mercedes,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,8,866
+1335,Williams,2012,Canadian Grand Prix,Circuit Gilles Villeneuve,0,866
+1336,Red Bull,2012,British Grand Prix,Silverstone Circuit,40,868
+1337,Ferrari,2012,British Grand Prix,Silverstone Circuit,30,868
+1338,Mercedes,2012,British Grand Prix,Silverstone Circuit,6,868
+1339,McLaren,2012,British Grand Prix,Silverstone Circuit,5,868
+1340,Williams,2012,British Grand Prix,Silverstone Circuit,2,868
+1341,McLaren,2012,Hungarian Grand Prix,Hungaroring,33,870
+1342,Red Bull,2012,Hungarian Grand Prix,Hungaroring,16,870
+1343,Ferrari,2012,Hungarian Grand Prix,Hungaroring,12,870
+1344,Williams,2012,Hungarian Grand Prix,Hungaroring,6,870
+1345,Mercedes,2012,Hungarian Grand Prix,Hungaroring,1,870
+1346,McLaren,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,25,871
+1347,Red Bull,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,26,871
+1348,Ferrari,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,871
+1349,Mercedes,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,871
+1350,Williams,2012,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,871
+1351,McLaren,2012,Italian Grand Prix,Autodromo Nazionale di Monza,25,872
+1352,Ferrari,2012,Italian Grand Prix,Autodromo Nazionale di Monza,27,872
+1353,Mercedes,2012,Italian Grand Prix,Autodromo Nazionale di Monza,14,872
+1354,Williams,2012,Italian Grand Prix,Autodromo Nazionale di Monza,1,872
+1355,Red Bull,2012,Italian Grand Prix,Autodromo Nazionale di Monza,0,872
+1356,Red Bull,2012,Singapore Grand Prix,Marina Bay Street Circuit,25,873
+1357,McLaren,2012,Singapore Grand Prix,Marina Bay Street Circuit,18,873
+1358,Ferrari,2012,Singapore Grand Prix,Marina Bay Street Circuit,19,873
+1359,Mercedes,2012,Singapore Grand Prix,Marina Bay Street Circuit,10,873
+1360,Red Bull,2012,Japanese Grand Prix,Suzuka Circuit,27,874
+1361,Williams,2012,Singapore Grand Prix,Marina Bay Street Circuit,0,873
+1362,Ferrari,2012,Japanese Grand Prix,Suzuka Circuit,18,874
+1363,McLaren,2012,Japanese Grand Prix,Suzuka Circuit,22,874
+1364,Williams,2012,Japanese Grand Prix,Suzuka Circuit,4,874
+1365,Mercedes,2012,Japanese Grand Prix,Suzuka Circuit,0,874
+1366,Ferrari,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,24,877
+1367,Red Bull,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,15,877
+1368,McLaren,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,12,877
+1369,Williams,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,14,877
+1370,Mercedes,2012,Abu Dhabi Grand Prix,Yas Marina Circuit,0,877
+1371,McLaren,2012,United States Grand Prix,Circuit of the Americas,35,878
+1372,Red Bull,2012,United States Grand Prix,Circuit of the Americas,18,878
+1373,Ferrari,2012,United States Grand Prix,Circuit of the Americas,27,878
+1374,Williams,2012,United States Grand Prix,Circuit of the Americas,3,878
+1375,Mercedes,2012,United States Grand Prix,Circuit of the Americas,0,878
+1376,McLaren,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,25,879
+1377,Ferrari,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,33,879
+1378,Red Bull,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,20,879
+1379,Mercedes,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,6,879
+1380,Williams,2012,São Paulo Grand Prix,Autódromo José Carlos Pace,0,879
+1381,Ferrari,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,30,880
+1382,Red Bull,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,23,880
+1383,Mercedes,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,10,880
+1384,McLaren,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,2,880
+1385,Williams,2013,Australian Grand Prix,Albert Park Grand Prix Circuit,0,880
+1386,Red Bull,2013,Bahrain Grand Prix,Bahrain International Circuit,31,883
+1387,Mercedes,2013,Bahrain Grand Prix,Bahrain International Circuit,12,883
+1388,McLaren,2013,Bahrain Grand Prix,Bahrain International Circuit,9,883
+1389,Ferrari,2013,Bahrain Grand Prix,Bahrain International Circuit,4,883
+1390,Williams,2013,Bahrain Grand Prix,Bahrain International Circuit,0,883
+1391,Ferrari,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,40,884
+1392,Red Bull,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,22,884
+1393,Mercedes,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,884
+1394,McLaren,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,884
+1395,Williams,2013,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,884
+1396,Mercedes,2013,Monaco Grand Prix,Circuit de Monaco,37,885
+1397,Red Bull,2013,Monaco Grand Prix,Circuit de Monaco,33,885
+1398,McLaren,2013,Monaco Grand Prix,Circuit de Monaco,8,885
+1399,Ferrari,2013,Monaco Grand Prix,Circuit de Monaco,6,885
+1400,Williams,2013,Monaco Grand Prix,Circuit de Monaco,0,885
+1401,Red Bull,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,37,886
+1402,Ferrari,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,22,886
+1403,Mercedes,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,25,886
+1404,McLaren,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,0,886
+1405,Williams,2013,Canadian Grand Prix,Circuit Gilles Villeneuve,0,886
+1406,Mercedes,2013,British Grand Prix,Silverstone Circuit,37,887
+1407,Red Bull,2013,British Grand Prix,Silverstone Circuit,18,887
+1408,Ferrari,2013,British Grand Prix,Silverstone Circuit,23,887
+1409,Williams,2013,British Grand Prix,Silverstone Circuit,0,887
+1410,McLaren,2013,British Grand Prix,Silverstone Circuit,0,887
+1411,Mercedes,2013,Hungarian Grand Prix,Hungaroring,25,890
+1412,Red Bull,2013,Hungarian Grand Prix,Hungaroring,27,890
+1413,Ferrari,2013,Hungarian Grand Prix,Hungaroring,14,890
+1414,McLaren,2013,Hungarian Grand Prix,Hungaroring,8,890
+1415,Williams,2013,Hungarian Grand Prix,Hungaroring,1,890
+1416,Red Bull,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,35,891
+1417,Ferrari,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,24,891
+1418,Mercedes,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,27,891
+1419,McLaren,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,891
+1420,Williams,2013,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,891
+1421,Red Bull,2013,Italian Grand Prix,Autodromo Nazionale di Monza,40,892
+1422,Ferrari,2013,Italian Grand Prix,Autodromo Nazionale di Monza,30,892
+1423,Mercedes,2013,Italian Grand Prix,Autodromo Nazionale di Monza,10,892
+1424,McLaren,2013,Italian Grand Prix,Autodromo Nazionale di Monza,1,892
+1425,Williams,2013,Italian Grand Prix,Autodromo Nazionale di Monza,0,892
+1426,Red Bull,2013,Singapore Grand Prix,Marina Bay Street Circuit,25,893
+1427,Ferrari,2013,Singapore Grand Prix,Marina Bay Street Circuit,26,893
+1428,Mercedes,2013,Singapore Grand Prix,Marina Bay Street Circuit,22,893
+1429,McLaren,2013,Singapore Grand Prix,Marina Bay Street Circuit,10,893
+1430,Williams,2013,Singapore Grand Prix,Marina Bay Street Circuit,0,893
+1431,Red Bull,2013,Japanese Grand Prix,Suzuka Circuit,43,895
+1432,Ferrari,2013,Japanese Grand Prix,Suzuka Circuit,13,895
+1433,Mercedes,2013,Japanese Grand Prix,Suzuka Circuit,4,895
+1434,McLaren,2013,Japanese Grand Prix,Suzuka Circuit,2,895
+1435,Williams,2013,Japanese Grand Prix,Suzuka Circuit,0,895
+1436,Red Bull,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,43,897
+1437,Mercedes,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,21,897
+1438,Ferrari,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,14,897
+1439,McLaren,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,2,897
+1440,Williams,2013,Abu Dhabi Grand Prix,Yas Marina Circuit,0,897
+1441,Red Bull,2013,United States Grand Prix,Circuit of the Americas,40,898
+1442,Mercedes,2013,United States Grand Prix,Circuit of the Americas,14,898
+1443,Ferrari,2013,United States Grand Prix,Circuit of the Americas,10,898
+1444,McLaren,2013,United States Grand Prix,Circuit of the Americas,7,898
+1445,Williams,2013,United States Grand Prix,Circuit of the Americas,4,898
+1446,Red Bull,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,43,899
+1447,Ferrari,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,21,899
+1448,McLaren,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,20,899
+1449,Mercedes,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,12,899
+1450,Williams,2013,São Paulo Grand Prix,Autódromo José Carlos Pace,0,899
+1451,Mercedes,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,25,900
+1452,Red Bull,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,0,900
+1453,McLaren,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,33,900
+1454,Ferrari,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,18,900
+1455,Williams,2014,Australian Grand Prix,Albert Park Grand Prix Circuit,10,900
+1456,Mercedes,2014,Bahrain Grand Prix,Bahrain International Circuit,43,902
+1457,Red Bull,2014,Bahrain Grand Prix,Bahrain International Circuit,20,902
+1458,Williams,2014,Bahrain Grand Prix,Bahrain International Circuit,10,902
+1459,Ferrari,2014,Bahrain Grand Prix,Bahrain International Circuit,3,902
+1460,McLaren,2014,Bahrain Grand Prix,Bahrain International Circuit,0,902
+1461,Red Bull,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,25,1007
+1462,Mercedes,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,43,904
+1463,Red Bull,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,27,904
+1464,Williams,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,904
+1465,Ferrari,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,14,904
+1466,McLaren,2014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,904
+1467,Mercedes,2014,Monaco Grand Prix,Circuit de Monaco,43,905
+1468,Red Bull,2014,Monaco Grand Prix,Circuit de Monaco,15,905
+1469,Ferrari,2014,Monaco Grand Prix,Circuit de Monaco,12,905
+1470,McLaren,2014,Monaco Grand Prix,Circuit de Monaco,9,905
+1471,Williams,2014,Monaco Grand Prix,Circuit de Monaco,6,905
+1472,Red Bull,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,40,906
+1473,Mercedes,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,18,906
+1474,McLaren,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,14,906
+1475,Ferrari,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,9,906
+1476,Williams,2014,Canadian Grand Prix,Circuit Gilles Villeneuve,6,906
+1477,Mercedes,2014,Austrian Grand Prix,Red Bull Ring,43,907
+1478,Williams,2014,Austrian Grand Prix,Red Bull Ring,27,907
+1479,Ferrari,2014,Austrian Grand Prix,Red Bull Ring,11,907
+1480,McLaren,2014,Austrian Grand Prix,Red Bull Ring,6,907
+1481,Red Bull,2014,Austrian Grand Prix,Red Bull Ring,4,907
+1482,Mercedes,2014,British Grand Prix,Silverstone Circuit,25,908
+1483,Williams,2014,British Grand Prix,Silverstone Circuit,18,908
+1484,Red Bull,2014,British Grand Prix,Silverstone Circuit,25,908
+1485,McLaren,2014,British Grand Prix,Silverstone Circuit,18,908
+1486,Ferrari,2014,British Grand Prix,Silverstone Circuit,8,908
+1487,Red Bull,2014,Hungarian Grand Prix,Hungaroring,31,910
+1488,Ferrari,2014,Hungarian Grand Prix,Hungaroring,26,910
+1489,Mercedes,2014,Hungarian Grand Prix,Hungaroring,27,910
+1490,Williams,2014,Hungarian Grand Prix,Hungaroring,14,910
+1491,McLaren,2014,Hungarian Grand Prix,Hungaroring,1,910
+1492,Red Bull,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,35,911
+1493,Mercedes,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,911
+1494,Williams,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,911
+1495,Ferrari,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,911
+1496,McLaren,2014,Belgian Grand Prix,Circuit de Spa-Francorchamps,8,911
+1497,Mercedes,2014,Italian Grand Prix,Autodromo Nazionale di Monza,43,912
+1498,Williams,2014,Italian Grand Prix,Autodromo Nazionale di Monza,27,912
+1499,Red Bull,2014,Italian Grand Prix,Autodromo Nazionale di Monza,18,912
+1500,McLaren,2014,Italian Grand Prix,Autodromo Nazionale di Monza,5,912
+1501,Ferrari,2014,Italian Grand Prix,Autodromo Nazionale di Monza,2,912
+1502,Mercedes,2014,Singapore Grand Prix,Marina Bay Street Circuit,25,913
+1503,Red Bull,2014,Singapore Grand Prix,Marina Bay Street Circuit,33,913
+1504,Ferrari,2014,Singapore Grand Prix,Marina Bay Street Circuit,16,913
+1505,Williams,2014,Singapore Grand Prix,Marina Bay Street Circuit,10,913
+1506,McLaren,2014,Singapore Grand Prix,Marina Bay Street Circuit,1,913
+1507,Mercedes,2014,Japanese Grand Prix,Suzuka Circuit,43,914
+1508,Red Bull,2014,Japanese Grand Prix,Suzuka Circuit,27,914
+1509,McLaren,2014,Japanese Grand Prix,Suzuka Circuit,10,914
+1510,Williams,2014,Japanese Grand Prix,Suzuka Circuit,14,914
+1511,Ferrari,2014,Japanese Grand Prix,Suzuka Circuit,0,914
+1512,Mercedes,2014,United States Grand Prix,Circuit of the Americas,43,916
+1513,Red Bull,2014,United States Grand Prix,Circuit of the Americas,21,916
+1514,Williams,2014,United States Grand Prix,Circuit of the Americas,22,916
+1515,Ferrari,2014,United States Grand Prix,Circuit of the Americas,8,916
+1516,McLaren,2014,United States Grand Prix,Circuit of the Americas,4,916
+1517,Mercedes,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,43,917
+1518,Williams,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,16,917
+1519,McLaren,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,14,917
+1520,Red Bull,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,10,917
+1521,Ferrari,2014,São Paulo Grand Prix,Autódromo José Carlos Pace,14,917
+1522,Mercedes,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,50,918
+1523,Williams,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,66,918
+1524,Red Bull,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,32,918
+1525,McLaren,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,20,918
+1526,Ferrari,2014,Abu Dhabi Grand Prix,Yas Marina Circuit,6,918
+1527,Ferrari,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,33,1007
+1528,Mercedes,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,43,926
+1529,Ferrari,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,15,926
+1530,Williams,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,12,926
+1531,Red Bull,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,8,926
+1532,McLaren,2015,Canadian Grand Prix,Circuit Gilles Villeneuve,0,926
+1533,Mercedes,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,40,929
+1534,Ferrari,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,28,929
+1535,Williams,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,13,929
+1536,Red Bull,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,10,929
+1537,McLaren,2015,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,929
+1538,Mercedes,2015,Monaco Grand Prix,Circuit de Monaco,43,930
+1539,Ferrari,2015,Monaco Grand Prix,Circuit de Monaco,25,930
+1540,Williams,2015,Monaco Grand Prix,Circuit de Monaco,20,930
+1541,Red Bull,2015,Monaco Grand Prix,Circuit de Monaco,7,930
+1542,McLaren,2015,Monaco Grand Prix,Circuit de Monaco,0,930
+1543,Mercedes,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,40,931
+1544,Ferrari,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,26,931
+1545,Red Bull,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,22,931
+1546,McLaren,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,4,931
+1547,Williams,2015,Australian Grand Prix,Albert Park Grand Prix Circuit,0,931
+1548,Mercedes,2015,Bahrain Grand Prix,Bahrain International Circuit,43,932
+1549,Williams,2015,Bahrain Grand Prix,Bahrain International Circuit,23,932
+1550,Ferrari,2015,Bahrain Grand Prix,Bahrain International Circuit,22,932
+1551,Red Bull,2015,Bahrain Grand Prix,Bahrain International Circuit,2,932
+1552,McLaren,2015,Bahrain Grand Prix,Bahrain International Circuit,0,932
+1553,Mercedes,2015,Austrian Grand Prix,Red Bull Ring,43,933
+1554,Williams,2015,Austrian Grand Prix,Red Bull Ring,25,933
+1555,Ferrari,2015,Austrian Grand Prix,Red Bull Ring,12,933
+1556,Red Bull,2015,Austrian Grand Prix,Red Bull Ring,1,933
+1557,McLaren,2015,Austrian Grand Prix,Red Bull Ring,0,933
+1558,Mercedes,2015,British Grand Prix,Silverstone Circuit,43,934
+1559,Ferrari,2015,British Grand Prix,Silverstone Circuit,19,934
+1560,Williams,2015,British Grand Prix,Silverstone Circuit,22,934
+1561,Red Bull,2015,British Grand Prix,Silverstone Circuit,8,934
+1562,McLaren,2015,British Grand Prix,Silverstone Circuit,1,934
+1563,Ferrari,2015,Hungarian Grand Prix,Hungaroring,25,936
+1564,Red Bull,2015,Hungarian Grand Prix,Hungaroring,33,936
+1565,McLaren,2015,Hungarian Grand Prix,Hungaroring,12,936
+1566,Mercedes,2015,Hungarian Grand Prix,Hungaroring,12,936
+1567,Williams,2015,Hungarian Grand Prix,Hungaroring,0,936
+1568,Mercedes,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,43,937
+1569,Red Bull,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,12,937
+1570,Williams,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,937
+1571,Ferrari,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,937
+1572,McLaren,2015,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,937
+1573,Mercedes,2015,Italian Grand Prix,Autodromo Nazionale di Monza,25,938
+1574,Ferrari,2015,Italian Grand Prix,Autodromo Nazionale di Monza,28,938
+1575,Williams,2015,Italian Grand Prix,Autodromo Nazionale di Monza,27,938
+1576,Red Bull,2015,Italian Grand Prix,Autodromo Nazionale di Monza,5,938
+1577,McLaren,2015,Italian Grand Prix,Autodromo Nazionale di Monza,0,938
+1578,Ferrari,2015,Singapore Grand Prix,Marina Bay Street Circuit,40,939
+1579,Red Bull,2015,Singapore Grand Prix,Marina Bay Street Circuit,26,939
+1580,Mercedes,2015,Singapore Grand Prix,Marina Bay Street Circuit,12,939
+1581,Williams,2015,Singapore Grand Prix,Marina Bay Street Circuit,10,939
+1582,McLaren,2015,Singapore Grand Prix,Marina Bay Street Circuit,0,939
+1583,Mercedes,2015,Japanese Grand Prix,Suzuka Circuit,43,940
+1584,Ferrari,2015,Japanese Grand Prix,Suzuka Circuit,27,940
+1585,Williams,2015,Japanese Grand Prix,Suzuka Circuit,10,940
+1586,McLaren,2015,Japanese Grand Prix,Suzuka Circuit,0,940
+1587,Red Bull,2015,Japanese Grand Prix,Suzuka Circuit,0,940
+1588,Mercedes,2015,United States Grand Prix,Circuit of the Americas,43,942
+1589,Ferrari,2015,United States Grand Prix,Circuit of the Americas,15,942
+1590,McLaren,2015,United States Grand Prix,Circuit of the Americas,8,942
+1591,Red Bull,2015,United States Grand Prix,Circuit of the Americas,1,942
+1592,Williams,2015,United States Grand Prix,Circuit of the Americas,0,942
+1593,Mercedes,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,43,943
+1594,Williams,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,23,943
+1595,Red Bull,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,22,943
+1596,McLaren,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,943
+1597,Ferrari,2015,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,943
+1598,Mercedes,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,43,944
+1599,Ferrari,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,27,944
+1600,Williams,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,10,944
+1601,Red Bull,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,6,944
+1602,McLaren,2015,São Paulo Grand Prix,Autódromo José Carlos Pace,0,944
+1603,Mercedes,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,43,945
+1604,Ferrari,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,27,945
+1605,Red Bull,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,9,945
+1606,Williams,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,4,945
+1607,McLaren,2015,Abu Dhabi Grand Prix,Yas Marina Circuit,0,945
+1608,Mercedes,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,43,948
+1609,Ferrari,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,15,948
+1610,Red Bull,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,12,948
+1611,Williams,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,14,948
+1612,Haas F1 Team,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,8,948
+1613,McLaren,2016,Australian Grand Prix,Albert Park Grand Prix Circuit,0,948
+1614,Mercedes,2016,Bahrain Grand Prix,Bahrain International Circuit,40,949
+1615,Ferrari,2016,Bahrain Grand Prix,Bahrain International Circuit,18,949
+1616,Red Bull,2016,Bahrain Grand Prix,Bahrain International Circuit,18,949
+1617,Haas F1 Team,2016,Bahrain Grand Prix,Bahrain International Circuit,10,949
+1618,Williams,2016,Bahrain Grand Prix,Bahrain International Circuit,6,949
+1619,McLaren,2016,Bahrain Grand Prix,Bahrain International Circuit,1,949
+1620,Red Bull,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,37,952
+1621,Ferrari,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,33,952
+1622,Williams,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,14,952
+1623,McLaren,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,952
+1624,Haas F1 Team,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,952
+1625,Mercedes,2016,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,952
+1626,Mercedes,2016,Monaco Grand Prix,Circuit de Monaco,31,953
+1627,Red Bull,2016,Monaco Grand Prix,Circuit de Monaco,18,953
+1628,Ferrari,2016,Monaco Grand Prix,Circuit de Monaco,12,953
+1629,McLaren,2016,Monaco Grand Prix,Circuit de Monaco,12,953
+1630,Williams,2016,Monaco Grand Prix,Circuit de Monaco,1,953
+1631,Haas F1 Team,2016,Monaco Grand Prix,Circuit de Monaco,0,953
+1632,Mercedes,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,35,954
+1633,Ferrari,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,26,954
+1634,Williams,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,15,954
+1635,Red Bull,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,18,954
+1636,McLaren,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,0,954
+1637,Haas F1 Team,2016,Canadian Grand Prix,Circuit Gilles Villeneuve,0,954
+1638,Mercedes,2016,Azerbaijan Grand Prix,Baku City Circuit,35,955
+1639,Ferrari,2016,Azerbaijan Grand Prix,Baku City Circuit,30,955
+1640,Williams,2016,Azerbaijan Grand Prix,Baku City Circuit,9,955
+1641,Red Bull,2016,Azerbaijan Grand Prix,Baku City Circuit,10,955
+1642,McLaren,2016,Azerbaijan Grand Prix,Baku City Circuit,0,955
+1643,Haas F1 Team,2016,Azerbaijan Grand Prix,Baku City Circuit,0,955
+1644,Mercedes,2016,Austrian Grand Prix,Red Bull Ring,37,956
+1645,Red Bull,2016,Austrian Grand Prix,Red Bull Ring,28,956
+1646,Ferrari,2016,Austrian Grand Prix,Red Bull Ring,15,956
+1647,McLaren,2016,Austrian Grand Prix,Red Bull Ring,8,956
+1648,Haas F1 Team,2016,Austrian Grand Prix,Red Bull Ring,6,956
+1649,Williams,2016,Austrian Grand Prix,Red Bull Ring,2,956
+1650,Mercedes,2016,British Grand Prix,Silverstone Circuit,40,957
+1651,Red Bull,2016,British Grand Prix,Silverstone Circuit,30,957
+1652,Ferrari,2016,British Grand Prix,Silverstone Circuit,12,957
+1653,Williams,2016,British Grand Prix,Silverstone Circuit,0,957
+1654,McLaren,2016,British Grand Prix,Silverstone Circuit,0,957
+1655,Haas F1 Team,2016,British Grand Prix,Silverstone Circuit,0,957
+1656,Mercedes,2016,Hungarian Grand Prix,Hungaroring,43,958
+1657,Red Bull,2016,Hungarian Grand Prix,Hungaroring,25,958
+1658,Ferrari,2016,Hungarian Grand Prix,Hungaroring,20,958
+1659,McLaren,2016,Hungarian Grand Prix,Hungaroring,6,958
+1660,Williams,2016,Hungarian Grand Prix,Hungaroring,2,958
+1661,Haas F1 Team,2016,Hungarian Grand Prix,Hungaroring,0,958
+1662,Mercedes,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,40,960
+1663,Red Bull,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,18,960
+1664,Ferrari,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,960
+1665,McLaren,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,960
+1666,Williams,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,960
+1667,Haas F1 Team,2016,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,960
+1668,Mercedes,2016,Italian Grand Prix,Autodromo Nazionale di Monza,43,961
+1669,Ferrari,2016,Italian Grand Prix,Autodromo Nazionale di Monza,27,961
+1670,Red Bull,2016,Italian Grand Prix,Autodromo Nazionale di Monza,16,961
+1671,Williams,2016,Italian Grand Prix,Autodromo Nazionale di Monza,10,961
+1672,Haas F1 Team,2016,Italian Grand Prix,Autodromo Nazionale di Monza,0,961
+1673,McLaren,2016,Italian Grand Prix,Autodromo Nazionale di Monza,0,961
+1674,Mercedes,2016,Singapore Grand Prix,Marina Bay Street Circuit,40,962
+1675,Red Bull,2016,Singapore Grand Prix,Marina Bay Street Circuit,26,962
+1676,Ferrari,2016,Singapore Grand Prix,Marina Bay Street Circuit,22,962
+1677,McLaren,2016,Singapore Grand Prix,Marina Bay Street Circuit,6,962
+1678,Haas F1 Team,2016,Singapore Grand Prix,Marina Bay Street Circuit,0,962
+1679,Williams,2016,Singapore Grand Prix,Marina Bay Street Circuit,0,962
+1680,Mercedes,2016,Japanese Grand Prix,Suzuka Circuit,40,964
+1681,Red Bull,2016,Japanese Grand Prix,Suzuka Circuit,26,964
+1682,Ferrari,2016,Japanese Grand Prix,Suzuka Circuit,22,964
+1683,Williams,2016,Japanese Grand Prix,Suzuka Circuit,3,964
+1684,Haas F1 Team,2016,Japanese Grand Prix,Suzuka Circuit,0,964
+1685,McLaren,2016,Japanese Grand Prix,Suzuka Circuit,0,964
+1686,Mercedes,2016,United States Grand Prix,Circuit of the Americas,43,965
+1687,Red Bull,2016,United States Grand Prix,Circuit of the Americas,15,965
+1688,Ferrari,2016,United States Grand Prix,Circuit of the Americas,12,965
+1689,McLaren,2016,United States Grand Prix,Circuit of the Americas,12,965
+1690,Williams,2016,United States Grand Prix,Circuit of the Americas,6,965
+1691,Haas F1 Team,2016,United States Grand Prix,Circuit of the Americas,1,965
+1692,Mercedes,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,43,966
+1693,Ferrari,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,18,966
+1694,Red Bull,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,27,966
+1695,Williams,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,966
+1696,McLaren,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,966
+1697,Haas F1 Team,2016,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,966
+1698,Mercedes,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,43,967
+1699,Red Bull,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,19,967
+1700,Ferrari,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,10,967
+1701,McLaren,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,1,967
+1702,Williams,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,0,967
+1703,Haas F1 Team,2016,São Paulo Grand Prix,Autódromo José Carlos Pace,0,967
+1704,Mercedes,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,43,968
+1705,Ferrari,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,23,968
+1706,Red Bull,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,22,968
+1707,Williams,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,2,968
+1708,McLaren,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,1,968
+1709,Haas F1 Team,2016,Abu Dhabi Grand Prix,Yas Marina Circuit,0,968
+1710,Ferrari,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,37,969
+1711,Mercedes,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,33,969
+1712,Red Bull,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,10,969
+1713,Williams,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,8,969
+1714,McLaren,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,0,969
+1715,Haas F1 Team,2017,Australian Grand Prix,Albert Park Grand Prix Circuit,0,969
+1716,Ferrari,2017,Bahrain Grand Prix,Bahrain International Circuit,37,971
+1717,Mercedes,2017,Bahrain Grand Prix,Bahrain International Circuit,33,971
+1718,Red Bull,2017,Bahrain Grand Prix,Bahrain International Circuit,10,971
+1719,Williams,2017,Bahrain Grand Prix,Bahrain International Circuit,8,971
+1720,Haas F1 Team,2017,Bahrain Grand Prix,Bahrain International Circuit,4,971
+1721,McLaren,2017,Bahrain Grand Prix,Bahrain International Circuit,0,971
+1722,Mercedes,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,25,973
+1723,Ferrari,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,18,973
+1724,Red Bull,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,15,973
+1725,Haas F1 Team,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,973
+1726,McLaren,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,973
+1727,Williams,2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,973
+1728,Ferrari,2017,Monaco Grand Prix,Circuit de Monaco,43,974
+1729,Red Bull,2017,Monaco Grand Prix,Circuit de Monaco,25,974
+1730,Mercedes,2017,Monaco Grand Prix,Circuit de Monaco,18,974
+1731,Haas F1 Team,2017,Monaco Grand Prix,Circuit de Monaco,5,974
+1732,Williams,2017,Monaco Grand Prix,Circuit de Monaco,2,974
+1733,McLaren,2017,Monaco Grand Prix,Circuit de Monaco,0,974
+1734,Mercedes,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,43,975
+1735,Red Bull,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,15,975
+1736,Ferrari,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,18,975
+1737,Williams,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,2,975
+1738,Haas F1 Team,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,1,975
+1739,McLaren,2017,Canadian Grand Prix,Circuit Gilles Villeneuve,0,975
+1740,Red Bull,2017,Azerbaijan Grand Prix,Baku City Circuit,25,976
+1741,Mercedes,2017,Azerbaijan Grand Prix,Baku City Circuit,28,976
+1742,Williams,2017,Azerbaijan Grand Prix,Baku City Circuit,15,976
+1743,Ferrari,2017,Azerbaijan Grand Prix,Baku City Circuit,12,976
+1744,Haas F1 Team,2017,Azerbaijan Grand Prix,Baku City Circuit,6,976
+1745,McLaren,2017,Azerbaijan Grand Prix,Baku City Circuit,2,976
+1746,Mercedes,2017,Austrian Grand Prix,Red Bull Ring,37,977
+1747,Ferrari,2017,Austrian Grand Prix,Red Bull Ring,28,977
+1748,Red Bull,2017,Austrian Grand Prix,Red Bull Ring,15,977
+1749,Haas F1 Team,2017,Austrian Grand Prix,Red Bull Ring,8,977
+1750,Williams,2017,Austrian Grand Prix,Red Bull Ring,3,977
+1751,McLaren,2017,Austrian Grand Prix,Red Bull Ring,0,977
+1752,Mercedes,2017,British Grand Prix,Silverstone Circuit,43,978
+1753,Ferrari,2017,British Grand Prix,Silverstone Circuit,21,978
+1754,Red Bull,2017,British Grand Prix,Silverstone Circuit,22,978
+1755,Williams,2017,British Grand Prix,Silverstone Circuit,1,978
+1756,McLaren,2017,British Grand Prix,Silverstone Circuit,0,978
+1757,Haas F1 Team,2017,British Grand Prix,Silverstone Circuit,0,978
+1758,Ferrari,2017,Hungarian Grand Prix,Hungaroring,43,979
+1759,Mercedes,2017,Hungarian Grand Prix,Hungaroring,27,979
+1760,Red Bull,2017,Hungarian Grand Prix,Hungaroring,10,979
+1761,McLaren,2017,Hungarian Grand Prix,Hungaroring,9,979
+1762,Haas F1 Team,2017,Hungarian Grand Prix,Hungaroring,0,979
+1763,Williams,2017,Hungarian Grand Prix,Hungaroring,0,979
+1764,Mercedes,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,35,980
+1765,Ferrari,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,30,980
+1766,Red Bull,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,980
+1767,Haas F1 Team,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,980
+1768,Williams,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,980
+1769,McLaren,2017,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,980
+1770,Mercedes,2017,Italian Grand Prix,Autodromo Nazionale di Monza,43,981
+1771,Ferrari,2017,Italian Grand Prix,Autodromo Nazionale di Monza,25,981
+1772,Red Bull,2017,Italian Grand Prix,Autodromo Nazionale di Monza,13,981
+1773,Williams,2017,Italian Grand Prix,Autodromo Nazionale di Monza,10,981
+1774,Haas F1 Team,2017,Italian Grand Prix,Autodromo Nazionale di Monza,0,981
+1775,McLaren,2017,Italian Grand Prix,Autodromo Nazionale di Monza,0,981
+1776,Mercedes,2017,Singapore Grand Prix,Marina Bay Street Circuit,40,982
+1777,Red Bull,2017,Singapore Grand Prix,Marina Bay Street Circuit,18,982
+1778,McLaren,2017,Singapore Grand Prix,Marina Bay Street Circuit,6,982
+1779,Williams,2017,Singapore Grand Prix,Marina Bay Street Circuit,4,982
+1780,Haas F1 Team,2017,Singapore Grand Prix,Marina Bay Street Circuit,2,982
+1781,Ferrari,2017,Singapore Grand Prix,Marina Bay Street Circuit,0,982
+1782,Mercedes,2017,Japanese Grand Prix,Suzuka Circuit,37,984
+1783,Red Bull,2017,Japanese Grand Prix,Suzuka Circuit,33,984
+1784,Ferrari,2017,Japanese Grand Prix,Suzuka Circuit,10,984
+1785,Haas F1 Team,2017,Japanese Grand Prix,Suzuka Circuit,6,984
+1786,Williams,2017,Japanese Grand Prix,Suzuka Circuit,1,984
+1787,McLaren,2017,Japanese Grand Prix,Suzuka Circuit,0,984
+1788,Mercedes,2017,United States Grand Prix,Circuit of the Americas,35,985
+1789,Ferrari,2017,United States Grand Prix,Circuit of the Americas,33,985
+1790,Red Bull,2017,United States Grand Prix,Circuit of the Americas,12,985
+1791,Williams,2017,United States Grand Prix,Circuit of the Americas,2,985
+1792,McLaren,2017,United States Grand Prix,Circuit of the Americas,0,985
+1793,Haas F1 Team,2017,United States Grand Prix,Circuit of the Americas,0,985
+1794,Red Bull,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,25,986
+1795,Mercedes,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,20,986
+1796,Ferrari,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,27,986
+1797,Williams,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,986
+1798,Haas F1 Team,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,986
+1799,McLaren,2017,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,986
+1800,Ferrari,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,40,987
+1801,Mercedes,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,30,987
+1802,Red Bull,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,18,987
+1803,Williams,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,6,987
+1804,McLaren,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,4,987
+1805,Haas F1 Team,2017,São Paulo Grand Prix,Autódromo José Carlos Pace,0,987
+1806,Mercedes,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,43,988
+1807,Ferrari,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,27,988
+1808,Red Bull,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,10,988
+1809,McLaren,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,2,988
+1810,Williams,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,1,988
+1811,Haas F1 Team,2017,Abu Dhabi Grand Prix,Yas Marina Circuit,0,988
+1812,Ferrari,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,40,989
+1813,Mercedes,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,22,989
+1814,Red Bull,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,20,989
+1815,McLaren,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,12,989
+1816,Williams,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,0,989
+1817,Haas F1 Team,2018,Australian Grand Prix,Albert Park Grand Prix Circuit,0,989
+1818,Ferrari,2018,Bahrain Grand Prix,Bahrain International Circuit,25,990
+1819,Mercedes,2018,Bahrain Grand Prix,Bahrain International Circuit,33,990
+1820,Haas F1 Team,2018,Bahrain Grand Prix,Bahrain International Circuit,10,990
+1821,McLaren,2018,Bahrain Grand Prix,Bahrain International Circuit,10,990
+1822,Williams,2018,Bahrain Grand Prix,Bahrain International Circuit,0,990
+1823,Red Bull,2018,Bahrain Grand Prix,Bahrain International Circuit,0,990
+1824,Mercedes,2018,Azerbaijan Grand Prix,Baku City Circuit,25,992
+1825,Ferrari,2018,Azerbaijan Grand Prix,Baku City Circuit,30,992
+1826,McLaren,2018,Azerbaijan Grand Prix,Baku City Circuit,8,992
+1827,Williams,2018,Azerbaijan Grand Prix,Baku City Circuit,4,992
+1828,Haas F1 Team,2018,Azerbaijan Grand Prix,Baku City Circuit,0,992
+1829,Red Bull,2018,Azerbaijan Grand Prix,Baku City Circuit,0,992
+1830,Mercedes,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,43,993
+1831,Red Bull,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,25,993
+1832,Ferrari,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,12,993
+1833,Haas F1 Team,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,993
+1834,McLaren,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,993
+1835,Williams,2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,993
+1836,Red Bull,2018,Monaco Grand Prix,Circuit de Monaco,27,994
+1837,Ferrari,2018,Monaco Grand Prix,Circuit de Monaco,30,994
+1838,Mercedes,2018,Monaco Grand Prix,Circuit de Monaco,25,994
+1839,Haas F1 Team,2018,Monaco Grand Prix,Circuit de Monaco,0,994
+1840,McLaren,2018,Monaco Grand Prix,Circuit de Monaco,0,994
+1841,Williams,2018,Monaco Grand Prix,Circuit de Monaco,0,994
+1842,Ferrari,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,33,995
+1843,Mercedes,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,28,995
+1844,Red Bull,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,27,995
+1845,Haas F1 Team,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,0,995
+1846,McLaren,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,0,995
+1847,Williams,2018,Canadian Grand Prix,Circuit Gilles Villeneuve,0,995
+1848,Red Bull,2018,Austrian Grand Prix,Red Bull Ring,25,997
+1849,Ferrari,2018,Austrian Grand Prix,Red Bull Ring,33,997
+1850,Haas F1 Team,2018,Austrian Grand Prix,Red Bull Ring,22,997
+1851,McLaren,2018,Austrian Grand Prix,Red Bull Ring,4,997
+1852,Williams,2018,Austrian Grand Prix,Red Bull Ring,0,997
+1853,Mercedes,2018,Austrian Grand Prix,Red Bull Ring,0,997
+1854,Ferrari,2018,British Grand Prix,Silverstone Circuit,40,998
+1855,Mercedes,2018,British Grand Prix,Silverstone Circuit,30,998
+1856,Red Bull,2018,British Grand Prix,Silverstone Circuit,10,998
+1857,McLaren,2018,British Grand Prix,Silverstone Circuit,4,998
+1858,Haas F1 Team,2018,British Grand Prix,Silverstone Circuit,2,998
+1859,Williams,2018,British Grand Prix,Silverstone Circuit,0,998
+1860,Mercedes,2018,Hungarian Grand Prix,Hungaroring,35,1000
+1861,Ferrari,2018,Hungarian Grand Prix,Hungaroring,33,1000
+1862,Red Bull,2018,Hungarian Grand Prix,Hungaroring,12,1000
+1863,Haas F1 Team,2018,Hungarian Grand Prix,Hungaroring,7,1000
+1864,McLaren,2018,Hungarian Grand Prix,Hungaroring,4,1000
+1865,Williams,2018,Hungarian Grand Prix,Hungaroring,0,1000
+1866,Ferrari,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,25,1001
+1867,Mercedes,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,30,1001
+1868,Red Bull,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,15,1001
+1869,Haas F1 Team,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,1001
+1870,Williams,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1001
+1871,McLaren,2018,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1001
+1872,Mercedes,2018,Italian Grand Prix,Autodromo Nazionale di Monza,40,1002
+1873,Ferrari,2018,Italian Grand Prix,Autodromo Nazionale di Monza,30,1002
+1874,Red Bull,2018,Italian Grand Prix,Autodromo Nazionale di Monza,10,1002
+1875,Haas F1 Team,2018,Italian Grand Prix,Autodromo Nazionale di Monza,0,1002
+1876,Williams,2018,Italian Grand Prix,Autodromo Nazionale di Monza,3,1002
+1877,McLaren,2018,Italian Grand Prix,Autodromo Nazionale di Monza,0,1002
+1878,Mercedes,2018,Singapore Grand Prix,Marina Bay Street Circuit,37,1003
+1879,Red Bull,2018,Singapore Grand Prix,Marina Bay Street Circuit,26,1003
+1880,Ferrari,2018,Singapore Grand Prix,Marina Bay Street Circuit,25,1003
+1881,McLaren,2018,Singapore Grand Prix,Marina Bay Street Circuit,6,1003
+1882,Williams,2018,Singapore Grand Prix,Marina Bay Street Circuit,0,1003
+1883,Haas F1 Team,2018,Singapore Grand Prix,Marina Bay Street Circuit,0,1003
+1884,Mercedes,2018,Japanese Grand Prix,Suzuka Circuit,43,1005
+1885,Red Bull,2018,Japanese Grand Prix,Suzuka Circuit,27,1005
+1886,Ferrari,2018,Japanese Grand Prix,Suzuka Circuit,18,1005
+1887,Haas F1 Team,2018,Japanese Grand Prix,Suzuka Circuit,4,1005
+1888,McLaren,2018,Japanese Grand Prix,Suzuka Circuit,0,1005
+1889,Williams,2018,Japanese Grand Prix,Suzuka Circuit,0,1005
+1890,Ferrari,2018,United States Grand Prix,Circuit of the Americas,37,1006
+1891,Red Bull,2018,United States Grand Prix,Circuit of the Americas,18,1006
+1892,Mercedes,2018,United States Grand Prix,Circuit of the Americas,25,1006
+1893,Haas F1 Team,2018,United States Grand Prix,Circuit of the Americas,0,1006
+1894,McLaren,2018,United States Grand Prix,Circuit of the Americas,0,1006
+1895,Williams,2018,United States Grand Prix,Circuit of the Americas,0,1006
+1896,Mercedes,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,22,1007
+1897,McLaren,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,1007
+1898,Williams,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1007
+1899,Haas F1 Team,2018,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1007
+1900,Mercedes,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,35,1008
+1901,Red Bull,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,30,1008
+1902,Ferrari,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,23,1008
+1903,Haas F1 Team,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,6,1008
+1904,McLaren,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1008
+1905,Williams,2018,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1008
+1906,Mercedes,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,35,1009
+1907,Ferrari,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,18,1009
+1908,Red Bull,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,27,1009
+1909,Haas F1 Team,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,3,1009
+1910,McLaren,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1009
+1911,Williams,2018,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1009
+1912,Mercedes,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,44,1010
+1913,Red Bull,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,15,1010
+1914,Ferrari,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,22,1010
+1915,Haas F1 Team,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,8,1010
+1916,Alfa Romeo,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,4,1010
+1917,McLaren,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1010
+1918,Williams,2019,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1010
+1919,Mercedes,2019,Bahrain Grand Prix,Bahrain International Circuit,43,1011
+1920,Ferrari,2019,Bahrain Grand Prix,Bahrain International Circuit,26,1011
+1921,Red Bull,2019,Bahrain Grand Prix,Bahrain International Circuit,16,1011
+1922,McLaren,2019,Bahrain Grand Prix,Bahrain International Circuit,8,1011
+1923,Alfa Romeo,2019,Bahrain Grand Prix,Bahrain International Circuit,6,1011
+1924,Haas F1 Team,2019,Bahrain Grand Prix,Bahrain International Circuit,0,1011
+1925,Williams,2019,Bahrain Grand Prix,Bahrain International Circuit,0,1011
+1926,Mercedes,2019,Azerbaijan Grand Prix,Baku City Circuit,43,1013
+1927,Ferrari,2019,Azerbaijan Grand Prix,Baku City Circuit,26,1013
+1928,Red Bull,2019,Azerbaijan Grand Prix,Baku City Circuit,12,1013
+1929,McLaren,2019,Azerbaijan Grand Prix,Baku City Circuit,10,1013
+1930,Alfa Romeo,2019,Azerbaijan Grand Prix,Baku City Circuit,1,1013
+1931,Haas F1 Team,2019,Azerbaijan Grand Prix,Baku City Circuit,0,1013
+1932,Williams,2019,Azerbaijan Grand Prix,Baku City Circuit,0,1013
+1933,Mercedes,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,44,1014
+1934,Red Bull,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,23,1014
+1935,Ferrari,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,22,1014
+1936,Haas F1 Team,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,7,1014
+1937,McLaren,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,1014
+1938,Alfa Romeo,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1014
+1939,Williams,2019,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1014
+1940,Mercedes,2019,Monaco Grand Prix,Circuit de Monaco,40,1015
+1941,Ferrari,2019,Monaco Grand Prix,Circuit de Monaco,18,1015
+1942,Red Bull,2019,Monaco Grand Prix,Circuit de Monaco,23,1015
+1943,McLaren,2019,Monaco Grand Prix,Circuit de Monaco,8,1015
+1944,Haas F1 Team,2019,Monaco Grand Prix,Circuit de Monaco,1,1015
+1945,Williams,2019,Monaco Grand Prix,Circuit de Monaco,0,1015
+1946,Alfa Romeo,2019,Monaco Grand Prix,Circuit de Monaco,0,1015
+1947,Mercedes,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,38,1016
+1948,Ferrari,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,33,1016
+1949,Red Bull,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,14,1016
+1950,McLaren,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1016
+1951,Alfa Romeo,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1016
+1952,Haas F1 Team,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1016
+1953,Williams,2019,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1016
+1954,Red Bull,2019,Austrian Grand Prix,Red Bull Ring,32,1018
+1955,Ferrari,2019,Austrian Grand Prix,Red Bull Ring,30,1018
+1956,Mercedes,2019,Austrian Grand Prix,Red Bull Ring,25,1018
+1957,McLaren,2019,Austrian Grand Prix,Red Bull Ring,12,1018
+1958,Alfa Romeo,2019,Austrian Grand Prix,Red Bull Ring,3,1018
+1959,Haas F1 Team,2019,Austrian Grand Prix,Red Bull Ring,0,1018
+1960,Williams,2019,Austrian Grand Prix,Red Bull Ring,0,1018
+1961,Mercedes,2019,British Grand Prix,Silverstone Circuit,44,1019
+1962,Ferrari,2019,British Grand Prix,Silverstone Circuit,15,1019
+1963,Red Bull,2019,British Grand Prix,Silverstone Circuit,22,1019
+1964,McLaren,2019,British Grand Prix,Silverstone Circuit,8,1019
+1965,Alfa Romeo,2019,British Grand Prix,Silverstone Circuit,4,1019
+1966,Williams,2019,British Grand Prix,Silverstone Circuit,0,1019
+1967,Haas F1 Team,2019,British Grand Prix,Silverstone Circuit,0,1019
+1968,Mercedes,2019,Hungarian Grand Prix,Hungaroring,29,1021
+1969,Red Bull,2019,Hungarian Grand Prix,Hungaroring,27,1021
+1970,Ferrari,2019,Hungarian Grand Prix,Hungaroring,27,1021
+1971,McLaren,2019,Hungarian Grand Prix,Hungaroring,12,1021
+1972,Alfa Romeo,2019,Hungarian Grand Prix,Hungaroring,6,1021
+1973,Haas F1 Team,2019,Hungarian Grand Prix,Hungaroring,0,1021
+1974,Williams,2019,Hungarian Grand Prix,Hungaroring,0,1021
+1975,Ferrari,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,38,1022
+1976,Mercedes,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,33,1022
+1977,Red Bull,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,1022
+1978,McLaren,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1022
+1979,Haas F1 Team,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1022
+1980,Williams,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1022
+1981,Alfa Romeo,2019,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1022
+1982,Ferrari,2019,Italian Grand Prix,Autodromo Nazionale di Monza,25,1023
+1983,Mercedes,2019,Italian Grand Prix,Autodromo Nazionale di Monza,34,1023
+1984,Red Bull,2019,Italian Grand Prix,Autodromo Nazionale di Monza,12,1023
+1985,Alfa Romeo,2019,Italian Grand Prix,Autodromo Nazionale di Monza,2,1023
+1986,McLaren,2019,Italian Grand Prix,Autodromo Nazionale di Monza,1,1023
+1987,Williams,2019,Italian Grand Prix,Autodromo Nazionale di Monza,0,1023
+1988,Haas F1 Team,2019,Italian Grand Prix,Autodromo Nazionale di Monza,0,1023
+1989,Ferrari,2019,Singapore Grand Prix,Marina Bay Street Circuit,43,1024
+1990,Red Bull,2019,Singapore Grand Prix,Marina Bay Street Circuit,23,1024
+1991,Mercedes,2019,Singapore Grand Prix,Marina Bay Street Circuit,22,1024
+1992,McLaren,2019,Singapore Grand Prix,Marina Bay Street Circuit,6,1024
+1993,Alfa Romeo,2019,Singapore Grand Prix,Marina Bay Street Circuit,1,1024
+1994,Haas F1 Team,2019,Singapore Grand Prix,Marina Bay Street Circuit,0,1024
+1995,Williams,2019,Singapore Grand Prix,Marina Bay Street Circuit,0,1024
+1996,Mercedes,2019,Japanese Grand Prix,Suzuka Circuit,41,1026
+1997,Ferrari,2019,Japanese Grand Prix,Suzuka Circuit,26,1026
+1998,Red Bull,2019,Japanese Grand Prix,Suzuka Circuit,12,1026
+1999,McLaren,2019,Japanese Grand Prix,Suzuka Circuit,10,1026
+2000,Alfa Romeo,2019,Japanese Grand Prix,Suzuka Circuit,0,1026
+2001,Haas F1 Team,2019,Japanese Grand Prix,Suzuka Circuit,0,1026
+2002,Williams,2019,Japanese Grand Prix,Suzuka Circuit,0,1026
+2003,Mercedes,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,40,1027
+2004,Ferrari,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,31,1027
+2005,Red Bull,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,18,1027
+2006,McLaren,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1027
+2007,Alfa Romeo,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1027
+2008,Haas F1 Team,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1027
+2009,Williams,2019,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1027
+2010,Mercedes,2019,United States Grand Prix,Circuit of the Americas,43,1028
+2011,Red Bull,2019,United States Grand Prix,Circuit of the Americas,25,1028
+2012,Ferrari,2019,United States Grand Prix,Circuit of the Americas,13,1028
+2013,McLaren,2019,United States Grand Prix,Circuit of the Americas,10,1028
+2014,Alfa Romeo,2019,United States Grand Prix,Circuit of the Americas,0,1028
+2015,Haas F1 Team,2019,United States Grand Prix,Circuit of the Americas,0,1028
+2016,Williams,2019,United States Grand Prix,Circuit of the Americas,0,1028
+2017,Red Bull,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,25,1029
+2018,McLaren,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,19,1029
+2019,Alfa Romeo,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,22,1029
+2020,Mercedes,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,6,1029
+2021,Haas F1 Team,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1029
+2022,Williams,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1029
+2023,Ferrari,2019,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1029
+2024,Mercedes,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,38,1030
+2025,Red Bull,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,26,1030
+2026,Ferrari,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,25,1030
+2027,McLaren,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,5,1030
+2028,Alfa Romeo,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1030
+2029,Haas F1 Team,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1030
+2030,Williams,2019,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1030
+2031,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,37,1031
+2032,Ferrari,2020,Austrian Grand Prix,Red Bull Ring,19,1031
+2033,McLaren,2020,Austrian Grand Prix,Red Bull Ring,26,1031
+2034,AlphaTauri,2020,Austrian Grand Prix,Red Bull Ring,6,1031
+2035,Alfa Romeo,2020,Austrian Grand Prix,Red Bull Ring,2,1031
+2036,Williams,2020,Austrian Grand Prix,Red Bull Ring,0,1031
+2037,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,0,1031
+2038,Haas F1 Team,2020,Austrian Grand Prix,Red Bull Ring,0,1031
+2039,Mercedes,2020,Austrian Grand Prix,Red Bull Ring,43,1032
+2040,Red Bull,2020,Austrian Grand Prix,Red Bull Ring,27,1032
+2041,McLaren,2020,Austrian Grand Prix,Red Bull Ring,13,1032
+2042,AlphaTauri,2020,Austrian Grand Prix,Red Bull Ring,1,1032
+2043,Alfa Romeo,2020,Austrian Grand Prix,Red Bull Ring,0,1032
+2044,Haas F1 Team,2020,Austrian Grand Prix,Red Bull Ring,0,1032
+2045,Williams,2020,Austrian Grand Prix,Red Bull Ring,0,1032
+2046,Ferrari,2020,Austrian Grand Prix,Red Bull Ring,0,1032
+2047,Mercedes,2020,Hungarian Grand Prix,Hungaroring,41,1033
+2048,Red Bull,2020,Hungarian Grand Prix,Hungaroring,28,1033
+2049,Ferrari,2020,Hungarian Grand Prix,Hungaroring,8,1033
+2050,Haas F1 Team,2020,Hungarian Grand Prix,Hungaroring,1,1033
+2051,McLaren,2020,Hungarian Grand Prix,Hungaroring,2,1033
+2052,AlphaTauri,2020,Hungarian Grand Prix,Hungaroring,0,1033
+2053,Alfa Romeo,2020,Hungarian Grand Prix,Hungaroring,0,1033
+2054,Williams,2020,Hungarian Grand Prix,Hungaroring,0,1033
+2055,Mercedes,2020,British Grand Prix,Silverstone Circuit,25,1034
+2056,Red Bull,2020,British Grand Prix,Silverstone Circuit,23,1034
+2057,Ferrari,2020,British Grand Prix,Silverstone Circuit,16,1034
+2058,McLaren,2020,British Grand Prix,Silverstone Circuit,10,1034
+2059,AlphaTauri,2020,British Grand Prix,Silverstone Circuit,6,1034
+2060,Williams,2020,British Grand Prix,Silverstone Circuit,0,1034
+2061,Alfa Romeo,2020,British Grand Prix,Silverstone Circuit,0,1034
+2062,Haas F1 Team,2020,British Grand Prix,Silverstone Circuit,0,1034
+2063,Red Bull,2020,British Grand Prix,Silverstone Circuit,35,1035
+2064,Mercedes,2020,British Grand Prix,Silverstone Circuit,34,1035
+2065,Ferrari,2020,British Grand Prix,Silverstone Circuit,12,1035
+2066,McLaren,2020,British Grand Prix,Silverstone Circuit,2,1035
+2067,AlphaTauri,2020,British Grand Prix,Silverstone Circuit,1,1035
+2068,Alfa Romeo,2020,British Grand Prix,Silverstone Circuit,0,1035
+2069,Haas F1 Team,2020,British Grand Prix,Silverstone Circuit,0,1035
+2070,Williams,2020,British Grand Prix,Silverstone Circuit,0,1035
+2071,Mercedes,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,41,1036
+2072,Red Bull,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,22,1036
+2073,McLaren,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,9,1036
+2074,Ferrari,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,6,1036
+2075,AlphaTauri,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,1036
+2076,Alfa Romeo,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1036
+2077,Haas F1 Team,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1036
+2078,Williams,2020,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1036
+2079,Mercedes,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,43,1037
+2080,Red Bull,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,23,1037
+2081,McLaren,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,1037
+2082,AlphaTauri,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,1037
+2083,Alfa Romeo,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1037
+2084,Ferrari,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1037
+2085,Haas F1 Team,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1037
+2086,Williams,2020,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1037
+2087,AlphaTauri,2020,Italian Grand Prix,Autodromo Nazionale di Monza,27,1038
+2088,McLaren,2020,Italian Grand Prix,Autodromo Nazionale di Monza,30,1038
+2089,Mercedes,2020,Italian Grand Prix,Autodromo Nazionale di Monza,17,1038
+2090,Williams,2020,Italian Grand Prix,Autodromo Nazionale di Monza,0,1038
+2091,Haas F1 Team,2020,Italian Grand Prix,Autodromo Nazionale di Monza,0,1038
+2092,Alfa Romeo,2020,Italian Grand Prix,Autodromo Nazionale di Monza,0,1038
+2093,Red Bull,2020,Italian Grand Prix,Autodromo Nazionale di Monza,0,1038
+2094,Ferrari,2020,Italian Grand Prix,Autodromo Nazionale di Monza,0,1038
+2095,Mercedes,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,44,1043
+2096,AlphaTauri,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,12,1043
+2097,Ferrari,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,1043
+2098,McLaren,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,1043
+2099,Alfa Romeo,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,1043
+2100,Williams,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1043
+2101,Haas F1 Team,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1043
+2102,Red Bull,2020,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1043
+2103,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,29,1045
+2104,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,34,1045
+2105,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,22,1045
+2106,AlphaTauri,2020,Bahrain Grand Prix,Bahrain International Circuit,8,1045
+2107,Ferrari,2020,Bahrain Grand Prix,Bahrain International Circuit,1,1045
+2108,Williams,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1045
+2109,Alfa Romeo,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1045
+2110,Haas F1 Team,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1045
+2111,McLaren,2020,Bahrain Grand Prix,Bahrain International Circuit,13,1046
+2112,Red Bull,2020,Bahrain Grand Prix,Bahrain International Circuit,8,1046
+2113,AlphaTauri,2020,Bahrain Grand Prix,Bahrain International Circuit,6,1046
+2114,Mercedes,2020,Bahrain Grand Prix,Bahrain International Circuit,7,1046
+2115,Ferrari,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1046
+2116,Alfa Romeo,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1046
+2117,Haas F1 Team,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1046
+2118,Williams,2020,Bahrain Grand Prix,Bahrain International Circuit,0,1046
+2119,Red Bull,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,37,1047
+2120,Mercedes,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,33,1047
+2121,McLaren,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,18,1047
+2122,AlphaTauri,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,4,1047
+2123,Alfa Romeo,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1047
+2124,Ferrari,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1047
+2125,Williams,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1047
+2126,Haas F1 Team,2020,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1047
+2127,Mercedes,2021,Bahrain Grand Prix,Bahrain International Circuit,41,1052
+2128,Red Bull,2021,Bahrain Grand Prix,Bahrain International Circuit,28,1052
+2129,McLaren,2021,Bahrain Grand Prix,Bahrain International Circuit,18,1052
+2130,Ferrari,2021,Bahrain Grand Prix,Bahrain International Circuit,12,1052
+2131,AlphaTauri,2021,Bahrain Grand Prix,Bahrain International Circuit,2,1052
+2132,Aston Martin,2021,Bahrain Grand Prix,Bahrain International Circuit,1,1052
+2133,Alfa Romeo,2021,Bahrain Grand Prix,Bahrain International Circuit,0,1052
+2134,Alpine F1 Team,2021,Bahrain Grand Prix,Bahrain International Circuit,0,1052
+2135,Williams,2021,Bahrain Grand Prix,Bahrain International Circuit,0,1052
+2136,Haas F1 Team,2021,Bahrain Grand Prix,Bahrain International Circuit,0,1052
+2137,Red Bull,2021,Qatar Grand Prix,Losail International Circuit,25,1053
+2138,Mercedes,2021,Qatar Grand Prix,Losail International Circuit,19,1053
+2139,McLaren,2021,Qatar Grand Prix,Losail International Circuit,23,1053
+2140,Ferrari,2021,Qatar Grand Prix,Losail International Circuit,22,1053
+2141,Aston Martin,2021,Qatar Grand Prix,Losail International Circuit,4,1053
+2142,AlphaTauri,2021,Qatar Grand Prix,Losail International Circuit,6,1053
+2143,Alfa Romeo,2021,Qatar Grand Prix,Losail International Circuit,0,1053
+2144,Alpine F1 Team,2021,Qatar Grand Prix,Losail International Circuit,3,1053
+2145,Haas F1 Team,2021,Qatar Grand Prix,Losail International Circuit,0,1053
+2146,Williams,2021,Qatar Grand Prix,Losail International Circuit,0,1053
+2147,Mercedes,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,40,1055
+2148,Red Bull,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,29,1055
+2149,Ferrari,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,18,1055
+2150,McLaren,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,12,1055
+2151,Alpine F1 Team,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2,1055
+2152,AlphaTauri,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,1055
+2153,Aston Martin,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1055
+2154,Alfa Romeo,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1055
+2155,Williams,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1055
+2156,Haas F1 Team,2021,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1055
+2157,Ferrari,2021,Monaco Grand Prix,Circuit de Monaco,18,1056
+2158,Red Bull,2021,Monaco Grand Prix,Circuit de Monaco,37,1056
+2159,McLaren,2021,Monaco Grand Prix,Circuit de Monaco,15,1056
+2160,Aston Martin,2021,Monaco Grand Prix,Circuit de Monaco,14,1056
+2161,AlphaTauri,2021,Monaco Grand Prix,Circuit de Monaco,8,1056
+2162,Mercedes,2021,Monaco Grand Prix,Circuit de Monaco,7,1056
+2163,Alpine F1 Team,2021,Monaco Grand Prix,Circuit de Monaco,2,1056
+2164,Alfa Romeo,2021,Monaco Grand Prix,Circuit de Monaco,1,1056
+2165,Williams,2021,Monaco Grand Prix,Circuit de Monaco,0,1056
+2166,Haas F1 Team,2021,Monaco Grand Prix,Circuit de Monaco,0,1056
+2167,Red Bull,2021,Azerbaijan Grand Prix,Baku City Circuit,25,1057
+2168,Aston Martin,2021,Azerbaijan Grand Prix,Baku City Circuit,18,1057
+2169,AlphaTauri,2021,Azerbaijan Grand Prix,Baku City Circuit,21,1057
+2170,Ferrari,2021,Azerbaijan Grand Prix,Baku City Circuit,16,1057
+2171,McLaren,2021,Azerbaijan Grand Prix,Baku City Circuit,12,1057
+2172,Alpine F1 Team,2021,Azerbaijan Grand Prix,Baku City Circuit,8,1057
+2173,Alfa Romeo,2021,Azerbaijan Grand Prix,Baku City Circuit,1,1057
+2174,Mercedes,2021,Azerbaijan Grand Prix,Baku City Circuit,0,1057
+2175,Haas F1 Team,2021,Azerbaijan Grand Prix,Baku City Circuit,0,1057
+2176,Williams,2021,Azerbaijan Grand Prix,Baku City Circuit,0,1057
+2177,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,37,1058
+2178,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,34,1058
+2179,McLaren,2021,Austrian Grand Prix,Red Bull Ring,10,1058
+2180,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,14,1058
+2181,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,4,1058
+2182,Alpine F1 Team,2021,Austrian Grand Prix,Red Bull Ring,2,1058
+2183,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,1,1058
+2184,Alfa Romeo,2021,Austrian Grand Prix,Red Bull Ring,0,1058
+2185,Haas F1 Team,2021,Austrian Grand Prix,Red Bull Ring,0,1058
+2186,Williams,2021,Austrian Grand Prix,Red Bull Ring,0,1058
+2187,Red Bull,2021,Austrian Grand Prix,Red Bull Ring,34,1060
+2188,Mercedes,2021,Austrian Grand Prix,Red Bull Ring,30,1060
+2189,McLaren,2021,Austrian Grand Prix,Red Bull Ring,21,1060
+2190,Ferrari,2021,Austrian Grand Prix,Red Bull Ring,14,1060
+2191,AlphaTauri,2021,Austrian Grand Prix,Red Bull Ring,2,1060
+2192,Alpine F1 Team,2021,Austrian Grand Prix,Red Bull Ring,1,1060
+2193,Williams,2021,Austrian Grand Prix,Red Bull Ring,0,1060
+2194,Aston Martin,2021,Austrian Grand Prix,Red Bull Ring,0,1060
+2195,Alfa Romeo,2021,Austrian Grand Prix,Red Bull Ring,0,1060
+2196,Haas F1 Team,2021,Austrian Grand Prix,Red Bull Ring,0,1060
+2197,Mercedes,2021,British Grand Prix,Silverstone Circuit,43,1061
+2198,Ferrari,2021,British Grand Prix,Silverstone Circuit,26,1061
+2199,McLaren,2021,British Grand Prix,Silverstone Circuit,22,1061
+2200,Alpine F1 Team,2021,British Grand Prix,Silverstone Circuit,8,1061
+2201,Aston Martin,2021,British Grand Prix,Silverstone Circuit,4,1061
+2202,AlphaTauri,2021,British Grand Prix,Silverstone Circuit,1,1061
+2203,Williams,2021,British Grand Prix,Silverstone Circuit,0,1061
+2204,Alfa Romeo,2021,British Grand Prix,Silverstone Circuit,0,1061
+2205,Red Bull,2021,British Grand Prix,Silverstone Circuit,3,1061
+2206,Haas F1 Team,2021,British Grand Prix,Silverstone Circuit,0,1061
+2207,Alpine F1 Team,2021,Hungarian Grand Prix,Hungaroring,37,1062
+2208,Aston Martin,2021,Hungarian Grand Prix,Hungaroring,0,1062
+2209,Mercedes,2021,Hungarian Grand Prix,Hungaroring,18,1062
+2210,Ferrari,2021,Hungarian Grand Prix,Hungaroring,15,1062
+2211,AlphaTauri,2021,Hungarian Grand Prix,Hungaroring,19,1062
+2212,Williams,2021,Hungarian Grand Prix,Hungaroring,10,1062
+2213,Red Bull,2021,Hungarian Grand Prix,Hungaroring,2,1062
+2214,Alfa Romeo,2021,Hungarian Grand Prix,Hungaroring,1,1062
+2215,McLaren,2021,Hungarian Grand Prix,Hungaroring,0,1062
+2216,Haas F1 Team,2021,Hungarian Grand Prix,Hungaroring,0,1062
+2217,Red Bull,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,12.5,1063
+2218,Williams,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,10,1063
+2219,Mercedes,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,7.5,1063
+2220,McLaren,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,6,1063
+2221,Aston Martin,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,5,1063
+2222,AlphaTauri,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,1063
+2223,Alpine F1 Team,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,3,1063
+2224,Ferrari,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,2.5,1063
+2225,Alfa Romeo,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1063
+2226,Haas F1 Team,2021,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1063
+2227,Red Bull,2021,Dutch Grand Prix,Circuit Park Zandvoort,29,1064
+2228,Mercedes,2021,Dutch Grand Prix,Circuit Park Zandvoort,34,1064
+2229,AlphaTauri,2021,Dutch Grand Prix,Circuit Park Zandvoort,12,1064
+2230,Ferrari,2021,Dutch Grand Prix,Circuit Park Zandvoort,16,1064
+2231,Alpine F1 Team,2021,Dutch Grand Prix,Circuit Park Zandvoort,10,1064
+2232,McLaren,2021,Dutch Grand Prix,Circuit Park Zandvoort,1,1064
+2233,Aston Martin,2021,Dutch Grand Prix,Circuit Park Zandvoort,0,1064
+2234,Alfa Romeo,2021,Dutch Grand Prix,Circuit Park Zandvoort,0,1064
+2235,Williams,2021,Dutch Grand Prix,Circuit Park Zandvoort,0,1064
+2236,Haas F1 Team,2021,Dutch Grand Prix,Circuit Park Zandvoort,0,1064
+2237,McLaren,2021,Italian Grand Prix,Autodromo Nazionale di Monza,45,1065
+2238,Mercedes,2021,Italian Grand Prix,Autodromo Nazionale di Monza,18,1065
+2239,Ferrari,2021,Italian Grand Prix,Autodromo Nazionale di Monza,20,1065
+2240,Red Bull,2021,Italian Grand Prix,Autodromo Nazionale di Monza,12,1065
+2241,Aston Martin,2021,Italian Grand Prix,Autodromo Nazionale di Monza,6,1065
+2242,Alpine F1 Team,2021,Italian Grand Prix,Autodromo Nazionale di Monza,5,1065
+2243,Williams,2021,Italian Grand Prix,Autodromo Nazionale di Monza,2,1065
+2244,Alfa Romeo,2021,Italian Grand Prix,Autodromo Nazionale di Monza,0,1065
+2245,Haas F1 Team,2021,Italian Grand Prix,Autodromo Nazionale di Monza,0,1065
+2246,AlphaTauri,2021,Italian Grand Prix,Autodromo Nazionale di Monza,0,1065
+2247,Red Bull,2021,United States Grand Prix,Circuit of the Americas,40,1069
+2248,Mercedes,2021,United States Grand Prix,Circuit of the Americas,27,1069
+2249,Ferrari,2021,United States Grand Prix,Circuit of the Americas,18,1069
+2250,McLaren,2021,United States Grand Prix,Circuit of the Americas,14,1069
+2251,AlphaTauri,2021,United States Grand Prix,Circuit of the Americas,2,1069
+2252,Aston Martin,2021,United States Grand Prix,Circuit of the Americas,1,1069
+2253,Alfa Romeo,2021,United States Grand Prix,Circuit of the Americas,0,1069
+2254,Williams,2021,United States Grand Prix,Circuit of the Americas,0,1069
+2255,Haas F1 Team,2021,United States Grand Prix,Circuit of the Americas,0,1069
+2256,Alpine F1 Team,2021,United States Grand Prix,Circuit of the Americas,0,1069
+2257,Red Bull,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,40,1070
+2258,Mercedes,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,18,1070
+2259,AlphaTauri,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,12,1070
+2260,Ferrari,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,18,1070
+2261,Aston Martin,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,6,1070
+2262,Alfa Romeo,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,1070
+2263,Alpine F1 Team,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2,1070
+2264,McLaren,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,1070
+2265,Williams,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1070
+2266,Haas F1 Team,2021,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1070
+2267,Mercedes,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,43,1071
+2268,Red Bull,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,33,1071
+2269,Ferrari,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,19,1071
+2270,AlphaTauri,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,6,1071
+2271,Alpine F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,6,1071
+2272,McLaren,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,1,1071
+2273,Aston Martin,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1071
+2274,Alfa Romeo,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1071
+2275,Williams,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1071
+2276,Haas F1 Team,2021,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1071
+2277,Mercedes,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,25,1051
+2278,Red Bull,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,31,1051
+2279,Alpine F1 Team,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,25,1051
+2280,Aston Martin,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,9,1051
+2281,Ferrari,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,10,1051
+2282,McLaren,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2,1051
+2283,AlphaTauri,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1051
+2284,Alfa Romeo,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1051
+2285,Haas F1 Team,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1051
+2286,Williams,2021,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1051
+2287,Mercedes,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,41,1072
+2288,Red Bull,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,18,1072
+2289,Alpine F1 Team,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,12,1072
+2290,McLaren,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,11,1072
+2291,AlphaTauri,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,8,1072
+2292,Ferrari,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,10,1072
+2293,Alfa Romeo,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2,1072
+2294,Aston Martin,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1072
+2295,Williams,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1072
+2296,Haas F1 Team,2021,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1072
+2297,Red Bull,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,26,1073
+2298,Mercedes,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,26,1073
+2299,Ferrari,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,16,1073
+2300,AlphaTauri,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,22,1073
+2301,McLaren,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,6,1073
+2302,Alpine F1 Team,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,6,1073
+2303,Aston Martin,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1073
+2304,Haas F1 Team,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1073
+2305,Williams,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1073
+2306,Alfa Romeo,2021,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1073
+2307,Ferrari,2022,Bahrain Grand Prix,Bahrain International Circuit,44,1074
+2308,Mercedes,2022,Bahrain Grand Prix,Bahrain International Circuit,27,1074
+2309,Haas F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,10,1074
+2310,Alfa Romeo,2022,Bahrain Grand Prix,Bahrain International Circuit,9,1074
+2311,Alpine F1 Team,2022,Bahrain Grand Prix,Bahrain International Circuit,8,1074
+2312,AlphaTauri,2022,Bahrain Grand Prix,Bahrain International Circuit,4,1074
+2313,Aston Martin,2022,Bahrain Grand Prix,Bahrain International Circuit,0,1074
+2314,Williams,2022,Bahrain Grand Prix,Bahrain International Circuit,0,1074
+2315,McLaren,2022,Bahrain Grand Prix,Bahrain International Circuit,0,1074
+2316,Red Bull,2022,Bahrain Grand Prix,Bahrain International Circuit,0,1074
+2317,Red Bull,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,37,1075
+2318,Ferrari,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,34,1075
+2319,Mercedes,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,11,1075
+2320,Alpine F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,8,1075
+2321,McLaren,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,6,1075
+2322,AlphaTauri,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,4,1075
+2323,Haas F1 Team,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2,1075
+2324,Alfa Romeo,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1075
+2325,Aston Martin,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1075
+2326,Williams,2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,0,1075
+2327,Ferrari,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,26,1076
+2328,Red Bull,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,18,1076
+2329,Mercedes,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,27,1076
+2330,McLaren,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,18,1076
+2331,Alpine F1 Team,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,6,1076
+2332,Alfa Romeo,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,4,1076
+2333,AlphaTauri,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,2,1076
+2334,Williams,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,1,1076
+2335,Aston Martin,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1076
+2336,Haas F1 Team,2022,Australian Grand Prix,Albert Park Grand Prix Circuit,0,1076
+2337,Red Bull,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,58,1077
+2338,McLaren,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,22,1077
+2339,Mercedes,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,12,1077
+2340,Alfa Romeo,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,12,1077
+2341,Ferrari,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,20,1077
+2342,AlphaTauri,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,6,1077
+2343,Aston Martin,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,5,1077
+2344,Haas F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,3,1077
+2345,Williams,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1077
+2346,Alpine F1 Team,2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,0,1077
+2347,Red Bull,2022,Miami Grand Prix,Miami International Autodrome,38,1078
+2348,Ferrari,2022,Miami Grand Prix,Miami International Autodrome,33,1078
+2349,Mercedes,2022,Miami Grand Prix,Miami International Autodrome,18,1078
+2350,Alfa Romeo,2022,Miami Grand Prix,Miami International Autodrome,6,1078
+2351,Alpine F1 Team,2022,Miami Grand Prix,Miami International Autodrome,4,1078
+2352,Williams,2022,Miami Grand Prix,Miami International Autodrome,2,1078
+2353,Aston Martin,2022,Miami Grand Prix,Miami International Autodrome,1,1078
+2354,AlphaTauri,2022,Miami Grand Prix,Miami International Autodrome,0,1078
+2355,McLaren,2022,Miami Grand Prix,Miami International Autodrome,0,1078
+2356,Haas F1 Team,2022,Miami Grand Prix,Miami International Autodrome,0,1078
+2357,Red Bull,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,44,1079
+2358,Mercedes,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,25,1079
+2359,Ferrari,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,12,1079
+2360,Alfa Romeo,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,1079
+2361,Alpine F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,8,1079
+2362,McLaren,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4,1079
+2363,AlphaTauri,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,1,1079
+2364,Aston Martin,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1079
+2365,Haas F1 Team,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1079
+2366,Williams,2022,Spanish Grand Prix,Circuit de Barcelona-Catalunya,0,1079
+2367,Red Bull,2022,Monaco Grand Prix,Circuit de Monaco,40,1080
+2368,Ferrari,2022,Monaco Grand Prix,Circuit de Monaco,30,1080
+2369,Mercedes,2022,Monaco Grand Prix,Circuit de Monaco,14,1080
+2370,McLaren,2022,Monaco Grand Prix,Circuit de Monaco,9,1080
+2371,Alpine F1 Team,2022,Monaco Grand Prix,Circuit de Monaco,6,1080
+2372,Alfa Romeo,2022,Monaco Grand Prix,Circuit de Monaco,2,1080
+2373,Aston Martin,2022,Monaco Grand Prix,Circuit de Monaco,1,1080
+2374,AlphaTauri,2022,Monaco Grand Prix,Circuit de Monaco,0,1080
+2375,Williams,2022,Monaco Grand Prix,Circuit de Monaco,0,1080
+2376,Haas F1 Team,2022,Monaco Grand Prix,Circuit de Monaco,0,1080
+2377,Red Bull,2022,Azerbaijan Grand Prix,Baku City Circuit,44,1081
+2378,Mercedes,2022,Azerbaijan Grand Prix,Baku City Circuit,27,1081
+2379,AlphaTauri,2022,Azerbaijan Grand Prix,Baku City Circuit,10,1081
+2380,Aston Martin,2022,Azerbaijan Grand Prix,Baku City Circuit,8,1081
+2381,Alpine F1 Team,2022,Azerbaijan Grand Prix,Baku City Circuit,7,1081
+2382,McLaren,2022,Azerbaijan Grand Prix,Baku City Circuit,6,1081
+2383,Alfa Romeo,2022,Azerbaijan Grand Prix,Baku City Circuit,0,1081
+2384,Williams,2022,Azerbaijan Grand Prix,Baku City Circuit,0,1081
+2385,Haas F1 Team,2022,Azerbaijan Grand Prix,Baku City Circuit,0,1081
+2386,Ferrari,2022,Azerbaijan Grand Prix,Baku City Circuit,0,1081
+2387,Red Bull,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,25,1082
+2388,Ferrari,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,29,1082
+2389,Mercedes,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,27,1082
+2390,Alpine F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,10,1082
+2391,Alfa Romeo,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,10,1082
+2392,Aston Martin,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,1,1082
+2393,McLaren,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1082
+2394,Williams,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1082
+2395,AlphaTauri,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1082
+2396,Haas F1 Team,2022,Canadian Grand Prix,Circuit Gilles Villeneuve,0,1082
+2397,Ferrari,2022,British Grand Prix,Silverstone Circuit,37,1083
+2398,Red Bull,2022,British Grand Prix,Silverstone Circuit,24,1083
+2399,Mercedes,2022,British Grand Prix,Silverstone Circuit,16,1083
+2400,Alpine F1 Team,2022,British Grand Prix,Silverstone Circuit,10,1083
+2401,McLaren,2022,British Grand Prix,Silverstone Circuit,8,1083
+2402,Haas F1 Team,2022,British Grand Prix,Silverstone Circuit,5,1083
+2403,Aston Martin,2022,British Grand Prix,Silverstone Circuit,2,1083
+2404,Williams,2022,British Grand Prix,Silverstone Circuit,0,1083
+2405,AlphaTauri,2022,British Grand Prix,Silverstone Circuit,0,1083
+2406,Alfa Romeo,2022,British Grand Prix,Silverstone Circuit,0,1083
+2407,Ferrari,2022,Austrian Grand Prix,Red Bull Ring,38,1084
+2408,Red Bull,2022,Austrian Grand Prix,Red Bull Ring,31,1084
+2409,Mercedes,2022,Austrian Grand Prix,Red Bull Ring,33,1084
+2410,Alpine F1 Team,2022,Austrian Grand Prix,Red Bull Ring,14,1084
+2411,Haas F1 Team,2022,Austrian Grand Prix,Red Bull Ring,14,1084
+2412,McLaren,2022,Austrian Grand Prix,Red Bull Ring,8,1084
+2413,Alfa Romeo,2022,Austrian Grand Prix,Red Bull Ring,0,1084
+2414,Williams,2022,Austrian Grand Prix,Red Bull Ring,0,1084
+2415,Aston Martin,2022,Austrian Grand Prix,Red Bull Ring,0,1084
+2416,AlphaTauri,2022,Austrian Grand Prix,Red Bull Ring,0,1084
+2417,Red Bull,2022,Hungarian Grand Prix,Hungaroring,35,1086
+2418,Mercedes,2022,Hungarian Grand Prix,Hungaroring,34,1086
+2419,Ferrari,2022,Hungarian Grand Prix,Hungaroring,20,1086
+2420,McLaren,2022,Hungarian Grand Prix,Hungaroring,6,1086
+2421,Alpine F1 Team,2022,Hungarian Grand Prix,Hungaroring,6,1086
+2422,Aston Martin,2022,Hungarian Grand Prix,Hungaroring,1,1086
+2423,AlphaTauri,2022,Hungarian Grand Prix,Hungaroring,0,1086
+2424,Alfa Romeo,2022,Hungarian Grand Prix,Hungaroring,0,1086
+2425,Haas F1 Team,2022,Hungarian Grand Prix,Hungaroring,0,1086
+2426,Williams,2022,Hungarian Grand Prix,Hungaroring,0,1086
+2427,Red Bull,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,44,1087
+2428,Ferrari,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,23,1087
+2429,Mercedes,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,12,1087
+2430,Alpine F1 Team,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,16,1087
+2431,Aston Martin,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,4,1087
+2432,AlphaTauri,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,2,1087
+2433,Williams,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,1,1087
+2434,McLaren,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1087
+2435,Alfa Romeo,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1087
+2436,Haas F1 Team,2022,Belgian Grand Prix,Circuit de Spa-Francorchamps,0,1087
+2437,Red Bull,2022,Dutch Grand Prix,Circuit Park Zandvoort,36,1088
+2438,Mercedes,2022,Dutch Grand Prix,Circuit Park Zandvoort,30,1088
+2439,Ferrari,2022,Dutch Grand Prix,Circuit Park Zandvoort,19,1088
+2440,Alpine F1 Team,2022,Dutch Grand Prix,Circuit Park Zandvoort,10,1088
+2441,McLaren,2022,Dutch Grand Prix,Circuit Park Zandvoort,6,1088
+2442,Aston Martin,2022,Dutch Grand Prix,Circuit Park Zandvoort,1,1088
+2443,AlphaTauri,2022,Dutch Grand Prix,Circuit Park Zandvoort,0,1088
+2444,Williams,2022,Dutch Grand Prix,Circuit Park Zandvoort,0,1088
+2445,Haas F1 Team,2022,Dutch Grand Prix,Circuit Park Zandvoort,0,1088
+2446,Alfa Romeo,2022,Dutch Grand Prix,Circuit Park Zandvoort,0,1088
+2447,Red Bull,2022,Italian Grand Prix,Autodromo Nazionale di Monza,34,1089
+2448,Ferrari,2022,Italian Grand Prix,Autodromo Nazionale di Monza,30,1089
+2449,Mercedes,2022,Italian Grand Prix,Autodromo Nazionale di Monza,25,1089
+2450,McLaren,2022,Italian Grand Prix,Autodromo Nazionale di Monza,6,1089
+2451,AlphaTauri,2022,Italian Grand Prix,Autodromo Nazionale di Monza,4,1089
+2452,Williams,2022,Italian Grand Prix,Autodromo Nazionale di Monza,2,1089
+2453,Alfa Romeo,2022,Italian Grand Prix,Autodromo Nazionale di Monza,1,1089
+2454,Alpine F1 Team,2022,Italian Grand Prix,Autodromo Nazionale di Monza,0,1089
+2455,Haas F1 Team,2022,Italian Grand Prix,Autodromo Nazionale di Monza,0,1089
+2456,Aston Martin,2022,Italian Grand Prix,Autodromo Nazionale di Monza,0,1089
+2457,Red Bull,2022,Singapore Grand Prix,Marina Bay Street Circuit,31,1091
+2458,Ferrari,2022,Singapore Grand Prix,Marina Bay Street Circuit,33,1091
+2459,McLaren,2022,Singapore Grand Prix,Marina Bay Street Circuit,22,1091
+2460,Aston Martin,2022,Singapore Grand Prix,Marina Bay Street Circuit,12,1091
+2461,Mercedes,2022,Singapore Grand Prix,Marina Bay Street Circuit,2,1091
+2462,AlphaTauri,2022,Singapore Grand Prix,Marina Bay Street Circuit,1,1091
+2463,Alfa Romeo,2022,Singapore Grand Prix,Marina Bay Street Circuit,0,1091
+2464,Haas F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,0,1091
+2465,Alpine F1 Team,2022,Singapore Grand Prix,Marina Bay Street Circuit,0,1091
+2466,Williams,2022,Singapore Grand Prix,Marina Bay Street Circuit,0,1091
+2467,Red Bull,2022,Japanese Grand Prix,Suzuka Circuit,43,1092
+2468,Ferrari,2022,Japanese Grand Prix,Suzuka Circuit,15,1092
+2469,Alpine F1 Team,2022,Japanese Grand Prix,Suzuka Circuit,18,1092
+2470,Mercedes,2022,Japanese Grand Prix,Suzuka Circuit,14,1092
+2471,Aston Martin,2022,Japanese Grand Prix,Suzuka Circuit,8,1092
+2472,Williams,2022,Japanese Grand Prix,Suzuka Circuit,2,1092
+2473,McLaren,2022,Japanese Grand Prix,Suzuka Circuit,1,1092
+2474,AlphaTauri,2022,Japanese Grand Prix,Suzuka Circuit,0,1092
+2475,Haas F1 Team,2022,Japanese Grand Prix,Suzuka Circuit,0,1092
+2476,Alfa Romeo,2022,Japanese Grand Prix,Suzuka Circuit,0,1092
+2477,Red Bull,2022,United States Grand Prix,Circuit of the Americas,37,1093
+2478,Mercedes,2022,United States Grand Prix,Circuit of the Americas,29,1093
+2479,Ferrari,2022,United States Grand Prix,Circuit of the Americas,15,1093
+2480,McLaren,2022,United States Grand Prix,Circuit of the Americas,8,1093
+2481,Aston Martin,2022,United States Grand Prix,Circuit of the Americas,4,1093
+2482,Haas F1 Team,2022,United States Grand Prix,Circuit of the Americas,2,1093
+2483,AlphaTauri,2022,United States Grand Prix,Circuit of the Americas,1,1093
+2484,Alpine F1 Team,2022,United States Grand Prix,Circuit of the Americas,6,1093
+2485,Alfa Romeo,2022,United States Grand Prix,Circuit of the Americas,0,1093
+2486,Williams,2022,United States Grand Prix,Circuit of the Americas,0,1093
+2487,Red Bull,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,40,1094
+2488,Mercedes,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,31,1094
+2489,Ferrari,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,18,1094
+2490,McLaren,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,8,1094
+2491,Alpine F1 Team,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,4,1094
+2492,Alfa Romeo,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,1,1094
+2493,AlphaTauri,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1094
+2494,Williams,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1094
+2495,Aston Martin,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1094
+2496,Haas F1 Team,2022,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,0,1094
+2497,Mercedes,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,58,1095
+2498,Ferrari,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,37,1095
+2499,Alpine F1 Team,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,14,1095
+2500,Red Bull,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,23,1095
+2501,Alfa Romeo,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,2,1095
+2502,Aston Martin,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,1,1095
+2503,Haas F1 Team,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,1,1095
+2504,AlphaTauri,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1095
+2505,Williams,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,0,1095
+2506,McLaren,2022,São Paulo Grand Prix,Autódromo José Carlos Pace,2,1095
+2507,Red Bull,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,40,1096
+2508,Ferrari,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,30,1096
+2509,Mercedes,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,10,1096
+2510,McLaren,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,11,1096
+2511,Alpine F1 Team,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,6,1096
+2512,Aston Martin,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,5,1096
+2513,AlphaTauri,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1096
+2514,Alfa Romeo,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1096
+2515,Williams,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1096
+2516,Haas F1 Team,2022,Abu Dhabi Grand Prix,Yas Marina Circuit,0,1096
