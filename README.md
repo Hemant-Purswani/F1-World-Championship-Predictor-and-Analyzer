@@ -16,4 +16,4 @@ This is a machine learning project that aims to predict the outcome of the F1 wo
 
 
 
-Please give it a start if you like it.
+
