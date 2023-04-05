@@ -13,3 +13,7 @@ This is a machine learning project that aims to predict the outcome of the F1 wo
 `Notebooks`: This directory contains the ipynb files files.
 
 `README.md`: This file contains the project's overview and instructions on how to use it.
+
+
+
+Please give it a start if you like it.
